@@ -1,0 +1,319 @@
+<header><meta name="title" content="Manage installed plugins and scripts | Substance 3D Sampler"><meta name="description" content="Sampler > Scripting and Development > Manage installed plugins and scripts"></header><body><div class="dexter-Position is-Editor-false" daa-im="true" daa-lh="Helpx In-article Navigation" data-animations="[]" id="root_content_flex_items_position" role="">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="text first-heading aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<h1 id="mainpagetitle">Manage installed plugins and scripts</h1>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p>To install, modify, or remove plugins use Edit &gt; Preferences, and then select Plugins and Scripts.</p>
+</div>
+</div>
+<div class="flex aem-GridColumn aem-GridColumn--default--12">
+<style>
+    
+    
+    
+    
+    
+        #root_content_flex_items_position_position-par_dynamic_grid > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+</style>
+<div class="dexter-FlexContainer" id="root_content_flex_items_position_position-par_dynamic_grid" role="">
+<div class="dexter-FlexContainer-Items dexter-FlexContainer--mobileJustifyStretch dexter-FlexContainer--mobileAlignAlignmentStretch dexter-FlexContainer--mobileAlignContentStretch dexter-FlexContainer--mobileAlignItemContentStart">
+<div class="position">
+<style>
+</style>
+<div class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-right-4 mobile-padding-left-4 is-Editor-false" data-animations="[]" id="root_content_flex_items_position_position-par_dynamic_grid_items_grid-cell" role="">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12">
+<div class="image-wrapper">
+<div>
+<div class="dexter-Image dexter-Image-left">
+<style>
+        
+    
+        #root_content_flex_items_position_position-par_dynamic_grid_items_grid-cell_position-par_image { width:auto; }
+    
+    
+        @media (min-width: 600px) {
+            #root_content_flex_items_position_position-par_dynamic_grid_items_grid-cell_position-par_image { width:auto; }
+        }
+    
+    
+        @media (min-width: 1200px) {
+            #root_content_flex_items_position_position-par_dynamic_grid_items_grid-cell_position-par_image { width:auto; }
+        }
+    
+
+    </style>
+<picture>
+<source media="(min-width: 1200px)" srcset="https://helpx-prod.scene7.com/is/image/HelpxProd/preferences-86?$png$&amp;jpegSize=200&amp;wid=726"/>
+<source media="(min-width: 600px)" srcset="https://helpx-prod.scene7.com/is/image/HelpxProd/preferences-86?$png$&amp;jpegSize=200&amp;wid=726"/>
+<source media="(max-width: 599px)" srcset="https://helpx-prod.scene7.com/is/image/HelpxProd/preferences-86?$png$&amp;jpegSize=100&amp;wid=599"/>
+<img class="" id="root_content_flex_items_position_position-par_dynamic_grid_items_grid-cell_position-par_image" src="preferences-86.png"/>
+</picture>
+</div>
+</div>
+<p class="callouts">
+</p>
+</div>
+<!-- Modal -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p>From the Plugins and Scripts panel you can enable the Log panel which displays output from plugins. This can be useful for troubleshooting and debugging. Once enabled, you can open the Log panel from the right bar in Sampler's main interface. The Log panel can be docked just like other Sampler panels.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<h2 id="Manageinstalledpluginsandscripts-PluginsversusScripts">Plugins versus Scripts</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p>The primary difference between plugins and scripts is that plugins include UI elements where scripts do not. Plugins require at least a PY and a QML file. The QML file defines the UI elements, while the PY file defines the behavior of the plugin. Scripts, on the other hand, only consist of a PY file. </p><p>The UI elements of a plugin mean that the behavior of the plugin can be modified through the use of parameters. For example, the example autosave plugin has controls that allow to modify the time between autosaves. Plugins become part of the Sampler interface and can be docked and moved around like standard Sampler panels.</p><p>Scripts don't allow for this level of flexibility but instead perform a given task. For example, the Export all script will always behave the same way whenever it is called. Scripts can be accessed from the top menu bar - the Script menu only becomes available once scripts have been added to Sampler.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<h2 id="Manageinstalledpluginsandscripts-Manageplugins">Manage plugins</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p>By default, the only available option is to "Add a plugin". This opens a file explorer where you can select a PY file to load.</p>
+</div>
+</div>
+<div class="flex aem-GridColumn aem-GridColumn--default--12">
+<style>
+    
+    
+    
+    
+    
+        #root_content_flex_items_position_position-par_dynamic_grid1 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+</style>
+<div class="dexter-FlexContainer" id="root_content_flex_items_position_position-par_dynamic_grid1" role="">
+<div class="dexter-FlexContainer-Items dexter-FlexContainer--mobileJustifyStretch dexter-FlexContainer--mobileAlignAlignmentStretch dexter-FlexContainer--mobileAlignContentStretch dexter-FlexContainer--mobileAlignItemContentStart">
+<div class="position">
+<style>
+</style>
+<div class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-right-4 mobile-padding-left-4 is-Editor-false" data-animations="[]" id="root_content_flex_items_position_position-par_dynamic_grid1_items_grid-cell" role="">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12">
+<div class="image-wrapper">
+<div>
+<div class="dexter-Image dexter-Image-left">
+<style>
+        
+    
+        #root_content_flex_items_position_position-par_dynamic_grid1_items_grid-cell_position-par_image { width:auto; }
+    
+    
+        @media (min-width: 600px) {
+            #root_content_flex_items_position_position-par_dynamic_grid1_items_grid-cell_position-par_image { width:auto; }
+        }
+    
+    
+        @media (min-width: 1200px) {
+            #root_content_flex_items_position_position-par_dynamic_grid1_items_grid-cell_position-par_image { width:auto; }
+        }
+    
+
+    </style>
+<picture>
+<source media="(min-width: 1200px)" srcset="https://helpx-prod.scene7.com/is/image/HelpxProd/manageplugins?$png$&amp;jpegSize=100&amp;wid=616"/>
+<source media="(min-width: 600px)" srcset="https://helpx-prod.scene7.com/is/image/HelpxProd/manageplugins?$png$&amp;jpegSize=100&amp;wid=616"/>
+<source media="(max-width: 599px)" srcset="https://helpx-prod.scene7.com/is/image/HelpxProd/manageplugins?$png$&amp;jpegSize=100&amp;wid=599"/>
+<img class="" id="root_content_flex_items_position_position-par_dynamic_grid1_items_grid-cell_position-par_image" src="manageplugins.png"/>
+</picture>
+</div>
+</div>
+<p class="callouts">
+</p>
+</div>
+<!-- Modal -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="helpx-note">
+<span class="note-header">
+<span class="note-icon"></span>
+<span class="note-title">Note</span>
+</span>
+<div class="cmp-text">
+<p>Plugins require both a PY and a QML file to work. When you select a PY file to import, Sampler will search the folder for a QML file. If no QML file is found, plugin loading will fail.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p>Once a plugin is installed, a few options become available:</p><ul style="list-style-type: square;"><li>Plugins can be reordered by dragging the handle on the left side of the plugin.</li><li>Toggle plugins on or off with the toggle switch.</li><li>Use the menu button on the right of each plugin to reload, remove, or open the folder location of the plugin.</li></ul><p>Installed plugins will initially appear in the right bar of Sampler's main interface. From there you can open, dock, and move the plugin panel just like standard Sampler panels.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<h2 id="Manageinstalledpluginsandscripts-ManageScripts">Manage Scripts</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p>Scripts can be managed similarly to plugins. </p>
+</div>
+</div>
+<div class="flex aem-GridColumn aem-GridColumn--default--12">
+<style>
+    
+    
+    
+    
+    
+        #root_content_flex_items_position_position-par_dynamic_grid2 > .dexter-FlexContainer-Items > *:nth-child(1) {
+            width: 100%; max-width: 100%; flex: 1 1 auto;
+            min-height: auto;
+            }
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+</style>
+<div class="dexter-FlexContainer" id="root_content_flex_items_position_position-par_dynamic_grid2" role="">
+<div class="dexter-FlexContainer-Items dexter-FlexContainer--mobileJustifyStretch dexter-FlexContainer--mobileAlignAlignmentStretch dexter-FlexContainer--mobileAlignContentStretch dexter-FlexContainer--mobileAlignItemContentStart">
+<div class="position">
+<style>
+</style>
+<div class="dexter-Position mobile-place-relative mobile-place-left mobile-place-top mobile-padding-right-4 mobile-padding-left-4 is-Editor-false" data-animations="[]" id="root_content_flex_items_position_position-par_dynamic_grid2_items_grid-cell" role="">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="image parbase aem-GridColumn aem-GridColumn--default--12">
+<div class="image-wrapper">
+<div>
+<div class="dexter-Image dexter-Image-left">
+<style>
+        
+    
+        #root_content_flex_items_position_position-par_dynamic_grid2_items_grid-cell_position-par_image { width:auto; }
+    
+    
+        @media (min-width: 600px) {
+            #root_content_flex_items_position_position-par_dynamic_grid2_items_grid-cell_position-par_image { width:auto; }
+        }
+    
+    
+        @media (min-width: 1200px) {
+            #root_content_flex_items_position_position-par_dynamic_grid2_items_grid-cell_position-par_image { width:auto; }
+        }
+    
+
+    </style>
+<picture>
+<source media="(min-width: 1200px)" srcset="https://helpx-prod.scene7.com/is/image/HelpxProd/managescripts?$png$&amp;jpegSize=100&amp;wid=616"/>
+<source media="(min-width: 600px)" srcset="https://helpx-prod.scene7.com/is/image/HelpxProd/managescripts?$png$&amp;jpegSize=100&amp;wid=616"/>
+<source media="(max-width: 599px)" srcset="https://helpx-prod.scene7.com/is/image/HelpxProd/managescripts?$png$&amp;jpegSize=100&amp;wid=599"/>
+<img class="" id="root_content_flex_items_position_position-par_dynamic_grid2_items_grid-cell_position-par_image" src="managescripts.png"/>
+</picture>
+</div>
+</div>
+<p class="callouts">
+</p>
+</div>
+<!-- Modal -->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p>Once a script is installed a few options become available:</p><ul style="list-style-type: square;"><li>Reorder scripts with the handle on the left side of the script.</li><li>Toggle the script on or off with the toggle switch.</li><li>Use the menu button on the right of each script to remove the script, or open the folder location of the script.</li><li>When imported, scripts are copied in <strong>%\AppData\Roaming\Adobe\Adobe Substance 3D Sampler\scripts</strong></li><li>To edit the script, you should modify the one copied by Sampler</li></ul>
+</div>
+</div>
+</div>
+</div></body>

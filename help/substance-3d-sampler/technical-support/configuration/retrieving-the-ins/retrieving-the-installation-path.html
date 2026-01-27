@@ -1,0 +1,100 @@
+<header><meta name="title" content="Retrieving the installation path | Substance 3D Sampler"><meta name="description" content="Sampler > Technical Support > Configuration > Retrieving the installation path"></header><body><div class="dexter-Position is-Editor-false" daa-im="true" daa-lh="Helpx In-article Navigation" data-animations="[]" id="root_content_flex_items_position" role="">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="text first-heading aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<h1 id="mainpagetitle">Retrieving the installation path</h1>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p>This page regroups information on ways to retrieve the installation path of the application depending on the version and platform.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<h2 id="Retrievingtheinstallationpath-Windows">Windows</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<h3 id="Retrievingtheinstallationpath-CreativeCloudDesktop">Creative Cloud Desktop</h3>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<ol><li>Open Windows registry editor (<strong>regedit</strong>).</li><li>Navigate to the registry key: <strong>HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\</strong></li><li>Open the sub-key named <strong>Adobe Substance 3D Sampler.exe</strong></li><li>The value of the key contains the path to the application executable where it is installed</li></ol>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="helpx-note">
+<span class="note-header">
+<span class="note-icon"></span>
+<span class="note-title">Note</span>
+</span>
+<div class="cmp-text">
+<p>This registry key is only available since version 3.<br/>For older versions, the installation path can be retrieved from the file associations in <strong>HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ Explorer\FileExts</strong>.</p>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<h3 id="Retrievingtheinstallationpath-Substance3DStandalone">Substance 3D Standalone</h3>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<ol><li>Open Windows registry editor (<strong>regedit</strong>).</li><li>Navigate to the registry key: <strong>HKEY_LOCAL_MACHINE\ SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall </strong></li><li>Find the sub-key matching the AppID of your application version (see the table below)<strong> <br/></strong></li><li>The value of the key contains the path to the application installation location</li></ol>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<table style="width: 100.0%;"><colgroup> <col style="width: 20.0%;"/> <col style="width: 80.0%;"/> </colgroup><tbody><tr><th>Version</th><th>AppId</th></tr><tr><td colspan="1"><strong>1.x (2019.x) to 2.x</strong></td><td colspan="1">{B3506E85-E98F-4D48-A010-BE4DEE27D108}</td></tr><tr><td><strong>3.x (or newer)</strong></td><td>{ED4A4ABC-9B7D-44B8-984A-C8A994B69CFD}</td></tr></tbody></table>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<h3 id="Retrievingtheinstallationpath-Steam">Steam</h3>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p>The application is installed in the <strong>steamapps/common/</strong> sub-folder of the Steam installation folder.</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<h2 id="Retrievingtheinstallationpath-Mac">Mac</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p>On Mac the application is installed in the following:</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<table style="width: 100.0%;"><colgroup> <col style="width: 20.0%;"/> <col style="width: 80.0%;"/> </colgroup><tbody><tr><th>Version</th><th>Path</th></tr><tr><td><strong>3.x or newer</strong></td><td><strong>/Applications/Adobe Substance 3D Sampler.app</strong></td></tr><tr><td colspan="1"><strong>Legacy</strong></td><td colspan="1"><strong>/Applications/Substance Alchemist.app</strong></td></tr></tbody></table>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<h2 id="Retrievingtheinstallationpath-Linux">Linux</h2>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p>On Linux the rpm package is installed in the following path:</p>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<table style="width: 100.0%;"><colgroup> <col style="width: 20.0%;"/> <col style="width: 80.0%;"/> </colgroup><tbody><tr><th>Version</th><th>Path</th></tr><tr><td colspan="1"><strong>3.x or newer</strong></td><td colspan="1"><strong>/opt/Adobe/Adobe_Substance_3D_Sampler</strong></td></tr><tr><td colspan="1"><strong>Legacy</strong></td><td colspan="1"><strong>/opt/Allegorithmic/Substance_Alchemist</strong></td></tr></tbody></table>
+</div>
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-text">
+<p><strong> <br/></strong></p>
+</div>
+</div>
+</div>
+</div></body>
