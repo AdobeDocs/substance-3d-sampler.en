@@ -1,6 +1,7 @@
 ---
-title: "Version 3.1 | Substance 3D Sampler"
-description: "Sampler > Release Notes > Old Versions > Version 3.1"
+title: "Version 3.1"
+description: ""
+helpx_description: "Sampler > Release Notes > Old Versions > Version 3.1"
 ---
 
 # Version 3.1
@@ -118,5 +119,3 @@ All material parameters of the Shader settings (normal scale, height scale, heig
 * &#91;Realtime Engine 2021&#93; Heavy computation can crash the application
 * &#91;Realtime Engine 2021&#93; Realtime Engine 2021 will crash on a Windows machine with both AMD CPU and Nvidia GPU installed
 * &#91;Color Picker&#93; Picking a color on a second monitor with a different resolution may not work
-
- 

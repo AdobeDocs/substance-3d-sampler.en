@@ -1,6 +1,7 @@
 ---
-title: "Weave | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Weave"
+title: "Weave"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Weave"
 ---
 
 # Weave
@@ -99,5 +100,3 @@ It's possible to use transparent images in the Weave filter, but by default thes
 1. Follow the normal steps to adjust the Weave pattern.
 
 The Decal layer converts the Weave input into a Decal - so the Weave layer's transparency tells the decal layer how to mask out the Woven pattern. With the Decal layer you can also move the pattern around on your material or enable functionality like tiling.
-
- 

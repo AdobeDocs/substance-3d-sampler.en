@@ -1,6 +1,7 @@
 ---
-title: "Straighten Horizon | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools > Straighten Horizon"
+title: "Straighten Horizon"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools > Straighten Horizon"
 ---
 
 # Straighten Horizon
@@ -32,5 +33,3 @@ Straighten the horizon by warping your environment in the **2D view**.
   Toggle whether to display the corrected horizon or display a line showing the resulting horizon line. Disable this and adjust the handles in the **2D view** to get a better understanding of how this tool warps the environment to adjust the horizon.
 * **Horizontal Rotation**: 0-1  
   Rotate the environment. The results of this parameter are only visible if **Enable Horizon Correction** is enabled.
-
- 

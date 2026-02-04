@@ -1,6 +1,7 @@
 ---
-title: "Panels | Substance 3D Sampler"
-description: "Sampler > Interface > Panels"
+title: "Panels"
+description: ""
+helpx_description: "Sampler > Interface > Panels"
 ---
 
 # Panels
@@ -49,5 +50,3 @@ The following panels are stored at the top of the <b>right sidebar</b> by defaul
 You can customize the workspace by moving panels - [see the interface page to find out how](../interface.md).
 
 To return to the default workspace layout at any point use **Window &gt; Reset to default layout**.
-
- 

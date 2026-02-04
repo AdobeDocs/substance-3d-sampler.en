@@ -1,6 +1,7 @@
 ---
-title: "Cracks | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Cracks"
+title: "Cracks"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Cracks"
 ---
 
 # Cracks
@@ -84,5 +85,3 @@ The **Cracks filter** applied to a clean marble material.
   Modify the height range of the full material. To adjust the height of the cracks, use **Cracks &gt; Cracks Height Intensity**.
 * **Height Position**: 0-1  
   Offset the height map of the full material.
-
- 

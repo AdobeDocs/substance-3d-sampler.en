@@ -1,6 +1,7 @@
 ---
-title: "Exposure | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools > Exposure"
+title: "Exposure"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools > Exposure"
 ---
 
 # Exposure
@@ -40,5 +41,3 @@ With the **Exposure filter**, the exposure of the environment has been increased
 
 * **Exposure (EV)**: -8 to 8  
   Adjust the exposure of your environment light. EV stands for Exposure Value, and is a photography term used to represent the combination of shutter speed and aperture.
-
- 

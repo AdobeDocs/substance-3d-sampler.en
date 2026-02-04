@@ -1,6 +1,7 @@
 ---
-title: "Default Presets | Substance 3D Sampler"
-description: "Sampler > Getting Started > Export > Default Presets"
+title: "Default Presets"
+description: ""
+helpx_description: "Sampler > Getting Started > Export > Default Presets"
 ---
 
 # Default Presets
@@ -21,5 +22,3 @@ Sampler includes a list of export presets that pack and name your bitmap texture
 * [Unreal Engine 4](unreal-engine-4/unreal-engine-4.md)
 * [Redshift](redshift/redshift.md)
 * [V-Ray Next](v-ray-next/v-ray-next.md)
-
- 

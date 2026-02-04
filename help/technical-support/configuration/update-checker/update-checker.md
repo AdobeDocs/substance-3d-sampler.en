@@ -1,6 +1,7 @@
 ---
-title: "Update Checker | Substance 3D Sampler"
-description: "Sampler > Technical Support > Configuration > Update Checker"
+title: "Update Checker"
+description: ""
+helpx_description: "Sampler > Technical Support > Configuration > Update Checker"
 ---
 
 # Update Checker
@@ -19,5 +20,3 @@ It is possible to avoid displaying this window during the startup with the follo
 >[!NOTE]
 >
 > Supported since Substance Alchemist 2020.1 (2.1)
-
- 

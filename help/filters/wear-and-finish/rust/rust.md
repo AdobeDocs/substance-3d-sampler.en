@@ -1,6 +1,7 @@
 ---
-title: "Rust | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Rust"
+title: "Rust"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Rust"
 ---
 
 # Rust
@@ -78,5 +79,3 @@ In the images below you can see a metal material before and after adding the **R
     Blur the mask.
   * **Custom Mask - Invert**: toggle  
     Invert the mask.
-
- 

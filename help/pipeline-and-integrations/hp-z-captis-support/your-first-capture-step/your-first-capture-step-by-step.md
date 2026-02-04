@@ -1,6 +1,7 @@
 ---
-title: "Your first capture step by step | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Your first capture step by step"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Launch Sampler and turn on the HP Z Captis
@@ -163,5 +164,3 @@ Once you are done, you can:
 * Export your material: File &gt; Export … (Ctrl + E)
 
 ![](Sampler-5.png)
-
- 

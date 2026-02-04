@@ -1,6 +1,7 @@
 ---
-title: "Nadir Extract | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools > Nadir Extract"
+title: "Nadir Extract"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools > Nadir Extract"
 ---
 
 # Nadir Extract
@@ -31,5 +32,3 @@ description: "Sampler > Filters > HDRI Tools > Nadir Extract"
 * **Output Gamma**:
 
 ## Usage Guide
-
- 

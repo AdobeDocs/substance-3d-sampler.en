@@ -1,6 +1,7 @@
 ---
-title: "Generators | Substance 3D Sampler"
-description: "Sampler > Filters > Generators"
+title: "Generators"
+description: ""
+helpx_description: "Sampler > Filters > Generators"
 ---
 
 # Generators
@@ -35,5 +36,3 @@ Adding generators include:
 * [Splatter](splatter/splatter.md)
 * [Weave](weave/weave.md)
 * [Cloth Weave](cloth-weave/cloth-weave.md)
-
- 

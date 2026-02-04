@@ -1,6 +1,7 @@
 ---
-title: "Version 2019.1 | Substance 3D Sampler"
-description: "Sampler > Release Notes > Old Versions > Version 2019.1"
+title: "Version 2019.1"
+description: ""
+helpx_description: "Sampler > Release Notes > Old Versions > Version 2019.1"
 ---
 
 # Version 2019.1
@@ -322,5 +323,3 @@ A few new features have been added to the viewport which improve its usage. Thes
 **Added:**
 
 * &#91;Workflow&#93; Support of multiple workflows
-
- 

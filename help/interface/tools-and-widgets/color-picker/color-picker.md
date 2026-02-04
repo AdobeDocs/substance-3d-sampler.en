@@ -1,6 +1,7 @@
 ---
-title: "Color Picker | Substance 3D Sampler"
-description: "Sampler > Interface > Tools and Widgets > Color Picker"
+title: "Color Picker"
+description: ""
+helpx_description: "Sampler > Interface > Tools and Widgets > Color Picker"
 ---
 
 # Color Picker
@@ -72,5 +73,3 @@ Right click on a swatch to delete it or replace it with the current color.
 ![](swatch-options.jpg){width="200px"}
 
 You can also delete a swatch by dragging and dropping it outside of the color picker.
-
- 

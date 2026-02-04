@@ -1,6 +1,7 @@
 ---
-title: "Compound Filters | Substance 3D Sampler"
-description: "Sampler > Filters > Compound Filters"
+title: "Compound Filters"
+description: ""
+helpx_description: "Sampler > Filters > Compound Filters"
 ---
 
 # Compound Filters
@@ -221,5 +222,3 @@ Link to declare outputs of the compound filter:
 
      }
 ```
-
- 

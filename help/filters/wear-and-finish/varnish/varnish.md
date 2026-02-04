@@ -1,6 +1,7 @@
 ---
-title: "Varnish | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Varnish"
+title: "Varnish"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Varnish"
 ---
 
 # Varnish
@@ -44,5 +45,3 @@ Add a layer of varnish on top of your material. This filter primarily adjusts th
     Invert the mask.
 
 ## Usage Guide
-
- 

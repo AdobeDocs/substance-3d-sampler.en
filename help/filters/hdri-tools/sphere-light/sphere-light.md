@@ -1,6 +1,7 @@
 ---
-title: "Sphere Light | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools > Sphere Light"
+title: "Sphere Light"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools > Sphere Light"
 ---
 
 # Sphere Light
@@ -83,5 +84,3 @@ If **World Position** is selected, the following parameters are available:
 
 * **Background Gamma**:  
   Select the color system used to determine background Gamma.
-
- 

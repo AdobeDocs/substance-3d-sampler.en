@@ -1,6 +1,7 @@
 ---
-title: "Clone Stamp | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Clone Stamp"
+title: "Clone Stamp"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Clone Stamp"
 ---
 
 # Clone Stamp
@@ -129,5 +130,3 @@ Use Ctrl + Click in the 2D View to add a new source. Adding a new source will cr
 | Increase Brush Size | &#93; or Ctrl + Mouse Wheel | &#93; or Cmd + Mouse Wheel |
 | Decrease Brush Size | &#91; or Ctrl + Mouse Wheel | &#91; or Cmd + Mouse Wheel |
 | Set the source | Ctrl + Left click | Cmd + Left click |
-
- 

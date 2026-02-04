@@ -1,6 +1,7 @@
 ---
-title: "Activation and licenses | Substance 3D Sampler"
-description: "Sampler > Getting Started > Activation and licenses"
+title: "Activation and licenses"
+description: ""
+helpx_description: "Sampler > Getting Started > Activation and licenses"
 ---
 
 # Activation and licenses
@@ -50,5 +51,3 @@ It is possible to manually activate Sampler by putting the **license.key** file 
 ### Environment variable
 
 You can override the location that Sampler checks for the **license.key** file with an [Environment Variable](../../pipeline-and-integrations/environment-variables/environment-variables.md).
-
- 

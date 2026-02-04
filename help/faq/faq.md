@@ -1,6 +1,7 @@
 ---
 title: "FAQ"
-description: "Substance 3D Sampler"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # FAQ - Frequently Asked Questions
@@ -33,5 +34,3 @@ Complete Firefly FAQ is here: <https://www.adobe.com/products/firefly.html#faqs>
   As part of Adobe’s effort to design Firefly to be commercially safe, we’re training our initial commercial Firefly model on licensed content, such as Adobe Stock, and public domain content where copyright has expired. Additionally, as a founding collaborator of the Content Authenticity Initiative (CAI), Adobe is setting the industry standard for responsible generative AI. The CAI is a community of media and tech companies, NGOs, academics, and others working to promote adoption of an open industry standard for content authenticity and provenance.
 * <b>What is Adobe Firefly Image 2 Model?</b>   
   Adobe Firefly Image 2 is the next version of the image generation model within the Firefly family of models.
-
- 

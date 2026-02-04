@@ -1,6 +1,7 @@
 ---
 title: "Generative Workflows"
-description: "Substance 3D Sampler"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Generative workflows
@@ -60,5 +61,3 @@ You can also use the <b>Samples</b> in the Generative (Beta) panel to get st
 The Sampler generative features do not use credits while the features are in beta.
 
 Please see the <b>generative credit FAQ</b> for the latest information on how generative credits work across Adobe tools.
-
- 

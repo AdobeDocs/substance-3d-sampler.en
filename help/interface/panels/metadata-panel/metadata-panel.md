@@ -1,6 +1,7 @@
 ---
-title: "Metadata panel | Substance 3D Sampler"
-description: "Sampler > Interface > Panels > Metadata panel"
+title: "Metadata panel"
+description: ""
+helpx_description: "Sampler > Interface > Panels > Metadata panel"
 ---
 
 # Metadata panel
@@ -39,5 +40,3 @@ All custom metadata will be included in the material file (SBSAR) to ensure a mo
 1. Insert description/note
 
 Modify custom metadata fields by hovering your cursor over the field and selecting either the edit or delete button that appears.
-
- 

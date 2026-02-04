@@ -1,6 +1,7 @@
 ---
-title: "Erode | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Erode"
+title: "Erode"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Erode"
 ---
 
 # Erode
@@ -82,5 +83,3 @@ The images below show how the **Erode filter** can be used to add erosion to a s
     Invert the mask.
   * **Custom Mask - Opacity**: 0-1  
     Adjust the strength of the custom mask.
-
- 

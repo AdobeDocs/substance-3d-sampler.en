@@ -1,6 +1,7 @@
 ---
-title: "Image To Material | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Image To Material"
+title: "Image To Material"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Image To Material"
 ---
 
 # Image To Material
@@ -55,5 +56,3 @@ Easily send the results to Substance 3D Sampler for further editions.
 >[!NOTE]
 >
 > This functionnality is only available with an Adobe Substance 3D Collection subscription.
-
- 

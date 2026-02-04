@@ -1,6 +1,7 @@
 ---
-title: "Exporting the log file | Substance 3D Sampler"
-description: "Sampler > Technical Support > Exporting the log file"
+title: "Exporting the log file"
+description: ""
+helpx_description: "Sampler > Technical Support > Exporting the log file"
 ---
 
 # Exporting the log file
@@ -43,5 +44,3 @@ When asking for support on the forum, a log file is required. Here is how to att
 1. Click on "**Post**" when your message is ready to post and upload your log file
 
 ![](attach-log-step-1.png)
-
- 

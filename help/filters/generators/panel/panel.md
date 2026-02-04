@@ -1,6 +1,7 @@
 ---
-title: "Panel | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Panel"
+title: "Panel"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Panel"
 ---
 
 # Panel
@@ -128,5 +129,3 @@ The selection of parameters in this section depends on which value you have chos
   Change the strength of the AO
 * **AO Radius**: 0-1  
   Modify the radius of the AO
-
- 

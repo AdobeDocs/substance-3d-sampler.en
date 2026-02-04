@@ -1,6 +1,7 @@
 ---
-title: "Height to Normal | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Height to Normal"
+title: "Height to Normal"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Height to Normal"
 ---
 
 # Height to Normal
@@ -61,5 +62,3 @@ With the **Height to Normal filter**, normal data is generated from the height m
     Blur the mask
   * **Custom Mask - Invert**: toggle  
     Invert the mask
-
- 

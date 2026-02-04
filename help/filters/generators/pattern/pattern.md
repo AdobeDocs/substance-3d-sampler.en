@@ -1,6 +1,7 @@
 ---
-title: "Pattern | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Pattern"
+title: "Pattern"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Pattern"
 ---
 
 # Pattern
@@ -71,5 +72,3 @@ Add a pattern to your material from one of the available options, or use an imag
   Stretch and smooth the embossing zone of the selected color,  depends on the<b> Color Amount</b>
 * <b>Emboss Grain: </b>0-1  
   Add grain in the selected color,  depends on the <b>Color Amount</b>
-
- 

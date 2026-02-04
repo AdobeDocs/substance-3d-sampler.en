@@ -1,6 +1,7 @@
 ---
-title: "Atlas Splitter | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Atlas Splitter"
+title: "Atlas Splitter"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Atlas Splitter"
 ---
 
 # Atlas Splitter
@@ -73,5 +74,3 @@ With the **Atlas Splitter** added to the layer stack, it's possible to focus on 
     Select the custom background color of the normal channel in transparent parts of the material.
 * **Height Bg Color**: 0-1  
   Adjust the background color of the height channel. It is generally a good idea to have the height background match the average height of the borders of atlas elements to avoid artifacts at the borders of elements.
-
- 

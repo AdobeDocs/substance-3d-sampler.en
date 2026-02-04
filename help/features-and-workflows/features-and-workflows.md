@@ -1,6 +1,7 @@
 ---
-title: "Features and workflows | Substance 3D Sampler"
-description: "Sampler > Features and workflows"
+title: "Features and workflows"
+description: ""
+helpx_description: "Sampler > Features and workflows"
 ---
 
 # Features and workflows
@@ -14,5 +15,3 @@ Learn how to use the following tools and workflows in this section:
 * End to End Physical size Workflow
 * How to export parametric assets
 * [Texture Generators](texture-generators/texture-generators.md)
-
- 

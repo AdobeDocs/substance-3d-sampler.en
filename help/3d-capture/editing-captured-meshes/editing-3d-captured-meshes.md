@@ -1,6 +1,7 @@
 ---
-title: "Editing 3D Captured meshes | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Editing 3D Captured meshes"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Editing 3D Captured meshes
@@ -50,5 +51,3 @@ Finally if you want some more control over the final roughness, you can use a Br
 Every object is different, and depending on your dataset specific adjustments might be needed. You can even make use of the <b>Clone Stamp tool</b> to erase parts of your texture that you want to remove, like capturing aid markers. Just keep in mind that any material filter that uses specific locations on your texture will be dependent on your UV layout, so do the mesh processing before any material filters.
 
 Once you are happy with your object and textures, you can <b>export </b>your result using the <b>Share &gt; Export As</b> dialog. General settings let you choose name and path, Mesh settings let you choose 3D mesh format, and material settings let you configure the material of the mesh. You can toggle mesh or material off to export only one of them individually. Once exported, your mesh is ready to use in other 3D applications.
-
- 

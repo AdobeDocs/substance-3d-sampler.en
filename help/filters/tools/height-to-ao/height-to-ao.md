@@ -1,6 +1,7 @@
 ---
-title: "Height to AO | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Height to AO"
+title: "Height to AO"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Height to AO"
 ---
 
 # Height to AO
@@ -44,5 +45,3 @@ In this image, the Ambient Occlusion map has been created by the **Height to AO 
   Adjust the strength of the generated AO data
 * **Ambient Occlusion - Spread**: 0-1  
   Adjust the radius of the generated AO data
-
- 

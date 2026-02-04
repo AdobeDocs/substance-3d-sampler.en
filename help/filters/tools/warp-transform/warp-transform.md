@@ -1,6 +1,7 @@
 ---
-title: "Warp Transform | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Warp Transform"
+title: "Warp Transform"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Warp Transform"
 ---
 
 # Warp Transform
@@ -42,5 +43,3 @@ The **Warp Transform filter** lets you manually warp your material with handles 
 1. Add the **Warp Transform filter** to the top of the layer stack
 1. Adjust the number of handles with **Basic parameters &gt; Grid**
 1. Drag handles to start warping the material
-
- 

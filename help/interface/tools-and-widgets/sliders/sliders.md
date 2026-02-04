@@ -1,6 +1,7 @@
 ---
-title: "Sliders | Substance 3D Sampler"
-description: "Sampler > Interface > Tools and Widgets > Sliders"
+title: "Sliders"
+description: ""
+helpx_description: "Sampler > Interface > Tools and Widgets > Sliders"
 ---
 
 # Sliders
@@ -14,5 +15,3 @@ You can pause the animation by pressing **Ctrl** when you hover an animated slid
 If you want pause all the sliders, press **P**. To relaunch, press **P** again.
 
 ![](sliders-animated.gif)
-
- 

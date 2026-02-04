@@ -1,6 +1,7 @@
 ---
-title: "Version 3.2 | Substance 3D Sampler"
-description: "Sampler > Release Notes > Old Versions > Version 3.2"
+title: "Version 3.2"
+description: ""
+helpx_description: "Sampler > Release Notes > Old Versions > Version 3.2"
 ---
 
 # Version 3.2
@@ -155,5 +156,3 @@ New export features has been added to this release.
 **Known Issues:**
 
 * &#91;Color Picker&#93; Picking a color on a second monitor with a different resolution may not work
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Version 4.2 | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Version 4.2"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Version 4.2
@@ -108,5 +109,3 @@ This allows you to increase the quality of your materials, but also performance 
 * &#91;UI&#93; Minor brush toolbar layout issues when using the eraser
 * &#91;UI&#93; Strings are truncated in some languages in the Viewer Settings panel
 * &#91;UI&#93; While the viewport tooltip popup is displayed, pressing "space" creates a new project
-
- 

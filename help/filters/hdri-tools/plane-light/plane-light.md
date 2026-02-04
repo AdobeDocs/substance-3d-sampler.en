@@ -1,6 +1,7 @@
 ---
-title: "Plane Light | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools > Plane Light"
+title: "Plane Light"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools > Plane Light"
 ---
 
 # Plane Light
@@ -93,5 +94,3 @@ If **World Position** is chosen in **Basic parameters &gt; Position Mode** the f
     Adjust the height of the ground for the purposes of clipping the light.
 * **Background Gamma**:  
   Select the color system used to determine background Gamma.
-
- 

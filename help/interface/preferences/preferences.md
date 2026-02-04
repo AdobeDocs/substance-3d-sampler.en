@@ -1,6 +1,7 @@
 ---
-title: "Preferences | Substance 3D Sampler"
-description: "Sampler > Interface > Preferences"
+title: "Preferences"
+description: ""
+helpx_description: "Sampler > Interface > Preferences"
 ---
 
 # Preferences
@@ -89,5 +90,3 @@ The following options are available:
 </td>
 </tr>
 </table>
-
- 

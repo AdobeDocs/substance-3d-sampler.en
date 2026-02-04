@@ -1,6 +1,7 @@
 ---
-title: "Project panel | Substance 3D Sampler"
-description: "Sampler > Interface > Panels > Project panel"
+title: "Project panel"
+description: ""
+helpx_description: "Sampler > Interface > Panels > Project panel"
 ---
 
 # Project panel
@@ -21,5 +22,3 @@ Controls at the top of the Project panel allow you to add or manage assets in yo
 > You can also right click any asset to Rename, Delete, or Duplicate it; or open the assets file location.
 
 Click one of your assets to load them in the <b>Viewport</b>, or drag an asset onto the <b>Layers panel</b> to use it in other compatible assets.
-
- 

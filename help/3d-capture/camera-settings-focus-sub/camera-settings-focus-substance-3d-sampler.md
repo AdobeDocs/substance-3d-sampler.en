@@ -1,6 +1,7 @@
 ---
-title: "Camera Settings  Focus | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Camera Settings  Focus"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Camera Settings  Focus
@@ -50,5 +51,3 @@ Next, go to <b>Edit</b> &gt; <b>Auto Blend Layers</b>. Again, choose ok with all
 If all went well, you now have a perfectly sharp photograph. It’s worth turning at least some of these steps into a recorded action, to save you some time.
 
 Now that you've learned everything there is to know about Aperture and Focus for the 3D capture process, learn more about [how to create an ideal lighting set up](../capture-lighting-sub/3d-capture-lighting-substance-3d-sampler.md).
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Physical Size Panel | Substance 3D Sampler"
-description: "Sampler > Interface > Panels > Physical Size Panel"
+title: "Physical Size Panel"
+description: ""
+helpx_description: "Sampler > Interface > Panels > Physical Size Panel"
 ---
 
 # Physical Size Panel
@@ -67,5 +68,3 @@ Help you visualize the output of your material with its real life aspect.
 **Display with physical ratio:**   
 The display in the 2D viewport respects the physical ratio.  
 **Height scale:** Set/calculated from the 3D viewport based on the physical scale.
-
- 

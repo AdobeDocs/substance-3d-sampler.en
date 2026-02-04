@@ -1,6 +1,7 @@
 ---
-title: "System requirements to use HP Z Captis | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "System requirements to use HP Z Captis"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # System requirements
@@ -14,5 +15,3 @@ description: "Substance 3D Sampler"
 | <b>VRAM</b> | 8 GB | 16 GB |
 | <b>RAM</b> | 32 GB | 64 GB |
 | <b>Storage</b> | SSD with 50 GB of available space | SSD with 100 GB of available space |
-
- 

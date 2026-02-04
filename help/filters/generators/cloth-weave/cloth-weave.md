@@ -1,6 +1,7 @@
 ---
-title: "Cloth Weave | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Cloth Weave"
+title: "Cloth Weave"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Cloth Weave"
 ---
 
 # Cloth Weave
@@ -86,5 +87,3 @@ Parameters
   Blur the mask.
 * **Custom Mask – Invert:** toggle  
   Invert the mask.
-
- 

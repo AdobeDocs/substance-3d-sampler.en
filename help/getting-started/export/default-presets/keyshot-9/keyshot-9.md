@@ -1,6 +1,7 @@
 ---
-title: "Keyshot9 | Substance 3D Sampler"
-description: "Sampler > Getting Started > Export > Default Presets > Keyshot9"
+title: "Keyshot9"
+description: ""
+helpx_description: "Sampler > Getting Started > Export > Default Presets > Keyshot9"
 ---
 
 # Keyshot9
@@ -275,5 +276,3 @@ description: "Sampler > Getting Started > Export > Default Presets > Keyshot9"
 | Preset | Compatibility | Packing Output Description |
 | --- | --- | --- |
 | Keyshot9+ | <ul data-preserve-html="true"> <li data-preserve-html="true">PBR Metallic/Roughness</li> </ul> | <b>base\_color</b> <b>normal</b> <b>roughness</b> <b>metallic</b> <b>displacement</b> <b>emissive</b> <b>opacity</b> <b>specular</b> |
-
- 

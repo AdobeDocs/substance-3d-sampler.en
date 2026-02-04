@@ -1,6 +1,7 @@
 ---
-title: "FAQ for HP Z Captis support in Sampler | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "FAQ for HP Z Captis support in Sampler"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Most frequently asked questions
@@ -352,5 +353,3 @@ The Captis window is indeed not resizable. You might be using a screen magnifica
 
 
 +++
-
- 

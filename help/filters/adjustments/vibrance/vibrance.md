@@ -1,6 +1,7 @@
 ---
-title: "Vibrance | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments > Vibrance"
+title: "Vibrance"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments > Vibrance"
 ---
 
 # Vibrance
@@ -43,5 +44,3 @@ Vibrance and Saturation work similarly in that they increase the intensity of co
     Blur the mask
   * **Custom Mask - Invert**: toggle  
     Invert the mask
-
- 

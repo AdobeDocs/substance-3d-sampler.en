@@ -1,6 +1,7 @@
 ---
-title: "System requirements | Substance 3D Sampler"
-description: "Sampler > Getting Started > System requirements"
+title: "System requirements"
+description: ""
+helpx_description: "Sampler > Getting Started > System requirements"
 ---
 
 # Supported systems
@@ -129,5 +130,3 @@ The software interface is available in the following languages:
 * Italian
 * Portuguese
 * Spanish
-
- 

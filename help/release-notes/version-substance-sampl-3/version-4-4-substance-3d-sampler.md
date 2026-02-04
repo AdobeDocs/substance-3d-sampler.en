@@ -1,6 +1,7 @@
 ---
-title: "Version 4.4 | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Version 4.4"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Version 4.4
@@ -57,5 +58,3 @@ The Text-to-pattern feature will use your<b> text prompt</b> to generate a squar
 * &#91;Generative AI&#93; Possible crashes when receiving unexpected results from the service
 * &#91;Scripting&#93; Crash when autoloading a plugin from environment variable
 * &#91;Scripting&#93; Possible crash when assigning Output Usage with the API
-
- 

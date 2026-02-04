@@ -1,6 +1,7 @@
 ---
-title: "Fill | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments > Fill"
+title: "Fill"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments > Fill"
 ---
 
 # Fill
@@ -61,5 +62,3 @@ For each channel, the following parameters are available:
     Select the blending mode to blend the custom input with the layers bellow.
   * <b>Opacity</b>: 0-1  
     Adjust the opacity of the new channel information relative to the existing channel information. In other words, this controls the opacity of the mask used to apply the new channel fill.
-
- 

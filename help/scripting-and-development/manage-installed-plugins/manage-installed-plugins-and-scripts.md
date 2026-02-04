@@ -1,6 +1,7 @@
 ---
-title: "Manage installed plugins and scripts | Substance 3D Sampler"
-description: "Sampler > Scripting and Development > Manage installed plugins and scripts"
+title: "Manage installed plugins and scripts"
+description: ""
+helpx_description: "Sampler > Scripting and Development > Manage installed plugins and scripts"
 ---
 
 # Manage installed plugins and scripts
@@ -50,5 +51,3 @@ Once a script is installed a few options become available:
 * Use the menu button on the right of each script to remove the script, or open the folder location of the script.
 * When imported, scripts are copied in **%\AppData\Roaming\Adobe\Adobe Substance 3D Sampler\scripts**
 * To edit the script, you should modify the one copied by Sampler
-
- 

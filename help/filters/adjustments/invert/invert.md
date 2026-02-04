@@ -1,6 +1,7 @@
 ---
-title: "Invert | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments > Invert"
+title: "Invert"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments > Invert"
 ---
 
 # Invert
@@ -52,5 +53,3 @@ Each channel can be inverted independently through use of a toggle. Enable the t
     Invert the mask
 
 ## Usage Guide
-
- 

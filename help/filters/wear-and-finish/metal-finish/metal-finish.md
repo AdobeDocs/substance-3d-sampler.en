@@ -1,6 +1,7 @@
 ---
-title: "Metal Finish | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Metal Finish"
+title: "Metal Finish"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Metal Finish"
 ---
 
 # Metal Finish
@@ -124,5 +125,3 @@ Convert your material into a metal with a number of finishes and styles.
   Set whether the opacity channel is affected by the filter. If enabled, an additional control appears:  
   * **Opacity - Value**: 0-1  
     Change the opacity of the material.
-
- 

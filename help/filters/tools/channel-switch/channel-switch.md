@@ -1,6 +1,7 @@
 ---
-title: "Channel Switch | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Channel Switch"
+title: "Channel Switch"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Channel Switch"
 ---
 
 # Channel Switch
@@ -45,5 +46,3 @@ Switch the channels of the output maps of the material.
   Blur the mask.
 * **Custom Mask – Invert:** toggle  
   Invert the mask.
-
- 

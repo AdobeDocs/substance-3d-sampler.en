@@ -1,6 +1,7 @@
 ---
 title: "Beta"
-description: "Substance 3D Sampler"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Betas
@@ -35,5 +36,3 @@ We're introducing Text to Texture powered by Adobe Firefly, a new way for artist
 * &#91;Firefly&#93; Add a result as a layer or in Your Assets library
 * &#91;Firefly&#93; Browse history of your previous prompts
 * &#91;Firefly&#93; Generated images contain manifest with provenance
-
- 

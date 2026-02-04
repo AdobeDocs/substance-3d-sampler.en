@@ -1,6 +1,7 @@
 ---
-title: "Properties panel | Substance 3D Sampler"
-description: "Sampler > Interface > Panels > Properties panel"
+title: "Properties panel"
+description: ""
+helpx_description: "Sampler > Interface > Panels > Properties panel"
 ---
 
 # Properties panel
@@ -14,5 +15,3 @@ The parameters that appear in the <b>Properties panel</b> depend on what you've 
 ![Two icons on materials if they aren't the first layer](Layers-panel-gen.png.img.png)
 
 In the above image of the <b>Layers panel</b>, each icon in the layer stack has a different set of parameters to control the appearance of your material. For example, the Clay layer has both the Clay icon, and the blend icon, each of which has a separate set of parameters.
-
- 

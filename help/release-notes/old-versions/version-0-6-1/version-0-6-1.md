@@ -1,6 +1,7 @@
 ---
-title: "Version 0.6.1 | Substance 3D Sampler"
-description: "Sampler > Release Notes > Old Versions > Version 0.6.1"
+title: "Version 0.6.1"
+description: ""
+helpx_description: "Sampler > Release Notes > Old Versions > Version 0.6.1"
 ---
 
 # Version 0.6.1
@@ -25,5 +26,3 @@ Known Issues:
 * Custom Environment Import can become black
 * Tif images are not showing in Properties panel in the Image import layer
 * Coma or point can be ignored when typing a specific value in a slider
-
- 

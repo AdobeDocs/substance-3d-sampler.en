@@ -1,6 +1,7 @@
 ---
-title: "Tools and Widgets | Substance 3D Sampler"
-description: "Sampler > Interface > Tools and Widgets"
+title: "Tools and Widgets"
+description: ""
+helpx_description: "Sampler > Interface > Tools and Widgets"
 ---
 
 # Tools and Widgets
@@ -16,5 +17,3 @@ Non-filter tools and functionality are outlined in the following articles:
 
 * [Sliders](sliders/sliders.md)
 * [Color Picker](color-picker/color-picker.md)
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "NVIDIA Driver Settings | Substance 3D Sampler"
-description: "Sampler > Technical Support > Configuration > NVIDIA Driver Settings"
+title: "NVIDIA Driver Settings"
+description: ""
+helpx_description: "Sampler > Technical Support > Configuration > NVIDIA Driver Settings"
 ---
 
 # NVIDIA Driver Settings
@@ -39,5 +40,3 @@ To check which GPU Sampler is using, do the following:
 1. Click Apply.
 
 Once you have followed this process, open Sampler to see if performance has improved.
-
- 

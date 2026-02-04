@@ -1,6 +1,7 @@
 ---
-title: "Pavement | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Pavement"
+title: "Pavement"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Pavement"
 ---
 
 # Pavement
@@ -81,5 +82,3 @@ Each pattern has a different set of parameters available that will appear when t
   Use a scalemap to adjust the size of bricks based on their position
 * **Scalemap Intensity**: 0-1  
   Adjust how much the scalemap impacts the scale of bricks.
-
- 

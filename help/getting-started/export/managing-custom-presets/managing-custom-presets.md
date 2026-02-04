@@ -1,6 +1,7 @@
 ---
-title: "Create and edit custom presets | Substance 3D Sampler"
-description: "Sampler > Getting Started > Export > Managing custom presets"
+title: "Create and edit custom presets"
+description: ""
+helpx_description: "Sampler > Getting Started > Export > Managing custom presets"
 ---
 
 # Create and edit custom presets
@@ -60,5 +61,3 @@ To import your new preset:
 1. Use the <b>Import presets</b> button at the bottom of the <b>presets list</b>.
 
 ![](Managing-presets-Dropdown.png.img.png){width="400px"}
-
- 

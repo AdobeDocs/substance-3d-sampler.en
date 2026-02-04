@@ -1,6 +1,7 @@
 ---
-title: "End to end Physical Size Workflow | Substance 3D Sampler"
-description: "Sampler > Features and workflows > End to end Physical Size Workflow"
+title: "End to end Physical Size Workflow"
+description: ""
+helpx_description: "Sampler > Features and workflows > End to end Physical Size Workflow"
 ---
 
 # End to end Physical Size Workflow
@@ -46,5 +47,3 @@ Match the real-life physical size of your scanned samples and images in a digita
 ## Video Tutorial
 
 You can also find video tutorials to help you get through this feature:
-
- 

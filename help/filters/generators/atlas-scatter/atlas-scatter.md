@@ -1,6 +1,7 @@
 ---
-title: "Atlas Scatter | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Atlas Scatter"
+title: "Atlas Scatter"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Atlas Scatter"
 ---
 
 # Atlas Scatter
@@ -140,5 +141,3 @@ To use the Atlas Scatter filter:
 You can adjust the scatter parameters in the **Properties panel** by selecting the Atlas Scatter layer.
 
 You can adjust the parameters of the atlas material in the **Properties panel** by selecting the material in the input slot.
-
- 

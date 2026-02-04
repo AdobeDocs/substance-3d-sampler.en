@@ -1,6 +1,7 @@
 ---
-title: "Create a Script with Python | Substance 3D Sampler"
-description: "Sampler > Scripting and Development > Create a Script with Python"
+title: "Create a Script with Python"
+description: ""
+helpx_description: "Sampler > Scripting and Development > Create a Script with Python"
 ---
 
 # Create a Script with Python
@@ -66,5 +67,3 @@ The code above includes comments to explain what is happening on each line.
 Once you've saved the script above as a PY file on your machine, you can import it with Edit &gt; Preferences &gt; Plugins and Scripts. Once imported, a **Scripts** option will appear in the menu bar alongside **File** and **Edit**. From here you can run the script.
 
 You can find out more about managing your scripts [here](../manage-installed-plugins/manage-installed-plugins-and-scripts.md).
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Channel Settings panel | Substance 3D Sampler"
-description: "Sampler > Interface > Panels > Channel Settings panel"
+title: "Channel Settings panel"
+description: ""
+helpx_description: "Sampler > Interface > Panels > Channel Settings panel"
 ---
 
 # Channel Settings panel
@@ -32,5 +33,3 @@ In order to avoid useless computation, each custom channel has 3 statuses to def
 | Auto | The channel will be computed if a layer above it in the layer stack requests it |
 | On | The channel is always computed |
 | Off | The channel is never computed |
-
- 

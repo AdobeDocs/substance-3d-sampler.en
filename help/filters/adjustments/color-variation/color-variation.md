@@ -1,6 +1,7 @@
 ---
-title: "Color Variation | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments > Color Variation"
+title: "Color Variation"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments > Color Variation"
 ---
 
 # Color Variation
@@ -70,5 +71,3 @@ To use the **Color Variation filter**:
 1. Select a **Color Selection Mode**. With manual mode selected, handles appear in the **2D view** that let you select the original base color that the new color will replace. Enable **Show Text Helper** to keep track of which handle is linked to which color.
 1. Modify the color values with the **Color 1 - 10** controls.
 1. Adjust the **Luminosity Variation** to adjust how much the luminosity is impacted by the color replacement. With a low **Luminosity Variation**, you can flatten the colors of your material completely, or use a high **Luminosity Variation** to maintain detail from the original colors.
-
- 

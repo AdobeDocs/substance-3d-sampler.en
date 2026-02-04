@@ -1,6 +1,7 @@
 ---
-title: "Color Replace | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments > Color Replace"
+title: "Color Replace"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments > Color Replace"
 ---
 
 # Color Replace
@@ -82,5 +83,3 @@ The filter works by first creating a mask based on the luminosity and color valu
 1. Optionally add a custom mask to only apply the effects of the filter in the chosen areas. The custom mask does not impact the mask created in step 1, instead it is an additional mask that you can use to further adjust where the effect is applied.
 
 Sometimes it can be useful to use multiple **Color Replace filters** on top of one another to create more advanced effects.
-
- 

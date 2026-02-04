@@ -1,6 +1,7 @@
 ---
-title: "Blur | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments > Blur"
+title: "Blur"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments > Blur"
 ---
 
 # Blur
@@ -60,5 +61,3 @@ Adjust the amount of blur for each channel independently using these controls. F
   Enable channel specific blur value.
 * ***Channel*** ***-*** **Blur Intensity**: 0-1  
   Adjust the blur for the specified channel.
-
- 

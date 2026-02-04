@@ -1,6 +1,7 @@
 ---
-title: "Processing advanced 3D captures | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Processing advanced 3D captures"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Processing advanced 3D captures
@@ -76,5 +77,3 @@ You can also do this mesh processing step afterwards, once the mesh is added to 
 You can edit the mesh and textures, but you can already export your result using the <b>Share</b> &gt; <b>Export As</b> dialog. <b>General settings</b> let you choose name and path, <b>Mesh settings</b> let you choose 3D mesh format, and <b>Material settings</b> let you configure the material of the mesh. You can toggle mesh or material off to export only one of them individually. Once exported, your mesh is ready to use in other 3D applications.
 
 Now learn how to [further edit your captured 3D meshes in Sampler](../editing-captured-meshes/editing-3d-captured-meshes.md).
-
- 

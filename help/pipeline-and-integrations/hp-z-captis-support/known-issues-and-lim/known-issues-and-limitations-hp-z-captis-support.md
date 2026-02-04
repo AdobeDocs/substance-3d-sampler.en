@@ -1,6 +1,7 @@
 ---
-title: "Known issues, limitations HPZ Captis support | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Known issues, limitations HPZ Captis support"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Known issues and limitations
@@ -16,5 +17,3 @@ description: "Substance 3D Sampler"
 
 * If you have TDR issues, please refer to [this documentation page](https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash.html) from Sustance Painter which should help fix them.
 * If the "Preview" step is all black instead of viewing the live feed inside the device, please make sure you have removed the lens cap from inside the device cone.
-
- 

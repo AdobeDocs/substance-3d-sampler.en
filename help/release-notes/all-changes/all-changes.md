@@ -1,6 +1,7 @@
 ---
-title: "All Changes | Substance 3D Sampler"
-description: "Sampler > Release Notes > All Changes"
+title: "All Changes"
+description: ""
+helpx_description: "Sampler > Release Notes > All Changes"
 ---
 
 # All Changes
@@ -2739,5 +2740,3 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 * Stretched liure by switching the layer visibility quickly
 * Focus resets Camera angle
-
- 

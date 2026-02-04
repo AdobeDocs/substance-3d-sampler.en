@@ -1,6 +1,7 @@
 ---
-title: "Version 4.3 | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Version 4.3"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Version 4.3
@@ -117,5 +118,3 @@ You can add on an Import Image Layer multiple images and generate an Opacity map
 * &#91;Scripting&#93; Unable to get parameters of the first inserted layer
 * &#91;UI&#93; The preview popup when hovering an asset can appear in the wrong location or screen
 * &#91;UI&#93; Undocked panels are visible and usable on top of the Welcome screen
-
- 

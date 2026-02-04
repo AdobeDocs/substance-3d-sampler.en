@@ -1,6 +1,7 @@
 ---
-title: "Auto tiling | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Auto tiling"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Auto Tiling
@@ -56,5 +57,3 @@ This process consists of the following steps:
 1. <b>Seam removal</b>: Adjust the settings to minimize seam visibility. <b>Cut smoothness </b>controls how smooth the line of the seam is, while <b>Blend width </b>blurs the seam between tiles.
 
 Once you've been through all the steps, use <b>Apply</b> to confirm your choices. The <b>Auto Tiling</b> filter will process the material to generate a final result.
-
- 

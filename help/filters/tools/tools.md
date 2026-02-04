@@ -1,6 +1,7 @@
 ---
-title: "Tools | Substance 3D Sampler"
-description: "Sampler > Filters > Tools"
+title: "Tools"
+description: ""
+helpx_description: "Sampler > Filters > Tools"
 ---
 
 # Tools
@@ -44,5 +45,3 @@ Sampler includes the following tools:
 * [Warp](warp/warp.md)
 * [Warp Transform](warp-transform/warp-transform.md)
 * [Upscale](upscale/upscale.md)
-
- 

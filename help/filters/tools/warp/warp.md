@@ -1,6 +1,7 @@
 ---
-title: "Warp | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Warp"
+title: "Warp"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Warp"
 ---
 
 # Warp
@@ -54,5 +55,3 @@ The **Warp filter** allows you to warp your material based on a number of genera
     Select how the results of the warp for this channel are blended with the underlying layer
   * **Opacity**: 0-1  
     Change the opacity of the filter results for this channel.
-
- 

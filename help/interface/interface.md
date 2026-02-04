@@ -1,6 +1,7 @@
 ---
-title: "Interface | Substance 3D Sampler"
-description: "Sampler > Interface"
+title: "Interface"
+description: ""
+helpx_description: "Sampler > Interface"
 ---
 
 # Interface
@@ -108,5 +109,3 @@ Use the <b>Help </b>menu to learn more about Sampler or find out how to fix issu
 | About Sampler | See information about your installed version of Sampler. |
 
 From the **License** menu, use Manage my account to access your Adobe account. Sign out of your Adobe account by clicking sign out.
-
- 

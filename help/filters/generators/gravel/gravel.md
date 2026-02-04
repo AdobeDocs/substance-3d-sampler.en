@@ -1,6 +1,7 @@
 ---
-title: "Gravel | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Gravel"
+title: "Gravel"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Gravel"
 ---
 
 # Gravel
@@ -89,5 +90,3 @@ These images show the **Gravel filter** being used to fill the crevasses of a mu
   Modify the size of the surface being represented by your material. Increasing the surface size means that the physical size of gravel stones is larger, and they will be modified accordingly.
 * **Height Depth** **(cm)**: 0-100  
   Modify the physical depth represented by the height map of your material. An increased height depth means that the stones physical size is taller than it would be otherwise, so stones normal intensity is increased.
-
- 

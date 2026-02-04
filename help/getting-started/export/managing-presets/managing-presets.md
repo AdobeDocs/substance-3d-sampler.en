@@ -1,6 +1,7 @@
 ---
-title: "Managing Presets | Substance 3D Sampler"
-description: "Sampler > Getting Started > Export > Managing Presets"
+title: "Managing Presets"
+description: ""
+helpx_description: "Sampler > Getting Started > Export > Managing Presets"
 ---
 
 # Managing Presets
@@ -46,5 +47,3 @@ You can also:
 * <b>Rename</b>: Change the name of the preset in the interface.
 * <b>Replace</b>: Change the file of your preset to a new version.
 * <b>Delete</b>: Delete the preset.
-
- 

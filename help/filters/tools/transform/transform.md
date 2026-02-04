@@ -1,6 +1,7 @@
 ---
-title: "Transform | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Transform"
+title: "Transform"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Transform"
 ---
 
 # Transform
@@ -115,5 +116,3 @@ The toolbar contains the following shortcuts:
 * Rotation -90° (to the left): anticlockwise 90° rotation.
 * Reset rotation center: Reset the rotation center to the center of the Transform box.
 * Reset transformation: Reset the Transform tool to its default position.
-
- 

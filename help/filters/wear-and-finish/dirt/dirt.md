@@ -1,6 +1,7 @@
 ---
-title: "Dirt | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Dirt"
+title: "Dirt"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Dirt"
 ---
 
 # Dirt
@@ -69,5 +70,3 @@ Compare the clean tiles above with the dirt filter applied to them below.
 
   <b>Surface Imperfections</b>: image   
   Import an image to use as a surface imperfection or use one of the texture generators available by default in the Sampler asset library such as “Stain” or the “Bnw Spots”
-
- 

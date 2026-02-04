@@ -1,6 +1,7 @@
 ---
-title: "Embroidery | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Embroidery"
+title: "Embroidery"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Embroidery"
 ---
 
 # Embroidery
@@ -114,5 +115,3 @@ It's possible to use transparent images in the Embroidery filter, but by default
 1. Follow the normal steps to adjust the Embroidery pattern.
 
 The Decal layer converts the Embroidery input into a Decal - so the Embroidery layer's transparency tells the decal layer how to mask out the Embroidered pattern. With the Decal layer you can also move the pattern around on your material or enable functionality like tiling.
-
- 

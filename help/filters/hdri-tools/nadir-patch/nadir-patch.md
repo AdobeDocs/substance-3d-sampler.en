@@ -1,6 +1,7 @@
 ---
-title: "Nadir Patch | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools > Nadir Patch"
+title: "Nadir Patch"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools > Nadir Patch"
 ---
 
 # Nadir Patch
@@ -61,5 +62,3 @@ A common issue that an occur when creating an environment light from photographs
 1. Use the handle in the **2D view** to change the source location for the patch.
    1. The patched nadir changes depending on the location of the source. If the source is in the bottom half of the texture space, the bottom nadir will be patched; if the source is in the top half, the top nadir will be patched.
 1. Modify the parameters to fine tune the transform of the patch to best hide seams and artifacts.
-
- 

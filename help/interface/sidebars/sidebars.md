@@ -1,6 +1,7 @@
 ---
-title: "Sidebars | Substance 3D Sampler"
-description: "Sampler > Interface > Sidebars"
+title: "Sidebars"
+description: ""
+helpx_description: "Sampler > Interface > Sidebars"
 ---
 
 # Sidebars
@@ -40,5 +41,3 @@ The <b>right sidebar</b> holds the following panels when they are closed:
 * [The <b>Physical Size panel</b>.](../panels/physical-size-panel/physical-size-panel.md)
 * [The <b>Metadata panel</b>.](../panels/metadata-panel/metadata-panel.md)
 * [The <b>Export panel</b>.](../panels/share-panel/share-panel.md)
-
- 

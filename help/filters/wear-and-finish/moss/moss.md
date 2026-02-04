@@ -1,6 +1,7 @@
 ---
-title: "Moss | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Moss"
+title: "Moss"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Moss"
 ---
 
 # Moss
@@ -109,5 +110,3 @@ The following parameters are available independently of which option is selected
 * **Normal Intensity**: 0-1  
   Adjust the strength of the moss normals.
 * **Ambient Occlusion Intensity**Control the strength of the moss' ambient occlusion.
-
- 

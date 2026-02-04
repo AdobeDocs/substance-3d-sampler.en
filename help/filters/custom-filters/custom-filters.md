@@ -1,6 +1,7 @@
 ---
-title: "Custom Filters | Substance 3D Sampler"
-description: "Sampler > Filters > Custom Filters"
+title: "Custom Filters"
+description: ""
+helpx_description: "Sampler > Filters > Custom Filters"
 ---
 
 # Custom Filters
@@ -116,5 +117,3 @@ options:
 * 1: PBR Specular/Glossiness
 
 ![](workflow-type.jpg){width="300px"}
-
- 

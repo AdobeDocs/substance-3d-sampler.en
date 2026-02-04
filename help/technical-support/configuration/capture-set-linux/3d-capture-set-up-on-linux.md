@@ -1,6 +1,7 @@
 ---
 title: "3D Capture set-up on Linux"
-description: "Substance 3D Sampler"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # 3D Capture set-up on Linux
@@ -22,5 +23,3 @@ Red Hat Enterprise Linux (RHEL 9)
 sudo subscription-manager repos --enable codeready-builder-for-rhel-9-x86\_64-rpms
 
 dnf install wine
-
- 

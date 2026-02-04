@@ -1,6 +1,7 @@
 ---
-title: "Assets panel | Substance 3D Sampler"
-description: "Sampler > Interface > Panels > Assets panel"
+title: "Assets panel"
+description: ""
+helpx_description: "Sampler > Interface > Panels > Assets panel"
 ---
 
 # Assets panel
@@ -23,5 +24,3 @@ To add your own assets to the assets panel, click the <b>+ </b>at the lower righ
 >[!NOTE]
 >
 > Only custom assets can be deleted in the<b> Assets panel. </b>It is not possible to delete Sampler's default assets.
-
- 

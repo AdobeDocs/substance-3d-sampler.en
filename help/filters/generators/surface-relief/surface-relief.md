@@ -1,6 +1,7 @@
 ---
-title: "Surface Relief | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Surface Relief"
+title: "Surface Relief"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Surface Relief"
 ---
 
 # Surface Relief
@@ -82,5 +83,3 @@ Use the Surface Relief filter to add noise to your material. This can help break
 * <b>Normal - Rotate Direction</b>
 * <b>Ambient Occlusion - Intensity</b>
 * <b>Ambient Occlusion - Radius</b>
-
- 

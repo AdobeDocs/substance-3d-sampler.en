@@ -1,6 +1,7 @@
 ---
 title: "Layer Resolution"
-description: "Substance 3D Sampler"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Layer Resolution
@@ -16,5 +17,3 @@ This enables you to increase the quality of your materials, but be aware that hi
 In one click, you can switch from your working resolution to a higher resolution to visualize your final material that is ready to export.
 
 ![Switch all layer resolution](Switch_All_Resolution.gif)
-
- 

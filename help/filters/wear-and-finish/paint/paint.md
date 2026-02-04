@@ -1,6 +1,7 @@
 ---
-title: "Paint | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Paint"
+title: "Paint"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Paint"
 ---
 
 # Paint
@@ -111,5 +112,3 @@ The **Paint filter** lets you cover your material in a layer of paint of varying
     Adjust the strength of the generated AO.
   * **Ambient Occlusion** **- Radius**: 0-1  
     Adjust the radius of the AO effect.
-
- 

@@ -1,6 +1,7 @@
 ---
 title: "Texture Generators"
-description: "Substance 3D Sampler"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Texture Generators
@@ -123,5 +124,3 @@ Export your filter as Substance Archive file (.sbsar)
 >[!NOTE]
 >
 > You can expose filter parameters to control the filter directly in Sampler. See how-to [here](https://helpx.adobe.com/substance-3d-designer/substance-compositing-graphs/manage-parameters/exposing-a-parameter.html)
-
- 

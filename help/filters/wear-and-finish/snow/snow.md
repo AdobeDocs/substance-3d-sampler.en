@@ -1,6 +1,7 @@
 ---
-title: "Snow | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Snow"
+title: "Snow"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Snow"
 ---
 
 # Snow
@@ -50,5 +51,3 @@ Use the **Snow filter** to add anything from a dusting to a few feet of snow to 
     Blur the mask.
   * **Mask Intensity**: 0-1  
     Adjust the opacity of the mask.
-
- 

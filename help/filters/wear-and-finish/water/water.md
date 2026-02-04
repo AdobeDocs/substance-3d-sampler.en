@@ -1,6 +1,7 @@
 ---
-title: "Water | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Water"
+title: "Water"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Water"
 ---
 
 # Water
@@ -74,5 +75,3 @@ This section only appears if **Basic parameters &gt; Enable Dirt on Water** is e
   Change the color of the dirt that sits on top of the water's surface.
 * **Sludge opacity**: 0-1  
   Adjust the transparency of the sludge.
-
- 

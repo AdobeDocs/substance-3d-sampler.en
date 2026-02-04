@@ -1,6 +1,7 @@
 ---
-title: "Shape Light | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools > Shape Light"
+title: "Shape Light"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools > Shape Light"
 ---
 
 # Shape Light
@@ -65,5 +66,3 @@ Create a light in the shape of a rectangle or disc.
 
 * **Background Gamma**:  
   Select the color system used to determine background Gamma.
-
- 

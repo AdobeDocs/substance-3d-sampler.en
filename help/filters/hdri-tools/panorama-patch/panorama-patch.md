@@ -1,6 +1,7 @@
 ---
-title: "Panorama Patch | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools > Panorama Patch"
+title: "Panorama Patch"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools > Panorama Patch"
 ---
 
 # Panorama Patch
@@ -40,5 +41,3 @@ The images below show the <b>Panorama Patch </b>in action - in this case, replac
 ## Usage Guide
 
 Add the **Panorama Patch filter** to the top of the layer stack, and then use the handles in the **2D view** to adjust the source and patch locations.
-
- 

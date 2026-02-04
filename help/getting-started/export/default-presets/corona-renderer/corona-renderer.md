@@ -1,6 +1,7 @@
 ---
-title: "Corona Renderer | Substance 3D Sampler"
-description: "Sampler > Getting Started > Export > Default Presets > Corona Renderer"
+title: "Corona Renderer"
+description: ""
+helpx_description: "Sampler > Getting Started > Export > Default Presets > Corona Renderer"
 ---
 
 # Corona Renderer
@@ -16,5 +17,3 @@ description: "Sampler > Getting Started > Export > Default Presets > Corona Rend
 > **(\*\*)** Reflection Color: Export a map where white indicate a dielectric materials and other colors for metallic materials
 > 
 > **(\*\*\*)** Frenesl IOR: 1 divided by the ior value, ior is generated from the metallic map : 1.4 for dielectrics, 100 for metals (black color)
-
- 

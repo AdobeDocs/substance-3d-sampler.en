@@ -1,6 +1,7 @@
 ---
-title: "Fold Remover | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Fold Remover"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Fold Remover
@@ -53,5 +54,3 @@ Quickly remove folds and wrinkles from fabric materials.
   Create or select a custom mask.
 * <b>Custom mask invert</b>: Toggle  
   Invert the mask.
-
- 

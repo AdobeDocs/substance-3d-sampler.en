@@ -1,6 +1,7 @@
 ---
-title: "Version 5.1 | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Version 5.1"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Version 5.1
@@ -114,5 +115,3 @@ Now with Roughness map generation and automatic physical size detection in Studi
 
 * &#91;3D Capture&#93; Remove 3D Capture support
 * &#91;Application&#93; Remove macOS x86 support
-
- 

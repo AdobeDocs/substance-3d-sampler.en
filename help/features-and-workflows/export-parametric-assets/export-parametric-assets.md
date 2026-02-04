@@ -1,6 +1,7 @@
 ---
-title: "Export parametric assets | Substance 3D Sampler"
-description: "Sampler > Features and workflows > Export parametric assets"
+title: "Export parametric assets"
+description: ""
+helpx_description: "Sampler > Features and workflows > Export parametric assets"
 ---
 
 # Export parametric assets
@@ -56,5 +57,3 @@ To export your material with your exposed parameters
 1. Click "export".
 
 You can now use your material with your exposed parameters in any software that supports SBSAR file format.
-
- 

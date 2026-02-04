@@ -1,6 +1,7 @@
 ---
-title: "Flatten layers | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Flatten layers"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Flatten layers
@@ -30,5 +31,3 @@ For each channel, you can:
 * <b>Output usage</b>: Change which channel the output is used for. When you flatten layers, a TIFF is created and named for each channel, and automatically assigned to that channel.
 * <b>Opacity from alpha channel</b>: Toggle whether the opacity is based on the Alpha channel result.
 * <b>Remove</b>: remove the channel from this layer. This can be useful for channels that don't contain useful information. For example, it's a good idea to remove an all white opacity channel, as doing so will free up memory without affecting the visual results.
-
- 

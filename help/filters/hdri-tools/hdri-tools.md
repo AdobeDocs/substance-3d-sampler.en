@@ -1,6 +1,7 @@
 ---
-title: "HDRI Tools | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools"
+title: "HDRI Tools"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools"
 ---
 
 # HDRI Tools
@@ -27,5 +28,3 @@ The following filters are HDRI Tools:
 * [Shape Light](shape-light/shape-light.md)
 * [Sphere Light](sphere-light/sphere-light.md)
 * [Straighten Horizon](straighten-horizon/straighten-horizon.md)
-
- 

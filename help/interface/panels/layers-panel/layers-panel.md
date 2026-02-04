@@ -1,6 +1,7 @@
 ---
-title: "Layers panel | Substance 3D Sampler"
-description: "Sampler > Interface > Panels > Layers panel"
+title: "Layers panel"
+description: ""
+helpx_description: "Sampler > Interface > Panels > Layers panel"
 ---
 
 # Layers panel
@@ -94,5 +95,3 @@ You can drag an image from your system's file browser into Sampler, if there are
 You can also drag multiple selected images into the layer stack at once to import them all as a single layer. This can be helpful for multi-image filters like <b>HDR Merge</b> and <b>Multiangle to Material</b>. Select the layer with multiple images to change the channel data for each image. The image below shows an example of a layer stack using the <b>HDR Merge filter</b> to create an environment light.
 
 ![](layersimages.jpg)
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Version 0.7.0 | Substance 3D Sampler"
-description: "Sampler > Release Notes > Old Versions > Version 0.7.0"
+title: "Version 0.7.0"
+description: ""
+helpx_description: "Sampler > Release Notes > Old Versions > Version 0.7.0"
 ---
 
 # Version 0.7.0
@@ -53,5 +54,3 @@ Known Issues:
 * Tif images are not showing in Properties panel in the Image import layer
 * Coma or point can be ignored when typing a specific value in a slider
 * Normal to height filter can crash on MacOS
-
- 

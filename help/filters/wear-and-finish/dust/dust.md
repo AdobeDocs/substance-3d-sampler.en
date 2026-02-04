@@ -1,6 +1,7 @@
 ---
-title: "Dust | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Dust"
+title: "Dust"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Dust"
 ---
 
 # Dust
@@ -43,5 +44,3 @@ The Dust Splatter can be added on top of a material. You can use it to smooth th
 </td>
 </tr>
 </table>
-
- 

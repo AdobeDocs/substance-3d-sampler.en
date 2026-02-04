@@ -1,6 +1,7 @@
 ---
-title: "Getting Started | Substance 3D Sampler"
-description: "Sampler > Getting Started"
+title: "Getting Started"
+description: ""
+helpx_description: "Sampler > Getting Started"
 ---
 
 # Getting Started
@@ -32,5 +33,3 @@ To get started with Substance 3D Sampler, check out the following pages:
 * [Report a bug](report-a-bug/report-a-bug.md)
 * [Project Management](project-management/project-management.md)
 * [Export](export/export.md)
-
- 

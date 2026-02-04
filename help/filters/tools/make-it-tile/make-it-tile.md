@@ -1,6 +1,7 @@
 ---
-title: "Make it Tile | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Make it Tile"
+title: "Make it Tile"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Make it Tile"
 ---
 
 # Make it Tile
@@ -77,5 +78,3 @@ The image below shows the layout of the layers:
 ![](makeittilediagram.png){width="512px"}
 
 The left and right semi-circles match each other to ensure the material tiles horizontally, and the top and bottom semi-circles ensure the material tiles vertically. The blue square in the center removes hides all the remaining seams to create a fully tileable material with no seams.
-
- 

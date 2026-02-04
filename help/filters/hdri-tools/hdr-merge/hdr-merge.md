@@ -1,6 +1,7 @@
 ---
-title: "HDR Merge | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools > HDR Merge"
+title: "HDR Merge"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools > HDR Merge"
 ---
 
 # HDR Merge
@@ -54,5 +55,3 @@ The basic steps to use the **HDR Merge** **filter** are as follows:
 1. Import the set of images to be merged to the layer stack.
 1. Add the **HDR Merge filter** to the layer stack.
 1. Modify the parameters to ensure that exposure values are correct.
-
- 

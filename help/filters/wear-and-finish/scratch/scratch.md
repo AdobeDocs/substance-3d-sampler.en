@@ -1,6 +1,7 @@
 ---
-title: "Scratch | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Scratch"
+title: "Scratch"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Scratch"
 ---
 
 # Scratch
@@ -156,5 +157,3 @@ Add scratches and wear to your material.
   Set whether the opacity channel is affected by the filter. If enabled, an additional control appears:  
   * **Opacity - Value**: 0-1  
     Change the opacity of the material.
-
- 

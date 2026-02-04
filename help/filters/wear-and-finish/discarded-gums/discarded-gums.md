@@ -1,6 +1,7 @@
 ---
-title: "Discarded Gums | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Discarded Gums"
+title: "Discarded Gums"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Discarded Gums"
 ---
 
 # Discarded Gums
@@ -78,5 +79,3 @@ Add discarded chewing gum to your material. This filter is great for creating pa
   Control how far the spots extend above the underlying surface.
 * **Gum Normal Intensity**: 0-1  
   Adjust the strength of the normal impact due to the spots.
-
- 

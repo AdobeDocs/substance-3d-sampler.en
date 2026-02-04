@@ -1,6 +1,7 @@
 ---
-title: "Normal to Height | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Normal to Height"
+title: "Normal to Height"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Normal to Height"
 ---
 
 # Normal to Height
@@ -31,5 +32,3 @@ The images below show the **Normal to Height filter** in action. In the first im
 ## Parameters
 
 This filter has no parameters. To use it, simply add it to the top of your layer stack.
-
- 

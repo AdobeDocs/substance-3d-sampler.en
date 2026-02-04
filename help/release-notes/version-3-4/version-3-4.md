@@ -1,6 +1,7 @@
 ---
-title: "Version 3.4 | Substance 3D Sampler"
-description: "Sampler > Release Notes > Version 3.4"
+title: "Version 3.4"
+description: ""
+helpx_description: "Sampler > Release Notes > Version 3.4"
 ---
 
 # Version 3.4
@@ -104,5 +105,3 @@ Image to Material (AI Powered) is now available on MacOS and runs natively on Ap
 &#91;Color Picker&#93; Picking a color on a second monitor with a different resolution may not work   
 &#91;Content&#93; Shape light widget is not working in spherical projection mode   
 &#91;Interoperability&#93; Material with displacement sent to Stager will lose displacement controls
-
- 

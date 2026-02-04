@@ -1,6 +1,7 @@
 ---
-title: "Version 0.8.1 | Substance 3D Sampler"
-description: "Sampler > Release Notes > Old Versions > Version 0.8.1"
+title: "Version 0.8.1"
+description: ""
+helpx_description: "Sampler > Release Notes > Old Versions > Version 0.8.1"
 ---
 
 # Version 0.8.1
@@ -23,5 +24,3 @@ description: "Sampler > Release Notes > Old Versions > Version 0.8.1"
 * Coma or point can be ignored when typing a specific value in a slider
 * Normal to height filter can crash on MacOS
 * Can still crash randomly when exiting on MacOS
-
- 

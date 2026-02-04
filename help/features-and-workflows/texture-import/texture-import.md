@@ -1,6 +1,7 @@
 ---
-title: "Texture Import | Substance 3D Sampler"
-description: "Sampler > Features and workflows > Texture Import"
+title: "Texture Import"
+description: ""
+helpx_description: "Sampler > Features and workflows > Texture Import"
 ---
 
 # Texture Import
@@ -29,5 +30,3 @@ Below is a list of the supported file naming conventions for each channel:
 | **Roughness** | <ul data-preserve-html="true"><li data-preserve-html="true">roughness</li><li data-preserve-html="true">rough</li></ul> |
 | **Specular** | <ul data-preserve-html="true"><li data-preserve-html="true">specular</li><li data-preserve-html="true">spec</li></ul> |
 | **Specular Level** | <ul data-preserve-html="true"><li data-preserve-html="true">specularlevel</li><li data-preserve-html="true">specular&#95;level</li></ul> |
-
- 

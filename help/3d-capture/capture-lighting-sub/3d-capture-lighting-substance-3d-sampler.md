@@ -1,6 +1,7 @@
 ---
-title: "3D Capture Lighting | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "3D Capture Lighting"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # 3D Capture Lighting
@@ -44,5 +45,3 @@ Because a flash fires for such a short time, it’s also not affected much by sh
 If you’re using a combination of flash lighting, and continuous video light, you can <b>tweak all settings to even lights out</b>. Your flash will probably easily overpower the video lights, so you can tone its strength down. You can also increase the effect of your video light, by increasing shutter time, as they will keep adding light the longer a shutter is open.
 
 There’s not one solution here it will be needed to experiment for your exact case and equipment. The end goal is to simply have <b>uniform, even lighting with a minimum of visible shadows</b>. The automatic photogrammetry system will have an easier time aligning photos, and your textures will come out more even and uniform, like a true PBR basecolor texture.
-
- 

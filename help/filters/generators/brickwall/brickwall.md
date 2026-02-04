@@ -1,6 +1,7 @@
 ---
-title: "Brickwall | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Brickwall"
+title: "Brickwall"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Brickwall"
 ---
 
 # Brickwall
@@ -113,5 +114,3 @@ Usage Guide
 The Brickwall filter breaks up the underlying material into individual bricks that it then rearranges. For this reason, the Brickwall filter works best with hard surfaces like rocks or metals - in other words the materials most well suited to being bricks in the real world.
 
 The Brickwall filter is useful for creating a base material that you can then layer other effects on top of, like moss, snow or dirt.
-
- 

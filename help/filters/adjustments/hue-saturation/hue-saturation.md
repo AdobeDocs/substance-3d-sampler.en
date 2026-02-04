@@ -1,6 +1,7 @@
 ---
-title: "HueSaturation | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments > HueSaturation"
+title: "HueSaturation"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments > HueSaturation"
 ---
 
 # Hue/Saturation
@@ -64,5 +65,3 @@ The images below show the **Hue/Saturation filter** used to adjust the Hue of a 
     Blur the mask
   * **Custom Mask - Invert**: toggle  
     Invert the mask
-
- 

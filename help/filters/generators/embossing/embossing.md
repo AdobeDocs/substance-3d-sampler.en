@@ -1,6 +1,7 @@
 ---
-title: "Embossing | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Embossing"
+title: "Embossing"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Embossing"
 ---
 
 # Embossing
@@ -106,5 +107,3 @@ These parameters allow you to adjust values for the entire material.
 Add the Embossing filter to the top of the layer stack, then start adjusting parameters.
 
 The most important parameters are generally **Basic Parameters &gt; Pattern Selection** to modify which pattern the filter will use and **Pattern &gt; Use Pattern Tile** to toggle tiling on and off.
-
- 

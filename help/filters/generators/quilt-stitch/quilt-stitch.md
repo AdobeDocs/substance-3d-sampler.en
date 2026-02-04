@@ -1,6 +1,7 @@
 ---
-title: "Quilt Stitch | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Quilt Stitch"
+title: "Quilt Stitch"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Quilt Stitch"
 ---
 
 # Quilt Stitch
@@ -112,5 +113,3 @@ Emulate a stitched quilt pattern in your materials with this filter.
   Adjust the strength of the height map from the underlying material
 * **Normal Intensity**: 0-1  
   Adjust the strength of the normal map changes due to the **Quilt Stitch** filter. This does not impact the normal of the underlying material.
-
- 

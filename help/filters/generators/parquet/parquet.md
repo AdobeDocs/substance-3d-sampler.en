@@ -1,6 +1,7 @@
 ---
-title: "Parquet | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Parquet"
+title: "Parquet"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Parquet"
 ---
 
 # Parquet
@@ -76,5 +77,3 @@ Use presets to quickly change parameters to see different styles of parquet floo
   Vary the angle of each plank by a random amount
 * **Planks Roughness Variation**: 0-1  
   Randomly vary the roughness of each plank.
-
- 

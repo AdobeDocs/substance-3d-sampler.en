@@ -1,6 +1,7 @@
 ---
-title: "Splatter | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Splatter"
+title: "Splatter"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Splatter"
 ---
 
 # Splatter
@@ -135,5 +136,3 @@ To use the Splatter filter:
 You can adjust the scatter parameters in the **Properties panel** by selecting the Splatter layer.
 
 You can adjust the parameters of the input materials in the **Properties panel** by selecting the material in the input slot.
-
- 

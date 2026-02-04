@@ -1,6 +1,7 @@
 ---
-title: "Filters | Substance 3D Sampler"
-description: "Sampler > Filters"
+title: "Filters"
+description: ""
+helpx_description: "Sampler > Filters"
 ---
 
 # Filters
@@ -27,5 +28,3 @@ Filters can be based on different technologies:
 * Image Processing filters made directly in C++ and/or using Artificial Intelligence
 
 Most filters can be used on materials or images. Some filters have specific requirements in terms of channel set up - if a filter isn't working as you'd expect, look for it in the documentation to see a usage guide.
-
- 

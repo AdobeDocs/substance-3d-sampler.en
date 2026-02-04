@@ -1,6 +1,7 @@
 ---
-title: "Version 4.0 | Substance 3D Sampler"
-description: "Sampler > Release Notes > Version 4.0"
+title: "Version 4.0"
+description: ""
+helpx_description: "Sampler > Release Notes > Version 4.0"
 ---
 
 # Version 4.0
@@ -150,5 +151,3 @@ Sampler will now load at startup script and plugins stored on paths defined by t
 * &#91;Color Picker&#93; Picking a color on a second monitor with a different resolution may not work
 * &#91;Content&#93; Shape light widget is not working in spherical projection mode
 * &#91;Interoperability&#93; Material with displacement sent to Stager will lose displacement controls
-
- 

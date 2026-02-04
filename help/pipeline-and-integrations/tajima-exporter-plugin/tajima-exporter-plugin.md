@@ -1,6 +1,7 @@
 ---
-title: "Tajima Exporter plugin | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Tajima Exporter plugin"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Tajima Exporter plugin of Embroidery files
@@ -66,5 +67,3 @@ Open Tajima plugin and export to the location of your choice
 <b>6</b>- Preview the design worksheet, complete with a machine-scannable barcode
 
 ![](Design-Worksheet-Ready-for-Machine.png)
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Wear and Finish | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish"
+title: "Wear and Finish"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish"
 ---
 
 # Wear and Finish
@@ -24,5 +25,3 @@ The following filters are in the Wear and Finish category:
 * [Snow](snow/snow.md)
 * [Water](water/water.md)
 * [Varnish](varnish/varnish.md)
-
- 

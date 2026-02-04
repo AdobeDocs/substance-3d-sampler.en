@@ -1,6 +1,7 @@
 ---
-title: "3D Capture | Substance 3D Sampler"
-description: "Sampler > Features and workflows > 3D Capture"
+title: "3D Capture"
+description: ""
+helpx_description: "Sampler > Features and workflows > 3D Capture"
 ---
 
 # 3D Capture
@@ -275,5 +276,3 @@ In most cases, it is not recommended to move the object during the capture for p
 If the object is moved during the capture, it will appear in a different position in each image, making it difficult for the software to match corresponding features between images. This can lead to inaccuracies in the final 3D model and can also make the image matching step difficult or impossible.
 
 However, there are some cases where moving the object can be beneficial. For example, in the case of small objects, where it is difficult to take images with significant overlap, it's possible to use a turntable and rotate the object to ensure that all features are captured from multiple angles.
-
- 

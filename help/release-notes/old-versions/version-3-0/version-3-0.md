@@ -1,6 +1,7 @@
 ---
-title: "Version 3.0 | Substance 3D Sampler"
-description: "Sampler > Release Notes > Old Versions > Version 3.0"
+title: "Version 3.0"
+description: ""
+helpx_description: "Sampler > Release Notes > Old Versions > Version 3.0"
 ---
 
 # Version 3.0
@@ -240,5 +241,3 @@ Below are our video tutorials covering the new features:
 * &#91;Assets Panel&#93; Assets can be highlighted when opening a folder
 * &#91;Properties Panel&#93; Resetting the parameters doesn't reset the combobox UI
 * &#91;Localization&#93; Changing language doesn't affect the project panel until it's recreated
-
- 

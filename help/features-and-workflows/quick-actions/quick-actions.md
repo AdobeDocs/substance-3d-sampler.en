@@ -1,6 +1,7 @@
 ---
-title: "Quick Actions | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Quick Actions"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Quick actions
@@ -60,5 +61,3 @@ Options:
 * <b>Setup :</b> Opens the setup window to prearrange the Quick action before adding it to the stack.
 * <b>Create new Asset :</b> Create a new asset from the selected quick action.
 * <b>Create new Project : </b>Create a new project from the selected quick action.
-
- 

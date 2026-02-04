@@ -1,6 +1,7 @@
 ---
-title: "Exposed Parameters Panel | Substance 3D Sampler"
-description: "Sampler > Interface > Panels > Exposed Parameters Panel"
+title: "Exposed Parameters Panel"
+description: ""
+helpx_description: "Sampler > Interface > Panels > Exposed Parameters Panel"
 ---
 
 # Exposed Parameters Panel
@@ -21,5 +22,3 @@ There are a few ways to interact with the exposed parameters:
 | Edit the label of a parameter | Right click on a parameter and select "Edit", enter the new label. |
 
 You can interact with all parameters as you normally would with the **Properties panel.** Changes will be reflected in the 3D viewport.
-
- 

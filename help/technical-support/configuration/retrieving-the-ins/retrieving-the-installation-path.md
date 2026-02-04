@@ -1,6 +1,7 @@
 ---
-title: "Retrieving the installation path | Substance 3D Sampler"
-description: "Sampler > Technical Support > Configuration > Retrieving the installation path"
+title: "Retrieving the installation path"
+description: ""
+helpx_description: "Sampler > Technical Support > Configuration > Retrieving the installation path"
 ---
 
 # Retrieving the installation path
@@ -54,5 +55,3 @@ On Linux the rpm package is installed in the following path:
 | --- | --- |
 | **3.x or newer** | **/opt/Adobe/Adobe\_Substance\_3D\_Sampler** |
 | **Legacy** | **/opt/Allegorithmic/Substance\_Alchemist** |
-
- 

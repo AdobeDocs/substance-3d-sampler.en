@@ -1,6 +1,7 @@
 ---
-title: "Decal | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Decal"
+title: "Decal"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Decal"
 ---
 
 # Decal
@@ -70,5 +71,3 @@ To use the Decal filter:
 You can adjust the filter parameters in the **Properties panel** by selecting the Decal layer.
 
 You can adjust the parameters of the decal input material in the **Properties panel** by selecting the material in the input slot.
-
- 

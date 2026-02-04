@@ -1,6 +1,7 @@
 ---
-title: "Multiangle To Material | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Multiangle To Material"
+title: "Multiangle To Material"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Multiangle To Material"
 ---
 
 # Multiangle To Material
@@ -48,5 +49,3 @@ In the Multiangle to Material layer:
 * Set Next Input Light Angle: It defines the direction of the rotation of your image. If scan1 is 0°, scan2 45°... the value is **Counterclockwise**
 
 ![](multiangle-multiangle-to-material.png){width="450px"}
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Import Resources | Substance 3D Sampler"
-description: "Sampler > Getting Started > Importing Resources"
+title: "Import Resources"
+description: ""
+helpx_description: "Sampler > Getting Started > Importing Resources"
 ---
 
 # Import resources
@@ -31,5 +32,3 @@ Sampler can use external resources like images and Substance files to modify you
 | --- | --- |
 | <b>Bitmaps / Images</b>  (JPEG, PNG, etc) | You can drag and drop or import your bitmaps in the <b>Layers </b>panel, or into SBSAR or filter parameters that allow an image input. |
 | <b>Substance Packages</b>  (SBSAR) | You can import SBSAR files into the <b>Assets </b>panel or into the <b>Layers </b>panel. |
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Export Window | Substance 3D Sampler"
-description: "Sampler > Getting Started > Export > Export Window"
+title: "Export Window"
+description: ""
+helpx_description: "Sampler > Getting Started > Export > Export Window"
 ---
 
 # Export Window
@@ -126,5 +127,3 @@ Sampler can export a wide range of formats. Currently supported formats are:
 | Mesh Format |
 | --- |
 | <ul data-preserve-html="true"><li data-preserve-html="true">USD</li><li data-preserve-html="true">USDZ</li><li data-preserve-html="true">USDA</li><li data-preserve-html="true">GLB</li><li data-preserve-html="true">GLTF</li><li data-preserve-html="true">FBX</li><li data-preserve-html="true">OBJ</li><li data-preserve-html="true">STL</li></ul> |
-
- 

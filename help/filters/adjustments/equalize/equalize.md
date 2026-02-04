@@ -1,6 +1,7 @@
 ---
-title: "Equalize | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments > Equalize"
+title: "Equalize"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments > Equalize"
 ---
 
 # Equalize
@@ -75,5 +76,3 @@ The controls for each channel work the same way.
 * <b>Custom Mask</b>: image/brush  
   Select an image to use as a mask, or use the brush to paint a custom mask directly in the 2D view
 * <b>Custom Mask Invert</b>: toggle
-
- 

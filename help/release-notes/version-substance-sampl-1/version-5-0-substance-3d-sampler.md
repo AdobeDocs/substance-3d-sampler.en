@@ -1,6 +1,7 @@
 ---
-title: "Version 5.0 | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Version 5.0"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Version 5.0
@@ -100,5 +101,3 @@ More info *[here](../../pipeline-and-integrations/hp-z-captis-support/hp-z-capti
 <b>Removed:</b>
 
 * &#91;Application&#93; Remove support for .dng and .nef image files
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Quick Actions Panel | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Quick Actions Panel"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Quick actions panel
@@ -19,5 +20,3 @@ Options:
 * <b>Create new Project: </b>Create a new project from the selected Quick action.
 
 Learn more about Quick actions [here](../../../features-and-workflows/quick-actions/quick-actions.md).
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Perforate | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Perforate"
+title: "Perforate"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Perforate"
 ---
 
 # Perforate
@@ -109,5 +110,3 @@ This section is only visible if **Basic parameters &gt; Use Mask** is enabled
   Adjust the strength of each perforations normals
 * **Height Intensity**: 0-1  
   Adjust the strength of each perforations height map
-
- 

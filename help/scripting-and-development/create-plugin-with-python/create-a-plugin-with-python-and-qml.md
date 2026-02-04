@@ -1,6 +1,7 @@
 ---
-title: "Create a Plugin with Python and QML | Substance 3D Sampler"
-description: "Sampler > Scripting and Development > Create a Plugin with Python and QML"
+title: "Create a Plugin with Python and QML"
+description: ""
+helpx_description: "Sampler > Scripting and Development > Create a Plugin with Python and QML"
 ---
 
 # Create a Plugin with Python and QML
@@ -445,5 +446,3 @@ Below is an example SVG you can use for the autosave plugin created above.
 The autosave plugin created above is functional, but it isn't perfect. For example, adjusting the autosave interval after autosave has been enabled will not actually change the time between autosaves - you would need to disable and reenable autosave for the value in the UI to be sent to the API.
 
 If you are new to working with Python and QML together, fixing this bug is a useful way to build an understanding of how the different parts of the plugin communicate with each other.
-
- 

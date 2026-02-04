@@ -1,6 +1,7 @@
 ---
-title: "Stonewall | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Stonewall"
+title: "Stonewall"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Stonewall"
 ---
 
 # Stonewall
@@ -53,5 +54,3 @@ Use the Stonewall filter to quickly embed your material into an old stone wall.
 
 * **Normal Intensity**: 0-3  
   Control the strength of the normals for the entire material.
-
- 

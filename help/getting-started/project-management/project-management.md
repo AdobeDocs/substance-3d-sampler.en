@@ -1,6 +1,7 @@
 ---
-title: "Manage your project | Substance 3D Sampler"
-description: "Sampler > Getting Started > Manage your project"
+title: "Manage your project"
+description: ""
+helpx_description: "Sampler > Getting Started > Manage your project"
 ---
 
 # Project management
@@ -34,5 +35,3 @@ Projects can be opened in a few ways:
 * In the <b>Home Screen</b>: use the recent project list to quickly open a project by double-clicking it.
 * In the <b>Home Screen</b>: Click <b>Open</b> to open a file browser where you can choose the file you'd like to open.
 * Via the **File &gt; Open Project** menu.
-
- 

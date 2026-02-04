@@ -1,6 +1,7 @@
 ---
-title: "Colorize | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments > Colorize"
+title: "Colorize"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments > Colorize"
 ---
 
 # Colorize
@@ -77,5 +78,3 @@ The parameters available in this section change based on **Channel Selection**.
     Blur the mask
   * **Custom Mask - Invert**: toggle  
     Invert the mask
-
- 

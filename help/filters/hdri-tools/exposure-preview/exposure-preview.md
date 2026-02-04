@@ -1,6 +1,7 @@
 ---
-title: "Exposure Preview | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools > Exposure Preview"
+title: "Exposure Preview"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools > Exposure Preview"
 ---
 
 # Exposure Preview
@@ -48,5 +49,3 @@ With the **Exposure Preview** **filter** added to the layer stack, a new channel
 The **Exposure Preview filter** works a little differently to other Sampler filters. It's a tool that's meant to help find the correct exposure for your environment light, but it doesn't actually impact the Environment channel at all - instead, when you add the **Exposure Preview filter** to the layer stack, an additional channel becomes available to view in the **2D view** - the Environment Diagnostic channel.
 
 If you view the Environment Diagnostic channel, you should be able to see a few instances of your 2D environment image at varying exposure values. Adjust the parameters of the **Exposure Preview filter** to change the range of exposures visible in the Environment Diagnostic channel.
-
- 

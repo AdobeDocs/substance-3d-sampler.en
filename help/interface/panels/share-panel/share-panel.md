@@ -1,6 +1,7 @@
 ---
-title: "Export panel | Substance 3D Sampler"
-description: "Sampler > Interface > Panels > Export panel"
+title: "Export panel"
+description: ""
+helpx_description: "Sampler > Interface > Panels > Export panel"
 ---
 
 # Export panel
@@ -36,5 +37,3 @@ Click **Export as...** to export the asset you're currently working on. In the w
 > For more information on the Export dialog options and other information like file formats, see the [Export article](../../../getting-started/export/export.md) and its [sub-article on the Export Window](../../../getting-started/export/export-window/export-window.md).
 
 Once you're happy with the export settings, click **Export**. Your export will appear in the export queue which shows a list of recent exports. Click the folder icon on any export to open the file location of that export.
-
- 

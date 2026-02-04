@@ -1,6 +1,7 @@
 ---
-title: "Stylization | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Stylization"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Stylization
@@ -157,5 +158,3 @@ The images below show the bark material before and after having the Stylization
 
 * <b>Ambient Occlusion Intensity</b>: 0-1  
   Adjust the level of the contrast on the AO map
-
- 

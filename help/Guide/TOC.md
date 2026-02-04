@@ -4,7 +4,7 @@ breadcrumb-title: placeholder
 user-guide-description: placeholder
 ---
 
-# Substance 3D Sampler {#substance-3d-sampler}
+# Substance 3D Sampler {#using}
 
 + [Home](/help/substance-3d-sampler.md)
 + Getting Started{#getting-started}
@@ -262,4 +262,3 @@ user-guide-description: placeholder
     + [0.5.0](/help/release-notes/old-versions/0-5-0/0-5-0.md)
 + FAQ{#faq}
   + [FAQ Overview](/help/faq/faq.md)
-

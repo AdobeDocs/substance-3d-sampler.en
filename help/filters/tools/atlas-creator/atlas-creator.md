@@ -1,6 +1,7 @@
 ---
-title: "Atlas Creator | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Atlas Creator"
+title: "Atlas Creator"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Atlas Creator"
 ---
 
 # Atlas Creator
@@ -71,5 +72,3 @@ The **Atlas Creator** is designed to convert an atlas image into a material atla
 1. Add the **Atlas Creator** to the top of the layer stack.
 1. Adjust the parameters of the **Atlas Creator** until you're happy with the results - view the opacity channel in the **2D view** to see the filter results more clearly.
 1. Use the **Export panel** to export the generated channels.
-
- 

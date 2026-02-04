@@ -1,6 +1,7 @@
 ---
-title: "Example Scripts | Substance 3D Sampler"
-description: "Sampler > Scripting and Development > Create a Script with Python > Example Scripts"
+title: "Example Scripts"
+description: ""
+helpx_description: "Sampler > Scripting and Development > Create a Script with Python > Example Scripts"
 ---
 
 # Example Scripts
@@ -323,5 +324,3 @@ for layer in my_asset_layers:
 
                     print("After:", parameter.value)
 ```
-
- 

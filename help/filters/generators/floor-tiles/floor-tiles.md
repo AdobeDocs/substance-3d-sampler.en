@@ -1,6 +1,7 @@
 ---
-title: "Floor Tiles | Substance 3D Sampler"
-description: "Sampler > Filters > Generators > Floor Tiles"
+title: "Floor Tiles"
+description: ""
+helpx_description: "Sampler > Filters > Generators > Floor Tiles"
 ---
 
 # Floor Tiles
@@ -138,5 +139,3 @@ The Floor Tiles filter lets you quickly convert your material into tiles. Most o
 1. Adjust the parameters of the input material until you're happy with the result.
 
 While it is possible to add multiple materials and filters into a single input slot, it's generally a good idea to avoid doing this as it adds complexity and can make it harder to read your material when you come back to it later. Instead create new materials in your project and then drag an instance of your new material into the input slot. When you update the material in your project it will automatically update the material in the input slot, giving you full control and simplifying the layer stack.
-
- 

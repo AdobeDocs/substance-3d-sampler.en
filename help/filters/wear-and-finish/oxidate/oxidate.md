@@ -1,6 +1,7 @@
 ---
-title: "Oxidate | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Oxidate"
+title: "Oxidate"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Oxidate"
 ---
 
 # Oxidate
@@ -96,5 +97,3 @@ The following parameters allow you to adjust the named value for the whole mater
 * **Height Range**: 0-1
 * **Height Position**: 0-1
 * **Ambient Occlusion Intensity**: 0-1
-
- 

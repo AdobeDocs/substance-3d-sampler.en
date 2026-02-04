@@ -1,6 +1,7 @@
 ---
-title: "Adjustments | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments"
+title: "Adjustments"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments"
 ---
 
 # Adjustments
@@ -19,5 +20,3 @@ Below is a list of adjustment filters:
 * [Invert](invert/invert.md)
 * [Sharpen](sharpen/sharpen.md)
 * [Vibrance](vibrance/vibrance.md)
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Shortcuts | Substance 3D Sampler"
-description: "Sampler > Getting Started > Shortcuts"
+title: "Shortcuts"
+description: ""
+helpx_description: "Sampler > Getting Started > Shortcuts"
 ---
 
 # Shortcuts
@@ -157,5 +158,3 @@ This page list all the keyboard shortcut available and their actions.
 | Add a Base Material | Shift + B | Shift + B |
 | Filters Menu | Spacebar | Spacebar |
 | Flatten layers | Ctrl + M | Cmd + M |
-
- 

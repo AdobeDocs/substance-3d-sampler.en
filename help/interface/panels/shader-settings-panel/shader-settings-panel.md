@@ -1,6 +1,7 @@
 ---
-title: "Shader Settings panel | Substance 3D Sampler"
-description: "Sampler > Interface > Panels > Shader Settings panel"
+title: "Shader Settings panel"
+description: ""
+helpx_description: "Sampler > Interface > Panels > Shader Settings panel"
 ---
 
 # Shader Settings panel
@@ -23,5 +24,3 @@ Material parameters let you adjust how your current material is rendered by the 
 | Index of Refraction | Adjust the angle at which light refracts off surfaces. |
 | Coat Index of Refraction | Adjust the angle at which light refracts off the surface coat. |
 | Coat Normal Scale | Adjust the normal scale specifically for the surface coat. |
-
- 

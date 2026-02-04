@@ -1,6 +1,7 @@
 ---
-title: "Channels Generation | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Channels Generation"
+title: "Channels Generation"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Channels Generation"
 ---
 
 # Channels Generation
@@ -37,5 +38,3 @@ Use presets to quickly change parameters to see different styles of parquet floo
 * **Parameter**  **2**: 0-1
 
 ## Usage Guide
-
- 

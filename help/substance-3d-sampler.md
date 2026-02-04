@@ -1,6 +1,7 @@
 ---
-title: "Substance 3D Sampler | Substance 3D Sampler"
-description: "Sampler"
+title: "Substance 3D Sampler"
+description: ""
+helpx_description: "Sampler"
 ---
 
 # Substance 3D Sampler

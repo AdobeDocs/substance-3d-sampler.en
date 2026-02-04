@@ -1,6 +1,7 @@
 ---
-title: "Camera Settings - Exposure | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Camera Settings - Exposure"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Camera Settings - Exposure
@@ -54,5 +55,3 @@ As seen earlier exposure is a mix of 4 factors: aperture, shutter speed and ISO,
 There’s one more setting on your camera that you might not want to leave up to chance. The white-balance of an image is what determines if a photo looks “warm” or “cold”. It’s entirely dependent on the lighting: outdoor sunlight easily looks cold, indoor bulbs easily look warm. This value is expressed in kelvin, K, and you want to match it to your lighting. Outdoor lighting is about 7-8000K, indoor about 5000. It’s usually fine to set this on sight.
 
 Now that you know everything about exposure, learn more about [setting your camera's focus for the 3D Capture process](../camera-settings-focus-sub/camera-settings-focus-substance-3d-sampler.md).
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Release Notes | Substance 3D Sampler"
-description: "Sampler > Release Notes"
+title: "Release Notes"
+description: ""
+helpx_description: "Sampler > Release Notes"
 ---
 
 # Release Notes
@@ -17,5 +18,3 @@ Here is what's new in Substance 3D Sampler (previously Substance Alchemist) by v
 * [Version 4.0](version-4-0/version-4-0.md)
 * [Version 3.4](version-3-4/version-3-4.md)
 * [Version 3.3](version-3-3/version-3-3.md)
-
- 

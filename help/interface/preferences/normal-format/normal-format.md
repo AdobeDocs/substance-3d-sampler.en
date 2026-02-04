@@ -1,6 +1,7 @@
 ---
-title: "Normal Format | Substance 3D Sampler"
-description: "Sampler > Interface > Preferences > Normal Format"
+title: "Normal Format"
+description: ""
+helpx_description: "Sampler > Interface > Preferences > Normal Format"
 ---
 
 # Normal Format
@@ -27,5 +28,3 @@ The normal format is an exposed parameter. This parameter can be tweaked by the 
 #### Image formats
 
 The normal is exported in the format selected in Preferences.
-
- 

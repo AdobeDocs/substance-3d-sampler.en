@@ -1,6 +1,7 @@
 ---
-title: "Corrode | Substance 3D Sampler"
-description: "Sampler > Filters > Wear and Finish > Corrode"
+title: "Corrode"
+description: ""
+helpx_description: "Sampler > Filters > Wear and Finish > Corrode"
 ---
 
 # Corrode
@@ -78,5 +79,3 @@ Some of the Advanced Parameters impact the full material rather than just the ar
   Offset the height of the full material.
 * **Ambient Occlusion Intensity**: 0-1  
   Adjust the strength of the AO impact due to the **Corrode filter**.
-
- 

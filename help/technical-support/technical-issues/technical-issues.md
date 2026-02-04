@@ -1,6 +1,7 @@
 ---
-title: "Technical Issues | Substance 3D Sampler"
-description: "Sampler > Technical Support > Technical Issues"
+title: "Technical Issues"
+description: ""
+helpx_description: "Sampler > Technical Support > Technical Issues"
 ---
 
 # Technical Issues
@@ -34,5 +35,3 @@ This page regroups common known issues or questions related to Substance 3D Samp
 
 * [Application doesn't start on Linux](startup-issues/application-doesn-start/application-doesn-t-start-on-linux.md)
 * [Crash at start up - Old OBS Version](startup-issues/crash-start-old-obs-ver/crash-at-start-up-old-obs-version.md)
-
- 

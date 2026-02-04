@@ -1,6 +1,7 @@
 ---
-title: "The Home Screen | Substance 3D Sampler"
-description: "Sampler > Interface > The Home Screen"
+title: "The Home Screen"
+description: ""
+helpx_description: "Sampler > Interface > The Home Screen"
 ---
 
 # The Home Screen
@@ -19,5 +20,3 @@ When you open Sampler, the <b>Home Screen</b> will appear. The <b>Home Screen</b
 1. <b>Documentation</b>: View the documentation and expand your abilities.
 
 When you open or start a new project, the <b>Home Screen</b> will disappear so you can start creating assets. You can open the <b>Home Screen</b> again from the <b>File menu</b>.
-
- 

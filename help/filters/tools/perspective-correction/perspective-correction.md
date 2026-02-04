@@ -1,6 +1,7 @@
 ---
-title: "Perspective Correction | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Perspective Correction"
+title: "Perspective Correction"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Perspective Correction"
 ---
 
 # Perspective Transform
@@ -41,5 +42,3 @@ With the Perspective Transform layer selected, a handle appears on each corner o
 ## Toolbar
 
 With the Perspective Transform layer selected, a toolbar appears at the top of the **2D view**. Use the **Reset positions button** to reset the Perspective Transform layer's handles to the default positions.
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "Version 4.5 | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Version 4.5"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Version 4.5
@@ -34,5 +35,3 @@ More info [here](../../pipeline-and-integrations/substance-connector/substance-c
 * &#91;Content&#93; Dirt - Applying a Dirt filter on top of Image to Material generates a black normal
 * &#91;Content&#93; Emboss - Scaling of a pattern in the emboss filter is not linear between 0 and 1
 * &#91;Content&#93; Make it tile - Improved normal and height consistency
-
- 

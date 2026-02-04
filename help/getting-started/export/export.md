@@ -1,6 +1,7 @@
 ---
-title: "Export | Substance 3D Sampler"
-description: "Sampler > Getting Started > Export"
+title: "Export"
+description: ""
+helpx_description: "Sampler > Getting Started > Export"
 ---
 
 # Export
@@ -25,5 +26,3 @@ See the following pages for more information:
 * [Default presets](default-presets/default-presets.md)
 * [Managing custom presets](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
 * [Managing presets](managing-presets/managing-presets.md)
-
- 

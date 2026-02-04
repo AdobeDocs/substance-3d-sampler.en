@@ -1,6 +1,7 @@
 ---
-title: "Upscale | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Upscale"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Upscale
@@ -69,5 +70,3 @@ In the image above, a low resolution image is processed by the [Image to Materia
 ![](SAPR_Upscale_Screen_003.png)
 
 The <b>Upscale</b> filter is added to up sample the results. It halucinate details in order to reach a higher resolution keeping the quality of the material. You can chose in the properties to upsample by 2 or by 4.
-
- 

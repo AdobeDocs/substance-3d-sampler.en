@@ -1,6 +1,7 @@
 ---
-title: "PBR Validate | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > PBR Validate"
+title: "PBR Validate"
+description: ""
+helpx_description: "Sampler > Filters > Tools > PBR Validate"
 ---
 
 # PBR Validate
@@ -73,5 +74,3 @@ The filter uses a red to green scale to show where errors are. If the entire mat
 If you're using the color validation mode, non-green areas generally mean that there are values in your base color that are close to either completely black or completely white. Use adjustment filters like **Hue/Saturation** or **Brightness/Contrast** to adjust the values of your color channel until the **PBR Validate filter** shows no more errors.
 
 If you're using the metal validation mode, non-green areas generally mean that the combination of your color, roughness, and metallic maps in those areas is unrealistic. Usually this happens with dark color values, 0 roughness, and 1 metallic values. To fix these errors, you can modify the roughness, the metallic, or the color values until the **PBR Validate filter** shows no more errors.
-
- 

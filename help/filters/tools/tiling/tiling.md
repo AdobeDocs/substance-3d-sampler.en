@@ -1,6 +1,7 @@
 ---
-title: "Tiling | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Tiling"
+title: "Tiling"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Tiling"
 ---
 
 # Tiling
@@ -89,5 +90,3 @@ So, to use the **Tiling filter**, adjusting these two parts of the process can g
 For some materials using the **Tiling filter** alone will still result in artifacts or problems along the seam. In this case it's a good idea to use other filters such as **Clone Stamp** to fix seam and tiling problems.
 
 It's a good practice to work on tiling the material early in the material creation process - as soon as a non-tiling element is added to the material it's a good idea to ensure it tiles before working further. Sampler's filters are designed so that they don't break tiling materials. This means that, once the underlying material tiles, you can keep working with filters and Sampler's included materials and your material will still tile.
-
- 

@@ -1,6 +1,7 @@
 ---
-title: "2D and 3D Viewport | Substance 3D Sampler"
-description: "Sampler > Interface > 2D and 3D Viewport"
+title: "2D and 3D Viewport"
+description: ""
+helpx_description: "Sampler > Interface > 2D and 3D Viewport"
 ---
 
 # 2D and 3D Viewport
@@ -94,5 +95,3 @@ With the <b>2D view </b>open, some new options appear:
   * See color channels and bit depth for the selected material channel.
 
   ![](2dbottom.jpg)
-
- 

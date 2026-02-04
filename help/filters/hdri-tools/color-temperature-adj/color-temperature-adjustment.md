@@ -1,6 +1,7 @@
 ---
-title: "Color Temperature Adjustment | Substance 3D Sampler"
-description: "Sampler > Filters > HDRI Tools > Color Temperature Adjustment"
+title: "Color Temperature Adjustment"
+description: ""
+helpx_description: "Sampler > Filters > HDRI Tools > Color Temperature Adjustment"
 ---
 
 # Color Temperature Adjustment
@@ -60,5 +61,3 @@ The images below show how the **Color Temperature Adjustment filter** can be use
     Blur the mask
   * **Custom Mask - Invert**: toggle  
     Invert the mask
-
- 

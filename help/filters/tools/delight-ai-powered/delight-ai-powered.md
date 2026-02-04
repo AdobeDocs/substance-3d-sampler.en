@@ -1,6 +1,7 @@
 ---
-title: "Delight (AI Powered) | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Delight (AI Powered)"
+title: "Delight (AI Powered)"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Delight (AI Powered)"
 ---
 
 # Delight (AI Powered)
@@ -53,5 +54,3 @@ Add the **Delighter filter** to the top of the layer stack.
 ### When to use it?
 
 When using **Image to Material (B2M)**, once you have extracted all channels from your images and made the material tileable, use the delighter to remove lighting information from the basecolor. **Image to Material (AI powered)** includes a delighting pass, so you should not need to use the **Delighter (AI powered) filter** with it.
-
- 

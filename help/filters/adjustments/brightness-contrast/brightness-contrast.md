@@ -1,6 +1,7 @@
 ---
-title: "BrightnessContrast | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments > BrightnessContrast"
+title: "BrightnessContrast"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments > BrightnessContrast"
 ---
 
 # Brightness/Contrast
@@ -62,5 +63,3 @@ In the images below, the **Brightness/Contrast filter** has been used to increas
     Blur the mask
   * **Custom Mask - Invert**: toggle  
     Invert the mask
-
- 

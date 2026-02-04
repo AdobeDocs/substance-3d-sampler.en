@@ -1,6 +1,7 @@
 ---
-title: "Adobe Standard Material | Substance 3D Sampler"
-description: "Sampler > Features and workflows > Adobe Standard Material"
+title: "Adobe Standard Material"
+description: ""
+helpx_description: "Sampler > Features and workflows > Adobe Standard Material"
 ---
 
 # Adobe Standard Material
@@ -222,5 +223,3 @@ Simulate surface details like bumps and cracks on the coat surface.
 **Coat normal scale**
 
 The strength of the coat normal effect.
-
- 

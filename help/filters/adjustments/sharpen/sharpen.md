@@ -1,6 +1,7 @@
 ---
-title: "Sharpen | Substance 3D Sampler"
-description: "Sampler > Filters > Adjustments > Sharpen"
+title: "Sharpen"
+description: ""
+helpx_description: "Sampler > Filters > Adjustments > Sharpen"
 ---
 
 # Sharpen
@@ -49,5 +50,3 @@ Use presets to quickly change parameters to see different styles of parquet floo
     Blur the mask
   * **Custom Mask - Invert**: toggle  
     Invert the mask
-
- 

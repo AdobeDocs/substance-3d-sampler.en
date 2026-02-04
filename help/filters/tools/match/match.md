@@ -1,6 +1,7 @@
 ---
-title: "Match | Substance 3D Sampler"
-description: "Sampler > Filters > Tools > Match"
+title: "Match"
+description: ""
+helpx_description: "Sampler > Filters > Tools > Match"
 ---
 
 # Match
@@ -68,5 +69,3 @@ The images below show the **Match filter** being used to convert a carbon fiber 
   Adjust the strength of the basecolor matching
 * **Roughness - Match Target**: 0-1  
   Adjust the strength of the roughness matching
-
- 
