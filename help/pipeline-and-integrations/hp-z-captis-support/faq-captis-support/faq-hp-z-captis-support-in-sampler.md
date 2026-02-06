@@ -44,7 +44,7 @@ Once your captured material is in Substance 3D Sampler, you can export it to any
 +++
 
 +++What are the recommended specifications to use Substance 3D Sampler with Captis?
-Sampler hardware specifications are available [here](../../../help/guide/pipeline-and-integrations/hp-z-captis-support/system-requirements-use/system-requirements-to-use-hp-z-captis.md).
+Sampler hardware specifications are available [here](../system-requirements-use/system-requirements-to-use-hp-z-captis.md).
 
 +++
 
@@ -79,14 +79,14 @@ As of August 7th, 2025 release, the five maps being exported are the Base color,
 +++Is tiling automatically done?
 Tiling is performed in the Sampler layer stack using current tiling filters.
 
-The Auto tiling filter can be used to tile automatically materials with a defined repetitive structure or small patterns, with a minimum of 3 patterns in each direction. Learn more about this filter in the [dedicated section of the documentation](../../../help/guide/filters/tools/auto-tiling/auto-tiling.md).
+The Auto tiling filter can be used to tile automatically materials with a defined repetitive structure or small patterns, with a minimum of 3 patterns in each direction. Learn more about this filter in the [dedicated section of the documentation](../../../filters/tools/auto-tiling/auto-tiling.md).
 
 +++
 
 +++Which formats can the scanned materials be exported as?
 HP Z Captis is natively operated by Adobe Substance 3D Sampler. HP Z Captis captures 64 raw images (that can be retrieved from your local folder) and PBR maps (that are processed from the raw captured images and that are loaded automatically in Substance 3D Sampler). Substance 3D Sampler will create a 3d material based on the PBR channels that are automatically loaded in Sampler layer stack after the capture.
 
-From Adobe Substance 3D Sampler, you can export your digital material in any export format available in Substance 3D Sampler: as Substance files (.SBS and .SBSAR files) or as bitmap textures including .PNG, .JPG, .TIFF… (see the details on Sampler documentation webpage: [https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html](../../../help/guide/getting-started/export/export.md)).
+From Adobe Substance 3D Sampler, you can export your digital material in any export format available in Substance 3D Sampler: as Substance files (.SBS and .SBSAR files) or as bitmap textures including .PNG, .JPG, .TIFF… (see the details on Sampler documentation webpage: [https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html](../../../getting-started/export/export.md)).
 
 +++
 

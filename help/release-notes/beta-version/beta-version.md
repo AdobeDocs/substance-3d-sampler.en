@@ -6,7 +6,7 @@ helpx_description: "Substance 3D Sampler"
 
 # Betas
 
-This page regroups all the Betas versions of Substance 3D Sampler. To know How to acces the Beta you can go to our [FAQ page](../../help/guide/faq/faq.md).
+This page regroups all the Betas versions of Substance 3D Sampler. To know How to acces the Beta you can go to our [FAQ page](../../faq/faq.md).
 
 ## 4.4.0 Beta - Text to Texture
 

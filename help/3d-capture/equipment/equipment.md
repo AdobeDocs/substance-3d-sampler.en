@@ -44,4 +44,4 @@ The one major thing to pay attention to, is a uniform background. The photogramm
 
 Once everything is setup, the idea is simple: take plenty of photos, <b>going in full 360 degree loops. 16 shots per rotation is a good number, in at least 5 different loops</b>. One <b>from the side</b>, and <b>two from differing heights</b>, for the bottom and top each.
 
-Now learn more about the c[amera settings you will need to use for the 3D capture process](../../help/guide/3d-capture/camera-settings-exposure/camera-settings-exposure-substance-3d-sampler.md).
+Now learn more about the c[amera settings you will need to use for the 3D capture process](../camera-settings-exposure/camera-settings-exposure-substance-3d-sampler.md).

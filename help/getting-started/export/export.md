@@ -22,7 +22,7 @@ Sampler supports major file formats for your assets:
 
 See the following pages for more information:
 
-* [Export Window](../../help/guide/getting-started/export/export-window/export-window.md)
-* [Default presets](../../help/guide/getting-started/export/default-presets/default-presets.md)
+* [Export Window](export-window/export-window.md)
+* [Default presets](default-presets/default-presets.md)
 * [Managing custom presets](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
-* [Managing presets](../../help/guide/getting-started/export/managing-presets/managing-presets.md)
+* [Managing presets](managing-presets/managing-presets.md)

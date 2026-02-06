@@ -35,38 +35,38 @@ Combine different technologies and creation methods to create accurate digital m
 
 ## Getting Started
 
-* [Activation and licenses](help/guide/getting-started/activation-and-licenses/activation-and-licenses.md) — Activate and manage your licenses so you can start using Sampler.
-* [System requirements](help/guide/getting-started/system-requirements/system-requirements.md)
-* [Shortcuts](help/guide/getting-started/shortcuts/shortcuts.md)
-* [Importing Resources](help/guide/getting-started/importing-resources/importing-resources.md)
-* [Quick actions](help/guide/features-and-workflows/quick-actions/quick-actions.md)
-* [HP Z Captis](help/guide/pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
-* [Report a bug](help/guide/getting-started/report-a-bug/report-a-bug.md)
-* [Project Management](help/guide/getting-started/project-management/project-management.md) — Use collections to manage your assets and materials.
-* [Export](help/guide/getting-started/export/export.md)
+* [Activation and licenses](getting-started/activation-and-licenses/activation-and-licenses.md) — Activate and manage your licenses so you can start using Sampler.
+* [System requirements](getting-started/system-requirements/system-requirements.md)
+* [Shortcuts](getting-started/shortcuts/shortcuts.md)
+* [Importing Resources](getting-started/importing-resources/importing-resources.md)
+* [Quick actions](features-and-workflows/quick-actions/quick-actions.md)
+* [HP Z Captis](pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
+* [Report a bug](getting-started/report-a-bug/report-a-bug.md)
+* [Project Management](getting-started/project-management/project-management.md) — Use collections to manage your assets and materials.
+* [Export](getting-started/export/export.md)
 
 </td>
 <td style="border: 0;" valign="top">
 
 ### Interface
 
-* [The Home Screen](help/guide/interface/the-home-screen/the-home-screen.md)
-* [2D and 3D Viewport](help/guide/interface/2d-and-3d-viewport/2d-and-3d-viewport.md)
-* [Sidebars](help/guide/interface/sidebars/sidebars.md)
-* [Panels](help/guide/interface/panels/panels.md)
-* [Tools and Widgets](help/guide/interface/tools-and-widgets/tools-and-widgets.md)
-* [Preferences](help/guide/interface/preferences/preferences.md)
+* [The Home Screen](interface/the-home-screen/the-home-screen.md)
+* [2D and 3D Viewport](interface/2d-and-3d-viewport/2d-and-3d-viewport.md)
+* [Sidebars](interface/sidebars/sidebars.md)
+* [Panels](interface/panels/panels.md)
+* [Tools and Widgets](interface/tools-and-widgets/tools-and-widgets.md)
+* [Preferences](interface/preferences/preferences.md)
 
 </td>
 <td style="border: 0;" valign="top">
 
 ### Features and Workflows
 
-* [Image to Material (AI Powered)](help/guide/filters/tools/image-to-material/image-to-material.md)
-* [End-to-end Physical size workflow](help/guide/features-and-workflows/end-end-physical-size-wor/end-to-end-physical-size-workflow.md)
-* [Export parametric assets](help/guide/features-and-workflows/export-parametric-assets/export-parametric-assets.md)
-* [Scripting](help/guide/scripting-and-development/scripting-and-development.md)
-* [HDRI tools](help/guide/filters/hdri-tools/hdri-tools.md)
+* [Image to Material (AI Powered)](filters/tools/image-to-material/image-to-material.md)
+* [End-to-end Physical size workflow](features-and-workflows/end-end-physical-size-wor/end-to-end-physical-size-workflow.md)
+* [Export parametric assets](features-and-workflows/export-parametric-assets/export-parametric-assets.md)
+* [Scripting](scripting-and-development/scripting-and-development.md)
+* [HDRI tools](filters/hdri-tools/hdri-tools.md)
 
 </td>
 </tr>
@@ -78,24 +78,24 @@ Combine different technologies and creation methods to create accurate digital m
 
 ### Frequently Asked Questions
 
-* [Exporting the log file](help/guide/technical-support/exporting-the-log-file/exporting-the-log-file.md)
-* [Configuration](help/guide/technical-support/configuration/configuration.md)
-* [Technical Issues](help/guide/technical-support/technical-issues/technical-issues.md)
+* [Exporting the log file](technical-support/exporting-the-log-file/exporting-the-log-file.md)
+* [Configuration](technical-support/configuration/configuration.md)
+* [Technical Issues](technical-support/technical-issues/technical-issues.md)
 
 </td>
 <td style="border: 0;" valign="top">
 
 ### Release Notes
 
-* [All Changes](help/guide/release-notes/all-changes/all-changes.md)
-* [Version 5.0](help/guide/release-notes/version-substance-sampl-1/version-5-0-substance-3d-sampler.md)
-* [Version 4.4](help/guide/release-notes/version-substance-sampl-3/version-4-4-substance-3d-sampler.md)
-* [Version 4.3](help/guide/release-notes/version-substance-sampl-4/version-4-3-substance-3d-sampler.md)
-* [Version 4.2](help/guide/release-notes/version-4-2/version-4-2.md)
-* [Version 4.1](help/guide/release-notes/version-4-1/version-4-1.md)
-* [Version 4.0](help/guide/release-notes/version-4-0/version-4-0.md)
-* [Version 3.4](help/guide/release-notes/version-3-4/version-3-4.md)
-* [Version 3.3](help/guide/release-notes/version-3-3/version-3-3.md)
+* [All Changes](release-notes/all-changes/all-changes.md)
+* [Version 5.0](release-notes/version-5-0-3d/version-5-0-substance-3d-sampler.md)
+* [Version 4.4](release-notes/version-4-4-3d/version-4-4-substance-3d-sampler.md)
+* [Version 4.3](release-notes/version-4-3-3d/version-4-3-substance-3d-sampler.md)
+* [Version 4.2](release-notes/version-4-2/version-4-2.md)
+* [Version 4.1](release-notes/version-4-1/version-4-1.md)
+* [Version 4.0](release-notes/version-4-0/version-4-0.md)
+* [Version 3.4](release-notes/version-3-4/version-3-4.md)
+* [Version 3.3](release-notes/version-3-3/version-3-3.md)
 
 </td>
 </tr>

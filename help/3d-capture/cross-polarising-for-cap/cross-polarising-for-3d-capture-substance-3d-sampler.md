@@ -48,4 +48,4 @@ Adjusting the polarisation on your video lights is different, but easier. You’
 
 When properly set-up, you should be able to capture an object as if it’s completely matte, with no reflections and even lighting. Just like seeing your mesh with only the basecolor texture applied, it lets you capture difficult reflective objects.
 
-Now learn more about [how to process your 3D capture using Substance 3D Sampler](../../help/guide/3d-capture/processing-advanced-cap/processing-advanced-3d-captures.md)!
+Now learn more about [how to process your 3D capture using Substance 3D Sampler](../processing-advanced-cap/processing-advanced-3d-captures.md)!

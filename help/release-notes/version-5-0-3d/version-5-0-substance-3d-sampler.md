@@ -16,7 +16,7 @@ The main new features include:
 
 Start all the main workflows of Sampler in one click and have the layer stack made ready for you!
 
-More info *[here](../../help/guide/interface/panels/quick-actions-panel/quick-actions-panel.md)*.
+More info *[here](../../interface/panels/quick-actions-panel/quick-actions-panel.md)*.
 
 ![](quick_actions_1440x810.png)
 
@@ -24,7 +24,7 @@ More info *[here](../../help/guide/interface/panels/quick-actions-panel/quick-ac
 
 Find all your projects, tutorials and start your work directly from the home page.
 
-More info *[here](../../help/guide/interface/the-home-screen/the-home-screen.md)*.
+More info *[here](../../interface/the-home-screen/the-home-screen.md)*.
 
 ![](new_home_screen_layout_1440x810.png)
 
@@ -32,7 +32,7 @@ More info *[here](../../help/guide/interface/the-home-screen/the-home-screen.md)
 
 Choose between realtime and path-tracing improving visual consistency and support new material properties. Save snapshots of your work directly from the 3D view.
 
-More info *[here](../../help/guide/interface/2d-and-3d-viewport/2d-and-3d-viewport.md)*.
+More info *[here](../../interface/2d-and-3d-viewport/2d-and-3d-viewport.md)*.
 
 ![](eclair_support_1440x810.png)
 
@@ -42,7 +42,7 @@ With HP Z Captis and Substance 3D Sampler, bring real-world materials into digit
 
 Feature available for Enterprise, Teams, and Education accounts.
 
-More info *[here](../../help/guide/pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)*.
+More info *[here](../../pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)*.
 
 ![](hp_z_captis_1440x810.png)
 

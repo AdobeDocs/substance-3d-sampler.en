@@ -16,7 +16,7 @@ The main new features include:
 
 Save time processing structured or patterned materials—like fabrics—by automatically generating seamless tiles.
 
-More info *[here](../../help/guide/filters/tools/auto-tiling/auto-tiling.md)*.
+More info *[here](../../filters/tools/auto-tiling/auto-tiling.md)*.
 
 ![](WhatsNew_Auto-tiling-5_1.jpg)
 
@@ -24,7 +24,7 @@ More info *[here](../../help/guide/filters/tools/auto-tiling/auto-tiling.md)*.
 
 Boost performance and reduce computation time with the Flatten layer by transforming stacked layers results into a single set of maps within one unified layer. Rename and duplicate them for more efficiency!
 
-More info *[here](../../help/guide/features-and-workflows/flatten-layers/flatten-layers.md)*.
+More info *[here](../../features-and-workflows/flatten-layers/flatten-layers.md)*.
 
 ![](WhatsNew_Flatten-Layers-5_1.png)
 

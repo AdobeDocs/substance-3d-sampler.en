@@ -54,7 +54,7 @@ Below is a list of hardware and systems supported by the application:
 >
 > If your system meets the system requirements above but performance is still sluggish, Sampler may be using the wrong GPU.
 > 
-> If you are using an NVIDIA GPU, [change which GPU Sampler uses by following the instructions on this page](../../help/guide/technical-support/configuration/nvidia-driver-settings/nvidia-driver-settings.md).
+> If you are using an NVIDIA GPU, [change which GPU Sampler uses by following the instructions on this page](../../technical-support/configuration/nvidia-driver-settings/nvidia-driver-settings.md).
 
 ## General recommendations
 

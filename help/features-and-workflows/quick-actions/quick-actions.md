@@ -12,9 +12,9 @@ Quick actions is a system that allows you to create an asset or add many layers 
 
 You can find Quick actions in several places in Sampler:
 
-* [The home screen](../../help/guide/interface/the-home-screen/the-home-screen.md)
-* [Create New Window](../../help/guide/getting-started/project-management/project-management.md)
-* [Quick action panel](../../help/guide/interface/panels/quick-actions-panel/quick-actions-panel.md)
+* [The home screen](../../interface/the-home-screen/the-home-screen.md)
+* [Create New Window](../../getting-started/project-management/project-management.md)
+* [Quick action panel](../../interface/panels/quick-actions-panel/quick-actions-panel.md)
 
 | Quick Action Name | Description | Layers |
 | --- | --- | --- |

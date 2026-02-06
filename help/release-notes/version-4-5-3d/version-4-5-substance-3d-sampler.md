@@ -10,7 +10,7 @@ helpx_description: "Substance 3D Sampler"
 
 It allows to send assets from Sampler to a third party applications in one click, to avoid having to go through the manual export and import process and gaining time.
 
-More info [here](../../help/guide/pipeline-and-integrations/substance-connector/substance-connector.md).
+More info [here](../../pipeline-and-integrations/connector/substance-connector.md).
 
 *Release date: 10 July 2024*
 

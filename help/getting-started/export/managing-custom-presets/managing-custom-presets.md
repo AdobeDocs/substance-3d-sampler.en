@@ -8,7 +8,7 @@ helpx_description: "Sampler > Getting Started > Export > Managing custom presets
 
 Custom presets can be created with Substance 3D Designer.
 
-The creation of custom presets respects the same rules as creating a custom filter for Sampler. Documentation is available [here](../../../help/guide/filters/custom-filters/custom-filters.md).
+The creation of custom presets respects the same rules as creating a custom filter for Sampler. Documentation is available [here](../../../filters/custom-filters/custom-filters.md).
 
 ## Creation
 

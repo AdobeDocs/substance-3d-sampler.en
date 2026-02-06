@@ -50,4 +50,4 @@ It is possible to manually activate Sampler by putting the **license.key** file 
 
 ### Environment variable
 
-You can override the location that Sampler checks for the **license.key** file with an [Environment Variable](../../help/guide/pipeline-and-integrations/environment-variables/environment-variables.md).
+You can override the location that Sampler checks for the **license.key** file with an [Environment Variable](../../pipeline-and-integrations/environment-variables/environment-variables.md).

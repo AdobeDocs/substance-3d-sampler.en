@@ -16,7 +16,7 @@ Release date: 25 *January, 2022*
 
 A new material scanning workflow that captures and processes the physical size of materials is introduced in this release.  
   
-Match the actual [physical size](../../../help/guide/features-and-workflows/end-end-physical-size-wor/end-to-end-physical-size-workflow.md) of your samples/images in a digital context to create physically accurate materials in any software.
+Match the actual [physical size](../../../features-and-workflows/end-end-physical-size-wor/end-to-end-physical-size-workflow.md) of your samples/images in a digital context to create physically accurate materials in any software.
 
 ![](physicalsize-1.png){width="400px"}
 
