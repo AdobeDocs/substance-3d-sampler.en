@@ -85,7 +85,7 @@ The **Application** **menu** **bar** shows the current project name. It also hol
 
 Use the <b>File</b> menu to create a new project, open an existing project, or save or export your current project.
 
-Use the <b>Edit</b> menu to undo and redo actions or access your preferences. Learn more about Sampler's Preferences [here](preferences/preferences.md).
+Use the <b>Edit</b> menu to undo and redo actions or access your preferences. Learn more about Sampler's Preferences [here](../help/guide/interface/preferences/preferences.md).
 
 Use the <b>Window</b> menu to reset your workspace to the default layout.
 

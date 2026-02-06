@@ -14,13 +14,13 @@ helpx_description: "Sampler > Filters"
 
 In Adobe Substance 3D Sampler filters are the primary tool used to modify and adjust assets. Sampler includes the following types of filters:
 
-* [Generators ](generators/generators.md)- introduce new elements to your material.
-* [Adjustments ](adjustments/adjustments.md)- adjust the values of your material's channels.
-* [Tools ](tools/tools.md)- find and fix technical issues.
-* [HDRI Tools](hdri-tools/hdri-tools.md) - filters that are specific to environment lights.
-* [Wear and Finish](wear-and-finish/wear-and-finish.md) - change the look and feel of your material.
+* [Generators ](../help/guide/filters/generators/generators.md)- introduce new elements to your material.
+* [Adjustments ](../help/guide/filters/adjustments/adjustments.md)- adjust the values of your material's channels.
+* [Tools ](../help/guide/filters/tools/tools.md)- find and fix technical issues.
+* [HDRI Tools](../help/guide/filters/hdri-tools/hdri-tools.md) - filters that are specific to environment lights.
+* [Wear and Finish](../help/guide/filters/wear-and-finish/wear-and-finish.md) - change the look and feel of your material.
 
-It's possible to create your own filters using Adobe Substance 3D Designer -[ go here to find out how](custom-filters/custom-filters.md).
+It's possible to create your own filters using Adobe Substance 3D Designer -[ go here to find out how](../help/guide/filters/custom-filters/custom-filters.md).
 
 Filters can be based on different technologies:
 

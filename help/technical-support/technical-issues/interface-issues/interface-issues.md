@@ -6,5 +6,5 @@ helpx_description: "Sampler > Technical Support > Technical Issues > Interface i
 
 # Interface issues
 
-* [Fonts are not displayed correctly](fonts-are-not-displayed/fonts-are-not-displayed-correctly.md)
-* [Main interface is transparent](main-interface-tra/main-interface-is-transparent.md)
+* [Fonts are not displayed correctly](../../../help/guide/technical-support/technical-issues/interface-issues/fonts-are-not-displayed/fonts-are-not-displayed-correctly.md)
+* [Main interface is transparent](../../../help/guide/technical-support/technical-issues/interface-issues/main-interface-tra/main-interface-is-transparent.md)

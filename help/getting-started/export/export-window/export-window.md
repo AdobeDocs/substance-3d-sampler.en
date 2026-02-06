@@ -44,7 +44,7 @@ When exporting Materials, the Material settings panel of the Export window has t
 * <b>Preset </b>(EXR, JPEG, PNG, TARGA, TIFF): Select a preset to automatically set up the file export for a given application or pipeline.
   * The <b>Default (project workflow)</b> option shows a list of all available channels of your material(s) without any preset applied.
   * Use the <b>Manage presets </b>button to the right of the Presets parameter to edit presets or add your own.<b> </b>
-  * [More information about Presets is available here.](../managing-presets/managing-presets.md)
+  * [More information about Presets is available here.](../../../help/guide/getting-started/export/managing-presets/managing-presets.md)
 
 >[!NOTE]
 >

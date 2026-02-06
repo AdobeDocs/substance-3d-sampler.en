@@ -65,7 +65,7 @@ In this exemple we start with a 1024x1024px image but the output result is in 40
 
 ![](SAPR_Upscale_screen_001.png)
 
-In the image above, a low resolution image is processed by the [Image to Material (AI Powered)](../image-to-material/image-to-material.md).
+In the image above, a low resolution image is processed by the [Image to Material (AI Powered)](../../../help/guide/filters/tools/image-to-material/image-to-material.md).
 
 ![](SAPR_Upscale_Screen_003.png)
 

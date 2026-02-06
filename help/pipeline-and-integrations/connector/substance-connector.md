@@ -1,6 +1,7 @@
 ---
-title: "Substance Send-to | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+title: "Substance Send-to"
+description: ""
+helpx_description: "Substance 3D Sampler"
 ---
 
 # Send to any app
@@ -35,5 +36,3 @@ Here are the minimum versions you need to be able to use the Send-to:
 * <b>Blender Plugin v2.1+</b>
   * Blender versions 3.0 and above
   * *The plugin is available to be downloaded on the [website](https://www.adobe.com/products/substance3d/plugins/substance-in-blender.html "Substance in Blender web page")*
-
- 

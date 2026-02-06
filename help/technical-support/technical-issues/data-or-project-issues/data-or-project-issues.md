@@ -6,4 +6,4 @@ helpx_description: "Sampler > Technical Support > Technical Issues > Data or pro
 
 # Data or project issues
 
-* [Import Substance Alchemist projects in Substance 3D Sampler](import-substance-alc/import-substance-alchemist-projects-in-substance-3d-sampler.md)
+* [Import Substance Alchemist projects in Substance 3D Sampler](../../../help/guide/technical-support/technical-issues/data-or-project-issues/import-substance-alc/import-substance-alchemist-projects-in-substance-3d-sampler.md)

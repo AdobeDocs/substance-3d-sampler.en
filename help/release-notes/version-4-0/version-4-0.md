@@ -20,7 +20,7 @@ We have integrated photogrammetry capabilities. Photogrammetry is the technical 
 
 All you need to start is a series of photos which capture the visible surfaces of an object - a smart phone or DLSR camera works great.
 
-Discover the step-by-step workflow [here](../../features-and-workflows/3d-capture/3d-capture.md).
+Discover the step-by-step workflow [here](../../help/guide/features-and-workflows/3d-capture/3d-capture.md).
 
 ## Highlights
 

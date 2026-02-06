@@ -1,6 +1,7 @@
 ---
-title: "Import Substance Alchemist projects in Substance 3D Sampler | Substance 3D Sampler"
-description: "Sampler > Technical Support > Technical Issues > Data or project issues > Import Substance Alchemist projects in Substance 3D Sampler"
+title: "Import Substance Alchemist projects in Substance 3D Sampler"
+description: ""
+helpx_description: "Sampler > Technical Support > Technical Issues > Data or project issues > Import Substance Alchemist projects in Substance 3D Sampler"
 ---
 
 # Import Substance Alchemist projects in Substance 3D Sampler
@@ -22,5 +23,3 @@ After that action a **.alch** file with a **dependencies** folder will be availa
 1. Open the **.alch** file (be sure the **dependencies** folder is still next to the .alch file).
 
 All your materials will be listed in the Project panel under the Materials section.
-
- 

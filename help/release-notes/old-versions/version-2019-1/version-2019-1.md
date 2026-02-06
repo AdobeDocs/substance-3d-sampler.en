@@ -28,7 +28,7 @@ Substance Alchemist now has a welcome screen that allows you to quickly jump on 
 
 Version 2019.1 introduce the notion of projects, which can gather material collections. Projects can also be exported to be shared to other computers.
 
-To learn more about projects, see: [Project Management](../../../getting-started/project-management/project-management.md).
+To learn more about projects, see: [Project Management](../../../help/guide/getting-started/project-management/project-management.md).
 
 ### New Delighter
 

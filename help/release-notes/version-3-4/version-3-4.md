@@ -26,7 +26,7 @@ Color dots will help you navigate into your exposed parameters and your differen
 You can now create plugins and scripts, this gives you the ability to customize your interface, making it easy to integrate Sampler into your pipeline, and to set up your workflow overall, in any way you wish.   
 This could allow you, for instance, to create a script allowing you to automate repetitive tasks as exporting multiple materials in one click.
 
-Discover how to create your first plugin or script [here](../../scripting-and-development/scripting-and-development.md).
+Discover how to create your first plugin or script [here](../../help/guide/scripting-and-development/scripting-and-development.md).
 
 ## CLO Physical Properties
 

@@ -19,17 +19,17 @@ When you open Sampler, the <b>Home Screen</b> will appear. The <b>Home Screen</b
 1. <b>About Sampler</b>: Find out more about your version of 3D Sampler.
 1. <b>Documentation</b>: View the documentation and expand your abilities.
 
-When you open, start a new project or use a [Quick action](../features-and-workflows/quick-actions/quick-actions.md), the <b>Home Screen</b> will disappear so you can start creating assets. You can open the <b>Home Screen</b> again from the <b>File menu</b>.
+When you open, start a new project or use a [Quick action](../help/guide/features-and-workflows/quick-actions/quick-actions.md), the <b>Home Screen</b> will disappear so you can start creating assets. You can open the <b>Home Screen</b> again from the <b>File menu</b>.
 
 ## Getting Started
 
 To get started with Substance 3D Sampler, check out the following pages:
 
-* [Activation and licenses](activation-and-licenses/activation-and-licenses.md)
-* [System requirements](system-requirements/system-requirements.md)
-* [Shortcuts](shortcuts/shortcuts.md)
-* [Importing Resources](importing-resources/importing-resources.md)
-* [Quick actions](../features-and-workflows/quick-actions/quick-actions.md)
-* [Report a bug](report-a-bug/report-a-bug.md)
-* [Project Management](project-management/project-management.md)
-* [Export](export/export.md)
+* [Activation and licenses](../help/guide/getting-started/activation-and-licenses/activation-and-licenses.md)
+* [System requirements](../help/guide/getting-started/system-requirements/system-requirements.md)
+* [Shortcuts](../help/guide/getting-started/shortcuts/shortcuts.md)
+* [Importing Resources](../help/guide/getting-started/importing-resources/importing-resources.md)
+* [Quick actions](../help/guide/features-and-workflows/quick-actions/quick-actions.md)
+* [Report a bug](../help/guide/getting-started/report-a-bug/report-a-bug.md)
+* [Project Management](../help/guide/getting-started/project-management/project-management.md)
+* [Export](../help/guide/getting-started/export/export.md)

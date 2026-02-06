@@ -47,6 +47,6 @@ The following panels are stored at the top of the <b>right sidebar</b> by defaul
 </tr>
 </table>
 
-You can customize the workspace by moving panels - [see the interface page to find out how](../interface.md).
+You can customize the workspace by moving panels - [see the interface page to find out how](../../help/guide/interface/interface.md).
 
 To return to the default workspace layout at any point use **Window &gt; Reset to default layout**.

@@ -6,7 +6,7 @@ helpx_description: "Sampler > Technical Support > Configuration > Update Checker
 
 # Update Checker
 
-The Update window indicates if a new version of Substance Alchemist is available and displays as well the latest [Release Notes](../../../release-notes/release-notes.md).
+The Update window indicates if a new version of Substance Alchemist is available and displays as well the latest [Release Notes](../../../help/guide/release-notes/release-notes.md).
 
 This window automatically appears during the startup of Substance Alchemist if a new version is available to download.
 

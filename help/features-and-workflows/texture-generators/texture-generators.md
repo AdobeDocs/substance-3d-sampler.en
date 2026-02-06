@@ -115,7 +115,7 @@ The filters' output node of the filter must have the <b>identifier</b> or <b>usa
 
 >[!NOTE]
 >
-> The userdata can be used with [custom filters](../../filters/custom-filters/custom-filters.md).
+> The userdata can be used with [custom filters](../../help/guide/filters/custom-filters/custom-filters.md).
 
 #### Format
 

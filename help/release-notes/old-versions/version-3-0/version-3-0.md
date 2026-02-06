@@ -24,13 +24,13 @@ Panels can be docked and undocked, letting you fully utilize a dual screen set u
 
 ![](ui-project-panel.png)
 
-Sampler now works with projects. The[ Project panel ](../../../interface/panels/project-panel/project-panel.md)lets you manage and group your assets per project. Projects are stored in Substance Sampler files, easily shared.
+Sampler now works with projects. The[ Project panel ](../../../help/guide/interface/panels/project-panel/project-panel.md)lets you manage and group your assets per project. Projects are stored in Substance Sampler files, easily shared.
 
 ### New Assets panel
 
 ![](image2021-6-22-17-58-15.png)
 
-The[ asset panel ](../../../interface/panels/assets-panel/assets-panel.md)is a new and common design of the Resources panel, combined with your collections.
+The[ asset panel ](../../../help/guide/interface/panels/assets-panel/assets-panel.md)is a new and common design of the Resources panel, combined with your collections.
 
 * 3 Sections: Starter Assets + Your Assets + Connected local folders
 * New Asset types support: filters and images
@@ -41,7 +41,7 @@ The[ asset panel ](../../../interface/panels/assets-panel/assets-panel.md)is a n
 
 ![](idl.jpg){width="600px"}
 
-Sampler now lets you make more than just materials. Environment Lights are a new type of asset with their [own set of filters](../../../filters/hdri-tools/hdri-tools.md). Start from [bracketed 360 photo's](../../../filters/hdri-tools/hdr-merge/hdr-merge.md), build an environment light [from scratch](../../../filters/hdri-tools/shape-light/shape-light.md), or [edit an existing HDR file](../../../filters/hdri-tools/nadir-patch/nadir-patch.md).
+Sampler now lets you make more than just materials. Environment Lights are a new type of asset with their [own set of filters](../../../help/guide/filters/hdri-tools/hdri-tools.md). Start from [bracketed 360 photo's](../../../help/guide/filters/hdri-tools/hdr-merge/hdr-merge.md), build an environment light [from scratch](../../../help/guide/filters/hdri-tools/shape-light/shape-light.md), or [edit an existing HDR file](../../../help/guide/filters/hdri-tools/nadir-patch/nadir-patch.md).
 
 ### Reworked and new filters
 
@@ -60,15 +60,15 @@ The Adjustment Filter has been split into separate filters based on functionalit
 
 A few new filters have been added:
 
-* [Warp Transform](../../../filters/tools/warp-transform/warp-transform.md)
-* [Weave](../../../filters/generators/weave/weave.md)
-* [Panel](../../../filters/generators/panel/panel.md)
+* [Warp Transform](../../../help/guide/filters/tools/warp-transform/warp-transform.md)
+* [Weave](../../../help/guide/filters/generators/weave/weave.md)
+* [Panel](../../../help/guide/filters/generators/panel/panel.md)
 
 ### New Send To Functionality
 
 ![](image2021-6-22-18-2-10.png)
 
-Sampler can now [easily share materials and light environments ](../../../interface/panels/share-panel/share-panel.md)with Substance 3D Painter and Stager, in just a single click.
+Sampler can now [easily share materials and light environments ](../../../help/guide/interface/panels/share-panel/share-panel.md)with Substance 3D Painter and Stager, in just a single click.
 
 ### New Real-time Rendering Engine
 

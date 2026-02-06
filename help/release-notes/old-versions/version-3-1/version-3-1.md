@@ -14,7 +14,7 @@ Release date: *September 28, 2021*
 
 ### Color Picker
 
-This release adds a new [Color Picker](../../../interface/tools-and-widgets/color-picker/color-picker.md) that includes an eyedropper and support for swatches.
+This release adds a new [Color Picker](../../../help/guide/interface/tools-and-widgets/color-picker/color-picker.md) that includes an eyedropper and support for swatches.
 
 The Color Picker appears whenever you need to select a color. It can be moved anywhere on your screen(s).
 
@@ -38,7 +38,7 @@ Sampler now gets a proper and revamped Crop widget to easily define the cropped 
 
 ### Normal Format
 
-Edit your Preferences to set the [normal format](../../../interface/preferences/normal-format/normal-format.md) you need for your workflow. Your normals will be imported, displayed and exported in the format you select in preferences.
+Edit your Preferences to set the [normal format](../../../help/guide/interface/preferences/normal-format/normal-format.md) you need for your workflow. Your normals will be imported, displayed and exported in the format you select in preferences.
 
 ![](7-normal-format-preferences.jpg){width="250px"}
 

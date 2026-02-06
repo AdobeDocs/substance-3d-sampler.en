@@ -37,7 +37,7 @@ The neural network has been trained on a wide range of materials like fabrics, o
 
 >[!NOTE]
 >
-> Image to Material (AI Powered) will take longer to compute on high resolution images, we recommend to use the [Layer Resolution](../../../interface/preferences/layer-resolution/layer-resolution.md) system to optimize your workflow while working.
+> Image to Material (AI Powered) will take longer to compute on high resolution images, we recommend to use the [Layer Resolution](../../../help/guide/interface/preferences/layer-resolution/layer-resolution.md) system to optimize your workflow while working.
 
 ### B2M
 
