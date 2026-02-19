@@ -1,8 +1,12 @@
 ---
-title: "System requirements to use HP Z Captis"
-description: ""
-helpx_description: "Substance 3D Sampler"
+title: System requirements to use HP Z Captis
+description: Review system requirements for using HP Z Captis with Substance 3D Sampler to ensure hardware and software compatibility.
+helpx_description: Substance 3D Sampler
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.html"
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # System requirements
 

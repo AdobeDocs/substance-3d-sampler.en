@@ -1,8 +1,19 @@
 ---
-title: "Layers panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Layers panel"
+title: Layers panel
+description: Learn how to use the Layers panel in Substance 3D Sampler to manage filter layers and build complex material stacks.
+helpx_description: Sampler > Interface > Panels > Layers panel
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/layers-panel.html"
+helpx_creative_field:
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - layers
+  - replacing-backgrounds
+  - compositing
 ---
+
 
 # Layers panel
 

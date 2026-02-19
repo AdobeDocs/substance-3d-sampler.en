@@ -1,8 +1,20 @@
 ---
-title: "Tools"
-description: ""
-helpx_description: "Sampler > Filters > Tools"
+title: Tools
+description: Learn how to use tool filters in Substance 3D Sampler to fix technical issues and enhance material creation workflows.
+helpx_description: Sampler > Filters > Tools
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - photogrammetry
+  - filters
+  - 3d
 ---
+
 
 # Tools
 
@@ -16,32 +28,32 @@ Tool filters often make use of handles and other controls in the **2D view**, so
 >
 > Some tools are available in the **left sidebar** for faster access:
 > 
-> * [Crop](crop-tool/crop-tool.md)
-> * [Perspective Transform](perspective-correction/perspective-correction.md)
-> * [Transform](transform/transform.md)
-> * [Clone Stamp](clone-stamp/clone-stamp.md)
+> * [Crop](../../help/filters/tools/crop-tool/crop-tool.md)
+> * [Perspective Transform](../../help/filters/tools/perspective-correction/perspective-correction.md)
+> * [Transform](../../help/filters/tools/transform/transform.md)
+> * [Clone Stamp](../../help/filters/tools/clone-stamp/clone-stamp.md)
 
 Sampler includes the following tools:
 
-* [Atlas Creator](atlas-creator/atlas-creator.md)
-* [Atlas Splitter](atlas-splitter/atlas-splitter.md)
-* [Channels Generation](channels-generation/channels-generation.md)
-* [Channel Switch](channel-switch/channel-switch.md)
-* [Clone Stamp](clone-stamp/clone-stamp.md)
-* [Crop tool](crop-tool/crop-tool.md)
-* [Delight (AI Powered)](delight-ai-powered/delight-ai-powered.md)
-* [Height to AO](height-to-ao/height-to-ao.md)
-* [Height to Normal](height-to-normal/height-to-normal.md)
-* [Image To Material](image-to-material/image-to-material.md)
-* [Make it Tile](make-it-tile/make-it-tile.md)
-* [Match](match/match.md)
-* [Multiangle To Material](multiangle-to-material/multiangle-to-material.md)
-* [Normal to Height](normal-to-height/normal-to-height.md)
+* [Atlas Creator](../../help/filters/tools/atlas-creator/atlas-creator.md)
+* [Atlas Splitter](../../help/filters/tools/atlas-splitter/atlas-splitter.md)
+* [Channels Generation](../../help/filters/tools/channels-generation/channels-generation.md)
+* [Channel Switch](../../help/filters/tools/channel-switch/channel-switch.md)
+* [Clone Stamp](../../help/filters/tools/clone-stamp/clone-stamp.md)
+* [Crop tool](../../help/filters/tools/crop-tool/crop-tool.md)
+* [Delight (AI Powered)](../../help/filters/tools/delight-ai-powered/delight-ai-powered.md)
+* [Height to AO](../../help/filters/tools/height-to-ao/height-to-ao.md)
+* [Height to Normal](../../help/filters/tools/height-to-normal/height-to-normal.md)
+* [Image To Material](../../help/filters/tools/image-to-material/image-to-material.md)
+* [Make it Tile](../../help/filters/tools/make-it-tile/make-it-tile.md)
+* [Match](../../help/filters/tools/match/match.md)
+* [Multiangle To Material](../../help/filters/tools/multiangle-to-material/multiangle-to-material.md)
+* [Normal to Height](../../help/filters/tools/normal-to-height/normal-to-height.md)
 * [Paint Warp](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/paint-warp-255426602.html)
-* [PBR Validate](pbr-validate/pbr-validate.md)
-* [Perspective Correction](perspective-correction/perspective-correction.md)
-* [Tiling](tiling/tiling.md)
-* [Transform](transform/transform.md)
-* [Warp](warp/warp.md)
-* [Warp Transform](warp-transform/warp-transform.md)
-* [Upscale](upscale/upscale.md)
+* [PBR Validate](../../help/filters/tools/pbr-validate/pbr-validate.md)
+* [Perspective Correction](../../help/filters/tools/perspective-correction/perspective-correction.md)
+* [Tiling](../../help/filters/tools/tiling/tiling.md)
+* [Transform](../../help/filters/tools/transform/transform.md)
+* [Warp](../../help/filters/tools/warp/warp.md)
+* [Warp Transform](../../help/filters/tools/warp-transform/warp-transform.md)
+* [Upscale](../../help/filters/tools/upscale/upscale.md)

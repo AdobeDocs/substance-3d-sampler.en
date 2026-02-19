@@ -1,8 +1,19 @@
 ---
-title: "Preferences"
-description: ""
-helpx_description: "Sampler > Interface > Preferences"
+title: Preferences
+description: Learn how to configure preferences in Substance 3D Sampler to customize application settings and optimize your workflow.
+helpx_description: Sampler > Interface > Preferences
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences.html"
+helpx_creative_field:
+  - painting-illustration
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - download-and-install
+  - preferences
+  - workspace
 ---
+
 
 # Preferences
 

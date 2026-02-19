@@ -1,8 +1,19 @@
 ---
-title: "Report a bug"
-description: ""
-helpx_description: "Sampler > Getting Started > Report a bug"
+title: Report a bug
+description: Learn how to report bugs in Substance 3D Sampler to help improve the application and resolve issues you encounter.
+helpx_description: Sampler > Getting Started > Report a bug
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/report-a-bug.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - troubleshooting
+  - known-issues
+  - review-comment
 ---
+
 
 # Report a bug
 

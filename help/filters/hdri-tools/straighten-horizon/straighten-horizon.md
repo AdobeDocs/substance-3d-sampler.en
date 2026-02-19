@@ -1,8 +1,19 @@
 ---
-title: "Straighten Horizon"
-description: ""
-helpx_description: "Sampler > Filters > HDRI Tools > Straighten Horizon"
+title: Straighten Horizon
+description: Use the Straighten Horizon tool in Substance 3D Sampler to correct horizon alignment in HDRI environment images.
+helpx_description: Sampler > Filters > HDRI Tools > Straighten Horizon
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/straighten-horizon.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - perspective
+  - asset-warp
+  - transform
 ---
+
 
 # Straighten Horizon
 
@@ -10,7 +21,7 @@ helpx_description: "Sampler > Filters > HDRI Tools > Straighten Horizon"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](sampler-straighten-horizon-filter-icon.png)
+![](straighten-horizon-filter-icon.png)
 
 **In:** HDRI Tools
 

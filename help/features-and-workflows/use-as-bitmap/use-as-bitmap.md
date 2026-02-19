@@ -1,8 +1,19 @@
 ---
-title: "Use As Bitmap"
-description: ""
-helpx_description: "Sampler > Features and workflows > Use As Bitmap"
+title: Use As Bitmap
+description: Learn how to use the Use As Bitmap feature in Substance 3D Sampler to convert layers to bitmap format for efficient material editing.
+helpx_description: Sampler > Features and workflows > Use As Bitmap
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/use-as-bitmap.html"
+helpx_creative_field:
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - texture
+  - pbr
+  - images
 ---
+
 
 # Use As Bitmap
 

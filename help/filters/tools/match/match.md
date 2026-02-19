@@ -1,8 +1,21 @@
 ---
-title: "Match"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Match"
+title: Match
+description: Use the Match tool in Substance 3D Sampler to match colors, tones, and lighting between different textures and material layers.
+helpx_description: Sampler > Filters > Tools > Match
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/match.html"
+helpx_creative_field:
+  - painting-illustration
+  - video
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - color
+  - materials
+  - color-grading
 ---
+
 
 # Match
 

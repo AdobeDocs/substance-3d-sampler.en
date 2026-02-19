@@ -1,8 +1,19 @@
 ---
-title: "Managing Presets"
-description: ""
-helpx_description: "Sampler > Getting Started > Export > Managing Presets"
+title: Managing Presets
+description: Learn how to manage export presets in Substance 3D Sampler to configure materials for different applications and pipelines.
+helpx_description: Sampler > Getting Started > Export > Managing Presets
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-presets.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - presets
+  - preferences
+  - raw
 ---
+
 
 # Managing Presets
 

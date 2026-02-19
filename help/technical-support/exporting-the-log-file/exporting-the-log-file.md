@@ -1,8 +1,19 @@
 ---
-title: "Exporting the log file"
-description: ""
-helpx_description: "Sampler > Technical Support > Exporting the log file"
+title: Exporting the log file
+description: Learn how to export log files from Substance 3D Sampler for troubleshooting and technical support purposes.
+helpx_description: Sampler > Technical Support > Exporting the log file
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/exporting-the-log-file.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - export
+  - preflight
+  - save
 ---
+
 
 # Exporting the log file
 

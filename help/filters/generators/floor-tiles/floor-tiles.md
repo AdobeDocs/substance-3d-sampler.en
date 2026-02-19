@@ -1,8 +1,19 @@
 ---
-title: "Floor Tiles"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Floor Tiles"
+title: Floor Tiles
+description: Use the Floor Tiles generator in Substance 3D Sampler to create realistic floor tile patterns and ceramic textures for materials.
+helpx_description: Sampler > Filters > Generators > Floor Tiles
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/floor-tiles.html"
+helpx_creative_field:
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - materials
+  - grid
+  - patterns
 ---
+
 
 # Floor Tiles
 

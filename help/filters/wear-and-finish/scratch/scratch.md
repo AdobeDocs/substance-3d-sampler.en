@@ -1,8 +1,20 @@
 ---
-title: "Scratch"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Scratch"
+title: Scratch
+description: Use the Scratch filter in Substance 3D Sampler to add realistic scratch marks and surface damage effects to your materials.
+helpx_description: Sampler > Filters > Wear and Finish > Scratch
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+  - painting-illustration
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - materials
+  - painting
+  - photo-restoration
 ---
+
 
 # Scratch
 

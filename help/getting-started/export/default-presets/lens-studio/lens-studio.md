@@ -1,8 +1,19 @@
 ---
-title: "Lens Studio"
-description: ""
-helpx_description: "Sampler > Getting Started > Export > Default Presets > Lens Studio"
+title: Lens Studio
+description: Learn how to export materials from Substance 3D Sampler using the Lens Studio preset for Snapchat AR lens development workflows.
+helpx_description: Sampler > Getting Started > Export > Default Presets > Lens Studio
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/lens-studio.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - 3d
+  - photogrammetry
+  - virtual-photography
 ---
+
 
 # Lens Studio
 

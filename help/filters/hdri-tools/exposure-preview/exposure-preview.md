@@ -1,8 +1,20 @@
 ---
-title: "Exposure Preview"
-description: ""
-helpx_description: "Sampler > Filters > HDRI Tools > Exposure Preview"
+title: Exposure Preview
+description: Use the Exposure Preview tool in Substance 3D Sampler to preview exposure adjustments in HDRI images before applying changes.
+helpx_description: Sampler > Filters > HDRI Tools > Exposure Preview
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - double-exposure
+  - hdri
+  - hdr
 ---
+
 
 # Exposure Preview
 

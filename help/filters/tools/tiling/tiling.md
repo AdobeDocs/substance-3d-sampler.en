@@ -1,8 +1,19 @@
 ---
-title: "Tiling"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Tiling"
+title: Tiling
+description: Use the Tiling tool in Substance 3D Sampler to create seamless tiling patterns from textures for repeatable material surfaces.
+helpx_description: Sampler > Filters > Tools > Tiling
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/tiling.html"
+helpx_creative_field:
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - reflections
+  - tiling
+  - grid
 ---
+
 
 # Tiling
 

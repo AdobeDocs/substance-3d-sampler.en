@@ -1,8 +1,19 @@
 ---
-title: "Atlas Creator"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Atlas Creator"
+title: Atlas Creator
+description: Use the Atlas Creator tool in Substance 3D Sampler to create texture atlases from multiple images for efficient material organization.
+helpx_description: Sampler > Filters > Tools > Atlas Creator
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-creator.html"
+helpx_creative_field:
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - replacing-backgrounds
+  - masking
+  - creative-effects
 ---
+
 
 # Atlas Creator
 

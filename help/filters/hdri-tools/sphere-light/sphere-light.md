@@ -1,8 +1,19 @@
 ---
-title: "Sphere Light"
-description: ""
-helpx_description: "Sampler > Filters > HDRI Tools > Sphere Light"
+title: Sphere Light
+description: Use the Sphere Light tool in Substance 3D Sampler to add spherical light sources to HDRI environments for point lighting effects.
+helpx_description: Sampler > Filters > HDRI Tools > Sphere Light
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/sphere-light.html"
+helpx_creative_field:
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - 3d
+  - geospatial-data
+  - camera
 ---
+
 
 # Sphere Light
 

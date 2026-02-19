@@ -1,8 +1,19 @@
 ---
-title: "Version 3.1"
-description: ""
-helpx_description: "Sampler > Release Notes > Old Versions > Version 3.1"
+title: Version 3.1
+description: Review release notes for Substance 3D Sampler version 3.1 to learn about color picker, SVG support, and interoperability improvements.
+helpx_description: Sampler > Release Notes > Old Versions > Version 3.1
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-1.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - creating-color-palettes
+  - swatches
+  - texture
 ---
+
 
 # Version 3.1
 
@@ -14,7 +25,7 @@ Release date: *September 28, 2021*
 
 ### Color Picker
 
-This release adds a new [Color Picker](../../../interface/tools-and-widgets/color-picker/color-picker.md) that includes an eyedropper and support for swatches.
+This release adds a new [Color Picker](../../../help/interface/tools-and-widgets/color-picker/color-picker.md) that includes an eyedropper and support for swatches.
 
 The Color Picker appears whenever you need to select a color. It can be moved anywhere on your screen(s).
 
@@ -38,7 +49,7 @@ Sampler now gets a proper and revamped Crop widget to easily define the cropped 
 
 ### Normal Format
 
-Edit your Preferences to set the [normal format](../../../interface/preferences/normal-format/normal-format.md) you need for your workflow. Your normals will be imported, displayed and exported in the format you select in preferences.
+Edit your Preferences to set the [normal format](../../../help/interface/preferences/normal-format/normal-format.md) you need for your workflow. Your normals will be imported, displayed and exported in the format you select in preferences.
 
 ![](7-normal-format-preferences.jpg){width="250px"}
 

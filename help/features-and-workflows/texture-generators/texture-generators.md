@@ -1,7 +1,8 @@
 ---
 title: "Texture Generators"
-description: ""
+description: "Learn how to use texture generators in Substance 3D Sampler to create procedural textures and patterns for material creation."
 helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-generators.html"
 ---
 
 # Texture Generators
@@ -115,7 +116,7 @@ The filters' output node of the filter must have the <b>identifier</b> or <b>usa
 
 >[!NOTE]
 >
-> The userdata can be used with [custom filters](../../filters/custom-filters/custom-filters.md).
+> The userdata can be used with [custom filters](../../help/filters/custom-filters/custom-filters.md).
 
 #### Format
 

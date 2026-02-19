@@ -1,8 +1,19 @@
 ---
-title: "Unreal Engine 4"
-description: ""
-helpx_description: "Sampler > Getting Started > Export > Default Presets > Unreal Engine 4"
+title: Unreal Engine 4
+description: Learn how to export materials from Substance 3D Sampler using the Unreal Engine 4 preset for game development workflows.
+helpx_description: Sampler > Getting Started > Export > Default Presets > Unreal Engine 4
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unreal-engine-4.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - 3d
+  - materials
+  - pbr
 ---
+
 
 # Unreal Engine 4
 

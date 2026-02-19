@@ -1,8 +1,20 @@
 ---
-title: "Line Light"
-description: ""
-helpx_description: "Sampler > Filters > HDRI Tools > Line Light"
+title: Line Light
+description: Use the Line Light tool in Substance 3D Sampler to add linear light sources to HDRI environments for precise lighting control.
+helpx_description: Sampler > Filters > HDRI Tools > Line Light
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/line-light.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - lighting
+  - brightness
+  - hdri
 ---
+
 
 # Line Light
 

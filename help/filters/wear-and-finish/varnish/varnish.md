@@ -1,8 +1,20 @@
 ---
-title: "Varnish"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Varnish"
+title: Varnish
+description: Use the Varnish filter in Substance 3D Sampler to add glossy varnish effects and protective coating finishes to your materials.
+helpx_description: Sampler > Filters > Wear and Finish > Varnish
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/varnish.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - matte
+  - materials
+  - reflections
 ---
+
 
 # Varnish
 

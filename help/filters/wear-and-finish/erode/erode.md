@@ -1,8 +1,21 @@
 ---
-title: "Erode"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Erode"
+title: Erode
+description: Use the Erode filter in Substance 3D Sampler to add erosion and weathering effects that simulate natural material degradation.
+helpx_description: Sampler > Filters > Wear and Finish > Erode
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/erode.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+  - painting-illustration
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - photo-restoration
+  - materials
+  - reflections
 ---
+
 
 # Erode
 

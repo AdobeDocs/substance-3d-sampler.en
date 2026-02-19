@@ -1,8 +1,19 @@
 ---
-title: "Version 2019.1"
-description: ""
-helpx_description: "Sampler > Release Notes > Old Versions > Version 2019.1"
+title: Version 2019.1
+description: Review release notes for Substance 3D Sampler version 2019.1 to learn about project management, layer stack improvements, and delighter updates.
+helpx_description: Sampler > Release Notes > Old Versions > Version 2019.1
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - intermediate-advanced
+helpx_learn_topic:
+  - 3d
+  - materials
+  - xr
 ---
+
 
 # Version 2019.1
 
@@ -28,7 +39,7 @@ Substance Alchemist now has a welcome screen that allows you to quickly jump on 
 
 Version 2019.1 introduce the notion of projects, which can gather material collections. Projects can also be exported to be shared to other computers.
 
-To learn more about projects, see: [Project Management](../../../getting-started/project-management/project-management.md).
+To learn more about projects, see: [Project Management](../../../help/getting-started/project-management/project-management.md).
 
 ### New Delighter
 

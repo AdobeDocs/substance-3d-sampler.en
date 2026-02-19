@@ -1,8 +1,19 @@
 ---
-title: "Colorize"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > Colorize"
+title: Colorize
+description: Use the Colorize filter in Substance 3D Sampler to apply color tints and monochrome colorization effects to textures and materials.
+helpx_description: Sampler > Filters > Adjustments > Colorize
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/colorize.html"
+helpx_creative_field:
+  - 3d-immersive
+  - video
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - color
+  - colorize
+  - enhancing-color
 ---
+
 
 # Colorize
 

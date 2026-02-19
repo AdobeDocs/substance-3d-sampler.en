@@ -1,8 +1,19 @@
 ---
-title: "Panels"
-description: ""
-helpx_description: "Sampler > Interface > Panels"
+title: Panels
+description: Learn about panels in Substance 3D Sampler interface to access tools, settings, and features for material creation workflows.
+helpx_description: Sampler > Interface > Panels
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - workspace
+  - interface
+  - preferences
 ---
+
 
 # Panels
 
@@ -47,6 +58,6 @@ The following panels are stored at the top of the <b>right sidebar</b> by defaul
 </tr>
 </table>
 
-You can customize the workspace by moving panels - [see the interface page to find out how](../interface.md).
+You can customize the workspace by moving panels - [see the interface page to find out how](../../help/interface/interface.md).
 
 To return to the default workspace layout at any point use **Window &gt; Reset to default layout**.

@@ -1,8 +1,19 @@
 ---
-title: "Version 0.6.1"
-description: ""
-helpx_description: "Sampler > Release Notes > Old Versions > Version 0.6.1"
+title: Version 0.6.1
+description: Review release notes for Substance 3D Sampler version 0.6.1 to learn about updates, improvements, and bug fixes.
+helpx_description: Sampler > Release Notes > Old Versions > Version 0.6.1
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-0-6-1.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - 3d
+  - preview
+  - materials
 ---
+
 
 # Version 0.6.1
 

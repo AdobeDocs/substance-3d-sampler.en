@@ -1,7 +1,8 @@
 ---
 title: "Version 4.1"
-description: ""
+description: "Review release notes for Substance 3D Sampler version 4.1 to learn about Paint Warp filter, Embroidery filter updates, and 3D Capture improvements."
 helpx_description: "Sampler > Release Notes > Version 4.1"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-1.html"
 ---
 
 # Version 4.1

@@ -1,8 +1,21 @@
 ---
-title: "Channel Switch"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Channel Switch"
+title: Channel Switch
+description: Use the Channel Switch tool in Substance 3D Sampler to rearrange and swap color channels in texture maps for material creation.
+helpx_description: Sampler > Filters > Tools > Channel Switch
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channel-switch.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+  - painting-illustration
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - masking
+  - channels
+  - replacing-backgrounds
 ---
+
 
 # Channel Switch
 

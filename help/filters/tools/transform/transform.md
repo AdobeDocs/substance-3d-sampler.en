@@ -1,8 +1,19 @@
 ---
-title: "Transform"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Transform"
+title: Transform
+description: Use the Transform tool in Substance 3D Sampler to scale, rotate, translate, and manipulate textures and material layers.
+helpx_description: Sampler > Filters > Tools > Transform
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/transform.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - scaling
+  - tiling
+  - perspective
 ---
+
 
 # Transform
 

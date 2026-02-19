@@ -1,8 +1,19 @@
 ---
-title: "Spark AR Studio"
-description: ""
-helpx_description: "Sampler > Getting Started > Export > Default Presets > Spark AR Studio"
+title: Spark AR Studio
+description: Learn how to export materials from Substance 3D Sampler using the Spark AR Studio preset for augmented reality workflows.
+helpx_description: Sampler > Getting Started > Export > Default Presets > Spark AR Studio
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/spark-ar-studio.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - 3d
+  - blending
+  - ar
 ---
+
 
 # Spark AR Studio
 

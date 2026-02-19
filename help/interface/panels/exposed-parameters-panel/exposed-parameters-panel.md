@@ -1,8 +1,19 @@
 ---
-title: "Exposed Parameters Panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Exposed Parameters Panel"
+title: Exposed Parameters Panel
+description: Learn how to use the Exposed Parameters panel in Substance 3D Sampler to expose filter parameters for external editing.
+helpx_description: Sampler > Interface > Panels > Exposed Parameters Panel
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/exposed-parameters-panel.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - 3d
+  - presets
+  - appearance
 ---
+
 
 # Exposed Parameters Panel
 

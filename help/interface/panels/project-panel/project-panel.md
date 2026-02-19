@@ -1,8 +1,19 @@
 ---
-title: "Project panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Project panel"
+title: Project panel
+description: Learn how to use the Project panel in Substance 3D Sampler to manage project files, save work, and access recent projects.
+helpx_description: Sampler > Interface > Panels > Project panel
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/project-panel.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - intermediate-advanced
+helpx_learn_topic:
+  - cross-product-workflows
+  - 3d
+  - projects
 ---
+
 
 # Project panel
 

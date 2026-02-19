@@ -1,8 +1,20 @@
 ---
-title: "PBR Validate"
-description: ""
-helpx_description: "Sampler > Filters > Tools > PBR Validate"
+title: PBR Validate
+description: Use the PBR Validate tool in Substance 3D Sampler to validate and ensure materials meet physically based rendering standards.
+helpx_description: Sampler > Filters > Tools > PBR Validate
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/pbr-validate.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - pbr
+  - color-grading
+  - materials
 ---
+
 
 # PBR Validate
 

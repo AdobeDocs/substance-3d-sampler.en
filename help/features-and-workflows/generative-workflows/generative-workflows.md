@@ -1,14 +1,15 @@
 ---
 title: "Generative Workflows"
-description: ""
+description: "Learn how to use generative workflows in Substance 3D Sampler including text-to-texture, text-to-pattern, and image-to-texture features."
 helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/generative-workflows.html"
 ---
 
 # Generative workflows
 
 Substance 3D Sampler helps you iterate quickly and try out new ideas easily with three generative features currently in beta, Text-to-Texture, Text-to-Pattern and Image-to-Texture.
 
-![](sampler_genai_banner.png)
+![](genai-banner.png)
 
 ## Text-to-Texture
 

@@ -1,8 +1,20 @@
 ---
-title: "Adjustments"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments"
+title: Adjustments
+description: Learn how to use adjustment filters in Substance 3D Sampler to modify color, brightness, contrast, and other material properties.
+helpx_description: Sampler > Filters > Adjustments
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - adjustments
+  - raw
+  - landscape-photography
 ---
+
 
 # Adjustments
 
@@ -10,13 +22,13 @@ Adjustment filters allow you to adjust the values of your material. Most adjustm
 
 Below is a list of adjustment filters:
 
-* [Blur](blur/blur.md)
-* [Brightness/Contrast](brightness-contrast/brightness-contrast.md)
-* [Colorize](colorize/colorize.md)
-* [Color Replace](color-replace/color-replace.md)
-* [Color Variation](color-variation/color-variation.md)
-* [Equalize](equalize/equalize.md)
-* [Hue/Saturation](hue-saturation/hue-saturation.md)
-* [Invert](invert/invert.md)
-* [Sharpen](sharpen/sharpen.md)
-* [Vibrance](vibrance/vibrance.md)
+* [Blur](../../help/filters/adjustments/blur/blur.md)
+* [Brightness/Contrast](../../help/filters/adjustments/brightness-contrast/brightness-contrast.md)
+* [Colorize](../../help/filters/adjustments/colorize/colorize.md)
+* [Color Replace](../../help/filters/adjustments/color-replace/color-replace.md)
+* [Color Variation](../../help/filters/adjustments/color-variation/color-variation.md)
+* [Equalize](../../help/filters/adjustments/equalize/equalize.md)
+* [Hue/Saturation](../../help/filters/adjustments/hue-saturation/hue-saturation.md)
+* [Invert](../../help/filters/adjustments/invert/invert.md)
+* [Sharpen](../../help/filters/adjustments/sharpen/sharpen.md)
+* [Vibrance](../../help/filters/adjustments/vibrance/vibrance.md)

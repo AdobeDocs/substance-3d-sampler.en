@@ -1,8 +1,19 @@
 ---
-title: "Warp Transform"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Warp Transform"
+title: Warp Transform
+description: Use the Warp Transform tool in Substance 3D Sampler to apply non-linear warping and distortion effects to textures and materials.
+helpx_description: Sampler > Filters > Tools > Warp Transform
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp-transform.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - asset-warp
+  - transform
+  - distortions
 ---
+
 
 # Warp Transform
 

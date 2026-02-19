@@ -1,7 +1,8 @@
 ---
 title: "Upscale"
-description: ""
+description: "Use the Upscale tool in Substance 3D Sampler to increase texture resolution using AI-powered upscaling technology."
 helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/upscale.html"
 ---
 
 # Upscale
@@ -65,7 +66,7 @@ In this exemple we start with a 1024x1024px image but the output result is in 40
 
 ![](SAPR_Upscale_screen_001.png)
 
-In the image above, a low resolution image is processed by the [Image to Material (AI Powered)](../image-to-material/image-to-material.md).
+In the image above, a low resolution image is processed by the [Image to Material (AI Powered)](../../../help/filters/tools/image-to-material/image-to-material.md).
 
 ![](SAPR_Upscale_Screen_003.png)
 

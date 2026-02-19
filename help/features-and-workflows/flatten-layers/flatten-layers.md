@@ -1,8 +1,17 @@
 ---
-title: "Flatten layers"
-description: ""
-helpx_description: "Substance 3D Sampler"
+title: Flatten layers
+description: Learn how to flatten layers in Substance 3D Sampler to improve performance and simplify your layer stack while understanding the impact.
+helpx_description: Substance 3D Sampler
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/flatten-layers.html"
+helpx_creative_field:
+  - 3d
+helpx_experience_level:
+  - all-skill-levels
+  - any
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # Flatten layers
 

@@ -1,8 +1,21 @@
 ---
-title: "Embroidery"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Embroidery"
+title: Embroidery
+description: Use the Embroidery generator in Substance 3D Sampler to create embroidered fabric patterns and stitching textures for materials.
+helpx_description: Sampler > Filters > Generators > Embroidery
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embroidery.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+  - painting-illustration
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - creative-effects
+  - illustration
+  - filters
 ---
+
 
 # Embroidery
 
@@ -38,7 +51,7 @@ In the image above, the **Embroidery filter** has been added to the layer stack 
 ## Tajima embroidery plugin
 
 Interested in trying out the Tajima embroidery plugin?   
-Learn more about it [here](../../../pipeline-and-integrations/tajima-exporter-plugin/tajima-exporter-plugin.md).
+Learn more about it [here](../../../help/pipeline-and-integrations/tajima-exporter-plugin/tajima-exporter-plugin.md).
 
 ## Parameters
 
@@ -98,7 +111,7 @@ The Embroidery filter can be a little confusing at first, but with just a few im
 
 >[!NOTE]
 >
-> If you've used the [Weave ](../weave/weave.md)filter before, the Embroidery filter works in a similar way.
+> If you've used the [Weave ](../../../help/filters/generators/weave/weave.md)filter before, the Embroidery filter works in a similar way.
 
 To use the Embroidery filter:
 

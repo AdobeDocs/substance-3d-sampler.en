@@ -1,8 +1,19 @@
 ---
-title: "Crash when exporting a material"
-description: ""
-helpx_description: "Sampler > Technical Support > Technical Issues > Stability issues > Crash when exporting a material"
+title: Crash when exporting a material
+description: Learn how to fix crashes when exporting materials in Substance 3D Sampler caused by insufficient VRAM or GPU memory issues.
+helpx_description: Sampler > Technical Support > Technical Issues > Stability issues > Crash when exporting a material
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-exporting-a-material.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - export
+  - save
+  - troubleshooting
 ---
+
 
 # Crash when exporting a material
 

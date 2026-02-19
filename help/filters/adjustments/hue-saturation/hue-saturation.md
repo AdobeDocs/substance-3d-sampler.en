@@ -1,8 +1,19 @@
 ---
-title: "HueSaturation"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > HueSaturation"
+title: HueSaturation
+description: Use the Hue/Saturation filter in Substance 3D Sampler to adjust hue, saturation, and lightness values in textures and materials.
+helpx_description: Sampler > Filters > Adjustments > HueSaturation
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/hue-saturation.html"
+helpx_creative_field:
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - enhancing-color
+  - colorize
+  - color
 ---
+
 
 # Hue/Saturation
 

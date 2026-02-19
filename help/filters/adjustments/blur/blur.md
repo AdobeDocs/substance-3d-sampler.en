@@ -1,8 +1,20 @@
 ---
-title: "Blur"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > Blur"
+title: Blur
+description: Use the Blur filter in Substance 3D Sampler to apply blur effects and reduce image sharpness in textures and material layers.
+helpx_description: Sampler > Filters > Adjustments > Blur
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/blur.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - effects
+  - filters
+  - adjustments
 ---
+
 
 # Blur
 

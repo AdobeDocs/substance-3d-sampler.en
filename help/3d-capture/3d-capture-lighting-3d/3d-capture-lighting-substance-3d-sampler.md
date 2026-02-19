@@ -1,8 +1,12 @@
 ---
-title: "3D Capture Lighting"
-description: ""
-helpx_description: "Substance 3D Sampler"
+title: 3D Capture Lighting
+description: Learn how to configure lighting for 3D capture in Substance 3D Sampler to achieve optimal illumination and material quality.
+helpx_description: Substance 3D Sampler
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/3d-capture-lighting---substance-3d-sampler.html"
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # 3D Capture Lighting
 
@@ -18,7 +22,7 @@ Photogrammetry requires uniform, even lighting.
 
 That isn’t always possible to achieve: if you’re counting on outdoor lighting you could have a bright sun with no clouds, or it could even be raining. Even on a cloudy day you will still get some shadows and light on your object, which can cause issues when flipping an object over. Taking control of your lighting can eliminate these issues. And when you’re using controlled, studio lighting, you won’t just get better models, but also better, more even textures.
 
-![](lighting-3D-capture-sampler-1.jpg)
+![](lighting-3d-capture-1.jpg)
 
 ## Types of lights
 

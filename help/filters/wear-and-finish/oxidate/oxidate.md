@@ -1,8 +1,20 @@
 ---
-title: "Oxidate"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Oxidate"
+title: Oxidate
+description: Use the Oxidate filter in Substance 3D Sampler to add oxidation and tarnish effects to metal materials for aged appearances.
+helpx_description: Sampler > Filters > Wear and Finish > Oxidate
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - materials
+  - adjustments
+  - enhancing-color
 ---
+
 
 # Oxidate
 

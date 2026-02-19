@@ -1,8 +1,20 @@
 ---
-title: "Quilt Stitch"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Quilt Stitch"
+title: Quilt Stitch
+description: Use the Quilt Stitch generator in Substance 3D Sampler to create quilted fabric patterns and stitching textures for materials.
+helpx_description: Sampler > Filters > Generators > Quilt Stitch
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
+helpx_creative_field:
+  - painting-illustration
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - asset-warp
+  - effects
+  - creative-effects
 ---
+
 
 # Quilt Stitch
 

@@ -1,12 +1,23 @@
 ---
-title: "2D and 3D Viewport"
-description: ""
-helpx_description: "Sampler > Interface > 2D and 3D Viewport"
+title: 2D and 3D Viewport
+description: Learn how to use the 2D and 3D viewports in Substance 3D Sampler to preview materials and navigate your workspace effectively.
+helpx_description: Sampler > Interface > 2D and 3D Viewport
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/2d-and-3d-viewport.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - views
+  - preview
+  - camera
 ---
+
 
 # 2D and 3D Viewport
 
-![](main-3D-viewport-sampler-5.png)
+![](main-3d-viewport-5.png)
 
 The **Viewport** displays your current asset. At the top of the **V****iewport** you can see the name of your asset and options to change the **Viewport** appearance. Use these options to:
 

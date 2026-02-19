@@ -1,8 +1,20 @@
 ---
-title: "Panel"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Panel"
+title: Panel
+description: Use the Panel generator in Substance 3D Sampler to create panel patterns and segmented surface textures for materials.
+helpx_description: Sampler > Filters > Generators > Panel
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/panel.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - materials
+  - effects
+  - creative-effects
 ---
+
 
 # Panel
 

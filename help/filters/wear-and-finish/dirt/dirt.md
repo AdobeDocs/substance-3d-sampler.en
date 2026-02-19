@@ -1,8 +1,19 @@
 ---
-title: "Dirt"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Dirt"
+title: Dirt
+description: Use the Dirt filter in Substance 3D Sampler to add realistic dirt accumulation and grime effects to your materials and textures.
+helpx_description: Sampler > Filters > Wear and Finish > Dirt
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/dirt.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - masking
+  - add-objects-to-images
+  - reflections
 ---
+
 
 # Dirt
 
@@ -21,11 +32,11 @@ helpx_description: "Sampler > Filters > Wear and Finish > Dirt"
 
 Use the **Dirt filter** to add dirt on top of a material. The **Dirt filter** is great for making materials seem older and uncared for.
 
-![](sampler-dirt-filter-ceramic-mozaic-tiles-bef.png)
+![](dirt-filter-ceramic-mozaic-tiles-before-tra.png)
 
 Compare the clean tiles above with the dirt filter applied to them below.
 
-![](sampler-dirt-filter-ceramic-mozaic-tiles-after.png)
+![](dirt-filter-ceramic-mozaic-tiles-after-tra.png)
 
 </td>
 </tr>

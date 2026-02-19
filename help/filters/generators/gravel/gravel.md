@@ -1,8 +1,20 @@
 ---
-title: "Gravel"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Gravel"
+title: Gravel
+description: Use the Gravel generator in Substance 3D Sampler to create realistic gravel and stone aggregate textures for materials.
+helpx_description: Sampler > Filters > Generators > Gravel
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/gravel.html"
+helpx_creative_field:
+  - painting-illustration
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - reflections
+  - materials
+  - blending
 ---
+
 
 # Gravel
 

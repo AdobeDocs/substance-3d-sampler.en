@@ -1,8 +1,19 @@
 ---
-title: "Atlas Scatter"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Atlas Scatter"
+title: Atlas Scatter
+description: Use the Atlas Scatter generator in Substance 3D Sampler to scatter elements from texture atlases across material surfaces.
+helpx_description: Sampler > Filters > Generators > Atlas Scatter
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/atlas-scatter.html"
+helpx_creative_field:
+  - painting-illustration
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - asset-warp
+  - reflections
+  - blending
 ---
+
 
 # Atlas Scatter
 

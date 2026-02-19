@@ -1,8 +1,19 @@
 ---
-title: "Water"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Water"
+title: Water
+description: Use the Water filter in Substance 3D Sampler to add water effects, wetness, and moisture to your materials and textures.
+helpx_description: Sampler > Filters > Wear and Finish > Water
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/water.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - photo-restoration
+  - materials
+  - reflections
 ---
+
 
 # Water
 

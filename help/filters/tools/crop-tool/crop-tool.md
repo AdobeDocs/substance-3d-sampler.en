@@ -1,8 +1,19 @@
 ---
-title: "Crop tool"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Crop tool"
+title: Crop tool
+description: Use the Crop tool in Substance 3D Sampler to crop and resize textures and material layers with precise control over dimensions.
+helpx_description: Sampler > Filters > Tools > Crop tool
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/crop-tool.html"
+helpx_creative_field:
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - crop
+  - panorama
+  - camera
 ---
+
 
 # Crop tool
 

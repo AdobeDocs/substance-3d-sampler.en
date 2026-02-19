@@ -1,8 +1,12 @@
 ---
-title: "Version 5.0"
-description: ""
-helpx_description: "Substance 3D Sampler"
+title: Version 5.0
+description: Review release notes for Substance 3D Sampler version 5.0 to learn about new digitization tools, features, and workflow improvements.
+helpx_description: Substance 3D Sampler
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-5-0-substance-3d-sampler.html"
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # Version 5.0
 
@@ -16,7 +20,7 @@ The main new features include:
 
 Start all the main workflows of Sampler in one click and have the layer stack made ready for you!
 
-More info *[here](../../interface/panels/quick-actions-panel/quick-actions-panel.md)*.
+More info *[here](../../help/interface/panels/quick-actions-panel/quick-actions-panel.md)*.
 
 ![](quick_actions_1440x810.png)
 
@@ -24,7 +28,7 @@ More info *[here](../../interface/panels/quick-actions-panel/quick-actions-panel
 
 Find all your projects, tutorials and start your work directly from the home page.
 
-More info *[here](../../interface/the-home-screen/the-home-screen.md)*.
+More info *[here](../../help/interface/the-home-screen/the-home-screen.md)*.
 
 ![](new_home_screen_layout_1440x810.png)
 
@@ -32,7 +36,7 @@ More info *[here](../../interface/the-home-screen/the-home-screen.md)*.
 
 Choose between realtime and path-tracing improving visual consistency and support new material properties. Save snapshots of your work directly from the 3D view.
 
-More info *[here](../../interface/2d-and-3d-viewport/2d-and-3d-viewport.md)*.
+More info *[here](../../help/interface/2d-and-3d-viewport/2d-and-3d-viewport.md)*.
 
 ![](eclair_support_1440x810.png)
 
@@ -42,7 +46,7 @@ With HP Z Captis and Substance 3D Sampler, bring real-world materials into digit
 
 Feature available for Enterprise, Teams, and Education accounts.
 
-More info *[here](../../pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)*.
+More info *[here](../../help/pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)*.
 
 ![](hp_z_captis_1440x810.png)
 

@@ -1,8 +1,19 @@
 ---
-title: "Image To Material"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Image To Material"
+title: Image To Material
+description: Use the Image to Material tool in Substance 3D Sampler to convert single images into fully PBR materials using AI-powered processing.
+helpx_description: Sampler > Filters > Tools > Image To Material
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/image-to-material.html"
+helpx_creative_field:
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - creative-effects
+  - 3d
+  - materials
 ---
+
 
 # Image To Material
 
@@ -37,7 +48,7 @@ The neural network has been trained on a wide range of materials like fabrics, o
 
 >[!NOTE]
 >
-> Image to Material (AI Powered) will take longer to compute on high resolution images, we recommend to use the [Layer Resolution](../../../interface/preferences/layer-resolution/layer-resolution.md) system to optimize your workflow while working.
+> Image to Material (AI Powered) will take longer to compute on high resolution images, we recommend to use the [Layer Resolution](../../../help/interface/preferences/layer-resolution/layer-resolution.md) system to optimize your workflow while working.
 
 ### B2M
 

@@ -1,8 +1,12 @@
 ---
-title: "Substance Send-to"
-description: ""
-helpx_description: "Substance 3D Sampler"
+title: Substance Send-to
+description: Learn how to use Substance Send-to in Substance 3D Sampler to send assets directly to other applications via the Connector.
+helpx_description: Substance 3D Sampler
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # Send to any app
 

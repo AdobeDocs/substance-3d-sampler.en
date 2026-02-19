@@ -1,7 +1,8 @@
 ---
 title: "3D Capture set-up on Linux"
-description: ""
+description: "Learn how to set up 3D capture on Linux for Substance 3D Sampler by installing Wine 8 and configuring system requirements."
 helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/3d-capture-set-up-on-linux.html"
 ---
 
 # 3D Capture set-up on Linux

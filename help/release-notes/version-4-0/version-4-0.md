@@ -1,8 +1,20 @@
 ---
-title: "Version 4.0"
-description: ""
-helpx_description: "Sampler > Release Notes > Version 4.0"
+title: Version 4.0
+description: Review release notes for Substance 3D Sampler version 4.0 to learn about 3D object creation from images, automatic masking, and UX improvements.
+helpx_description: Sampler > Release Notes > Version 4.0
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-0.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - 3d
+  - photogrammetry
+  - export
 ---
+
 
 # Version 4.0
 
@@ -20,7 +32,7 @@ We have integrated photogrammetry capabilities. Photogrammetry is the technical 
 
 All you need to start is a series of photos which capture the visible surfaces of an object - a smart phone or DLSR camera works great.
 
-Discover the step-by-step workflow [here](../../features-and-workflows/3d-capture/3d-capture.md).
+Discover the step-by-step workflow [here](../../help/features-and-workflows/3d-capture/3d-capture.md).
 
 ## Highlights
 
@@ -36,7 +48,7 @@ Using masks has many advantages. It allows to detect features and reconstruct on
 
 Toggle Region of interest to activate a bounding box after aligning your images. Set and align the precise area you want to reconstruct.
 
-![](sampler-3d-capture-bounding-box-modified.png){width="500px"}
+![](3d-capture-bounding-box-modified.png){width="500px"}
 
 ### Connected post-processing
 

@@ -1,8 +1,19 @@
 ---
-title: "Properties panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Properties panel"
+title: Properties panel
+description: Learn how to use the Properties panel in Substance 3D Sampler to view and edit filter parameters and material properties.
+helpx_description: Sampler > Interface > Panels > Properties panel
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/properties-panel.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - materials
+  - appearance
+  - layers
 ---
+
 
 # Properties panel
 

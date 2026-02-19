@@ -1,8 +1,21 @@
 ---
-title: "Manage installed plugins and scripts"
-description: ""
-helpx_description: "Sampler > Scripting and Development > Manage installed plugins and scripts"
+title: Manage installed plugins and scripts
+description: Learn how to manage installed plugins and scripts in Substance 3D Sampler to install, modify, and remove custom extensions.
+helpx_description: Sampler > Scripting and Development > Manage installed plugins and scripts
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - automation
+  - preflight
+  - component
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # Manage installed plugins and scripts
 

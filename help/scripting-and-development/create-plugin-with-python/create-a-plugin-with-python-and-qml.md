@@ -1,8 +1,19 @@
 ---
-title: "Create a Plugin with Python and QML"
-description: ""
-helpx_description: "Sampler > Scripting and Development > Create a Plugin with Python and QML"
+title: Create a Plugin with Python and QML
+description: Learn how to create plugins with Python and QML for Substance 3D Sampler to build custom user interfaces and extend functionality.
+helpx_description: Sampler > Scripting and Development > Create a Plugin with Python and QML
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-plugin-with-python-and-qml.html"
+helpx_creative_field:
+  - web
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - save
+  - cross-product-workflows
+  - presets
 ---
+
 
 # Create a Plugin with Python and QML
 
@@ -16,7 +27,7 @@ Sampler plugins require at least a Python and QML file in order to be imported, 
 * **autosave.qml** defines the appearance of the plugin in Sampler.
 * **autosave.svg**is a vector graphic that is used as the icon for the plugin.
 
-Once you have the files needed for your plugin in a single folder, you can add the plugin to Sampler through Edit &gt; Preferences &gt; Plugins and Scripts. To learn more about managing plugins, go [here](../manage-installed-plugins/manage-installed-plugins-and-scripts.md).
+Once you have the files needed for your plugin in a single folder, you can add the plugin to Sampler through Edit &gt; Preferences &gt; Plugins and Scripts. To learn more about managing plugins, go [here](../../help/scripting-and-development/manage-installed-plugins/manage-installed-plugins-and-scripts.md).
 
 ## Python
 

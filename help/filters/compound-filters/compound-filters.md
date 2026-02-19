@@ -1,8 +1,19 @@
 ---
-title: "Compound Filters"
-description: ""
-helpx_description: "Sampler > Filters > Compound Filters"
+title: Compound Filters
+description: Learn how to create and use compound filters in Substance 3D Sampler to combine multiple filters into single reusable layers.
+helpx_description: Sampler > Filters > Compound Filters
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/compound-filters.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - nodes
+  - materials
+  - layers
 ---
+
 
 # Compound Filters
 

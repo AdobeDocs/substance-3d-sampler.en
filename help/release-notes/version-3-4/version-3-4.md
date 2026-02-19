@@ -1,8 +1,19 @@
 ---
-title: "Version 3.4"
-description: ""
-helpx_description: "Sampler > Release Notes > Version 3.4"
+title: Version 3.4
+description: Review release notes for Substance 3D Sampler version 3.4 to learn about new features designed to boost speed and quality in 3D workflows.
+helpx_description: Sampler > Release Notes > Version 3.4
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-3-4.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - 3d
+  - xr
+  - product-design
 ---
+
 
 # Version 3.4
 
@@ -26,7 +37,7 @@ Color dots will help you navigate into your exposed parameters and your differen
 You can now create plugins and scripts, this gives you the ability to customize your interface, making it easy to integrate Sampler into your pipeline, and to set up your workflow overall, in any way you wish.   
 This could allow you, for instance, to create a script allowing you to automate repetitive tasks as exporting multiple materials in one click.
 
-Discover how to create your first plugin or script [here](../../scripting-and-development/scripting-and-development.md).
+Discover how to create your first plugin or script [here](../../help/scripting-and-development/scripting-and-development.md).
 
 ## CLO Physical Properties
 

@@ -1,8 +1,19 @@
 ---
-title: "Wear and Finish"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish"
+title: Wear and Finish
+description: Learn how to use Wear and Finish filters in Substance 3D Sampler to add weathering, aging, and surface finish effects to materials.
+helpx_description: Sampler > Filters > Wear and Finish
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - reflections
+  - materials
+  - matte
 ---
+
 
 # Wear and Finish
 
@@ -10,18 +21,18 @@ Sampler's Wear and Finish filters let you quickly change the look and feel of yo
 
 The following filters are in the Wear and Finish category:
 
-* [Corrode](corrode/corrode.md)
-* [Cracks](cracks/cracks.md)
-* [Dirt](dirt/dirt.md)
-* [Discarded Gums](discarded-gums/discarded-gums.md)
-* [Dust](dust/dust.md)
-* [Erode](erode/erode.md)
-* [Metal Finish](metal-finish/metal-finish.md)
-* [Moss](moss/moss.md)
-* [Oxidate](oxidate/oxidate.md)
-* [Paint](paint/paint.md)
-* [Rust](rust/rust.md)
-* [Scratch](scratch/scratch.md)
-* [Snow](snow/snow.md)
-* [Water](water/water.md)
-* [Varnish](varnish/varnish.md)
+* [Corrode](../../help/filters/wear-and-finish/corrode/corrode.md)
+* [Cracks](../../help/filters/wear-and-finish/cracks/cracks.md)
+* [Dirt](../../help/filters/wear-and-finish/dirt/dirt.md)
+* [Discarded Gums](../../help/filters/wear-and-finish/discarded-gums/discarded-gums.md)
+* [Dust](../../help/filters/wear-and-finish/dust/dust.md)
+* [Erode](../../help/filters/wear-and-finish/erode/erode.md)
+* [Metal Finish](../../help/filters/wear-and-finish/metal-finish/metal-finish.md)
+* [Moss](../../help/filters/wear-and-finish/moss/moss.md)
+* [Oxidate](../../help/filters/wear-and-finish/oxidate/oxidate.md)
+* [Paint](../../help/filters/wear-and-finish/paint/paint.md)
+* [Rust](../../help/filters/wear-and-finish/rust/rust.md)
+* [Scratch](../../help/filters/wear-and-finish/scratch/scratch.md)
+* [Snow](../../help/filters/wear-and-finish/snow/snow.md)
+* [Water](../../help/filters/wear-and-finish/water/water.md)
+* [Varnish](../../help/filters/wear-and-finish/varnish/varnish.md)

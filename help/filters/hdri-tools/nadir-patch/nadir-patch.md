@@ -1,8 +1,19 @@
 ---
-title: "Nadir Patch"
-description: ""
-helpx_description: "Sampler > Filters > HDRI Tools > Nadir Patch"
+title: Nadir Patch
+description: Use the Nadir Patch tool in Substance 3D Sampler to patch the nadir area of HDRI images for seamless environment maps.
+helpx_description: Sampler > Filters > HDRI Tools > Nadir Patch
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - photo-restoration
+  - retouching
+  - removing-objects
 ---
+
 
 # Nadir Patch
 

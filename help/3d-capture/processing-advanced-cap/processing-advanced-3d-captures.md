@@ -1,8 +1,12 @@
 ---
-title: "Processing advanced 3D captures"
-description: ""
-helpx_description: "Substance 3D Sampler"
+title: Processing advanced 3D captures
+description: Learn how to process advanced 3D captures in Substance 3D Sampler to optimize geometry, textures, and material quality.
+helpx_description: Substance 3D Sampler
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/processing-advanced-3d-captures.html"
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # Processing advanced 3D captures
 
@@ -16,7 +20,7 @@ In this user guide we’re taking an in-depth look at processing your 3D Capture
 
 You prefer to watch this as a video tutorial? You can find it [here](https://youtu.be/vJQ756Up55Y?si=GiAnajXRGkb5gyTH "Advanced 3D Capture - Capture Processing tutorial").
 
-![](cloud-points-3D-capture-sampler.png)
+![](cloud-points-3d-capture.png)
 
 When doing 3D capture or photogrammetry, most of the effort is in taking good photographs, which steps are covered in the previous user guide articles. Also keep in mind we have designed and focused the 3D capture experience for objects up to human size. You might run into issues when you use a very large dataset (that means above 6 Giga pixels, which is 500 12 Megapixel photos).
 
@@ -24,7 +28,7 @@ When doing 3D capture or photogrammetry, most of the effort is in taking good ph
 
 To get started in Sampler, you will need to create a <b>new Project</b>. You’ll notice a new 3D Objects section in the Projects window. Click the + next to that, and pick “<b>New 3D Object</b>” to get started with the 3D Capture process in a new, dedicated window.
 
-![](New-capture-3D-capture-sampler.png)
+![](new-capture-3d-capture.png)
 
 Select all your photos in the explorer and drag them onto the 3D Capture window. After loading for a while, your photos are presented in a list, and as a gallery, with properties for the selection on the right.
 
@@ -38,7 +42,7 @@ The most important option is under the <b>Mask</b> section. Because the photos h
 
 The easiest way is to use the automatic batch generation. Select <b>Generate</b>, then <b>New Batch</b>, and wait for Sampler to create the masks. This uses Adobe Sensei “Select subject” technology, just like in Photoshop. With 72 photos this process takes a little while to complete, so best to be patient.
 
-![](generate-mask-3D-capture-sampler.png)
+![](generate-mask-3d-capture.png)
 
 You can verify an individual mask by <b>selecting a photo</b>, and clicking on the <b>eye icon</b> at the bottom right, next to the mask path. This shows a grayscale preview of the mask. If the automatic masking makes a mistake and kept parts of the background, don’t worry, a few incorrect masks are not a problem.
 
@@ -76,4 +80,4 @@ You can also do this mesh processing step afterwards, once the mesh is added to 
 
 You can edit the mesh and textures, but you can already export your result using the <b>Share</b> &gt; <b>Export As</b> dialog. <b>General settings</b> let you choose name and path, <b>Mesh settings</b> let you choose 3D mesh format, and <b>Material settings</b> let you configure the material of the mesh. You can toggle mesh or material off to export only one of them individually. Once exported, your mesh is ready to use in other 3D applications.
 
-Now learn how to [further edit your captured 3D meshes in Sampler](../editing-captured-meshes/editing-3d-captured-meshes.md).
+Now learn how to [further edit your captured 3D meshes in Sampler](../../help/3d-capture/editing-captured-meshes/editing-3d-captured-meshes.md).

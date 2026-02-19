@@ -1,8 +1,19 @@
 ---
-title: "BrightnessContrast"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > BrightnessContrast"
+title: BrightnessContrast
+description: Use the Brightness/Contrast filter in Substance 3D Sampler to adjust brightness and contrast levels in textures and material layers.
+helpx_description: Sampler > Filters > Adjustments > BrightnessContrast
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/brightness-contrast.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - brightness
+  - vibrance
+  - lighting
 ---
+
 
 # Brightness/Contrast
 
@@ -32,7 +43,7 @@ In the images below, the **Brightness/Contrast filter** has been used to increas
 </td>
 <td style="border: 0;" valign="top">
 
-![](sampler-brightness-contrast-example.jpg.img.jpg)
+![](brightness-contrast-example.jpg.img.jpg)
 
 </td>
 </tr>

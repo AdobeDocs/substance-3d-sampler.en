@@ -1,8 +1,21 @@
 ---
-title: "Cloth Weave"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Cloth Weave"
+title: Cloth Weave
+description: Use the Cloth Weave generator in Substance 3D Sampler to create fabric weave patterns and textile textures for material creation.
+helpx_description: Sampler > Filters > Generators > Cloth Weave
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/cloth-weave.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+  - painting-illustration
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - creative-effects
+  - color
+  - appearance
 ---
+
 
 # Cloth Weave
 

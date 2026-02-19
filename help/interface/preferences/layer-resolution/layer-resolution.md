@@ -1,7 +1,8 @@
 ---
 title: "Layer Resolution"
-description: ""
+description: "Learn how to configure layer resolution in Substance 3D Sampler to control the resolution of individual layers in your material stack."
 helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences/layer-resolution.html"
 ---
 
 # Layer Resolution

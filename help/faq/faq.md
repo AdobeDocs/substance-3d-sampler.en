@@ -1,7 +1,8 @@
 ---
 title: "FAQ"
-description: ""
+description: "Access frequently asked questions about Substance 3D Sampler to find answers about features, installation, and usage."
 helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/faq.html"
 ---
 
 # FAQ - Frequently Asked Questions

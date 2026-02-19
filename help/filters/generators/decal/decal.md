@@ -1,8 +1,19 @@
 ---
-title: "Decal"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Decal"
+title: Decal
+description: Use the Decal generator in Substance 3D Sampler to create decal patterns and overlay textures for material surfaces.
+helpx_description: Sampler > Filters > Generators > Decal
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/decal.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - decals
+  - effects
+  - creative-effects
 ---
+
 
 # Decal
 

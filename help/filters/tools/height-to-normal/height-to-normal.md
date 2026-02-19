@@ -1,8 +1,19 @@
 ---
-title: "Height to Normal"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Height to Normal"
+title: Height to Normal
+description: Use the Height to Normal tool in Substance 3D Sampler to convert height maps into normal maps for material creation workflows.
+helpx_description: Sampler > Filters > Tools > Height to Normal
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-normal.html"
+helpx_creative_field:
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - height
+  - normal-maps
+  - channels
 ---
+
 
 # Height to Normal
 

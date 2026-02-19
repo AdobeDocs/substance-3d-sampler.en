@@ -1,8 +1,19 @@
 ---
-title: "Atlas Splitter"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Atlas Splitter"
+title: Atlas Splitter
+description: Use the Atlas Splitter tool in Substance 3D Sampler to split texture atlases into individual texture maps for material editing.
+helpx_description: Sampler > Filters > Tools > Atlas Splitter
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-splitter.html"
+helpx_creative_field:
+  - painting-illustration
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - layers
+  - selections
+  - replacing-backgrounds
 ---
+
 
 # Atlas Splitter
 

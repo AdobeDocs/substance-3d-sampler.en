@@ -1,8 +1,19 @@
 ---
-title: "Color Replace"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > Color Replace"
+title: Color Replace
+description: Use the Color Replace filter in Substance 3D Sampler to replace specific colors in textures with new color values.
+helpx_description: Sampler > Filters > Adjustments > Color Replace
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/color-replace.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - color
+  - creating-color-palettes
+  - colorize
 ---
+
 
 # Color Replace
 

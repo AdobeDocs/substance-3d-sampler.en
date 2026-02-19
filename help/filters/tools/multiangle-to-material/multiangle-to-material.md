@@ -1,8 +1,19 @@
 ---
-title: "Multiangle To Material"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Multiangle To Material"
+title: Multiangle To Material
+description: Use the Multiangle To Material tool in Substance 3D Sampler to create materials from multiple angle photographs of a surface.
+helpx_description: Sampler > Filters > Tools > Multiangle To Material
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/multiangle-to-material.html"
+helpx_creative_field:
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - photogrammetry
+  - compositing
+  - images
 ---
+
 
 # Multiangle To Material
 

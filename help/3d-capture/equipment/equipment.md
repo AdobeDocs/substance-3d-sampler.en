@@ -1,7 +1,8 @@
 ---
 title: "3D Capture Equipment"
-description: ""
+description: "Learn about recommended 3D capture equipment for Substance 3D Sampler to achieve high-quality material and object digitization."
 helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/equipment.html"
 ---
 
 # 3D Capture Equipment
@@ -18,7 +19,7 @@ You prefer to watch this content as a video tutorial? You can find it [here](htt
 
 The focus on will be on shooting smaller objects indoors, in a controlled environment, with access to some more advanced equipment. There will be no focus on specific brands and products, as the goal is to try to keep the explanations generic enough so it can be applied to different equipment.
 
-![](setup-3d-capture-sampler-1.jpg)
+![](setup-3d-capture-1.jpg)
 
 ## Camera
 
@@ -44,4 +45,4 @@ The one major thing to pay attention to, is a uniform background. The photogramm
 
 Once everything is setup, the idea is simple: take plenty of photos, <b>going in full 360 degree loops. 16 shots per rotation is a good number, in at least 5 different loops</b>. One <b>from the side</b>, and <b>two from differing heights</b>, for the bottom and top each.
 
-Now learn more about the c[amera settings you will need to use for the 3D capture process](../camera-settings-exposure/camera-settings-exposure-substance-3d-sampler.md).
+Now learn more about the c[amera settings you will need to use for the 3D capture process](../../help/3d-capture/camera-settings-exposure/camera-settings-exposure-substance-3d-sampler.md).

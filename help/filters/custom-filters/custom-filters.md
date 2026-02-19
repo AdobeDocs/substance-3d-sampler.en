@@ -1,8 +1,19 @@
 ---
-title: "Custom Filters"
-description: ""
-helpx_description: "Sampler > Filters > Custom Filters"
+title: Custom Filters
+description: Learn how to use custom filters in Substance 3D Sampler to extend functionality with Substance Designer filters and custom effects.
+helpx_description: Sampler > Filters > Custom Filters
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/custom-filters.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - replacing-backgrounds
+  - filters
+  - add-objects-to-images
 ---
+
 
 # Custom Filters
 

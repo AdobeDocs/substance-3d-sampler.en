@@ -1,8 +1,19 @@
 ---
-title: "Assets panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Assets panel"
+title: Assets panel
+description: Learn how to use the Assets panel in Substance 3D Sampler to browse, organize, and access your material assets and resources.
+helpx_description: Sampler > Interface > Panels > Assets panel
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - assets
+  - cross-product-workflows
+  - content-creation
 ---
+
 
 # Assets panel
 

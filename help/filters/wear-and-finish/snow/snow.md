@@ -1,8 +1,20 @@
 ---
-title: "Snow"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Snow"
+title: Snow
+description: Use the Snow filter in Substance 3D Sampler to add realistic snow accumulation and winter weather effects to your materials.
+helpx_description: Sampler > Filters > Wear and Finish > Snow
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/snow.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - materials
+  - creative-effects
+  - effects
 ---
+
 
 # Snow
 

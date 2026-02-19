@@ -1,8 +1,19 @@
 ---
-title: "Vibrance"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > Vibrance"
+title: Vibrance
+description: Use the Vibrance filter in Substance 3D Sampler to enhance color saturation and vibrancy in textures while preserving skin tones.
+helpx_description: Sampler > Filters > Adjustments > Vibrance
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/vibrance.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - vibrance
+  - enhancing-color
+  - brightness
 ---
+
 
 # Vibrance
 

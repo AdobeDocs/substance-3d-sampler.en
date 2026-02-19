@@ -1,8 +1,19 @@
 ---
-title: "Color Variation"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > Color Variation"
+title: Color Variation
+description: Use the Color Variation filter in Substance 3D Sampler to add color diversity and variation to textures for more natural materials.
+helpx_description: Sampler > Filters > Adjustments > Color Variation
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/color-variation.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - color
+  - creating-color-palettes
+  - color-grading
 ---
+
 
 # Color Variation
 

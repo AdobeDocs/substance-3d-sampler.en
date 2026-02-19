@@ -1,8 +1,19 @@
 ---
-title: "3D Capture"
-description: ""
-helpx_description: "Sampler > Features and workflows > 3D Capture"
+title: 3D Capture
+description: Learn how to use 3D capture in Substance 3D Sampler to create materials from real-world objects using photogrammetry techniques.
+helpx_description: Sampler > Features and workflows > 3D Capture
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/3d-capture.html"
+helpx_creative_field:
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - photogrammetry
+  - camera
+  - 3d
 ---
+
 
 # 3D Capture
 
@@ -35,7 +46,7 @@ Mac
 
 ## Start a new 3D capture
 
-![](sampler-main-window-empty-screen.png)
+![](main-window-empty-screen.png)
 
 ## Import your dataset
 
@@ -49,7 +60,7 @@ Drag and drop your photos or click to browse your OS explorer.
 > 
 > We recommend to have a dataset that contains at least <b>20 images</b> for the 3D Capture to run smoothly.
 
-![](sampler-main-window-import-dataset-empty.png)
+![](main-window-import-dataset-empty.png)
 
 For iPhone users, .HEIC format is not yet supported. You can use Lightroom to convert to .jpeg.
 
@@ -63,11 +74,11 @@ For cameras RAW formats, we recommend to use Lightroom to convert your photos in
 > 
 > **Windows**: Your dataset has to be smaller than 6G pixels (6 000 000 000 pixels) in total. It represents 500 photos of 12M pixels
 
-![](sampler-main-window-dataset-imported.png)
+![](main-window-dataset-imported.png)
 
 Once the photos are imported, you can click on a photo to see it in full.
 
-![](sampler-main-window-photo-panel.png)
+![](main-window-photo-panel.png)
 
 Photogroup definition:
 
@@ -81,7 +92,7 @@ This allows also to move the object during the capture as the masks will hide ba
 
 To use masks, select a photogroup and open the **Mask** tab on the right.
 
-![](sampler-main-window-masking-panel.png)
+![](main-window-masking-panel.png)
 
 You can import masks by respecting a naming convention:
 
@@ -90,7 +101,7 @@ You can import masks by respecting a naming convention:
 
 You can automatically generate masks by photos using our AI-powered technology.
 
-![](sampler-main-window-masking-result.png)
+![](main-window-masking-result.png)
 
 ## Alignment
 
@@ -98,7 +109,7 @@ The alignment is to process all images to extract and match corresponding featur
 
 ## Settings
 
-![](sampler-main-window-alignment-settings.png)
+![](main-window-alignment-settings.png)
 
 Precision
 
@@ -124,7 +135,7 @@ If the image outline is green, the image was correctly aligned.
 
 If the image outline is orange, the image was not correctly aligned and no feature was extracted from this image.
 
-![](sampler-3d-capture-alignment-results.png)
+![](3d-capture-alignment-results.png)
 
 You can click on image on the left panel to frame the points cloud on the associated camera.
 
@@ -150,12 +161,12 @@ By pressing Shift while scaling, you will scale the box from the center.
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](sampler-3d-capture-bounding-box-original.png)
+![](3d-capture-bounding-box-original.png)
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](sampler-3d-capture-bounding-box-modified.png)
+![](3d-capture-bounding-box-modified.png)
 
 </td>
 </tr>
@@ -176,7 +187,7 @@ The post-processing step chains 4 steps automatically:
 * Reprojection: Reproject the color texture of the photogrammetry mesh onto the decimated mesh
 * Baking: Bake normal, height and AO details from the photogrammetry mesh onto the decimated mesh. This will ensure to transfer all mesh details lost during the decimation into texture maps.
 
-![](sampler-capture-original-version-post-pro.png)
+![](3d-capture-original-version-post-processing.png)
 
 ## Version
 
@@ -186,19 +197,19 @@ To help you, you can visualize the mesh in different mode.
 
 Solid mode
 
-![](sampler-3d-capture-post-processing-solid.png)
+![](3d-capture-post-processing-solid.png)
 
 Wireframe mode
 
-![](sampler-3d-capture-post-processing-wireframe.png)
+![](3d-capture-post-processing-wireframe.png)
 
 UV Grid mode
 
-![](sampler-3d-capture-post-processing-uv-grid.png)
+![](3d-capture-post-processing-uv-grid.png)
 
 ## Non-destructive workflow
 
-![](sampler-main-window-add-to-project.png)
+![](main-window-add-to-project.png)
 
 Once a version added to the project, a layer stack is created with several layers.
 
@@ -210,13 +221,13 @@ The third layer is a mesh transform layer to scale, translate and rotate your 3D
 
 At this stage, you can add filters you’re used to apply on materials to edit the textures on the 3D object.
 
-![](sampler-main-window-texturing.png)
+![](main-window-texturing.png)
 
 ## Export
 
 In the export window, you can define the mesh format and material settings (same settings when you export a material).
 
-![](sampler-main-window-export.png)
+![](main-window-export.png)
 
 ## Tutorials
 

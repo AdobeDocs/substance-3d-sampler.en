@@ -1,8 +1,19 @@
 ---
-title: "Sharpen"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > Sharpen"
+title: Sharpen
+description: Use the Sharpen filter in Substance 3D Sampler to enhance image sharpness and detail in textures and material layers.
+helpx_description: Sampler > Filters > Adjustments > Sharpen
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/sharpen.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - sharpen
+  - filters
+  - effects
 ---
+
 
 # Sharpen
 

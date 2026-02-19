@@ -1,8 +1,19 @@
 ---
-title: "End to end Physical Size Workflow"
-description: ""
-helpx_description: "Sampler > Features and workflows > End to end Physical Size Workflow"
+title: End to end Physical Size Workflow
+description: Learn how to use the end-to-end physical size workflow in Substance 3D Sampler to create physically accurate materials matching real-world scale.
+helpx_description: Sampler > Features and workflows > End to end Physical Size Workflow
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/end-to-end-physical-size-workflow.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - resize
+  - scaling
+  - crop
 ---
+
 
 # End to end Physical Size Workflow
 

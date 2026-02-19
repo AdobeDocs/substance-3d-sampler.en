@@ -1,8 +1,19 @@
 ---
-title: "Redshift"
-description: ""
-helpx_description: "Sampler > Getting Started > Export > Default Presets > Redshift"
+title: Redshift
+description: Learn how to export materials from Substance 3D Sampler using the Redshift preset for compatibility with Redshift rendering engine.
+helpx_description: Sampler > Getting Started > Export > Default Presets > Redshift
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/redshift.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - hdri
+  - 3d
+  - photogrammetry
 ---
+
 
 # Redshift
 

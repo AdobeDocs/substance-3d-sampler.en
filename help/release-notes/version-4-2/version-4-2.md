@@ -1,7 +1,8 @@
 ---
 title: "Version 4.2"
-description: ""
+description: "Review release notes for Substance 3D Sampler version 4.2 to learn about AI-powered Image to Material, AI Upscale feature, and resolution controls."
 helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-2.html"
 ---
 
 # Version 4.2

@@ -1,8 +1,19 @@
 ---
-title: "Image to Material and Delighter are missing"
-description: ""
-helpx_description: "Sampler > Technical Support > Technical Issues > Filter issues > Image to Material and Delighter are missing"
+title: Image to Material and Delighter are missing
+description: Learn how to resolve missing Image to Material and Delighter filters in Substance 3D Sampler by checking system requirements.
+helpx_description: Sampler > Technical Support > Technical Issues > Filter issues > Image to Material and Delighter are missing
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/filter-issues/image-to-material-and-delighter-are-missing.html"
+helpx_creative_field:
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - images
+  - xr
+  - adding-photos
 ---
+
 
 # Image to Material and Delighter are missing
 

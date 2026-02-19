@@ -1,8 +1,20 @@
 ---
-title: "Invert"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > Invert"
+title: Invert
+description: Use the Invert filter in Substance 3D Sampler to invert color values and create negative image effects in textures and materials.
+helpx_description: Sampler > Filters > Adjustments > Invert
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/invert.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+  - painting-illustration
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - reflections
+  - reflect
+  - channels
 ---
+
 
 # Invert
 
@@ -27,7 +39,7 @@ In the images below you can see the impact of inverting the roughness channel of
 
 Before inverting, the tiles are shiny and reflect the environment light clearly.
 
-![](sampler-invert-rough-filter.jpg.img.jpg)
+![](invert-rough-filter.jpg.img.jpg)
 
 After inverting, the tiles are matte and don't have strong specular highlights.
 

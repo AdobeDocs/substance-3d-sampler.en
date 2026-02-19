@@ -1,8 +1,21 @@
 ---
-title: "Paint"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Paint"
+title: Paint
+description: Use the Paint filter in Substance 3D Sampler to add paint layers, coatings, and painted surface effects to your materials.
+helpx_description: Sampler > Filters > Wear and Finish > Paint
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/paint.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+  - painting-illustration
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - painting
+  - materials
+  - creative-effects
 ---
+
 
 # Paint
 

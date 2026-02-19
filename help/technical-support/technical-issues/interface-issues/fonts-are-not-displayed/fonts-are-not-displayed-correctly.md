@@ -1,8 +1,20 @@
 ---
-title: "Fonts are not displayed correctly"
-description: ""
-helpx_description: "Sampler > Technical Support > Technical Issues > Interface issues > Fonts are not displayed correctly"
+title: Fonts are not displayed correctly
+description: Learn how to fix font display issues in Substance 3D Sampler on Windows Enterprise systems with untrusted font blocking enabled.
+helpx_description: Sampler > Technical Support > Technical Issues > Interface issues > Fonts are not displayed correctly
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/interface-issues/fonts-are-not-displayed-correctly.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - fonts
+  - custom-lettering
+  - accessibility
 ---
+
 
 # Fonts are not displayed correctly
 

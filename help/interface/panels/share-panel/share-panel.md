@@ -1,8 +1,19 @@
 ---
-title: "Export panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Export panel"
+title: Export panel
+description: Learn how to use the Export panel in Substance 3D Sampler to export materials as files or send them directly to other applications.
+helpx_description: Sampler > Interface > Panels > Export panel
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/share-panel.html"
+helpx_creative_field:
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - export
+  - save
+  - share
 ---
+
 
 # Export panel
 
@@ -28,12 +39,12 @@ Click **Export as...** to export the asset you're currently working on. In the w
 | Name | Change the name of your asset. |
 | Destination path | Change the save location. |
 | Format | Choose whether to export as an SBS, SBSAR, or as a collection of images. |
-| Preset | Select a preset to automatically organize your export for a specific application. [More information about presets is available here](../../../getting-started/export/default-presets/default-presets.md). |
+| Preset | Select a preset to automatically organize your export for a specific application. [More information about presets is available here](../../../help/getting-started/export/default-presets/default-presets.md). |
 | Resolution | Change the resolution of your export. |
 | Channels | Toggle which channels should be exported as part of your asset. |
 
 >[!NOTE]
 >
-> For more information on the Export dialog options and other information like file formats, see the [Export article](../../../getting-started/export/export.md) and its [sub-article on the Export Window](../../../getting-started/export/export-window/export-window.md).
+> For more information on the Export dialog options and other information like file formats, see the [Export article](../../../help/getting-started/export/export.md) and its [sub-article on the Export Window](../../../help/getting-started/export/export-window/export-window.md).
 
 Once you're happy with the export settings, click **Export**. Your export will appear in the export queue which shows a list of recent exports. Click the folder icon on any export to open the file location of that export.

@@ -1,8 +1,19 @@
 ---
-title: "Panorama Patch"
-description: ""
-helpx_description: "Sampler > Filters > HDRI Tools > Panorama Patch"
+title: Panorama Patch
+description: Use the Panorama Patch tool in Substance 3D Sampler to patch and repair areas in panoramic HDRI environment images.
+helpx_description: Sampler > Filters > HDRI Tools > Panorama Patch
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/panorama-patch.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - panorama
+  - hdr
+  - asset-warp
 ---
+
 
 # Panorama Patch
 

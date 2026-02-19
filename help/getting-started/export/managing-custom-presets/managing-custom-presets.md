@@ -1,14 +1,25 @@
 ---
-title: "Create and edit custom presets"
-description: ""
-helpx_description: "Sampler > Getting Started > Export > Managing custom presets"
+title: Create and edit custom presets
+description: Learn how to create and edit custom export presets in Substance 3D Sampler using Substance Designer for workflow optimization.
+helpx_description: Sampler > Getting Started > Export > Managing custom presets
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - presets
+  - color
+  - texture
 ---
+
 
 # Create and edit custom presets
 
 Custom presets can be created with Substance 3D Designer.
 
-The creation of custom presets respects the same rules as creating a custom filter for Sampler. Documentation is available [here](../../../filters/custom-filters/custom-filters.md).
+The creation of custom presets respects the same rules as creating a custom filter for Sampler. Documentation is available [here](../../../help/filters/custom-filters/custom-filters.md).
 
 ## Creation
 

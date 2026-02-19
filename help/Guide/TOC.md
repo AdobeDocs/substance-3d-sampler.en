@@ -2,11 +2,12 @@
 user-guide-title: placeholder
 breadcrumb-title: placeholder
 user-guide-description: placeholder
+solution: Substance 3D Sampler
 ---
 
 # Substance 3D Sampler {#using}
 
-+ [Home](/help/substance-3d-sampler.md)
++ [Home](/help/home/home.md)
 + Getting Started{#getting-started}
   + [Getting Started overview](/help/getting-started/getting-started.md)
   + [Activation and licenses](/help/getting-started/activation-and-licenses/activation-and-licenses.md)

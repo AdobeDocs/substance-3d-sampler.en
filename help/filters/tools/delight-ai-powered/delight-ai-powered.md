@@ -1,8 +1,20 @@
 ---
-title: "Delight (AI Powered)"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Delight (AI Powered)"
+title: Delight (AI Powered)
+description: Use the AI-powered Delight filter in Substance 3D Sampler to remove lighting information from images and create neutral base materials.
+helpx_description: Sampler > Filters > Tools > Delight (AI Powered)
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/delight-ai-powered.html"
+helpx_creative_field:
+  - graphic-design
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - effects
+  - creative-effects
+  - adjustments
 ---
+
 
 # Delight (AI Powered)
 

@@ -1,7 +1,8 @@
 ---
 title: "Crash at start up - Old OBS Version"
-description: ""
+description: "Learn how to fix Substance 3D Sampler crashes at startup caused by old OBS version conflicts on your system."
 helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/startup-issues/crash-at-start-up---old-obs-version.html"
 ---
 
 # Crash at start up - Old OBS Version

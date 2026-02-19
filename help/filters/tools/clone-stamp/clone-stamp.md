@@ -1,8 +1,19 @@
 ---
-title: "Clone Stamp"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Clone Stamp"
+title: Clone Stamp
+description: Use the Clone Stamp tool in Substance 3D Sampler to clone and paint texture areas for seamless material editing and repair.
+helpx_description: Sampler > Filters > Tools > Clone Stamp
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/clone-stamp.html"
+helpx_creative_field:
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - photo-restoration
+  - add-objects-to-images
+  - removing-objects
 ---
+
 
 # Clone Stamp
 

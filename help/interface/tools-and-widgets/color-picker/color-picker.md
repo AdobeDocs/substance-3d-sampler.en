@@ -1,8 +1,19 @@
 ---
-title: "Color Picker"
-description: ""
-helpx_description: "Sampler > Interface > Tools and Widgets > Color Picker"
+title: Color Picker
+description: Learn how to use the color picker in Substance 3D Sampler to select colors for materials, filters, and texture editing.
+helpx_description: Sampler > Interface > Tools and Widgets > Color Picker
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
+helpx_creative_field:
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - creating-color-palettes
+  - color
+  - swatches
 ---
+
 
 # Color Picker
 

@@ -1,8 +1,19 @@
 ---
-title: "The Home Screen"
-description: ""
-helpx_description: "Sampler > Interface > The Home Screen"
+title: The Home Screen
+description: Learn how to use the home screen in Substance 3D Sampler to access recent projects, create new materials, and get started quickly.
+helpx_description: Sampler > Interface > The Home Screen
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/the-home-screen.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - preview
+  - scenes
+  - workspace
 ---
+
 
 # The Home Screen
 

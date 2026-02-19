@@ -1,8 +1,19 @@
 ---
-title: "Sliders"
-description: ""
-helpx_description: "Sampler > Interface > Tools and Widgets > Sliders"
+title: Sliders
+description: Learn how to use sliders in Substance 3D Sampler to adjust filter parameters and material properties with precise control.
+helpx_description: Sampler > Interface > Tools and Widgets > Sliders
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets/sliders.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - slideshow
+  - keyframes
+  - animation
 ---
+
 
 # Sliders
 

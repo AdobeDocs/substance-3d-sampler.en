@@ -1,8 +1,19 @@
 ---
-title: "Perspective Correction"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Perspective Correction"
+title: Perspective Correction
+description: Use the Perspective Correction tool in Substance 3D Sampler to correct perspective distortion in captured images and textures.
+helpx_description: Sampler > Filters > Tools > Perspective Correction
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/perspective-correction.html"
+helpx_creative_field:
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - perspective
+  - tiling
+  - transform
 ---
+
 
 # Perspective Transform
 

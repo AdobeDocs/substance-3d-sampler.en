@@ -1,8 +1,19 @@
 ---
-title: "Brickwall"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Brickwall"
+title: Brickwall
+description: Use the Brickwall generator in Substance 3D Sampler to create realistic brick wall patterns and masonry textures for materials.
+helpx_description: Sampler > Filters > Generators > Brickwall
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/brickwall.html"
+helpx_creative_field:
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - creative-effects
+  - effects
+  - reflections
 ---
+
 
 # Brickwall
 

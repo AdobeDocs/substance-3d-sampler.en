@@ -1,8 +1,19 @@
 ---
-title: "Make it Tile"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Make it Tile"
+title: Make it Tile
+description: Use the Make it Tile tool in Substance 3D Sampler to automatically create seamless tiling patterns from non-tiling textures.
+helpx_description: Sampler > Filters > Tools > Make it Tile
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/make-it-tile.html"
+helpx_creative_field:
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - materials
+  - background
+  - reflections
 ---
+
 
 # Make it Tile
 

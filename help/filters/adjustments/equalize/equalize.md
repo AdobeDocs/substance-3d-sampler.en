@@ -1,8 +1,19 @@
 ---
-title: "Equalize"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > Equalize"
+title: Equalize
+description: Use the Equalize filter in Substance 3D Sampler to redistribute brightness values and enhance image contrast automatically.
+helpx_description: Sampler > Filters > Adjustments > Equalize
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/equalize.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - adjustments
+  - enhancing-color
+  - channels
 ---
+
 
 # Equalize
 

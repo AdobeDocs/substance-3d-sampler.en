@@ -1,8 +1,21 @@
 ---
-title: "Weave"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Weave"
+title: Weave
+description: Use the Weave generator in Substance 3D Sampler to create fabric weave patterns and textile textures for material creation.
+helpx_description: Sampler > Filters > Generators > Weave
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/weave.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+  - painting-illustration
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - creative-effects
+  - effects
+  - compositing
 ---
+
 
 # Weave
 
@@ -80,7 +93,7 @@ The Weave filter can be a little confusing at first, but with just a few importa
 
 >[!NOTE]
 >
-> If you've used the [Embroidery ](../embroidery/embroidery.md)filter before, the Weave filter works in a similar way. They produce different effects, but you can use images with them in the same way.
+> If you've used the [Embroidery ](../../../help/filters/generators/embroidery/embroidery.md)filter before, the Weave filter works in a similar way. They produce different effects, but you can use images with them in the same way.
 > 
 > Images for weave should be square proportions, high-resolution (2K minimum) and feature at most 10 different colors. The alpha or transparency channel can be used to cut out shapes. Ideally they are vector-based, but exported as PNG bitmap.
 

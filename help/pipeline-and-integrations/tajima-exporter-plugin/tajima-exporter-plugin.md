@@ -1,8 +1,12 @@
 ---
-title: "Tajima Exporter plugin"
-description: ""
-helpx_description: "Substance 3D Sampler"
+title: Tajima Exporter plugin
+description: Learn how to use the Tajima Exporter plugin in Substance 3D Sampler to export embroidery designs to Tajima DG17 software.
+helpx_description: Substance 3D Sampler
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # Tajima Exporter plugin of Embroidery files
 
@@ -34,11 +38,11 @@ Copy/paste here the unzip folder of the download
 
 Open your Sampler (5.0.3 or after) project with an Embroidery material.
 
-![](tajima_doc_sampler_embroidery_stars.png)
+![](tajima-doc-embroidery-stars.png)
 
 Open Tajima plugin and export to the location of your choice
 
-![](tajima_doc_sampler_plugin_export_stars.png)
+![](tajima-doc-plugin-export-stars.png)
 
 <b>Tajima software </b>
 

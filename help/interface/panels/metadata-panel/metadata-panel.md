@@ -1,8 +1,19 @@
 ---
-title: "Metadata panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Metadata panel"
+title: Metadata panel
+description: Learn how to use the Metadata panel in Substance 3D Sampler to add and manage metadata information for your materials.
+helpx_description: Sampler > Interface > Panels > Metadata panel
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/metadata-panel.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - annotation
+  - attachments
+  - interior-design
 ---
+
 
 # Metadata panel
 

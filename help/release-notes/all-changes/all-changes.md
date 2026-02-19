@@ -1,8 +1,21 @@
 ---
-title: "All Changes"
-description: ""
-helpx_description: "Sampler > Release Notes > All Changes"
+title: All Changes
+description: Review all changes and updates across Substance 3D Sampler versions to track feature evolution and improvements over time.
+helpx_description: Sampler > Release Notes > All Changes
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/all-changes.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - 3d
+  - materials
+  - modeling
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # All Changes
 

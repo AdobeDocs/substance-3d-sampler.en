@@ -1,8 +1,20 @@
 ---
-title: "Cracks"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Cracks"
+title: Cracks
+description: Use the Cracks filter in Substance 3D Sampler to add realistic crack patterns and surface damage effects to your materials.
+helpx_description: Sampler > Filters > Wear and Finish > Cracks
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/cracks.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - photo-restoration
+  - reflections
+  - materials
 ---
+
 
 # Cracks
 

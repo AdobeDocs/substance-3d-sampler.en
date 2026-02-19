@@ -1,8 +1,19 @@
 ---
-title: "Parquet"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Parquet"
+title: Parquet
+description: Use the Parquet generator in Substance 3D Sampler to create realistic parquet wood flooring patterns and textures for materials.
+helpx_description: Sampler > Filters > Generators > Parquet
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/parquet.html"
+helpx_creative_field:
+  - painting-illustration
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - materials
+  - 3d
+  - metal
 ---
+
 
 # Parquet
 

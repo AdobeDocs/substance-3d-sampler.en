@@ -1,8 +1,19 @@
 ---
-title: "Physical Size Panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Physical Size Panel"
+title: Physical Size Panel
+description: Learn how to use the Physical Size panel in Substance 3D Sampler to set real-world dimensions for materials and textures.
+helpx_description: Sampler > Interface > Panels > Physical Size Panel
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/physical-size-panel.html"
+helpx_creative_field:
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - scaling
+  - photogrammetry
+  - resize
 ---
+
 
 # Physical Size Panel
 
@@ -10,7 +21,7 @@ helpx_description: "Sampler > Interface > Panels > Physical Size Panel"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](sampler-3-2-0-cover.png)
+![](3-2-0-cover.png)
 
 </td>
 <td width="58.30%" style="border: 0;" valign="top">

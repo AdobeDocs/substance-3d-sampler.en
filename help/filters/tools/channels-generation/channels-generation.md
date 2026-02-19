@@ -1,8 +1,19 @@
 ---
-title: "Channels Generation"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Channels Generation"
+title: Channels Generation
+description: Use the Channels Generation tool in Substance 3D Sampler to generate texture channels from existing maps for material creation.
+helpx_description: Sampler > Filters > Tools > Channels Generation
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/channels-generation.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - 3d
+  - materials
+  - patterns
 ---
+
 
 # Channels Generation
 

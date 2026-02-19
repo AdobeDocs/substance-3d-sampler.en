@@ -1,8 +1,21 @@
 ---
-title: "Embossing"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Embossing"
+title: Embossing
+description: Use the Embossing generator in Substance 3D Sampler to create embossed patterns and raised surface relief effects in materials.
+helpx_description: Sampler > Filters > Generators > Embossing
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embossing.html"
+helpx_creative_field:
+  - video
+  - graphic-design
+  - 3d-immersive
+  - painting-illustration
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - materials
+  - creative-effects
+  - effects
 ---
+
 
 # Embossing
 

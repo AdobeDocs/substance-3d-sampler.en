@@ -1,8 +1,17 @@
 ---
-title: "Version 5.1"
-description: ""
-helpx_description: "Substance 3D Sampler"
+title: Version 5.1
+description: Review release notes for Substance 3D Sampler version 5.1 to learn about new features, improvements, and workflow enhancements.
+helpx_description: Substance 3D Sampler
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-5-1-substance-3d-sampler.html"
+helpx_creative_field:
+  - 3d
+  - 3d-immersive
+helpx_experience_level:
+  - all-skill-levels
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # Version 5.1
 
@@ -16,7 +25,7 @@ The main new features include:
 
 Save time processing structured or patterned materials—like fabrics—by automatically generating seamless tiles.
 
-More info *[here](../../filters/tools/auto-tiling/auto-tiling.md)*.
+More info *[here](../../help/filters/tools/auto-tiling/auto-tiling.md)*.
 
 ![](WhatsNew_Auto-tiling-5_1.jpg)
 
@@ -24,7 +33,7 @@ More info *[here](../../filters/tools/auto-tiling/auto-tiling.md)*.
 
 Boost performance and reduce computation time with the Flatten layer by transforming stacked layers results into a single set of maps within one unified layer. Rename and duplicate them for more efficiency!
 
-More info *[here](../../features-and-workflows/flatten-layers/flatten-layers.md)*.
+More info *[here](../../help/features-and-workflows/flatten-layers/flatten-layers.md)*.
 
 ![](WhatsNew_Flatten-Layers-5_1.png)
 
@@ -38,7 +47,7 @@ With enhanced Equalize and Clone Stamp filters, plus a new automatic fold remova
 
 Now with Roughness map generation and automatic physical size detection in Studio mode, you get a more detailed and accurate material digital twin than ever before!
 
-![](WhatsNew_hp-z-captis-sampler-5_1.jpg)
+![](whatsnew-hp-z-captis-5-1.jpg)
 
 ## V5.1 Release Notes
 

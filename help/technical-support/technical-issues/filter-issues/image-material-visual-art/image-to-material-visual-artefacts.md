@@ -1,7 +1,8 @@
 ---
 title: "Image to Material visual artefacts"
-description: ""
+description: "Learn how to fix visual artifacts in Image to Material results in Substance 3D Sampler to resolve color and quality issues."
 helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/filter-issues/image-to-material-visual-artefacts.html"
 ---
 
 # Image to Material visual artefacts

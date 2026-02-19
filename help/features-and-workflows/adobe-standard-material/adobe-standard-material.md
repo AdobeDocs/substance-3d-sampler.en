@@ -1,8 +1,19 @@
 ---
-title: "Adobe Standard Material"
-description: ""
-helpx_description: "Sampler > Features and workflows > Adobe Standard Material"
+title: Adobe Standard Material
+description: Learn how to use Adobe Standard Material in Substance 3D Sampler to create materials compatible with Adobe's material standard.
+helpx_description: Sampler > Features and workflows > Adobe Standard Material
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - reflections
+  - shading
+  - effects
 ---
+
 
 # Adobe Standard Material
 

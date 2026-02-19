@@ -1,8 +1,21 @@
 ---
-title: "Perforate"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Perforate"
+title: Perforate
+description: Use the Perforate generator in Substance 3D Sampler to create perforated patterns and hole arrays in materials and textures.
+helpx_description: Sampler > Filters > Generators > Perforate
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/perforate.html"
+helpx_creative_field:
+  - painting-illustration
+  - video
+  - graphic-design
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - masking
+  - materials
+  - reflections
 ---
+
 
 # Perforate
 

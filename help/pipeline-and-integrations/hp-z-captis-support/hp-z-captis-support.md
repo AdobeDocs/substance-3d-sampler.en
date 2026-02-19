@@ -1,8 +1,12 @@
 ---
-title: "HP Z Captis support"
-description: ""
-helpx_description: "Substance 3D Sampler"
+title: HP Z Captis support
+description: Learn how to use HP Z Captis hardware with Substance 3D Sampler for professional 3D capture and material digitization workflows.
+helpx_description: Substance 3D Sampler
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support.html"
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # HP Z Captis support
 

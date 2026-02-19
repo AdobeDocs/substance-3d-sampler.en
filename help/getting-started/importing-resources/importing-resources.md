@@ -1,8 +1,21 @@
 ---
-title: "Import Resources"
-description: ""
-helpx_description: "Sampler > Getting Started > Importing Resources"
+title: Import Resources
+description: Learn how to import resources like images and Substance files into Substance 3D Sampler to enhance your material creation workflows.
+helpx_description: Sampler > Getting Started > Importing Resources
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/importing-resources.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - import
+  - cross-product-workflows
+  - files
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # Import resources
 

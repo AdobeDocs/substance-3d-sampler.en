@@ -1,8 +1,19 @@
 ---
-title: "Export parametric assets"
-description: ""
-helpx_description: "Sampler > Features and workflows > Export parametric assets"
+title: Export parametric assets
+description: Learn how to export parametric assets from Substance 3D Sampler to enable parameter modification in other applications without returning to Sampler.
+helpx_description: Sampler > Features and workflows > Export parametric assets
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/export-parametric-assets.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - presets
+  - export
+  - double-exposure
 ---
+
 
 # Export parametric assets
 

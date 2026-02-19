@@ -1,8 +1,12 @@
 ---
-title: "Your first capture step by step"
-description: ""
-helpx_description: "Substance 3D Sampler"
+title: Your first capture step by step
+description: Learn how to perform your first 3D capture using HP Z Captis in Substance 3D Sampler with step-by-step instructions.
+helpx_description: Substance 3D Sampler
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.html"
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # Launch Sampler and turn on the HP Z Captis
 
@@ -10,7 +14,7 @@ Once Sampler is launched, click on the “<b>+</b>” button on the left bar.
 
 In the Connected Devices list, you should find <b>HP Z Captis</b>. If you do not see any devices listed, please refer to the FAQ.
 
-![click on the "plus" icon and on HP Z Captis in Sampler to launch the device](Sampler-5.png)
+![click on the "plus" icon and on HP Z Captis in Sampler to launch the device](5.png)
 
 After clicking on HP Z Captis, a dedicated window opens with 3 options:
 
@@ -18,7 +22,7 @@ After clicking on HP Z Captis, a dedicated window opens with 3 options:
 1. <b>Start scanning</b>: It will initialize HP Z Captis device and start the capture flow.
 1. <b>Shut down</b>: It will shut down the device and close the window.
 
-![](Sampler-Captis-captis-welcome-window.png)
+![](captis-captis-welcome-window.png)
 
 ## Closing HP Z Captis window
 
@@ -26,7 +30,7 @@ At any moment if you close the HP Z Captis window you will be asked if you want 
 
 If you select continue, the device will proceed with its current task offline and pause at the end of the current step. You can reconnect Sampler later to continue to the next step of the capture session.
 
-![](Sampler-Captis-abort-capture.png)
+![](captis-abort-capture.png)
 
 ## Preview step
 
@@ -40,7 +44,7 @@ Sampler will initialise the Preview of HP Z Captis device. It is recommended to 
 1. You can <b>zoom in</b> and <b>zoom out</b>.
 1. You can <b>pan</b>.
 
-![](Sampler-Captis-51-preview.png)
+![](captis-51-preview.png)
 
 There are several types of settings that can be done during the preview phase.
 
@@ -61,7 +65,7 @@ You can define a project name of your capture and define which type of outputs y
 
 * You can choose to also save the photometry photos (64) used to generate the PBR channels
 
-![possible outputs of the captis workflow: material or material and photometry](Sampler-Captis-51-resolution.png)
+![possible outputs of the captis workflow: material or material and photometry](captis-51-resolution.png)
 
 *Capture resolution*
 
@@ -72,7 +76,7 @@ You can define a project name of your capture and define which type of outputs y
 Note: Only PBR channels will be loaded in Sampler. Photometry photos will be only available on Document/Adobe/Adobe Substance 3D Sampler Beta/&#91;project name&#93;   
 The default folder can be modified in the preferences.
 
-![Capture resolution possibilities (full or preview)](Sampler-Captis-51-resolution-2.png)
+![Capture resolution possibilities (full or preview)](captis-51-resolution-2.png)
 
 <b>Marerial category</b>
 
@@ -115,7 +119,7 @@ To do the alignment please <b>place something with sharp and clear information, 
 
 Once you are all set: <b>start the scan</b>.
 
-![potentiel crops of the region of inerest, between physical size and pizel size](Sampler-Captis-51-crop.png)
+![potentiel crops of the region of inerest, between physical size and pizel size](captis-51-crop.png)
 
 <b>Crop</b>
 
@@ -135,13 +139,13 @@ The processing part is split in two parts:
 
 While it is capturing and processing, you can add metadata (same metadata that you will find in Sampler metadata panel).
 
-![](Sampler-5.png)
+![](5.png)
 
 During the processing, you will see the result is built tile by tile.
 
 ## Summary step
 
-![](Sampler-Captis-51-summary.png)
+![](captis-51-summary.png)
 
 At this step you can review the results of the scan. All the created channels are displayed (in Explorer mode, no opacity is created since the explorer ring does not have a backlight).
 
@@ -151,7 +155,7 @@ The “Browse scans” button opens a file explorer in the folder that holds the
 
 After exiting HP Z Captis window, the channels (base color, normal, height, roughness and opacity if relevant) will be added as a layer in the Layers panel.
 
-![](Sampler-5.png)
+![](5.png)
 
 Note: Verify that output format is correctly set to <b>16bit float</b>
 
@@ -163,4 +167,4 @@ Once you are done, you can:
 
 * Export your material: File &gt; Export … (Ctrl + E)
 
-![](Sampler-5.png)
+![](5.png)

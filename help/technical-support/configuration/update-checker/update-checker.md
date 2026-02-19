@@ -1,12 +1,23 @@
 ---
-title: "Update Checker"
-description: ""
-helpx_description: "Sampler > Technical Support > Configuration > Update Checker"
+title: Update Checker
+description: Learn how to use the update checker in Substance 3D Sampler to stay informed about new versions and release notes.
+helpx_description: Sampler > Technical Support > Configuration > Update Checker
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/update-checker.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - preflight
+  - preview
+  - versions
 ---
+
 
 # Update Checker
 
-The Update window indicates if a new version of Substance Alchemist is available and displays as well the latest [Release Notes](../../../release-notes/release-notes.md).
+The Update window indicates if a new version of Substance Alchemist is available and displays as well the latest [Release Notes](../../../help/release-notes/release-notes.md).
 
 This window automatically appears during the startup of Substance Alchemist if a new version is available to download.
 

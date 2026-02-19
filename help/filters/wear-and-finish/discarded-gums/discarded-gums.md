@@ -1,8 +1,19 @@
 ---
-title: "Discarded Gums"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Discarded Gums"
+title: Discarded Gums
+description: Use the Discarded Gums filter in Substance 3D Sampler to add gum residue and sticky surface effects to your materials.
+helpx_description: Sampler > Filters > Wear and Finish > Discarded Gums
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/discarded-gums.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - photo-restoration
+  - removing-objects
+  - blending
 ---
+
 
 # Discarded Gums
 

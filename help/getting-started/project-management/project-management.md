@@ -1,8 +1,21 @@
 ---
-title: "Manage your project"
-description: ""
-helpx_description: "Sampler > Getting Started > Manage your project"
+title: Manage your project
+description: Learn how to manage projects in Substance 3D Sampler using collections to organize assets and materials for efficient workflows.
+helpx_description: Sampler > Getting Started > Manage your project
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/project-management.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - intermediate-advanced
+helpx_learn_topic:
+  - projects
+  - collaboration
+  - cross-product-workflows
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # Project management
 

@@ -1,8 +1,20 @@
 ---
-title: "Pattern"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Pattern"
+title: Pattern
+description: Use the Pattern generator in Substance 3D Sampler to create procedural patterns and repeating designs for material textures.
+helpx_description: Sampler > Filters > Generators > Pattern
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pattern.html"
+helpx_creative_field:
+  - painting-illustration
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - patterns
+  - materials
+  - creative-effects
 ---
+
 
 # Pattern
 

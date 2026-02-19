@@ -1,8 +1,20 @@
 ---
-title: "HDR Merge"
-description: ""
-helpx_description: "Sampler > Filters > HDRI Tools > HDR Merge"
+title: HDR Merge
+description: Use the HDR Merge tool in Substance 3D Sampler to merge multiple exposure images into a single high dynamic range image.
+helpx_description: Sampler > Filters > HDRI Tools > HDR Merge
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+  - photography
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - hdr
+  - hdri
+  - compositing
 ---
+
 
 # HDR Merge
 

@@ -1,8 +1,21 @@
 ---
-title: "System requirements"
-description: ""
-helpx_description: "Sampler > Getting Started > System requirements"
+title: System requirements
+description: Review system requirements for Substance 3D Sampler to ensure your hardware and software meet compatibility standards.
+helpx_description: Sampler > Getting Started > System requirements
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/system-requirements.html"
+helpx_creative_field:
+  - video
+  - 3d-immersive
+helpx_experience_level:
+  - any
+helpx_learn_topic:
+  - system-requirements
+  - known-issues
+  - platforms
+helpx_tags:
+  - SG_SUBSTANCE_ALCHEMIST
 ---
+
 
 # Supported systems
 
@@ -54,7 +67,7 @@ Below is a list of hardware and systems supported by the application:
 >
 > If your system meets the system requirements above but performance is still sluggish, Sampler may be using the wrong GPU.
 > 
-> If you are using an NVIDIA GPU, [change which GPU Sampler uses by following the instructions on this page](../../technical-support/configuration/nvidia-driver-settings/nvidia-driver-settings.md).
+> If you are using an NVIDIA GPU, [change which GPU Sampler uses by following the instructions on this page](../../help/technical-support/configuration/nvidia-driver-settings/nvidia-driver-settings.md).
 
 ## General recommendations
 
