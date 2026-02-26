@@ -1,7 +1,15 @@
 ---
-title: "Tools and Widgets"
-description: ""
-helpx_description: "Sampler > Interface > Tools and Widgets"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets.html"
+breadcrumb-title: ""
+description: Learn about tools and widgets in Substance 3D Sampler interface to access commonly used filters and interface elements quickly.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > Tools and Widgets
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Tools and Widgets
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Tools and Widgets
@@ -15,5 +23,5 @@ The tools available in the left sidebar are shortcuts for faster access to commo
 
 Non-filter tools and functionality are outlined in the following articles:
 
-* [Sliders](sliders/sliders.md)
-* [Color Picker](color-picker/color-picker.md)
+* [Sliders](../../interface/tools-and-widgets/sliders/sliders.md)
+* [Color Picker](../../interface/tools-and-widgets/color-picker/color-picker.md)

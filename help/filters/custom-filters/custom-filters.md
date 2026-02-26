@@ -1,7 +1,15 @@
 ---
-title: "Custom Filters"
-description: ""
-helpx_description: "Sampler > Filters > Custom Filters"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/custom-filters.html"
+breadcrumb-title: ""
+description: Learn how to use custom filters in Substance 3D Sampler to extend functionality with Substance Designer filters and custom effects.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Custom Filters
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Custom Filters
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Custom Filters
@@ -30,7 +38,7 @@ Export your filter as a Substance Archive file (.sbsar)
 
 #### Create a filter to modify images
 
-![](image-template.png)
+![](../../assets/image-template.png)
 
 | Images name | Usage |
 | --- | --- |
@@ -40,7 +48,7 @@ Export your filter as a Substance Archive file (.sbsar)
 
 #### Create a filter to modify channels
 
-![](material-template.png)
+![](../../assets/material-template.png)
 
 | Channel name | Usage |
 | --- | --- |
@@ -116,4 +124,4 @@ options:
 * 0: PBR Metallic/Roughness
 * 1: PBR Specular/Glossiness
 
-![](workflow-type.jpg){width="300px"}
+![](../../assets/workflow-type.jpg){width="300px"}

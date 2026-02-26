@@ -1,7 +1,15 @@
 ---
-title: "Stonewall"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Stonewall"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/stonewall.html"
+breadcrumb-title: ""
+description: Use the Stonewall generator in Substance 3D Sampler to create realistic stone wall patterns and masonry textures for materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Stonewall
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Stonewall
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Stonewall
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Generators > Stonewall"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](sampler-stonewall-filter-icon.png.img.png)
+![](../../../assets/stonewall-filter-icon.png.img.png)
 
 **In:** Generators
 

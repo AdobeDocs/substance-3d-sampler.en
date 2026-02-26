@@ -1,7 +1,15 @@
 ---
-title: "Sharpen"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > Sharpen"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/sharpen.html"
+breadcrumb-title: ""
+description: Use the Sharpen filter in Substance 3D Sampler to enhance image sharpness and detail in textures and material layers.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Adjustments > Sharpen
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Sharpen
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Sharpen
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Adjustments > Sharpen"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-sharpen-18-n-d.png)
+![](../../../assets/s-sharpen-18-n-d.png)
 
 **In:** Adjustments
 

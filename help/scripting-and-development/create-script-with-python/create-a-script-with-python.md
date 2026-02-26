@@ -1,7 +1,15 @@
 ---
-title: "Create a Script with Python"
-description: ""
-helpx_description: "Sampler > Scripting and Development > Create a Script with Python"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-script-with-python.html"
+breadcrumb-title: ""
+description: Learn how to create Python scripts for Substance 3D Sampler to automate workflows and extend application functionality.
+helpx_creative_field: ""
+helpx_description: Sampler > Scripting and Development > Create a Script with Python
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Create a Script with Python
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Create a Script with Python
@@ -66,4 +74,4 @@ The code above includes comments to explain what is happening on each line.
 
 Once you've saved the script above as a PY file on your machine, you can import it with Edit &gt; Preferences &gt; Plugins and Scripts. Once imported, a **Scripts** option will appear in the menu bar alongside **File** and **Edit**. From here you can run the script.
 
-You can find out more about managing your scripts [here](../manage-installed-plugins/manage-installed-plugins-and-scripts.md).
+You can find out more about managing your scripts [here](../../scripting-and-development/manage-installed-plugins/manage-installed-plugins-and-scripts.md).

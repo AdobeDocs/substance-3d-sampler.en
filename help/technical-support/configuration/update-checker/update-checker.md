@@ -1,7 +1,15 @@
 ---
-title: "Update Checker"
-description: ""
-helpx_description: "Sampler > Technical Support > Configuration > Update Checker"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/update-checker.html"
+breadcrumb-title: ""
+description: Learn how to use the update checker in Substance 3D Sampler to stay informed about new versions and release notes.
+helpx_creative_field: ""
+helpx_description: Sampler > Technical Support > Configuration > Update Checker
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Update Checker
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Update Checker

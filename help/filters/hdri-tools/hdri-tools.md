@@ -1,7 +1,15 @@
 ---
-title: "HDRI Tools"
-description: ""
-helpx_description: "Sampler > Filters > HDRI Tools"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools.html"
+breadcrumb-title: ""
+description: Learn how to use HDRI tools in Substance 3D Sampler to edit, enhance, and create high dynamic range environment images.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > HDRI Tools
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: HDRI Tools
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # HDRI Tools
@@ -16,15 +24,15 @@ Filters in the HDRI Tools section are tools specifically for working with enviro
 
 The following filters are HDRI Tools:
 
-* [Color Temperature Adjustment](color-temperature-adj/color-temperature-adjustment.md)
-* [Exposure](exposure/exposure.md)
-* [Exposure Preview](exposure-preview/exposure-preview.md)
-* [HDR Merge](hdr-merge/hdr-merge.md)
-* [Line Light](line-light/line-light.md)
-* [Nadir Extract](nadir-extract/nadir-extract.md)
-* [Nadir Patch](nadir-patch/nadir-patch.md)
-* [Panorama Patch](panorama-patch/panorama-patch.md)
-* [Plane Light](plane-light/plane-light.md)
-* [Shape Light](shape-light/shape-light.md)
-* [Sphere Light](sphere-light/sphere-light.md)
-* [Straighten Horizon](straighten-horizon/straighten-horizon.md)
+* [Color Temperature Adjustment](../../filters/hdri-tools/color-temperature-adj/color-temperature-adjustment.md)
+* [Exposure](../../filters/hdri-tools/exposure/exposure.md)
+* [Exposure Preview](../../filters/hdri-tools/exposure-preview/exposure-preview.md)
+* [HDR Merge](../../filters/hdri-tools/hdr-merge/hdr-merge.md)
+* [Line Light](../../filters/hdri-tools/line-light/line-light.md)
+* [Nadir Extract](../../filters/hdri-tools/nadir-extract/nadir-extract.md)
+* [Nadir Patch](../../filters/hdri-tools/nadir-patch/nadir-patch.md)
+* [Panorama Patch](../../filters/hdri-tools/panorama-patch/panorama-patch.md)
+* [Plane Light](../../filters/hdri-tools/plane-light/plane-light.md)
+* [Shape Light](../../filters/hdri-tools/shape-light/shape-light.md)
+* [Sphere Light](../../filters/hdri-tools/sphere-light/sphere-light.md)
+* [Straighten Horizon](../../filters/hdri-tools/straighten-horizon/straighten-horizon.md)

@@ -1,12 +1,20 @@
 ---
-title: "Quick Actions"
-description: ""
-helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/quick-actions.html"
+breadcrumb-title: ""
+description: Learn how to use quick actions in Substance 3D Sampler to perform common material editing tasks efficiently with shortcut tools.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Quick Actions
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Quick actions
 
-![](Quactooltip.png)
+![](../../assets/Quactooltip.png)
 
 Quick actions is a system that allows you to create an asset or add many layers in the stack in few clicks. Use Quick actions to create an asset, create a project or to add the layers you need to your existing stack.
 
@@ -37,11 +45,11 @@ You can find Quick actions in several places in Sampler:
 
 Click on a Quick action
 
-![](clickquickaction-ezgif.com-video-gif-converter.gif)
+![](../../assets/clickquickaction-ezgif.com-video-gif-converter.gif)
 
 or drag and drop an image on a quick action.
 
-![](dndquickaction-ezgif.com-video-gif-converter.gif)
+![](../../assets/dndquickaction-ezgif.com-video-gif-converter.gif)
 
 or drag and drop an image on a quick action.
 
@@ -49,7 +57,7 @@ or drag and drop an image on a quick action.
 
 Choose any quick action or import files and see which quick actions you can use with your input
 
-![](createnew-1.png)
+![](../../assets/createnew-1.png)
 
 <b>From Quick Action Panel</b>
 

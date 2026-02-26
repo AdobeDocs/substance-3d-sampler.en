@@ -1,12 +1,20 @@
 ---
-title: "Assets panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Assets panel"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/assets-panel.html"
+breadcrumb-title: ""
+description: Learn how to use the Assets panel in Substance 3D Sampler to browse, organize, and access your material assets and resources.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > Panels > Assets panel
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Assets panel
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Assets panel
 
-![](Assets-panel-gen.png.img.png)
+![](../../../assets/Assets-panel-gen.png.img.png)
 
 The <b>Assets panel</b> holds assets that you can use to build your creations. Sampler includes a collection of materials, filters, and texture generators to help you get started.
 

@@ -1,12 +1,20 @@
 ---
-title: "Metadata panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Metadata panel"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/metadata-panel.html"
+breadcrumb-title: ""
+description: Learn how to use the Metadata panel in Substance 3D Sampler to add and manage metadata information for your materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > Panels > Metadata panel
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Metadata panel
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Metadata panel
 
-![](Metadata-panel-gen.png){width="500px"}
+![](../../../assets/Metadata-panel-gen.png){width="500px"}
 
 In the metadata panel, you can access and modify the metadata of your asset.
 
@@ -32,7 +40,7 @@ In the metadata panel, you can access and modify the metadata of your asset.
 
 All custom metadata will be included in the material file (SBSAR) to ensure a more efficient workflow for sharing digital materials across applications.
 
-![](Metadata-panel-Custom.png){width="350px"}
+![](../../../assets/Metadata-panel-Custom.png){width="350px"}
 
 <b>New text field </b>(add a custom field for metadata):
 

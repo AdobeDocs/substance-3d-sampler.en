@@ -1,12 +1,20 @@
 ---
-title: "Export"
-description: ""
-helpx_description: "Sampler > Getting Started > Export"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html"
+breadcrumb-title: ""
+description: Learn how to export materials from Substance 3D Sampler in various formats and presets for use in other applications and engines.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Export
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Export
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Export
 
-![](Export-ExportWindow.png)
+![](../../assets/Export-ExportWindow.png)
 
 >[!IMPORTANT]
 >
@@ -22,7 +30,7 @@ Sampler supports major file formats for your assets:
 
 See the following pages for more information:
 
-* [Export Window](export-window/export-window.md)
-* [Default presets](default-presets/default-presets.md)
+* [Export Window](../../getting-started/export/export-window/export-window.md)
+* [Default presets](../../getting-started/export/default-presets/default-presets.md)
 * [Managing custom presets](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/creating-and-importing-custom-presets-188976295.html)
-* [Managing presets](managing-presets/managing-presets.md)
+* [Managing presets](../../getting-started/export/managing-presets/managing-presets.md)

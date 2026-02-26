@@ -1,7 +1,15 @@
 ---
-title: "Paint"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Paint"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/paint.html"
+breadcrumb-title: ""
+description: Use the Paint filter in Substance 3D Sampler to add paint layers, coatings, and painted surface effects to your materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Paint
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Paint
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Paint
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Wear and Finish > Paint"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-paint-18-n-d.png)
+![](../../../assets/s-paint-18-n-d.png)
 
 **In:** Wear and Finish
 
@@ -27,12 +35,12 @@ The **Paint filter** lets you cover your material in a layer of paint of varying
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0017-paint-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0017-paint-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0016-paint-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0016-paint-out.jpg){width="200px"}
 
 </td>
 </tr>

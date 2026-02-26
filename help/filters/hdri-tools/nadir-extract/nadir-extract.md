@@ -1,7 +1,15 @@
 ---
-title: "Nadir Extract"
-description: ""
-helpx_description: "Sampler > Filters > HDRI Tools > Nadir Extract"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-extract.html"
+breadcrumb-title: ""
+description: Use the Nadir Extract tool in Substance 3D Sampler to extract and isolate the nadir region from HDRI environment images.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > HDRI Tools > Nadir Extract
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Nadir Extract
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Nadir Extract
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > HDRI Tools > Nadir Extract"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-nadirextract-18-n-d.png)
+![](../../../assets/s-nadirextract-18-n-d.png)
 
 **In:** HDRI Tools
 

@@ -1,12 +1,20 @@
 ---
-title: "Texture Generators"
-description: ""
-helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/texture-generators.html"
+breadcrumb-title: ""
+description: Learn how to use texture generators in Substance 3D Sampler to create procedural textures and patterns for material creation.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Texture Generators
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Texture Generators
 
-![](sa_whats-new-screen_v4-3-0_generators.png)
+![](../../assets/sa_whats-new-screen_v4-3-0_generators.png)
 
 Texture generators give improved control over material creation using <b>parametric noises, patterns </b>and<b> grunges</b> options. The generated imagery can be used in masks or channels maps.
 
@@ -14,7 +22,7 @@ Texture generators give improved control over material creation using <b>paramet
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](Capture-decran-2024-01-31-105700.png)
+![](../../assets/Capture-decran-2024-01-31-105700.png)
 
 </td>
 <td style="border: 0;" valign="top">
@@ -31,7 +39,7 @@ Texture Generators are a type of assets in Substance 3D Sampler. They can be fil
 
 Drag and drop a texture generator in the 3D view, 2D view or the layer stack and select a channel to use it.
 
-![](DndTexgen.gif)
+![](../../assets/DndTexgen.gif)
 
 A Fill filter will be created in the stack with the Texture Generator in the right input. You can access the Texture Generator properties in the properties panel.
 
@@ -42,7 +50,7 @@ In filters you can use texture generators in any image property, for instance <b
 
 Filters can suggest generators to work with, they are displayed in the new asset picker, when you click in an image property.
 
-![](suggested-filter.png)
+![](../../assets/suggested-filter.png)
 
 #### Tutorial
 
@@ -62,7 +70,7 @@ You can import Texture Generators made with Adobe Substance 3D Designer via the 
 
 Choose "Texture generator" as graph<b> type</b>.
 
-![](typetexgen.png)
+![](../../assets/typetexgen.png)
 
 #### Outputs
 
@@ -74,12 +82,12 @@ The filters' output node of the filter must have the <b>identifier</b> or <b>usa
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](patternMask.png)
+![](../../assets/patternMask.png)
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](PatternMaskusage.png)
+![](../../assets/PatternMaskusage.png)
 
 </td>
 </tr>
@@ -96,12 +104,12 @@ The filters' output node of the filter must have the <b>identifier</b> or <b>usa
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](patterndata2.png)
+![](../../assets/patterndata2.png)
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](patterndata2usage2.png)
+![](../../assets/patterndata2usage2.png)
 
 </td>
 </tr>

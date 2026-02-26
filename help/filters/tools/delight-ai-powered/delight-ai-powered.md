@@ -1,7 +1,15 @@
 ---
-title: "Delight (AI Powered)"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Delight (AI Powered)"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/delight-ai-powered.html"
+breadcrumb-title: ""
+description: Use the AI-powered Delight filter in Substance 3D Sampler to remove lighting information from images and create neutral base materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Tools > Delight (AI Powered)
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Delight (AI Powered)
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Delight (AI Powered)
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Tools > Delight (AI Powered)"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-lightgeneric-18-n-d.png)
+![](../../../assets/s-lightgeneric-18-n-d.png)
 
 **In:** Tools
 
@@ -23,15 +31,15 @@ The Delighter allows you to remove lighting information from the base color chan
 
 *A**n example of an image before and after being processed by the **Delight (AI Powered) filter**. Notice that the shadows and highlights have been removed, only the base color remains.*
 
-![](120-0-comparison.png)
+![](../../../assets/120-0-comparison.png)
 
 The images below show a material before and after being processed by a **Delight (AI Powered) filter**.
 
-![](3d-2d-filters-cropped-0043-delighter-in.jpg)
+![](../../../assets/3d-2d-filters-cropped-0043-delighter-in.jpg)
 
 In the above image, the material still includes a substantial amount of lighting information in the base color channel. The dark shadows between bricks should not be present in the base color channel.
 
-![](3d-2d-filters-cropped-0042-delight-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0042-delight-out.jpg)
 
 After the delighting pass, the shadows have been removed to create a more physically accurate base color channel. While the results in this example may not seem noticeable, delighting images is an important step of converting images into materials.
 

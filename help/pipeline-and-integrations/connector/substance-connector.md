@@ -1,6 +1,15 @@
 ---
-title: "Substance Send-to | Substance 3D Sampler"
-description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/substance-connector.html"
+breadcrumb-title: ""
+description: Learn how to use Substance Send-to in Substance 3D Sampler to send assets directly to other applications via the Connector.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Substance Send-to
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Send to any app
@@ -35,5 +44,3 @@ Here are the minimum versions you need to be able to use the Send-to:
 * <b>Blender Plugin v2.1+</b>
   * Blender versions 3.0 and above
   * *The plugin is available to be downloaded on the [website](https://www.adobe.com/products/substance3d/plugins/substance-in-blender.html "Substance in Blender web page")*
-
- 

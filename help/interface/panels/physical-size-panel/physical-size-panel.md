@@ -1,7 +1,15 @@
 ---
-title: "Physical Size Panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Physical Size Panel"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/physical-size-panel.html"
+breadcrumb-title: ""
+description: Learn how to use the Physical Size panel in Substance 3D Sampler to set real-world dimensions for materials and textures.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > Panels > Physical Size Panel
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Physical Size Panel
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Physical Size Panel
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Interface > Panels > Physical Size Panel"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](sampler-3-2-0-cover.png)
+![](../../../assets/3-2-0-cover.png)
 
 </td>
 <td width="58.30%" style="border: 0;" valign="top">
@@ -41,15 +49,15 @@ This section allows you to manually set the size of your sample and provides too
 <b>Height(y): </b>Set the physical height of the reference layer  
 <b>Tools:</b>
 
-![](screenshot-2022-01-17-at-13-59-37.png)
+![](../../../assets/screenshot-2022-01-17-at-13-59-37.png)
 
 Measure diagnostics allows you to measure the distance between two points on your image (for informative purposes only).
 
-![](screenshot-2022-01-17-at-14-00-06.png)
+![](../../../assets/screenshot-2022-01-17-at-14-00-06.png)
 
 Auto measure tool allows you to get an estimated physical size of your sample based on the image metadata (dpi). This method is only accurate with scanned samples.
 
-![](screenshot-2022-01-17-at-14-00-24.png)
+![](../../../assets/screenshot-2022-01-17-at-14-00-24.png)
 
 Measure tool allows you to calibrate the physical size by designating the physical distance between two features of the sample. This is usually the best method to calculate the physical size of your sample.
 

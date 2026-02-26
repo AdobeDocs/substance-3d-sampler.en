@@ -1,7 +1,15 @@
 ---
-title: "Environment variables"
-description: ""
-helpx_description: "Sampler > Pipeline and integrations > Environment variables"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/environment-variables.html"
+breadcrumb-title: ""
+description: Learn how to use environment variables in Substance 3D Sampler to override default application behavior and configure settings.
+helpx_creative_field: ""
+helpx_description: Sampler > Pipeline and integrations > Environment variables
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Environment variables
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Environment variables

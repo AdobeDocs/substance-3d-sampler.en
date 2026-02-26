@@ -1,12 +1,20 @@
 ---
-title: "Getting Started"
-description: ""
-helpx_description: "Sampler > Getting Started"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started.html"
+breadcrumb-title: ""
+description: Get started with Substance 3D Sampler to learn the basics of material creation, project management, and workflow optimization.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Getting Started
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Getting Started
 
-![](Getting-started-homepage.png)
+![](../assets/Getting-started-homepage.png)
 
 When you open Sampler, the <b>Home Screen</b> will appear. The <b>Home Screen</b> has a number of options to help you get started with a new or existing Sampler project.
 
@@ -25,11 +33,11 @@ When you open, start a new project or use a [Quick action](../features-and-workf
 
 To get started with Substance 3D Sampler, check out the following pages:
 
-* [Activation and licenses](activation-and-licenses/activation-and-licenses.md)
-* [System requirements](system-requirements/system-requirements.md)
-* [Shortcuts](shortcuts/shortcuts.md)
-* [Importing Resources](importing-resources/importing-resources.md)
+* [Activation and licenses](../getting-started/activation-and-licenses/activation-and-licenses.md)
+* [System requirements](../getting-started/system-requirements/system-requirements.md)
+* [Shortcuts](../getting-started/shortcuts/shortcuts.md)
+* [Importing Resources](../getting-started/importing-resources/importing-resources.md)
 * [Quick actions](../features-and-workflows/quick-actions/quick-actions.md)
-* [Report a bug](report-a-bug/report-a-bug.md)
-* [Project Management](project-management/project-management.md)
-* [Export](export/export.md)
+* [Report a bug](../getting-started/report-a-bug/report-a-bug.md)
+* [Project Management](../getting-started/project-management/project-management.md)
+* [Export](../getting-started/export/export.md)

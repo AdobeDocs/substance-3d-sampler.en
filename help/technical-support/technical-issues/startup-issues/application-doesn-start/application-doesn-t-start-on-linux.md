@@ -1,7 +1,15 @@
 ---
-title: "Application doesnt start on Linux"
-description: ""
-helpx_description: "Sampler > Technical Support > Technical Issues > Startup issues > Application doesnt start on Linux"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/startup-issues/application-doesn-t-start-on-linux.html"
+breadcrumb-title: ""
+description: Learn how to fix Substance 3D Sampler startup issues on Linux to resolve application launch problems and error messages.
+helpx_creative_field: ""
+helpx_description: Sampler > Technical Support > Technical Issues > Startup issues > Application doesnt start on Linux
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Application doesnt start on Linux
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Application doesn't start on Linux

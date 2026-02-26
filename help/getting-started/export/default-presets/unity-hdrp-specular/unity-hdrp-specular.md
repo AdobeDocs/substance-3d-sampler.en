@@ -1,7 +1,15 @@
 ---
-title: "Unity HDRP Specular"
-description: ""
-helpx_description: "Sampler > Getting Started > Export > Default Presets > Unity HDRP Specular"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/unity-hdrp-specular.html"
+breadcrumb-title: ""
+description: Learn how to export materials from Substance 3D Sampler using the Unity HDRP Specular preset for High Definition Render Pipeline.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Export > Default Presets > Unity HDRP Specular
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Unity HDRP Specular
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Unity HDRP Specular

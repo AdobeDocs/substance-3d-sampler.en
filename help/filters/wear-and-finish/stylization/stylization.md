@@ -1,7 +1,15 @@
 ---
-title: "Stylization"
-description: ""
-helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/stylization.html"
+breadcrumb-title: ""
+description: Use the Stylization filter in Substance 3D Sampler to apply artistic effects and stylized looks to your materials and textures.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Stylization
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Stylization
@@ -10,7 +18,7 @@ helpx_description: "Substance 3D Sampler"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](Stylization-filter-icon-Sampler-transp.png)
+![](../../../assets/stylization-filter-icon-transp.png)
 
 <b>In:</b> Wear Finish
 
@@ -23,9 +31,9 @@ Use the <b>Stylization filter</b> to modify your material look in order to simpl
 
 The images below show the bark material before and after having the Stylization filter applied.
 
-![](Stylization-Regular-bark-Sampler.png)
+![](../../../assets/stylization-regular-bark.png)
 
-![](stylization-contrasted-stylization-bark-sam.png)
+![](../../../assets/stylization-contrasted-stylization-bark.png)
 
 </td>
 </tr>

@@ -1,7 +1,15 @@
 ---
-title: "Exporting the log file"
-description: ""
-helpx_description: "Sampler > Technical Support > Exporting the log file"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/exporting-the-log-file.html"
+breadcrumb-title: ""
+description: Learn how to export log files from Substance 3D Sampler for troubleshooting and technical support purposes.
+helpx_creative_field: ""
+helpx_description: Sampler > Technical Support > Exporting the log file
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Exporting the log file
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Exporting the log file
@@ -12,7 +20,7 @@ When you need support regarding Substance 3D Sampler, it is always good to share
 
 The log file can be directly exported from Substance3D Sampler by going to the **Help** menu and selecting the **Export log file** item.
 
-![](export-log.jpg)
+![](../../assets/export-log.jpg)
 
 ## Retrieving the log file manually on the disk
 
@@ -43,4 +51,4 @@ When asking for support on the forum, a log file is required. Here is how to att
 1. Click on the "**Choose File**" button and locate your log file
 1. Click on "**Post**" when your message is ready to post and upload your log file
 
-![](attach-log-step-1.png)
+![](../../assets/attach-log-step-1.png)

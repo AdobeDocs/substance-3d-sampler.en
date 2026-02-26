@@ -1,7 +1,15 @@
 ---
-title: "Decal"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Decal"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/decal.html"
+breadcrumb-title: ""
+description: Use the Decal generator in Substance 3D Sampler to create decal patterns and overlay textures for material surfaces.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Decal
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Decal
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Decal
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Generators > Decal"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-decal-18-n-d.png)
+![](../../../assets/s-decal-18-n-d.png)
 
 **In:** Generators
 
@@ -23,11 +31,11 @@ The Decal filter allows you to add instances of another material in a specific l
 
 The images below show the **Decal filter** being used to add damage to concrete.
 
-![](3d-2d-filters-cropped-0045-decal-in.jpg)
+![](../../../assets/3d-2d-filters-cropped-0045-decal-in.jpg)
 
 Before the decal is added, the concrete base layer is clean and undamaged.
 
-![](3d-2d-filters-cropped-0044-decal-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0044-decal-out.jpg)
 
 With the **Decal filter** applied, realistic cracks and damage are added to the material.
 

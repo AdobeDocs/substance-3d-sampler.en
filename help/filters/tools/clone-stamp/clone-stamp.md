@@ -1,7 +1,15 @@
 ---
-title: "Clone Stamp"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Clone Stamp"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/clone-stamp.html"
+breadcrumb-title: ""
+description: Use the Clone Stamp tool in Substance 3D Sampler to clone and paint texture areas for seamless material editing and repair.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Tools > Clone Stamp
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Clone Stamp
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Clone Stamp
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Tools > Clone Stamp"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-clonestamp-18-n-d.png)
+![](../../../assets/s-clonestamp-18-n-d.png)
 
 **In:** Tools
 
@@ -23,11 +31,11 @@ The **Clone Stamp tool** helps you to manually duplicate or patch parts of your 
 
 The images below show the **Clone Stamp** being used to remove debris from a snow material.
 
-![](3d-2d-filters-cropped-0049-clone-stamp-in.jpg)
+![](../../../assets/3d-2d-filters-cropped-0049-clone-stamp-in.jpg)
 
 In the image above, the snow material includes a number of twigs and other debris scattered around.
 
-![](3d-2d-filters-cropped-0048-clone-stamp-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0048-clone-stamp-out.jpg)
 
 The **Clone Stamp** tool is used to remove some twigs and replace them with clean snow.
 
@@ -81,7 +89,7 @@ Click the **Clone Stamp tool** to create a new Clone Stamp filter layer at the t
 
 Creating a Clone Stamp filter layer automatically opens the **2D view** in the **Viewport**. A **Toolbar** appears at the top of the **2D view** when the Clone Stamp layer is selected.
 
-![](alchemist-2020-2-clone.gif){width="300px"}
+![](../../../assets/alchemist-2020-2-clone.gif){width="300px"}
 
 To start using the Clone Stamp tool, click and drag over the problematic area in the **2D view**. The material will begin to automatically update based on the source. Areas where you use the **Clone Stamp tool** are highlighted.
 
@@ -91,7 +99,7 @@ To start using the Clone Stamp tool, click and drag over the problematic area in
 <tr style="border: 0;">
 <td width="16.67%" style="border: 0;" valign="top">
 
-![](CloneStampBrushToolbar.png)
+![](../../../assets/CloneStampBrushToolbar.png)
 
 </td>
 <td width="83.33%" style="border: 0;" valign="top">

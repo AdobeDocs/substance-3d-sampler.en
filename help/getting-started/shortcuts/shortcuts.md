@@ -1,7 +1,15 @@
 ---
-title: "Shortcuts"
-description: ""
-helpx_description: "Sampler > Getting Started > Shortcuts"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/shortcuts.html"
+breadcrumb-title: ""
+description: Access keyboard shortcuts for Substance 3D Sampler to speed up your workflow and improve material creation efficiency.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Shortcuts
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Shortcuts
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Shortcuts

@@ -1,7 +1,15 @@
 ---
-title: "Tajima Exporter plugin"
-description: ""
-helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/tajima-exporter-plugin.html"
+breadcrumb-title: ""
+description: Learn how to use the Tajima Exporter plugin in Substance 3D Sampler to export embroidery designs to Tajima DG17 software.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Tajima Exporter plugin
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Tajima Exporter plugin of Embroidery files
@@ -34,36 +42,36 @@ Copy/paste here the unzip folder of the download
 
 Open your Sampler (5.0.3 or after) project with an Embroidery material.
 
-![](tajima_doc_sampler_embroidery_stars.png)
+![](../../assets/tajima-doc-embroidery-stars.png)
 
 Open Tajima plugin and export to the location of your choice
 
-![](tajima_doc_sampler_plugin_export_stars.png)
+![](../../assets/tajima-doc-plugin-export-stars.png)
 
 <b>Tajima software </b>
 
 <b>1</b>- Launch the Substance 3D Wizard
 
-![](tajima-importer.png)
+![](../../assets/tajima-importer.png)
 
 <b>2</b>- Select the appropriate <b>data folder</b> (Sampler export folder)
 
-![](Choose-Data-Folder.png)
+![](../../assets/Choose-Data-Folder.png)
 
 <b>3</b>- Choose the Embroidery thread chart
 
-![](Choose-Thread-Chart.png)
+![](../../assets/Choose-Thread-Chart.png)
 
 <b>4</b>- Apply a style preset for optimal fabric settings
 
-![](Apply-Fabric-Style.png)
+![](../../assets/Apply-Fabric-Style.png)
 
 <b>5</b>- Edit shapes as needed to achieve the best results
 
-![](Edit-Shapes.png)
+![](../../assets/Edit-Shapes.png)
 
-![](Edit-Shapes-Result.png)
+![](../../assets/Edit-Shapes-Result.png)
 
 <b>6</b>- Preview the design worksheet, complete with a machine-scannable barcode
 
-![](Design-Worksheet-Ready-for-Machine.png)
+![](../../assets/Design-Worksheet-Ready-for-Machine.png)

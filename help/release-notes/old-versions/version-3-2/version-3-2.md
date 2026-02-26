@@ -1,7 +1,15 @@
 ---
-title: "Version 3.2"
-description: ""
-helpx_description: "Sampler > Release Notes > Old Versions > Version 3.2"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-2.html"
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 3.2 to learn about material digitization workflow, new filters, and custom metadata.
+helpx_creative_field: ""
+helpx_description: Sampler > Release Notes > Old Versions > Version 3.2
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 3.2
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Version 3.2
@@ -18,7 +26,7 @@ A new material scanning workflow that captures and processes the physical size o
   
 Match the actual [physical size](../../../features-and-workflows/end-end-physical-size-wor/end-to-end-physical-size-workflow.md) of your samples/images in a digital context to create physically accurate materials in any software.
 
-![](physicalsize-1.png){width="400px"}
+![](../../../assets/physicalsize-1.png){width="400px"}
 
 ### Cloth Weave
 
@@ -28,12 +36,12 @@ Brand new Generator is added in this release. The Cloth Weave allows you to crea
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](weavecollection.png){width="390px"}
+![](../../../assets/weavecollection.png){width="390px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](weaveinterface.png){width="400px"}
+![](../../../assets/weaveinterface.png){width="400px"}
 
 </td>
 </tr>
@@ -43,13 +51,13 @@ Brand new Generator is added in this release. The Cloth Weave allows you to crea
 
 Add custom metadata to your materials. All custom metadata will be included in the material file (SBSAR) to ensure a more efficient workflow for sharing digital materials across applications.
 
-![](custommetadata.png){width="264px"}
+![](../../../assets/custommetadata.png){width="264px"}
 
 ### Channel Switch
 
 With Channel Switch you can now switch the channels of the output maps of the material.
 
-![](screenshot-2022-02-15-at-15-53-00.png){width="300px"}
+![](../../../assets/screenshot-2022-02-15-at-15-53-00.png){width="300px"}
 
 ### Export
 
@@ -57,11 +65,11 @@ New export features has been added to this release.
 
 * Set .sbsar file compression setting
 
-  ![](compressionsbsar.png){width="400px"}
+  ![](../../../assets/compressionsbsar.png){width="400px"}
 * Set the graph type when exporting a .sbs(ar) file
 * Keep physical ratio for EXR, JPEG, PNG, TARGA, TIFF
 
-  ![](screenshot-2022-02-16-at-15-28-09.png){width="400px"}
+  ![](../../../assets/screenshot-2022-02-16-at-15-28-09.png){width="400px"}
 
 ## Release Notes
 

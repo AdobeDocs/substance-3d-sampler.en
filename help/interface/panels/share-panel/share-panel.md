@@ -1,7 +1,15 @@
 ---
-title: "Export panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Export panel"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/share-panel.html"
+breadcrumb-title: ""
+description: Learn how to use the Export panel in Substance 3D Sampler to export materials as files or send them directly to other applications.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > Panels > Export panel
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Export panel
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Export panel

@@ -1,12 +1,20 @@
 ---
-title: "Quick Actions Panel"
-description: ""
-helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/quick-actions-panel.html"
+breadcrumb-title: ""
+description: Learn how to use the Quick Actions panel in Substance 3D Sampler to access common material editing tasks and shortcuts.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Quick Actions Panel
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Quick actions panel
 
-![](quickactionpanel.png)
+![](../../../assets/quickactionpanel.png)
 
 [Quick actions](../../../features-and-workflows/quick-actions/quick-actions.md) is a system that allows to create an asset or add many layers in the stack in few clicks. Use Quick actions to create an asset, create a project, or to add the layers you need to your existing stack.
 

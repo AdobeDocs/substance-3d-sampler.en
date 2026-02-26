@@ -1,12 +1,20 @@
 ---
-title: "Layers panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Layers panel"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/layers-panel.html"
+breadcrumb-title: ""
+description: Learn how to use the Layers panel in Substance 3D Sampler to manage filter layers and build complex material stacks.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > Panels > Layers panel
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Layers panel
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Layers panel
 
-![Layers panel animation from no layer to a complete stack that creates a material](Layers-panel-gen.png.img.png)
+![Layers panel animation from no layer to a complete stack that creates a material](../../../assets/Layers-panel-gen.png.img.png)
 
 The <b>Layers panel </b>holds the layer stack and shortcuts to manage your layers. The <b>Layers panel</b> works closely with the <b>Properties panel</b> - select a layer from the <b>Layers panel</b> to see its properties in the <b>Properties panel.</b>
 
@@ -51,7 +59,7 @@ There are three types of layer:
 
 A material layer contains information in multiple channels and can be blended with the layers below it. Material layers appear slightly differently depending on if they are at the bottom of the stack or not. For example, the image below shows a rock material dragged into the layer stack twice - notice that the bottom layer has no icon to control the blend, while the top layer does.
 
-![Material layers in layer stack, the top layer has a blend option.](Material-Layer.png)
+![Material layers in layer stack, the top layer has a blend option.](../../../assets/Material-Layer.png)
 
 The general rules for material layers are:
 
@@ -61,7 +69,7 @@ The general rules for material layers are:
 
 ### Filter layers
 
-![Properties of the Hue/saturation filter adjusting the layers bellow.](HueSaturation_LayerFilter.gif)
+![Properties of the Hue/saturation filter adjusting the layers bellow.](../../../assets/HueSaturation_LayerFilter.gif)
 
 Filters perform operations on the layers below them to create specific effects. For example, in the image above the <b>Hue/Saturation filter</b> allows you to adjust the hue, saturation, and lightness of the layers below.
 
@@ -74,7 +82,7 @@ Drag a material over a layers input slot to use it as an input.
 
 A filter layer will use the default resolution strategy set in the preferences. You can change the resolution the filter will use in the properties panel.
 
-![Switch resolution of a filter layer](SwitchLayerResolution.gif)
+![Switch resolution of a filter layer](../../../assets/SwitchLayerResolution.gif)
 
 ### Image layers
 
@@ -94,4 +102,4 @@ You can drag an image from your system's file browser into Sampler, if there are
 
 You can also drag multiple selected images into the layer stack at once to import them all as a single layer. This can be helpful for multi-image filters like <b>HDR Merge</b> and <b>Multiangle to Material</b>. Select the layer with multiple images to change the channel data for each image. The image below shows an example of a layer stack using the <b>HDR Merge filter</b> to create an environment light.
 
-![](layersimages.jpg)
+![](../../../assets/layersimages.jpg)

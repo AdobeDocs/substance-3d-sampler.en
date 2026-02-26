@@ -1,7 +1,15 @@
 ---
-title: "Generators"
-description: ""
-helpx_description: "Sampler > Filters > Generators"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators.html"
+breadcrumb-title: ""
+description: Learn how to use generator filters in Substance 3D Sampler to create procedural patterns and material foundations.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Generators
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Generators
@@ -15,24 +23,24 @@ There are two main forms of generator:
 
 Converting generators include:
 
-* [Brickwall](brickwall/brickwall.md)
-* [Floor Tiles](floor-tiles/floor-tiles.md)
-* [Panel](panel/panel.md)
-* [Parquet](parquet/parquet.md)
-* [Pavement](pavement/pavement.md)
-* [Quilt Stitch](quilt-stitch/quilt-stitch.md)
-* [Stonewall](stonewall/stonewall.md)
-* [Surface Relief](surface-relief/surface-relief.md)
+* [Brickwall](../../filters/generators/brickwall/brickwall.md)
+* [Floor Tiles](../../filters/generators/floor-tiles/floor-tiles.md)
+* [Panel](../../filters/generators/panel/panel.md)
+* [Parquet](../../filters/generators/parquet/parquet.md)
+* [Pavement](../../filters/generators/pavement/pavement.md)
+* [Quilt Stitch](../../filters/generators/quilt-stitch/quilt-stitch.md)
+* [Stonewall](../../filters/generators/stonewall/stonewall.md)
+* [Surface Relief](../../filters/generators/surface-relief/surface-relief.md)
 
 Adding generators include:
 
-* [Atlas Scatter](atlas-scatter/atlas-scatter.md)
-* [Decal](decal/decal.md)
-* [Embossing](embossing/embossing.md)
-* [Embroidery](embroidery/embroidery.md)
-* [Gravel](gravel/gravel.md)
-* [Pattern](pattern/pattern.md)
-* [Perforate](perforate/perforate.md)
-* [Splatter](splatter/splatter.md)
-* [Weave](weave/weave.md)
-* [Cloth Weave](cloth-weave/cloth-weave.md)
+* [Atlas Scatter](../../filters/generators/atlas-scatter/atlas-scatter.md)
+* [Decal](../../filters/generators/decal/decal.md)
+* [Embossing](../../filters/generators/embossing/embossing.md)
+* [Embroidery](../../filters/generators/embroidery/embroidery.md)
+* [Gravel](../../filters/generators/gravel/gravel.md)
+* [Pattern](../../filters/generators/pattern/pattern.md)
+* [Perforate](../../filters/generators/perforate/perforate.md)
+* [Splatter](../../filters/generators/splatter/splatter.md)
+* [Weave](../../filters/generators/weave/weave.md)
+* [Cloth Weave](../../filters/generators/cloth-weave/cloth-weave.md)

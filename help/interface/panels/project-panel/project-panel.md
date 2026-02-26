@@ -1,12 +1,20 @@
 ---
-title: "Project panel"
-description: ""
-helpx_description: "Sampler > Interface > Panels > Project panel"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/project-panel.html"
+breadcrumb-title: ""
+description: Learn how to use the Project panel in Substance 3D Sampler to manage project files, save work, and access recent projects.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > Panels > Project panel
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Project panel
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Project panel
 
-![](Project-panel-gen.png)
+![](../../../assets/Project-panel-gen.png)
 
 Projects in Sampler act like packages that can store multiple assets. The <b>Project panel</b> displays the assets that make up your current project.
 

@@ -1,7 +1,15 @@
 ---
-title: "Manage your project"
-description: ""
-helpx_description: "Sampler > Getting Started > Manage your project"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/project-management.html"
+breadcrumb-title: ""
+description: Learn how to manage projects in Substance 3D Sampler using collections to organize assets and materials for efficient workflows.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Manage your project
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Manage your project
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Project management
@@ -12,13 +20,13 @@ In Substance 3D Sampler you can use collections to manage all your assets and ma
 
 To create a new project, select <b>Create new</b> in the <b>Home </b>screen or <b>File &gt; New Project</b>. Creating a new project will launch the Quick Start dialogue, where you can select a quick action or import an image or Substance file to start your project.
 
-![](Project-management-Buttons.png)
+![](../../assets/Project-management-Buttons.png)
 
 Alternatively, you can use the <b>Empty project</b> button to jump right into an empty project. If you create an empty project you can still manually import assets and content as needed.
 
 After clicking the "Create New" button, the project will be automatically opened and named "*Untitled Project\**" until you save your project. You can add assets to your project with the highlighted <b>New asset button </b>in the <b>Project panel</b>.
 
-![](Project_CreateNew.png){width="600px"}
+![](../../assets/Project_CreateNew(1).png){width="600px"}
 
 ## Save a project
 

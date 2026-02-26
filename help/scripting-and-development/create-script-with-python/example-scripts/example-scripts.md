@@ -1,7 +1,15 @@
 ---
-title: "Example Scripts"
-description: ""
-helpx_description: "Sampler > Scripting and Development > Create a Script with Python > Example Scripts"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/create-a-script-with-python/example-scripts.html"
+breadcrumb-title: ""
+description: Access example Python scripts for Substance 3D Sampler to learn how to use the API and automate material creation workflows.
+helpx_creative_field: ""
+helpx_description: Sampler > Scripting and Development > Create a Script with Python > Example Scripts
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Example Scripts
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Example Scripts

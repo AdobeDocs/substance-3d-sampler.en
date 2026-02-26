@@ -2,11 +2,12 @@
 user-guide-title: placeholder
 breadcrumb-title: placeholder
 user-guide-description: placeholder
+solution: Substance 3D Sampler
 ---
 
 # Substance 3D Sampler {#using}
 
-+ [Home](/help/substance-3d-sampler.md)
++ [Home](/help/home/home.md)
 + Getting Started{#getting-started}
   + [Getting Started overview](/help/getting-started/getting-started.md)
   + [Activation and licenses](/help/getting-started/activation-and-licenses/activation-and-licenses.md)
@@ -169,7 +170,7 @@ user-guide-description: placeholder
     + [Technical Issues overview](/help/technical-support/technical-issues/technical-issues.md)
   + Data or project issues{#data-or-project-issues}
     + [Data or project issues overview](/help/technical-support/technical-issues/data-or-project-issues/data-or-project-issues.md)
-    + [Import Substance Alchemist projects in Substance 3D Sampler](/help/technical-support/technical-issues/data-or-project-issues/import-substance-alc/import-substance-alchemist-projects-in-substance-3d-sampler.md)
+    + [Import Substance Alchemist projects in Substance 3D Sampler](/help/technical-support/technical-issues/data-or-project-issues/import-alchemist-projects/import-substance-alchemist-projects-in-substance-3d-sampler.md)
   + Filter issues{#filter-issues}
     + [Filter issues overview](/help/technical-support/technical-issues/filter-issues/filter-issues.md)
     + [Image to Material and Delighter are missing](/help/technical-support/technical-issues/filter-issues/image-material-and-del/image-to-material-and-delighter-are-missing.md)
@@ -205,12 +206,12 @@ user-guide-description: placeholder
 + Pipeline and integrations{#pipeline-and-integrations}
   + [Pipeline and integrations overview](/help/pipeline-and-integrations/pipeline-and-integrations.md)
   + [Environment variables](/help/pipeline-and-integrations/environment-variables/environment-variables.md)
-  + [Substance Send-to](/help/pipeline-and-integrations/substance-connector/substance-connector.md)
+  + [Substance Send-to](/help/pipeline-and-integrations/connector/substance-connector.md)
   + HP Z Captis support{#hp-z-captis-support}
     + [HP Z Captis support overview](/help/pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
     + [Your first capture, step by step](/help/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step/your-first-capture-step-by-step.md)
     + [System requirements to use the HP Z Captis device](/help/pipeline-and-integrations/hp-z-captis-support/system-requirements-use/system-requirements-to-use-hp-z-captis.md)
-    + [FAQ for HP Z support in Sampler](/help/pipeline-and-integrations/hp-z-captis-support/faq-captis-support-sam/faq-hp-z-captis-support-in-sampler.md)
+    + [FAQ for HP Z support in Sampler](/help/pipeline-and-integrations/hp-z-captis-support/faq-captis-support/faq-hp-z-captis-support-in-sampler.md)
     + [Known issues and limitations](/help/pipeline-and-integrations/hp-z-captis-support/known-issues-and-lim/known-issues-and-limitations-hp-z-captis-support.md)
   + [Tajima Exporter plugin](/help/pipeline-and-integrations/tajima-exporter-plugin/tajima-exporter-plugin.md)
 + Scripting and Development{#scripting-and-development}
@@ -223,8 +224,8 @@ user-guide-description: placeholder
 + 3D Capture{#3d-capture}
   + [3D Capture equipment](/help/3d-capture/equipment/equipment.md)
   + [Camera settings - Exposure](/help/3d-capture/camera-settings-exposure/camera-settings-exposure-substance-3d-sampler.md)
-  + [Camera settings - Focus](/help/3d-capture/camera-settings-focus-sub/camera-settings-focus-substance-3d-sampler.md)
-  + [3D Capture lighting](/help/3d-capture/capture-lighting-sub/3d-capture-lighting-substance-3d-sampler.md)
+  + [Camera settings - Focus](/help/3d-capture/camera-settings-focus-3d/camera-settings-focus-substance-3d-sampler.md)
+  + [3D Capture lighting](/help/3d-capture/3d-capture-lighting-3d/3d-capture-lighting-substance-3d-sampler.md)
   + [Cross-polarizing for 3D Capture](/help/3d-capture/cross-polarising-for-cap/cross-polarising-for-3d-capture-substance-3d-sampler.md)
   + [Processing advanced 3D Captures](/help/3d-capture/processing-advanced-cap/processing-advanced-3d-captures.md)
   + [Editing 3D Captured meshes](/help/3d-capture/editing-captured-meshes/editing-3d-captured-meshes.md)
@@ -232,11 +233,11 @@ user-guide-description: placeholder
   + [Release Notes overview](/help/release-notes/release-notes.md)
   + [All Changes](/help/release-notes/all-changes/all-changes.md)
   + [Beta](/help/release-notes/beta-version/beta-version.md)
-  + [Version 5.1](/help/release-notes/version-substance-sampler/version-5-1-substance-3d-sampler.md)
-  + [Version 5.0](/help/release-notes/version-substance-sampl-1/version-5-0-substance-3d-sampler.md)
-  + [Version 4.5](/help/release-notes/version-substance-sampl-2/version-4-5-substance-3d-sampler.md)
-  + [Version 4.4](/help/release-notes/version-substance-sampl-3/version-4-4-substance-3d-sampler.md)
-  + [Version 4.3](/help/release-notes/version-substance-sampl-4/version-4-3-substance-3d-sampler.md)
+  + [Version 5.1](/help/release-notes/version-5-1-3d/version-5-1-substance-3d-sampler.md)
+  + [Version 5.0](/help/release-notes/version-5-0-3d/version-5-0-substance-3d-sampler.md)
+  + [Version 4.5](/help/release-notes/version-4-5-3d/version-4-5-substance-3d-sampler.md)
+  + [Version 4.4](/help/release-notes/version-4-4-3d/version-4-4-substance-3d-sampler.md)
+  + [Version 4.3](/help/release-notes/version-4-3-3d/version-4-3-substance-3d-sampler.md)
   + [Version 4.2](/help/release-notes/version-4-2/version-4-2.md)
   + [Version 4.1](/help/release-notes/version-4-1/version-4-1.md)
   + [Version 4.0](/help/release-notes/version-4-0/version-4-0.md)

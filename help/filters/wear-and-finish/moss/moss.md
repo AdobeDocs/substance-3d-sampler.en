@@ -1,7 +1,15 @@
 ---
-title: "Moss"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Moss"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/moss.html"
+breadcrumb-title: ""
+description: Use the Moss filter in Substance 3D Sampler to add realistic moss growth and organic surface effects to your materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Moss
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Moss
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Moss
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Wear and Finish > Moss"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](sampler-moss-filter-icon.png)
+![](../../../assets/moss-filter-icon.png)
 
 **In:** Wear and Finish
 
@@ -27,12 +35,12 @@ The images below show the dirt material before and after having the **Moss filte
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0021-moss-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0021-moss-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0020-moss-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0020-moss-out.jpg){width="200px"}
 
 </td>
 </tr>

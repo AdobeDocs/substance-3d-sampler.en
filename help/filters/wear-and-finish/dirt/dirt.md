@@ -1,7 +1,15 @@
 ---
-title: "Dirt"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Dirt"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/dirt.html"
+breadcrumb-title: ""
+description: Use the Dirt filter in Substance 3D Sampler to add realistic dirt accumulation and grime effects to your materials and textures.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Dirt
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Dirt
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Dirt
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Wear and Finish > Dirt"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-dirt-18-n-d.png)
+![](../../../assets/s-dirt-18-n-d.png)
 
 **In:** Wear and Finish
 
@@ -21,11 +29,11 @@ helpx_description: "Sampler > Filters > Wear and Finish > Dirt"
 
 Use the **Dirt filter** to add dirt on top of a material. The **Dirt filter** is great for making materials seem older and uncared for.
 
-![](sampler-dirt-filter-ceramic-mozaic-tiles-bef.png)
+![](../../../assets/dirt-filter-ceramic-mozaic-tiles-before-tra.png)
 
 Compare the clean tiles above with the dirt filter applied to them below.
 
-![](sampler-dirt-filter-ceramic-mozaic-tiles-after.png)
+![](../../../assets/dirt-filter-ceramic-mozaic-tiles-after-tra.png)
 
 </td>
 </tr>

@@ -1,7 +1,15 @@
 ---
-title: "Transform"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Transform"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/transform.html"
+breadcrumb-title: ""
+description: Use the Transform tool in Substance 3D Sampler to scale, rotate, translate, and manipulate textures and material layers.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Tools > Transform
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Transform
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Transform
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Tools > Transform"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-transformgeneric-18-n-d.png)
+![](../../../assets/s-transformgeneric-18-n-d.png)
 
 **In:** Tools
 
@@ -71,7 +79,7 @@ Creating or selecting a Transform filter layer automatically opens the **2D view
 
 ## Functionality
 
-![](alchemist-2020-2-transform-1.gif){width="300px"}
+![](../../../assets/alchemist-2020-2-transform-1.gif){width="300px"}
 
 ### Move
 
@@ -107,7 +115,7 @@ To rotate the layer:
 
 ## Toolbar
 
-![](transform-toolbar.png){width="200px"}
+![](../../../assets/transform-toolbar.png){width="200px"}
 
 The toolbar contains the following shortcuts:
 

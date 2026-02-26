@@ -1,7 +1,15 @@
 ---
-title: "Gravel"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Gravel"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/gravel.html"
+breadcrumb-title: ""
+description: Use the Gravel generator in Substance 3D Sampler to create realistic gravel and stone aggregate textures for materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Gravel
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Gravel
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Gravel
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Generators > Gravel"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-gravel-18-n-d.png)
+![](../../../assets/s-gravel-18-n-d.png)
 
 **In:** Generators
 
@@ -27,12 +35,12 @@ These images show the **Gravel filter** being used to fill the crevasses of a mu
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0029-gravel-in.jpg)
+![](../../../assets/3d-filters-cropped-0029-gravel-in.jpg)
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0028-gravel-out.jpg)
+![](../../../assets/3d-filters-cropped-0028-gravel-out.jpg)
 
 </td>
 </tr>

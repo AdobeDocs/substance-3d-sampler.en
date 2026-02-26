@@ -1,7 +1,15 @@
 ---
-title: "Water"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Water"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/water.html"
+breadcrumb-title: ""
+description: Use the Water filter in Substance 3D Sampler to add water effects, wetness, and moisture to your materials and textures.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Water
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Water
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Water
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Wear and Finish > Water"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-water-18-n-d.png)
+![](../../../assets/s-water-18-n-d.png)
 
 **In:** Wear and Finish
 
@@ -21,7 +29,7 @@ helpx_description: "Sampler > Filters > Wear and Finish > Water"
 
 Use the **Erode filter** to wear away at high spots on your material.
 
-![](water-compare.png)
+![](../../../assets/water-compare.png)
 
 </td>
 </tr>

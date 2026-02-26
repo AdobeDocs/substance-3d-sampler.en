@@ -1,12 +1,20 @@
 ---
-title: "The Home Screen"
-description: ""
-helpx_description: "Sampler > Interface > The Home Screen"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/the-home-screen.html"
+breadcrumb-title: ""
+description: Learn how to use the home screen in Substance 3D Sampler to access recent projects, create new materials, and get started quickly.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > The Home Screen
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: The Home Screen
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # The Home Screen
 
-![](Getting-started-homepage.png)
+![](../../assets/Getting-started-homepage.png)
 
 When you open Sampler, the <b>Home Screen</b> will appear. The <b>Home Screen</b> has a number of options to help you get started with a new or existing Sampler project.
 

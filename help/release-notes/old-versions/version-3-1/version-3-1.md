@@ -1,7 +1,15 @@
 ---
-title: "Version 3.1"
-description: ""
-helpx_description: "Sampler > Release Notes > Old Versions > Version 3.1"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-1.html"
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 3.1 to learn about color picker, SVG support, and interoperability improvements.
+helpx_creative_field: ""
+helpx_description: Sampler > Release Notes > Old Versions > Version 3.1
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 3.1
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Version 3.1
@@ -18,13 +26,13 @@ This release adds a new [Color Picker](../../../interface/tools-and-widgets/colo
 
 The Color Picker appears whenever you need to select a color. It can be moved anywhere on your screen(s).
 
-![](color-picker-raw.png){width="250px"}
+![](../../../assets/color-picker-raw.png){width="250px"}
 
 ### SVG support
 
 Sampler now supports SVG files. You can import them in your assets, directly in the layer stack or in an image input of layer.
 
-![](svg-support.jpg){width="500px"}
+![](../../../assets/svg-support.jpg){width="500px"}
 
 ### Edit in Illustrator
 
@@ -34,19 +42,19 @@ A new “edit in” feature brings huge flexibility to updating imported images.
 
 Sampler now gets a proper and revamped Crop widget to easily define the cropped area. You will also get not stretched results when cropping non-square images into square textures.
 
-![](crop-9.jpg){width="500px"}
+![](../../../assets/crop-9.jpg){width="500px"}
 
 ### Normal Format
 
 Edit your Preferences to set the [normal format](../../../interface/preferences/normal-format/normal-format.md) you need for your workflow. Your normals will be imported, displayed and exported in the format you select in preferences.
 
-![](7-normal-format-preferences.jpg){width="250px"}
+![](../../../assets/7-normal-format-preferences.jpg){width="250px"}
 
 ### Material Properties Export in SBSAR
 
 All material parameters of the Shader settings (normal scale, height scale, height level,...) will be exported in the SBSAR file to be read in Substance 3D Stager for a perfect material match.
 
-![](material-consistency-sa-sg.jpg){width="500px"}
+![](../../../assets/material-consistency-sa-sg.jpg){width="500px"}
 
 ## Release Notes
 

@@ -1,7 +1,15 @@
 ---
-title: "Activation and licenses"
-description: ""
-helpx_description: "Sampler > Getting Started > Activation and licenses"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/activation-and-licenses.html"
+breadcrumb-title: ""
+description: Learn how to activate and manage licenses for Substance 3D Sampler to start using the application and access all features.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Activation and licenses
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Activation and licenses
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Activation and licenses
@@ -22,7 +30,7 @@ The activation process depends on where you purchased or have access to Sampler:
 
 ### The activation wizard
 
-![](activation-wizard.png){width="350px"}
+![](../../assets/activation-wizard.png){width="350px"}
 
 Three choices are available:
 

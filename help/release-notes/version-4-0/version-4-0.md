@@ -1,7 +1,15 @@
 ---
-title: "Version 4.0"
-description: ""
-helpx_description: "Sampler > Release Notes > Version 4.0"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-0.html"
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 4.0 to learn about 3D object creation from images, automatic masking, and UX improvements.
+helpx_creative_field: ""
+helpx_description: Sampler > Release Notes > Version 4.0
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 4.0
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Version 4.0
@@ -10,7 +18,7 @@ With **Substance 3D Sampler 4.0**, you can use real-world images to create 3D ob
 
 *Release date: 31 January, 2023*
 
-![](main-promo.jpg)
+![](../../assets/main-promo.jpg)
 
 ## 3D Capture
 
@@ -30,13 +38,13 @@ Remove the background of the object you wish to 3D capture. Create an auto-gener
 
 Using masks has many advantages. It allows to detect features and reconstruct only non-masked areas.
 
-![](release-page-masking.jpg){width="500px"}
+![](../../assets/release-page-masking.jpg){width="500px"}
 
 ### Define your reconstruction area
 
 Toggle Region of interest to activate a bounding box after aligning your images. Set and align the precise area you want to reconstruct.
 
-![](sampler-3d-capture-bounding-box-modified.png){width="500px"}
+![](../../assets/3d-capture-bounding-box-modified.png){width="500px"}
 
 ### Connected post-processing
 
@@ -53,19 +61,19 @@ The post-processing step chains 4 steps automatically:
 * Reprojection
 * Baking
 
-![](release-page-post-processing.jpg){width="500px"}
+![](../../assets/release-page-post-processing.jpg){width="500px"}
 
 ### Export to major file formats
 
 Export your reconstructed 3D objects in all standard file formats so you can use them wherever you need.
 
-![](v4-0-0-export.jpg){width="500px"}
+![](../../assets/v4-0-0-export.jpg){width="500px"}
 
 ## Viewport
 
 2D and 3D viewports can be resized, swapped and stacked vertically.
 
-![](screenshot-2023-01-25-at-16-23-09.png){width="500px"}
+![](../../assets/screenshot-2023-01-25-at-16-23-09.png){width="500px"}
 
 ## Scripting
 

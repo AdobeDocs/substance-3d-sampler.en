@@ -1,7 +1,15 @@
 ---
-title: "Version 3.3"
-description: ""
-helpx_description: "Sampler > Release Notes > Version 3.3"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-3-3.html"
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 3.3 to learn about new tools, content, and material creation features.
+helpx_creative_field: ""
+helpx_description: Sampler > Release Notes > Version 3.3
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 3.3
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Version 3.3

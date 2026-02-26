@@ -1,7 +1,15 @@
 ---
-title: "Beta"
-description: ""
-helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/beta-version.html"
+breadcrumb-title: ""
+description: Access beta versions of Substance 3D Sampler to try new features and provide feedback before official release.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Beta
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Betas
@@ -12,7 +20,7 @@ This page regroups all the Betas versions of Substance 3D Sampler. To know How t
 
 We're introducing Text to Texture powered by Adobe Firefly, a new way for artists to source texture imagery using only a description. This new feature expands the artist toolbox beyond importing custom or stock photography by providing a way to generate textures right within Sampler. All Text to Texture images are square and tileable with proper perspective, ready for the material-creation workflow.
 
-![](sampler_wood_UI.png)
+![](../../assets/wood-ui.png)
 
 <b>4.4.1 Beta Fondue</b>
 

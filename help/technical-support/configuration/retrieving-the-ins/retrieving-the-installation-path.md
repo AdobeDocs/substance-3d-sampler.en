@@ -1,7 +1,15 @@
 ---
-title: "Retrieving the installation path"
-description: ""
-helpx_description: "Sampler > Technical Support > Configuration > Retrieving the installation path"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/retrieving-the-installation-path.html"
+breadcrumb-title: ""
+description: Learn how to retrieve the installation path for Substance 3D Sampler on different platforms for scripting and configuration purposes.
+helpx_creative_field: ""
+helpx_description: Sampler > Technical Support > Configuration > Retrieving the installation path
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Retrieving the installation path
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Retrieving the installation path

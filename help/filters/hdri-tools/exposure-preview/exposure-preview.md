@@ -1,7 +1,15 @@
 ---
-title: "Exposure Preview"
-description: ""
-helpx_description: "Sampler > Filters > HDRI Tools > Exposure Preview"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/exposure-preview.html"
+breadcrumb-title: ""
+description: Use the Exposure Preview tool in Substance 3D Sampler to preview exposure adjustments in HDRI images before applying changes.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > HDRI Tools > Exposure Preview
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Exposure Preview
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Exposure Preview
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > HDRI Tools > Exposure Preview"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-exposurepreview-18-n-d.png)
+![](../../../assets/s-exposurepreview-18-n-d.png)
 
 **In:** HDRI Tools
 
@@ -23,11 +31,11 @@ The **Exposure Preview** **filter** lets you preview a spectrum of exposure valu
 
 Below you can see what the **Exposure Preview filter** does.
 
-![](3d-2d-filters-cropped-0029-exposure-preview-in.jpg)
+![](../../../assets/3d-2d-filters-cropped-0029-exposure-preview-in.jpg)
 
 In the image above, an environment light has been created and the HDR image data is visible in the **2D view**.
 
-![](filters-cropped-0028-exposure-preview-out.jpg)
+![](../../../assets/filters-cropped-0028-exposure-preview-out.jpg)
 
 With the **Exposure Preview** **filter** added to the layer stack, a new channel - Environment Diagnostics - becomes available which shows the the environment light at various exposures.
 

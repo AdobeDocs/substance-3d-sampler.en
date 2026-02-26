@@ -1,7 +1,15 @@
 ---
-title: "Cross-polarising for 3D Capture"
-description: ""
-helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/cross-polarising-for-3d-capture---substance-3d-sampler.html"
+breadcrumb-title: ""
+description: Learn how to use cross-polarization techniques in Substance 3D Sampler to reduce reflections and improve 3D capture quality.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Cross-polarising for 3D Capture
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Cross-polarising for 3D Capture
@@ -16,7 +24,7 @@ In this user guide we’ll go over how to deal with reflective objects and the i
 
 You prefer to learn about this topic in a video tutorial? Find it [here](https://youtu.be/VWsbP56MDk0?si=Hdp7vblJB6L1RPxK "Cross polarizing tutorial").
 
-![](polarized-lens-3D-capture-sampler.png)
+![](../../assets/polarized-lens-3d-capture.png)
 
 When light hits a surface, it’s usually reflects in a diffused way, bouncing uniformly, giving the surface it’s color appearance. But depending on the surface roughness, some light can be reflected straight towards your eye or camera. This <b>specular reflection</b> changes depending on your viewing angle.
 
@@ -30,7 +38,7 @@ You polarize light with a polarizing filter, a special transparent sheet that fi
 
 The basic idea is to <b>add a filter to your light</b>, and <b>your lens</b>, and set them up to be <b>perpendicular to each other</b>. That means you’ll need to finetune filter orientation by rotating them. Once they’re set up, specular reflections from that light become invisible. It’s quite special to see, twisting your filters can suddenly completely eliminate all glare from a polarized light.
 
-![](polarizing-before-after-3D-capture-sampler.png)
+![](../../assets/polarizing-before-after-3d-capture.png)
 
 A polarising filter for your lens should be bought, as you want optimal optics, still allowing for clear sharp photos. Different lenses have different sizes thread to screw filters onto, so make sure to get the right one for your lens of choice, or a few sizes for multiple lenses if you’re experimenting.
 
@@ -48,4 +56,4 @@ Adjusting the polarisation on your video lights is different, but easier. You’
 
 When properly set-up, you should be able to capture an object as if it’s completely matte, with no reflections and even lighting. Just like seeing your mesh with only the basecolor texture applied, it lets you capture difficult reflective objects.
 
-Now learn more about [how to process your 3D capture using Substance 3D Sampler](../processing-advanced-cap/processing-advanced-3d-captures.md)!
+Now learn more about [how to process your 3D capture using Substance 3D Sampler](../../3d-capture/processing-advanced-cap/processing-advanced-3d-captures.md)!

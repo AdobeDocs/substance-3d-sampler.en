@@ -1,7 +1,15 @@
 ---
-title: "FAQ"
-description: ""
-helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/faq.html"
+breadcrumb-title: ""
+description: Access frequently asked questions about Substance 3D Sampler to find answers about features, installation, and usage.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: FAQ
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # FAQ - Frequently Asked Questions

@@ -1,7 +1,15 @@
 ---
-title: "Managing Presets"
-description: ""
-helpx_description: "Sampler > Getting Started > Export > Managing Presets"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-presets.html"
+breadcrumb-title: ""
+description: Learn how to manage export presets in Substance 3D Sampler to configure materials for different applications and pipelines.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Export > Managing Presets
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Managing Presets
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Managing Presets
@@ -22,7 +30,7 @@ To access Presets:
 1. Select an image format (EXR, JPEG, PNG, TARGA, TIFF)
 1. The Preset list appears.
 
-![](Managing-presets-Dropdown.png.img.png){width="400px"}
+![](../../../assets/Managing-presets-Dropdown.png.img.png){width="400px"}
 
 Use the Presets dropdown to select a preset, or use the <b>Manage presets </b>button next to the dropdown to manage your presets.
 
@@ -32,7 +40,7 @@ Use the Presets dropdown to select a preset, or use the <b>Manage presets </b>b
 
 ## Default presets
 
-![](Managing-presets-Window.png.img.png){width="400px"}
+![](../../../assets/Managing-presets-Window.png.img.png){width="400px"}
 
 For all default presets, you can activate/deactivate them. If a default preset is deactivated, it won't be visible in the Preset drop-down list.
 

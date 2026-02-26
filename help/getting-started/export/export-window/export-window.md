@@ -1,7 +1,15 @@
 ---
-title: "Export Window"
-description: ""
-helpx_description: "Sampler > Getting Started > Export > Export Window"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/export-window.html"
+breadcrumb-title: ""
+description: Learn how to use the export window in Substance 3D Sampler to configure and export materials in various formats and presets.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Export > Export Window
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Export Window
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Export Window
@@ -10,7 +18,7 @@ You can export your asset from the <b>Export</b> panel in the <b>Right bar</b>.
 
 Export options depend on the type of asset being exported.
 
-![An image of the export window](Export-ExportWindow.png)
+![An image of the export window](../../../assets/Export-ExportWindow.png)
 
 
 The Export window for a material export.
@@ -39,12 +47,12 @@ When exporting Materials, the Material settings panel of the Export window has t
 >
 > Bit depth is forced to 16 bits for the Normal and Height channels. Other channels are exported in 8/16 bits depending on your materials and the filters you asset uses. Depending on the file format, the bit depth can be changed as some file formats don't support high bit depth.
 
-![](export-format.png){width="400px"}
+![](../../../assets/export-format.png){width="400px"}
 
 * <b>Preset </b>(EXR, JPEG, PNG, TARGA, TIFF): Select a preset to automatically set up the file export for a given application or pipeline.
   * The <b>Default (project workflow)</b> option shows a list of all available channels of your material(s) without any preset applied.
   * Use the <b>Manage presets </b>button to the right of the Presets parameter to edit presets or add your own.<b> </b>
-  * [More information about Presets is available here.](../managing-presets/managing-presets.md)
+  * [More information about Presets is available here.](../../../getting-started/export/managing-presets/managing-presets.md)
 
 >[!NOTE]
 >
@@ -52,7 +60,7 @@ When exporting Materials, the Material settings panel of the Export window has t
 
 * <b>Material type </b>(SBSAR, SBS): Select whether the exported material behaves like a standard material, decal, or atlas. This setting can change how it is treated by other applications that support SBSAR and SBS files.
 
-![](screenshot-2023-01-24-at-16-32-58.png)
+![](../../../assets/screenshot-2023-01-24-at-16-32-58.png)
 
 * <b>Compression </b>(SBSAR, SBS): Select how the exported file is compressed
   * <b>Auto</b>: Allow Sampler to determine compression settings.
@@ -61,12 +69,12 @@ When exporting Materials, the Material settings panel of the Export window has t
 * <b>Resolution (</b>SBSAR, SBS<b>)</b>: Select an output resolution for the material.
   * By default, the resolution is based on Sampler's Global parameters. If you select a different resolution, Sampler will recompute all your material(s) with this new resolution. It may affect the final look of your material(s).
 
-![](SAPR_ResolutionSBSAR.png)
+![](../../../assets/SAPR_ResolutionSBSAR.png)
 
 * <b>Resolution </b>(Image formats): Select whether each layer's resolution is exported independently or override the resolution so that all layers are exported at a uniform size. If Override all is selected, options to modify the output resolution appear.
   * By default, resolution is based on each layer's output resolution. If you select a different resolution, Sampler will recompute all your material(s) with this new resolution. It may affect the final look of your material(s).
 
-![](SAPR_ResolutionTextures.png)
+![](../../../assets/SAPR_ResolutionTextures.png)
 
 ### Additional information
 
@@ -78,13 +86,13 @@ Available disk space on your selected destination drive is visible at the bottom
 
 ### Channels
 
-![](SAPR_Channelspreview.png)
+![](../../../assets/SAPR_Channelspreview.png)
 
 On the right side of the <b>Material settings panel</b>, a list of channels that can be exported and their resolutions is visible (default channels and custom channels).
 
 Each preset has a different set of channels to export, and the name of exported files is based on the names visible in the <b>Channels to export</b> area. You can use the checkbox next to any channel to enable or disable export for that channel.
 
-![](SAPR_Channels_ExportPreset.gif)
+![](../../../assets/SAPR_Channels_ExportPreset.gif)
 
 ## Environment light settings
 
@@ -118,7 +126,7 @@ When exporting Environment lights, the Environment light settings panel of the E
 
 When you export a mesh you can choose if you export the mesh and/or it's material.
 
-![](screenshot-2023-01-24-at-16-50-37.png)
+![](../../../assets/screenshot-2023-01-24-at-16-50-37.png)
 
 ### Formats
 

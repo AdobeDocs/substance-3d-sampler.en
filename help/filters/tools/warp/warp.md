@@ -1,7 +1,15 @@
 ---
-title: "Warp"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Warp"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/warp.html"
+breadcrumb-title: ""
+description: Use the Warp tool in Substance 3D Sampler to apply directional warping and distortion effects to textures and material layers.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Tools > Warp
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Warp
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Warp
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Tools > Warp"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-warp-18-n-d.png)
+![](../../../assets/s-warp-18-n-d.png)
 
 **In:** Tools
 

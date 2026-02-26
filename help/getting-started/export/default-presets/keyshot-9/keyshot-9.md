@@ -1,48 +1,56 @@
 ---
-title: "Keyshot9"
-description: ""
-helpx_description: "Sampler > Getting Started > Export > Default Presets > Keyshot9"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/keyshot-9.html"
+breadcrumb-title: ""
+description: Learn how to export materials from Substance 3D Sampler using the Keyshot 9 preset for compatibility with Keyshot rendering.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Export > Default Presets > Keyshot9
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Keyshot9
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Keyshot9
 
-[![Substance 3D Sampler](3d-sampler.svg)](https://creativecloud.adobe.com/apps/download/substance3d-sampler)
+[![Substance 3D Sampler](../../../../assets/3d.svg)](https://www.adobe.com/download/substance3d-sampler)
 
-[Substance 3D Sampler](https://creativecloud.adobe.com/apps/download/substance3d-sampler)
+[Substance 3D Sampler](https://www.adobe.com/download/substance3d-sampler)
 
-[Open app](https://creativecloud.adobe.com/apps/download/substance3d-sampler)
+[Open app](https://www.adobe.com/download/substance3d-sampler)
 
 1. [Substance 3D home](https://helpx.adobe.com/substance-3d.html)
-1. [Home](https://helpx.adobe.com/substance-3d-sampler.html)
+1. [Home](../../../../home/home.md)
 1. Getting Started
-   1. [Getting Started overview](../../../getting-started.md)
-   1. [Activation and licenses](../../../activation-and-licenses/activation-and-licenses.md)
-   1. [System requirements](../../../system-requirements/system-requirements.md)
-   1. [Shortcuts](../../../shortcuts/shortcuts.md)
-   1. [Importing Resources](../../../importing-resources/importing-resources.md)
-   1. [Report a bug](../../../report-a-bug/report-a-bug.md)
-   1. [Project Management](../../../project-management/project-management.md)
+   1. [Getting Started overview](../../../../getting-started/getting-started.md)
+   1. [Activation and licenses](../../../../getting-started/activation-and-licenses/activation-and-licenses.md)
+   1. [System requirements](../../../../getting-started/system-requirements/system-requirements.md) /content/help/en/substance-3d-sam
+   1. [Shortcuts](../../../../getting-started/shortcuts/shortcuts.md)
+   1. [Importing Resources](../../../../getting-started/importing-resources/importing-resources.md)
+   1. [Report a bug](../../../../getting-started/report-a-bug/report-a-bug.md)
+   1. [Project Management](../../../../getting-started/project-management/project-management.md)
    1. Export
-      1. [Export overview](../../export.md)
-      1. [Export Window](../../export-window/export-window.md)
+      1. [Export overview](../../../../getting-started/export/export.md)
+      1. [Export Window](../../../../getting-started/export/export-window/export-window.md)
       1. Default Presets
-         1. [Default Presets overview](../default-presets.md)
-         1. [Arnold 5](../arnold-5/arnold-5.md)
-         1. [Blender Cycles/Eevee](../blender-cycles-eevee/blender-cycles-eevee.md)
-         1. [Corona Renderer](../corona-renderer/corona-renderer.md)
-         1. [Enscape - Revit](../enscape-revit/enscape-revit.md)
-         1. [Keyshot9+](keyshot-9.md)
-         1. [Lens Studio](../lens-studio/lens-studio.md)
-         1. [Spark AR Studio](../spark-ar-studio/spark-ar-studio.md)
-         1. [Unity HDRP Standard](../unity-hdrp-standard/unity-hdrp-standard.md)
-         1. [Unity HDRP Specular](../unity-hdrp-specular/unity-hdrp-specular.md)
-         1. [Unity Standard](../unity-standard/unity-standard.md)
-         1. [Unity Specular](../unity-specular/unity-specular.md)
-         1. [Unreal Engine 4](../unreal-engine-4/unreal-engine-4.md)
-         1. [Redshift](../redshift/redshift.md)
-         1. [V-Ray Next](../v-ray-next/v-ray-next.md)
-      1. [Managing custom presets](../../managing-custom-presets/managing-custom-presets.md)
-      1. [Managing Presets](../../managing-presets/managing-presets.md)
+         1. [Default Presets overview](../../../../getting-started/export/default-presets/default-presets.md)
+         1. [Arnold 5](../../../../getting-started/export/default-presets/arnold-5/arnold-5.md)
+         1. [Blender Cycles/Eevee](../../../../getting-started/export/default-presets/blender-cycles-eevee/blender-cycles-eevee.md)
+         1. [Corona Renderer](../../../../getting-started/export/default-presets/corona-renderer/corona-renderer.md)
+         1. [Enscape - Revit](../../../../getting-started/export/default-presets/enscape-revit/enscape-revit.md)
+         1. [Keyshot9+](../../../../getting-started/export/default-presets/keyshot-9/keyshot-9.md)
+         1. [Lens Studio](../../../../getting-started/export/default-presets/lens-studio/lens-studio.md)
+         1. [Spark AR Studio](../../../../getting-started/export/default-presets/spark-ar-studio/spark-ar-studio.md)
+         1. [Unity HDRP Standard](../../../../getting-started/export/default-presets/unity-hdrp-standard/unity-hdrp-standard.md)
+         1. [Unity HDRP Specular](../../../../getting-started/export/default-presets/unity-hdrp-specular/unity-hdrp-specular.md)
+         1. [Unity Standard](../../../../getting-started/export/default-presets/unity-standard/unity-standard.md)
+         1. [Unity Specular](../../../../getting-started/export/default-presets/unity-specular/unity-specular.md)
+         1. [Unreal Engine 4](../../../../getting-started/export/default-presets/unreal-engine-4/unreal-engine-4.md)
+         1. [Redshift](../../../../getting-started/export/default-presets/redshift/redshift.md)
+         1. [V-Ray Next](../../../../getting-started/export/default-presets/v-ray-next/v-ray-next.md)
+      1. [Managing custom presets](../../../../getting-started/export/managing-custom-presets/managing-custom-presets.md)
+      1. [Managing Presets](../../../../getting-started/export/managing-presets/managing-presets.md)
 1. Interface  
    1. [Interface overview](../../../../interface/interface.md)
    1. [The Home Screen](../../../../interface/the-home-screen/the-home-screen.md)
@@ -177,7 +185,7 @@ helpx_description: "Sampler > Getting Started > Export > Default Presets > Keysh
       1. [Technical Issues overview](../../../../technical-support/technical-issues/technical-issues.md)
    1. Data or project issues
       1. [Data or project issues overview](../../../../technical-support/technical-issues/data-or-project-issues/data-or-project-issues.md)
-      1. [Import Substance Alchemist projects in Substance 3D Sampler](../../../../technical-support/technical-issues/data-or-project-issues/import-substance-alc/import-substance-alchemist-projects-in-substance-3d-sampler.md)
+      1. [Import Substance Alchemist projects in Substance 3D Sampler](../../../../technical-support/technical-issues/data-or-project-issues/import-alchemist-projects/import-substance-alchemist-projects-in-substance-3d-sampler.md)
    1. Filter issues
       1. [Filter issues overview](../../../../technical-support/technical-issues/filter-issues/filter-issues.md)
       1. [Image to Material and Delighter are missing](../../../../technical-support/technical-issues/filter-issues/image-material-and-del/image-to-material-and-delighter-are-missing.md)
@@ -213,12 +221,12 @@ helpx_description: "Sampler > Getting Started > Export > Default Presets > Keysh
 1. Pipeline and integrations
    1. [Pipeline and integrations overview](../../../../pipeline-and-integrations/pipeline-and-integrations.md)
    1. [Environment variables](../../../../pipeline-and-integrations/environment-variables/environment-variables.md)
-   1. [Substance Send-to](../../../../pipeline-and-integrations/substance-connector/substance-connector.md)
+   1. [Substance Send-to](../../../../pipeline-and-integrations/connector/substance-connector.md)
    1. HP Z Captis support
       1. [HP Z Captis support overview](../../../../pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
       1. [Your first capture, step by step](../../../../pipeline-and-integrations/hp-z-captis-support/your-first-capture-step/your-first-capture-step-by-step.md)
       1. [System requirements to use the HP Z Captis device](../../../../pipeline-and-integrations/hp-z-captis-support/system-requirements-use/system-requirements-to-use-hp-z-captis.md)
-      1. [FAQ for HP Z support in Sampler](../../../../pipeline-and-integrations/hp-z-captis-support/faq-captis-support-sam/faq-hp-z-captis-support-in-sampler.md)
+      1. [FAQ for HP Z support in Sampler](../../../../pipeline-and-integrations/hp-z-captis-support/faq-captis-support/faq-hp-z-captis-support-in-sampler.md)
       1. [Known issues and limitations](../../../../pipeline-and-integrations/hp-z-captis-support/known-issues-and-lim/known-issues-and-limitations-hp-z-captis-support.md)
    1. [Tajima Exporter plugin](../../../../pipeline-and-integrations/tajima-exporter-plugin/tajima-exporter-plugin.md)
 1. Scripting and Development  
@@ -231,8 +239,8 @@ helpx_description: "Sampler > Getting Started > Export > Default Presets > Keysh
 1. 3D Capture
     1. [3D Capture equipment](../../../../3d-capture/equipment/equipment.md)
     1. [Camera settings - Exposure](../../../../3d-capture/camera-settings-exposure/camera-settings-exposure-substance-3d-sampler.md)
-    1. [Camera settings - Focus](../../../../3d-capture/camera-settings-focus-sub/camera-settings-focus-substance-3d-sampler.md)
-    1. [3D Capture lighting](../../../../3d-capture/capture-lighting-sub/3d-capture-lighting-substance-3d-sampler.md)
+    1. [Camera settings - Focus](../../../../3d-capture/camera-settings-focus-3d/camera-settings-focus-substance-3d-sampler.md)
+    1. [3D Capture lighting](../../../../3d-capture/3d-capture-lighting-3d/3d-capture-lighting-substance-3d-sampler.md)
     1. [Cross-polarizing for 3D Capture](../../../../3d-capture/cross-polarising-for-cap/cross-polarising-for-3d-capture-substance-3d-sampler.md)
     1. [Processing advanced 3D Captures](../../../../3d-capture/processing-advanced-cap/processing-advanced-3d-captures.md)
     1. [Editing 3D Captured meshes](../../../../3d-capture/editing-captured-meshes/editing-3d-captured-meshes.md)
@@ -240,11 +248,11 @@ helpx_description: "Sampler > Getting Started > Export > Default Presets > Keysh
     1. [Release Notes overview](../../../../release-notes/release-notes.md)
     1. [All Changes](../../../../release-notes/all-changes/all-changes.md)
     1. [Beta](../../../../release-notes/beta-version/beta-version.md)
-    1. [Version 5.1](../../../../release-notes/version-substance-sampler/version-5-1-substance-3d-sampler.md)
-    1. [Version 5.0](../../../../release-notes/version-substance-sampl-1/version-5-0-substance-3d-sampler.md)
-    1. [Version 4.5](../../../../release-notes/version-substance-sampl-2/version-4-5-substance-3d-sampler.md)
-    1. [Version 4.4](../../../../release-notes/version-substance-sampl-3/version-4-4-substance-3d-sampler.md)
-    1. [Version 4.3](../../../../release-notes/version-substance-sampl-4/version-4-3-substance-3d-sampler.md)
+    1. [Version 5.1](../../../../release-notes/version-5-1-3d/version-5-1-substance-3d-sampler.md)
+    1. [Version 5.0](../../../../release-notes/version-5-0-3d/version-5-0-substance-3d-sampler.md)
+    1. [Version 4.5](../../../../release-notes/version-4-5-3d/version-4-5-substance-3d-sampler.md)
+    1. [Version 4.4](../../../../release-notes/version-4-4-3d/version-4-4-substance-3d-sampler.md)
+    1. [Version 4.3](../../../../release-notes/version-4-3-3d/version-4-3-substance-3d-sampler.md)
     1. [Version 4.2](../../../../release-notes/version-4-2/version-4-2.md)
     1. [Version 4.1](../../../../release-notes/version-4-1/version-4-1.md)
     1. [Version 4.0](../../../../release-notes/version-4-0/version-4-0.md)

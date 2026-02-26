@@ -1,7 +1,15 @@
 ---
-title: "Crop tool"
-description: ""
-helpx_description: "Sampler > Filters > Tools > Crop tool"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/crop-tool.html"
+breadcrumb-title: ""
+description: Use the Crop tool in Substance 3D Sampler to crop and resize textures and material layers with precise control over dimensions.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Tools > Crop tool
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Crop tool
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Crop tool
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Tools > Crop tool"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-crop-18-n-d.png)
+![](../../../assets/s-crop-18-n-d.png)
 
 **In:** Tools
 
@@ -29,11 +37,11 @@ The **Crop tool** is useful for making adjustments to images that have non-stand
 
 In the images below you can see the **Crop Tool** in action.
 
-![](3d-2d-filters-cropped-0047-crop-in.jpg)
+![](../../../assets/3d-2d-filters-cropped-0047-crop-in.jpg)
 
 Note that the 2D view is set to display Layer Inputs so that the handles in the **2D view** show what area of the input will become the output.
 
-![](3d-2d-filters-cropped-0046-crop-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0046-crop-out.jpg)
 
 </td>
 </tr>
@@ -105,7 +113,7 @@ To rotate the layer:
 
 ## Toolbar
 
-![](transform-toolbar.png){width="200px"}
+![](../../../assets/transform-toolbar.png){width="200px"}
 
 The toolbar contains the following shortcuts:
 

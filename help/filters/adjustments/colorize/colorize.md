@@ -1,7 +1,15 @@
 ---
-title: "Colorize"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > Colorize"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/colorize.html"
+breadcrumb-title: ""
+description: Use the Colorize filter in Substance 3D Sampler to apply color tints and monochrome colorization effects to textures and materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Adjustments > Colorize
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Colorize
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Colorize
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Adjustments > Colorize"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](S_ColorFill_18_N_D.png)
+![](../../../assets/S_ColorFill_18_N_D.png)
 
 **In:** Adjustments
 
@@ -31,12 +39,12 @@ In these images the **Colorize filter** has been used to adjust the base color t
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0045-colorize-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0045-colorize-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0044-colorize-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0044-colorize-out.jpg){width="200px"}
 
 </td>
 </tr>

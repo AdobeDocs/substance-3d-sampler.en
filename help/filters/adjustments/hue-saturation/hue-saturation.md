@@ -1,7 +1,15 @@
 ---
-title: "HueSaturation"
-description: ""
-helpx_description: "Sampler > Filters > Adjustments > HueSaturation"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/hue-saturation.html"
+breadcrumb-title: ""
+description: Use the Hue/Saturation filter in Substance 3D Sampler to adjust hue, saturation, and lightness values in textures and materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Adjustments > HueSaturation
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: HueSaturation
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Hue/Saturation
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Adjustments > HueSaturation"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-hueandsat-18-n-d.png)
+![](../../../assets/s-hueandsat-18-n-d.png)
 
 **In:** Adjustments
 
@@ -27,12 +35,12 @@ The images below show the **Hue/Saturation filter** used to adjust the Hue of a 
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0027-hue-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0027-hue-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0026-hue-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0026-hue-out.jpg){width="200px"}
 
 </td>
 </tr>

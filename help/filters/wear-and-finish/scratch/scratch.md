@@ -1,7 +1,15 @@
 ---
-title: "Scratch"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Scratch"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/scratch.html"
+breadcrumb-title: ""
+description: Use the Scratch filter in Substance 3D Sampler to add realistic scratch marks and surface damage effects to your materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Scratch
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Scratch
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Scratch
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Wear and Finish > Scratch"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-scratches-18-n-d.png)
+![](../../../assets/s-scratches-18-n-d.png)
 
 **In:** Wear and Finish
 
@@ -27,12 +35,12 @@ Add scratches and wear to your material.
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0001-scratch-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0001-scratch-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0000-scratch-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0000-scratch-out.jpg){width="200px"}
 
 </td>
 </tr>

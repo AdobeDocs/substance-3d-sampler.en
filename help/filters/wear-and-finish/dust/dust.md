@@ -1,7 +1,15 @@
 ---
-title: "Dust"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Dust"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/dust.html"
+breadcrumb-title: ""
+description: Use the Dust filter in Substance 3D Sampler to add realistic dust accumulation effects to your materials and textures.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Dust
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Dust
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Dust
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Wear and Finish > Dust"
 
 The Dust Splatter Layer is used to add dust to a material and define how the dust spreads.
 
-![](before-after-1.png)
+![](../../../assets/before-after-1.png)
 
 ## Usage
 
@@ -34,12 +42,12 @@ The Dust Splatter can be added on top of a material. You can use it to smooth th
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](prevent-slope00.png)
+![](../../../assets/prevent-slope00.png)
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](prevent-slope01.png)
+![](../../../assets/prevent-slope01.png)
 
 </td>
 </tr>

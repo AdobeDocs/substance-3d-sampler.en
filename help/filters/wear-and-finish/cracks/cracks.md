@@ -1,7 +1,15 @@
 ---
-title: "Cracks"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Cracks"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/cracks.html"
+breadcrumb-title: ""
+description: Use the Cracks filter in Substance 3D Sampler to add realistic crack patterns and surface damage effects to your materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Cracks
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Cracks
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Cracks
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Wear and Finish > Cracks"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-cracks-18-n-d.png)
+![](../../../assets/s-cracks-18-n-d.png)
 
 **In:** Wear and Finish
 
@@ -27,12 +35,12 @@ The **Cracks filter** applied to a clean marble material.
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0043-cracks-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0043-cracks-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0042-cracks-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0042-cracks-out.jpg){width="200px"}
 
 </td>
 </tr>

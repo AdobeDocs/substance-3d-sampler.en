@@ -1,7 +1,15 @@
 ---
-title: "Metal Finish"
-description: ""
-helpx_description: "Sampler > Filters > Wear and Finish > Metal Finish"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/metal-finish.html"
+breadcrumb-title: ""
+description: Use the Metal Finish filter in Substance 3D Sampler to apply various metal surface finishes and textures to your materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Metal Finish
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Metal Finish
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Metal Finish
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Wear and Finish > Metal Finish"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](sampler-metal-finish-filter-icon.png.img.png)
+![](../../../assets/metal-finish-filter-icon.png.img.png)
 
 **In:** Wear and Finish
 
@@ -27,12 +35,12 @@ Convert your material into a metal with a number of finishes and styles.
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0023-metal-finish-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0023-metal-finish-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0022-metal-finish-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0022-metal-finish-out.jpg){width="200px"}
 
 </td>
 </tr>

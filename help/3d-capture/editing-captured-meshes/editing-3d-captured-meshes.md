@@ -1,7 +1,15 @@
 ---
-title: "Editing 3D Captured meshes"
-description: ""
-helpx_description: "Substance 3D Sampler"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/editing-3d-captured-meshes.html"
+breadcrumb-title: ""
+description: Learn how to edit 3D captured meshes in Substance 3D Sampler to refine geometry, fix issues, and optimize mesh quality.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Editing 3D Captured meshes
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Editing 3D Captured meshes
@@ -16,7 +24,7 @@ In this user guide we’ll go over some techniques to edit &amp; post process 3D
 
 You prefer to watch this as a video tutorial? You can find it [here.](https://youtu.be/6_EZEAR0Uy8?si=6AaCUHD6nnWZyKUE "Advanced 3D Capture - Mesh Post Processing tutorial video")
 
-![](Post-processing-3D-capture-sampler.png)
+![](../../assets/post-processing-3d-capture.png)
 
 Once you’ve finished the 3D capture process and added a mesh to your Sampler project, you can do modifications to it. These can be either changes to the mesh, or to the material. Mesh filters are new since Sampler 4.0. Material filters use all the familiar filters that were in Sampler before.
 

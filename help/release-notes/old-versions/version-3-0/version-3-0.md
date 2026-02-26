@@ -1,7 +1,15 @@
 ---
-title: "Version 3.0"
-description: ""
-helpx_description: "Sampler > Release Notes > Old Versions > Version 3.0"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-3-0.html"
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 3.0 to learn about UI rework, environment lights, filters, and Creative Cloud integration.
+helpx_creative_field: ""
+helpx_description: Sampler > Release Notes > Old Versions > Version 3.0
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 3.0
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Version 3.0
@@ -16,19 +24,19 @@ Release date: *23 June 2021*
 
 With a new name, comes a new look. Sampler's UI has been completely revamped to allow for more customization and easier access.
 
-![](ui-dualscreen.jpg){width="600px"}
+![](../../../assets/ui-dualscreen.jpg){width="600px"}
 
 Panels can be docked and undocked, letting you fully utilize a dual screen set up.
 
 ### New Project workflow
 
-![](ui-project-panel.png)
+![](../../../assets/ui-project-panel.png)
 
 Sampler now works with projects. The[ Project panel ](../../../interface/panels/project-panel/project-panel.md)lets you manage and group your assets per project. Projects are stored in Substance Sampler files, easily shared.
 
 ### New Assets panel
 
-![](image2021-6-22-17-58-15.png)
+![](../../../assets/image2021-6-22-17-58-15.png)
 
 The[ asset panel ](../../../interface/panels/assets-panel/assets-panel.md)is a new and common design of the Resources panel, combined with your collections.
 
@@ -39,13 +47,13 @@ The[ asset panel ](../../../interface/panels/assets-panel/assets-panel.md)is a n
 
 ### New Environment Light authoring
 
-![](idl.jpg){width="600px"}
+![](../../../assets/idl.jpg){width="600px"}
 
 Sampler now lets you make more than just materials. Environment Lights are a new type of asset with their [own set of filters](../../../filters/hdri-tools/hdri-tools.md). Start from [bracketed 360 photo's](../../../filters/hdri-tools/hdr-merge/hdr-merge.md), build an environment light [from scratch](../../../filters/hdri-tools/shape-light/shape-light.md), or [edit an existing HDR file](../../../filters/hdri-tools/nadir-patch/nadir-patch.md).
 
 ### Reworked and new filters
 
-![](filter-all-filters.jpg){width="600px"}
+![](../../../assets/filter-all-filters.jpg){width="600px"}
 
 All existing filters have been reworked:
 
@@ -56,7 +64,7 @@ All existing filters have been reworked:
 
 The Adjustment Filter has been split into separate filters based on functionality, to mimic Photoshop:
 
-![](filter-adjustment-filters.jpg)
+![](../../../assets/filter-adjustment-filters.jpg)
 
 A few new filters have been added:
 
@@ -66,7 +74,7 @@ A few new filters have been added:
 
 ### New Send To Functionality
 
-![](image2021-6-22-18-2-10.png)
+![](../../../assets/image2021-6-22-18-2-10.png)
 
 Sampler can now [easily share materials and light environments ](../../../interface/panels/share-panel/share-panel.md)with Substance 3D Painter and Stager, in just a single click.
 

@@ -1,7 +1,15 @@
 ---
-title: "Atlas Scatter"
-description: ""
-helpx_description: "Sampler > Filters > Generators > Atlas Scatter"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/atlas-scatter.html"
+breadcrumb-title: ""
+description: Use the Atlas Scatter generator in Substance 3D Sampler to scatter elements from texture atlases across material surfaces.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Atlas Scatter
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Atlas Scatter
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 # Atlas Scatter
@@ -10,7 +18,7 @@ helpx_description: "Sampler > Filters > Generators > Atlas Scatter"
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](S_AtlasScatter_18_N_D.png)
+![](../../../assets/S_AtlasScatter_18_N_D.png)
 
 **In:** Generators
 
@@ -23,11 +31,11 @@ The Atlas Scatter filter scatters instances of the elements within an atlas mate
 
 The images below show the **Atlas Scatter filter** in action.
 
-![](3d-2d-filters-cropped-0037-atlas-scatter-in.jpg)
+![](../../../assets/3d-2d-filters-cropped-0037-atlas-scatter-in.jpg)
 
 Before the **Atlas Scatter filter** is used, we have a basic mud material - not very exciting.
 
-![](3d-2d-filters-cropped-0036-atlas-scatter-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0036-atlas-scatter-out.jpg)
 
 By adding the **Atlas Scatter filter** with a pebble atlas, the material becomes more interesting as pebbles are scattered and blend realistically with the underlying mud.
 
