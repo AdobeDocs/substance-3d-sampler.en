@@ -26,7 +26,7 @@ Alternatively, you can use the <b>Empty project</b> button to jump right into a
 
 After clicking the "Create New" button, the project will be automatically opened and named "*Untitled Project\**" until you save your project. You can add assets to your project with the highlighted <b>New asset button </b>in the <b>Project panel</b>.
 
-![](../../assets/Project_CreateNew.png){width="600px"}
+![](<../../assets/Project_CreateNew (1).png>){width="600px"}
 
 ## Save a project
 
