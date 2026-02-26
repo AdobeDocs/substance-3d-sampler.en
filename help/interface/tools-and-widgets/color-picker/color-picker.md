@@ -1,17 +1,15 @@
 ---
-title: Color Picker
-description: Learn how to use the color picker in Substance 3D Sampler to select colors for materials, filters, and texture editing.
-helpx_description: Sampler > Interface > Tools and Widgets > Color Picker
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets/color-picker.html"
-helpx_creative_field:
-  - graphic-design
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - creating-color-palettes
-  - color
-  - swatches
+breadcrumb-title: ""
+description: Learn how to use the color picker in Substance 3D Sampler to select colors for materials, filters, and texture editing.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > Tools and Widgets > Color Picker
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Color Picker
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ The Color Picker appears every time you need to select a color.
 
 ## UI overview
 
-![](color-picker-11.png){width="300px"}
+![](../../../assets/color-picker-11.png){width="300px"}
 
 1. **Color square**: Tweak the saturation and the brightness of your color with the selected hue..
 1. **HUE slider**: Adjust the hue of your color.
@@ -37,11 +35,11 @@ The Color Picker appears every time you need to select a color.
 
 RGB (Red, Green, Blue) and HSV (Hue, Saturation, Value)are the two available color spaces.
 
-![](rgb-hsv.jpg){width="200px"}
+![](../../../assets/rgb-hsv.jpg){width="200px"}
 
 #### Slider options
 
-![](slider-options.jpg){width="200px"}
+![](../../../assets/slider-options.jpg){width="200px"}
 
 **Show Sliders**
 
@@ -49,7 +47,7 @@ This option allows you to hide the sliders to save space. Even with the sliders 
 
 **Floating point values**
 
-![](float-value.jpg){width="200px"}
+![](../../../assets/float-value.jpg){width="200px"}
 
 Toggle whether to use floating point or integer values for sliders. Floating point values are between 0 and 1, while integer values are between 0 and 255.
 
@@ -57,7 +55,7 @@ Toggle whether to use floating point or integer values for sliders. Floating poi
 
 Toggle whether the slider background updates dynamically as values are changed. The image below shows slider appearance when Dynamic sliders is toggled off.
 
-![](no-dynamic-slider.jpg){width="200px"}
+![](../../../assets/no-dynamic-slider.jpg){width="200px"}
 
 ### Swatches
 
@@ -67,7 +65,7 @@ Swatches are global to Sampler and not specific per project.
 
 Clicking on the "+" button will add a swatch with the current color as first swatch in your list.
 
-![](swatches-2.jpg){width="200px"}
+![](../../../assets/swatches-2.jpg){width="200px"}
 
 Note: You can't add a swatch with the same color twice. The already saved swatch will be highlighted when you try to add it again.
 
@@ -77,10 +75,10 @@ A tooltip with the color value in Hex code is displayed when hovering a swatch.
 
 Delete all option.
 
-![](swatches-options-2.jpg){width="200px"}
+![](../../../assets/swatches-options-2.jpg){width="200px"}
 
 Right click on a swatch to delete it or replace it with the current color.
 
-![](swatch-options.jpg){width="200px"}
+![](../../../assets/swatch-options.jpg){width="200px"}
 
 You can also delete a swatch by dragging and dropping it outside of the color picker.

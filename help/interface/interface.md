@@ -1,19 +1,15 @@
 ---
-title: Interface
-description: Learn about the Substance 3D Sampler interface including viewports, sidebars, and panels to navigate and use the application effectively.
-helpx_description: Sampler > Interface
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - workspace
-  - interface
-  - preferences
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Learn about the Substance 3D Sampler interface including viewports, sidebars, and panels to navigate and use the application effectively.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Interface
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -41,7 +37,7 @@ The <b>Application menus</b> are covered in more detail below. <b>Panels</b>, th
 </td>
 <td style="border: 0;" valign="top">
 
-![A diagram showing the Sampler interface](Interface-overview-diagram.png){zoomable="yes"}
+![A diagram showing the Sampler interface](../assets/Interface-overview-diagram.png){zoomable="yes"}
 
 </td>
 </tr>
@@ -98,7 +94,7 @@ The **Application** **menu** **bar** shows the current project name. It also hol
 
 Use the <b>File</b> menu to create a new project, open an existing project, or save or export your current project.
 
-Use the <b>Edit</b> menu to undo and redo actions or access your preferences. Learn more about Sampler's Preferences [here](../help/interface/preferences/preferences.md).
+Use the <b>Edit</b> menu to undo and redo actions or access your preferences. Learn more about Sampler's Preferences [here](../interface/preferences/preferences.md).
 
 Use the <b>Window</b> menu to reset your workspace to the default layout.
 

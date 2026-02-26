@@ -1,19 +1,15 @@
 ---
-title: Perforate
-description: Use the Perforate generator in Substance 3D Sampler to create perforated patterns and hole arrays in materials and textures.
-helpx_description: Sampler > Filters > Generators > Perforate
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/perforate.html"
-helpx_creative_field:
-  - painting-illustration
-  - video
-  - graphic-design
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - masking
-  - materials
-  - reflections
+breadcrumb-title: ""
+description: Use the Perforate generator in Substance 3D Sampler to create perforated patterns and hole arrays in materials and textures.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Perforate
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Perforate
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -23,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-perforation-18-n-d.png)
+![](../../../assets/s-perforation-18-n-d.png)
 
 **In:** Generators
 
@@ -40,12 +36,12 @@ Use the Perforate filter to add holes to your material.
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0007-perforate-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0007-perforate-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0006-perforate-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0006-perforate-out.jpg){width="200px"}
 
 </td>
 </tr>

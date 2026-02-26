@@ -1,17 +1,15 @@
 ---
-title: Color Replace
-description: Use the Color Replace filter in Substance 3D Sampler to replace specific colors in textures with new color values.
-helpx_description: Sampler > Filters > Adjustments > Color Replace
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/color-replace.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - color
-  - creating-color-palettes
-  - colorize
+breadcrumb-title: ""
+description: Use the Color Replace filter in Substance 3D Sampler to replace specific colors in textures with new color values.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Adjustments > Color Replace
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Color Replace
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-replacecolor-18-n-d.png)
+![](../../../assets/s-replacecolor-18-n-d.png)
 
 **In:** Adjustments
 
@@ -34,7 +32,7 @@ Replace a chosen color or value in a channel.
 
 The images below show **Color Replace** in action. Notice how the areas between the tiles remains the same color - only the tiles themselves are changed.
 
-![](3d-2d-filters-cropped-0051-color-replace-in.jpg)![](3d-2d-filters-cropped-0050-color-replace-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0051-color-replace-in.jpg)![](../../../assets/3d-2d-filters-cropped-0050-color-replace-out.jpg)
 
 </td>
 </tr>

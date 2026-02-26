@@ -1,17 +1,15 @@
 ---
-title: Auto tiling
-description: Use the Auto Tiling tool in Substance 3D Sampler to automatically create seamless tiling patterns from textures using AI technology.
-helpx_description: Substance 3D Sampler
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/auto-tiling.html"
-helpx_creative_field:
-  - 3d
-helpx_experience_level:
-  - all-skill-levels
-  - any
-helpx_learn_topic:
-  - tiling
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Use the Auto Tiling tool in Substance 3D Sampler to automatically create seamless tiling patterns from textures using AI technology.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Auto tiling
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_tags:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-tiling-18-n-d.png)
+![](../../../assets/s-tiling-18-n-d.png)
 
 **In:** Tools
 

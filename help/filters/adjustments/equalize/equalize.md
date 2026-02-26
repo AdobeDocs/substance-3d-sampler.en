@@ -1,17 +1,15 @@
 ---
-title: Equalize
-description: Use the Equalize filter in Substance 3D Sampler to redistribute brightness values and enhance image contrast automatically.
-helpx_description: Sampler > Filters > Adjustments > Equalize
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/equalize.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - adjustments
-  - enhancing-color
-  - channels
+breadcrumb-title: ""
+description: Use the Equalize filter in Substance 3D Sampler to redistribute brightness values and enhance image contrast automatically.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Adjustments > Equalize
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Equalize
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-equalize-18-n-d.png)
+![](../../../assets/s-equalize-18-n-d.png)
 
 **In:** Adjustments
 
@@ -34,11 +32,11 @@ The Equalize filter adjusts local contrast based on a distance range. The goal o
 
 The images below show the **Equalize filter** in action.
 
-![](3d-2d-filters-cropped-0033-equalizer-in.jpg)
+![](../../../assets/3d-2d-filters-cropped-0033-equalizer-in.jpg)
 
 Before the **Equalize filter** has been added, there is significant variation across the height map and base color of this material.
 
-![](3d-2d-filters-cropped-0032-equalizer-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0032-equalizer-out.jpg)
 
 After the **Equalize filter** has been added, both the height map and base color channels are more uniform without losing detail.
 

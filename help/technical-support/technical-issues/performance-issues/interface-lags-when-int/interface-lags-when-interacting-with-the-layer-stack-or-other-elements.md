@@ -1,18 +1,15 @@
 ---
-title: Interface lags when interacting with the layer stack or other elements
-description: Learn how to fix interface lag issues in Substance 3D Sampler caused by old Wacom drivers or other compatibility problems.
-helpx_description: Sampler > Technical Support > Technical Issues > Performance issues > Interface lags when interacting with the layer stack or other elements
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/performance-issues/interface-lags-when-interacting-with-the-layer-stack-or-other-elements.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-  - painting-illustration
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - troubleshooting
-  - known-issues
-  - interface
+breadcrumb-title: ""
+description: Learn how to fix interface lag issues in Substance 3D Sampler caused by old Wacom drivers or other compatibility problems.
+helpx_creative_field: ""
+helpx_description: Sampler > Technical Support > Technical Issues > Performance issues > Interface lags when interacting with the layer stack or other elements
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Interface lags when interacting with the layer stack or other elements
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 

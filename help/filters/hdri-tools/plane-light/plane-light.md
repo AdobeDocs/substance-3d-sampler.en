@@ -1,18 +1,15 @@
 ---
-title: Plane Light
-description: Use the Plane Light tool in Substance 3D Sampler to add planar light sources to HDRI environments for area lighting effects.
-helpx_description: Sampler > Filters > HDRI Tools > Plane Light
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/plane-light.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-  - photography
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - 3d
-  - hdri
-  - camera
+breadcrumb-title: ""
+description: Use the Plane Light tool in Substance 3D Sampler to add planar light sources to HDRI environments for area lighting effects.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > HDRI Tools > Plane Light
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Plane Light
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-planelight-18-n-d.png)
+![](../../../assets/s-planelight-18-n-d.png)
 
 **In:** HDRI Tools
 
@@ -33,7 +30,7 @@ helpx_learn_topic:
 
 Add a light in the shape of a flat plane to your environment.
 
-![](3d-2d-filters-cropped-0002-plane-light-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0002-plane-light-out.jpg)
 
 </td>
 </tr>

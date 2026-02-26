@@ -1,17 +1,15 @@
 ---
-title: Surface Relief
-description: Use the Surface Relief generator in Substance 3D Sampler to create embossed and relief surface patterns in materials.
-helpx_description: Sampler > Filters > Generators > Surface Relief
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/surface-relief.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - effects
-  - creative-effects
-  - reflections
+breadcrumb-title: ""
+description: Use the Surface Relief generator in Substance 3D Sampler to create embossed and relief surface patterns in materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Surface Relief
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Surface Relief
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-surfacerelief-18-n-d.png)
+![](../../../assets/s-surfacerelief-18-n-d.png)
 
 **In:** Generators
 

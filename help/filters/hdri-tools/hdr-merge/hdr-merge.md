@@ -1,18 +1,15 @@
 ---
-title: HDR Merge
-description: Use the HDR Merge tool in Substance 3D Sampler to merge multiple exposure images into a single high dynamic range image.
-helpx_description: Sampler > Filters > HDRI Tools > HDR Merge
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/hdr-merge.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-  - photography
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - hdr
-  - hdri
-  - compositing
+breadcrumb-title: ""
+description: Use the HDR Merge tool in Substance 3D Sampler to merge multiple exposure images into a single high dynamic range image.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > HDRI Tools > HDR Merge
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: HDR Merge
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](S_HDRMerge_18_N_D.png)
+![](../../../assets/S_HDRMerge_18_N_D.png)
 
 **In:** HDRI Tools
 
@@ -35,11 +32,11 @@ The **HDR Merge** **filter** lets you merge a collection of SDR (Standard Dynami
 
 The images below show the results of the **HDR Merge**.
 
-![](3d-2d-filters-cropped-0027-hdr-merge-in.jpg)
+![](../../../assets/3d-2d-filters-cropped-0027-hdr-merge-in.jpg)
 
 Before the **HDR Merge** is done, the sphere in the **3D view** reflects the default environment light. The **2D view** displays the imported image data for the first scan image by default, which in this case is the lowest exposed image.
 
-![](3d-2d-filters-cropped-0026-hdr-merge-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0026-hdr-merge-out.jpg)
 
 After the **HDR Merge** **filter** is added, the sphere reflects a new environment light - the HDR image generated from the input images.
 

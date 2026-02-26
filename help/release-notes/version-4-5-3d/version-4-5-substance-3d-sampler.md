@@ -1,9 +1,17 @@
 ---
-title: "Version 4.5"
-description: "Review release notes for Substance 3D Sampler version 4.5 to learn about Send-to functionality for third-party applications."
-helpx_description: "Substance 3D Sampler"
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-5---substance-3d-sampler.html"
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 4.5 to learn about Send-to functionality for third-party applications.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 4.5
+user-guide-description: ""
+user-guide-title: ""
 ---
+
 
 # Version 4.5
 
@@ -11,11 +19,11 @@ helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4
 
 It allows to send assets from Sampler to a third party applications in one click, to avoid having to go through the manual export and import process and gaining time.
 
-More info [here](../../help/pipeline-and-integrations/connector/substance-connector.md).
+More info [here](../../pipeline-and-integrations/connector/substance-connector.md).
 
 *Release date: 10 July 2024*
 
-![](connector-whatsnew.jpg)
+![](../../assets/connector-whatsnew.jpg)
 
 ## Release Note
 

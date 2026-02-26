@@ -1,21 +1,21 @@
 ---
-title: Version 5.1
-description: Review release notes for Substance 3D Sampler version 5.1 to learn about new features, improvements, and workflow enhancements.
-helpx_description: Substance 3D Sampler
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-5-1-substance-3d-sampler.html"
-helpx_creative_field:
-  - 3d
-  - 3d-immersive
-helpx_experience_level:
-  - all-skill-levels
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 5.1 to learn about new features, improvements, and workflow enhancements.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 5.1
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
 # Version 5.1
 
-![](welcome_digitization_tool.jpg)
+![](../../assets/welcome_digitization_tool.jpg)
 
 Spend less time between capturing your materials and exporting their digital twins with new and improved tools in <b>Substance 3D Sampler 5.1</b>!
 
@@ -25,35 +25,35 @@ The main new features include:
 
 Save time processing structured or patterned materials—like fabrics—by automatically generating seamless tiles.
 
-More info *[here](../../help/filters/tools/auto-tiling/auto-tiling.md)*.
+More info *[here](../../filters/tools/auto-tiling/auto-tiling.md)*.
 
-![](WhatsNew_Auto-tiling-5_1.jpg)
+![](../../assets/WhatsNew_Auto-tiling-5_1.jpg)
 
 ## Efficient layer workflows
 
 Boost performance and reduce computation time with the Flatten layer by transforming stacked layers results into a single set of maps within one unified layer. Rename and duplicate them for more efficiency!
 
-More info *[here](../../help/features-and-workflows/flatten-layers/flatten-layers.md)*.
+More info *[here](../../features-and-workflows/flatten-layers/flatten-layers.md)*.
 
-![](WhatsNew_Flatten-Layers-5_1.png)
+![](../../assets/WhatsNew_Flatten-Layers-5_1.png)
 
 ## Powerful tools for scan processing
 
 With enhanced Equalize and Clone Stamp filters, plus a new automatic fold removal feature for fabrics, you can achieve perfect scans in just a few clicks—no matter how complex the material.
 
-![](WhatsNew_Equalize-5_1.jpg)
+![](../../assets/WhatsNew_Equalize-5_1.jpg)
 
 ## Enhanced HP Z Captis support
 
 Now with Roughness map generation and automatic physical size detection in Studio mode, you get a more detailed and accurate material digital twin than ever before!
 
-![](whatsnew-hp-z-captis-5-1.jpg)
+![](../../assets/whatsnew-hp-z-captis-5-1.jpg)
 
 ## V5.1 Release Notes
 
 *(Released: August 7th, 2025)*
 
-## <b>Added:</b>
+## Added:
 
 * &#91;2D View&#93; Brush size now adapts to the current texture resolution
 * &#91;3D View&#93; Toggle Native Display Scale for 3D Rendering in the preferences

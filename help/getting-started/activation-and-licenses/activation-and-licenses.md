@@ -1,19 +1,15 @@
 ---
-title: Activation and licenses
-description: Learn how to activate and manage licenses for Substance 3D Sampler to start using the application and access all features.
-helpx_description: Sampler > Getting Started > Activation and licenses
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/activation-and-licenses.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - cross-product-workflows
-  - download-and-install
-  - preflight
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Learn how to activate and manage licenses for Substance 3D Sampler to start using the application and access all features.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Activation and licenses
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Activation and licenses
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -35,7 +31,7 @@ The activation process depends on where you purchased or have access to Sampler:
 
 ### The activation wizard
 
-![](activation-wizard.png){width="350px"}
+![](../../assets/activation-wizard.png){width="350px"}
 
 Three choices are available:
 
@@ -63,4 +59,4 @@ It is possible to manually activate Sampler by putting the **license.key** file 
 
 ### Environment variable
 
-You can override the location that Sampler checks for the **license.key** file with an [Environment Variable](../../help/pipeline-and-integrations/environment-variables/environment-variables.md).
+You can override the location that Sampler checks for the **license.key** file with an [Environment Variable](../../pipeline-and-integrations/environment-variables/environment-variables.md).

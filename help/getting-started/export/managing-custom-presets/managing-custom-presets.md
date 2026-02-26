@@ -1,17 +1,15 @@
 ---
-title: Create and edit custom presets
-description: Learn how to create and edit custom export presets in Substance 3D Sampler using Substance Designer for workflow optimization.
-helpx_description: Sampler > Getting Started > Export > Managing custom presets
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/managing-custom-presets.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - presets
-  - color
-  - texture
+breadcrumb-title: ""
+description: Learn how to create and edit custom export presets in Substance 3D Sampler using Substance Designer for workflow optimization.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Export > Managing custom presets
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Create and edit custom presets
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -19,7 +17,7 @@ helpx_learn_topic:
 
 Custom presets can be created with Substance 3D Designer.
 
-The creation of custom presets respects the same rules as creating a custom filter for Sampler. Documentation is available [here](../../../help/filters/custom-filters/custom-filters.md).
+The creation of custom presets respects the same rules as creating a custom filter for Sampler. Documentation is available [here](../../../filters/custom-filters/custom-filters.md).
 
 ## Creation
 
@@ -42,7 +40,7 @@ Create an Input Color node (or grayscale) per material channel and add a <b>usag
 
 Example: Definition of the Base Color input
 
-![](custom-input.png){width="600px"}
+![](../../../assets/custom-input.png){width="600px"}
 
 ### Outputs
 
@@ -52,17 +50,17 @@ Create one Output node per texture and add <b>usage</b> and a <b>label</b> in th
 
 Example: Definition of the custom texture Color Opacity
 
-![](custom-output.png){width="600px"}
+![](../../../assets/custom-output.png){width="600px"}
 
 #### Example of channel packing and channel conversion
 
 Packing of 3 grayscale channels in one RGB texture:
 
-![](channel-packing-example.png){width="600px"}
+![](../../../assets/channel-packing-example.png){width="600px"}
 
 Channel conversion from PBR Metallic/Roughness to PBR Specular/Glossiness:
 
-![](channel-conversion.png){width="600px"}
+![](../../../assets/channel-conversion.png){width="600px"}
 
 ## Import
 
@@ -71,4 +69,4 @@ To import your new preset:
 1. Click the <b>Manage presets </b>button to the right of the <b>Presets dropdown</b>.
 1. Use the <b>Import presets</b> button at the bottom of the <b>presets list</b>.
 
-![](Managing-presets-Dropdown.png.img.png){width="400px"}
+![](../../../assets/Managing-presets-Dropdown.png.img.png){width="400px"}

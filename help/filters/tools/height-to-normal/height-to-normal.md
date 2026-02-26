@@ -1,17 +1,15 @@
 ---
-title: Height to Normal
-description: Use the Height to Normal tool in Substance 3D Sampler to convert height maps into normal maps for material creation workflows.
-helpx_description: Sampler > Filters > Tools > Height to Normal
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/height-to-normal.html"
-helpx_creative_field:
-  - graphic-design
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - height
-  - normal-maps
-  - channels
+breadcrumb-title: ""
+description: Use the Height to Normal tool in Substance 3D Sampler to convert height maps into normal maps for material creation workflows.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Tools > Height to Normal
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Height to Normal
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-heighttonormal-18-n-d.png)
+![](../../../assets/s-heighttonormal-18-n-d.png)
 
 **In:** Tools
 
@@ -34,11 +32,11 @@ Generate Normal channel data based on the height channel.
 
 In the images below you can see the **Height to Normal filter** in action.
 
-![](h2n-in.jpg)
+![](../../../assets/h2n-in.jpg)
 
 In the image above, there is no normal data from the material. Only the height map is available, and shown in the **2D view**.
 
-![](h2n-out.jpg)
+![](../../../assets/h2n-out.jpg)
 
 With the **Height to Normal filter**, normal data is generated from the height map shown in the top image. Light bounces more realistically off the material in the second image thanks to the generated normal map.
 

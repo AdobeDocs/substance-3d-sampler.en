@@ -1,16 +1,21 @@
 ---
-title: HP Z Captis support
-description: Learn how to use HP Z Captis hardware with Substance 3D Sampler for professional 3D capture and material digitization workflows.
-helpx_description: Substance 3D Sampler
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/hp-z-captis-support.html"
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Learn how to use HP Z Captis hardware with Substance 3D Sampler for professional 3D capture and material digitization workflows.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: HP Z Captis support
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
 # HP Z Captis support
 
-![](captis-sparklingblack-snowz4-chevy27-twi.jpg)
+![](../../assets/captis-sparklingblack-snowz4-chevy27-twi.jpg)
 
 HP Z Captis is a material capture device, natively connected and operated by Adobe Substance 3D Sampler. Substance 3D Sampler integrates with HP Z Captis to preview and launch the capture, automatically process the PBR channels, and export a digital material.
 

@@ -1,9 +1,17 @@
 ---
-title: "Substance 3D Sampler"
-description: "Get started with Substance 3D Sampler to create materials from images, edit environment lights, and build material libraries."
-helpx_description: "Sampler"
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/home.html"
+breadcrumb-title: ""
+description: Get started with Substance 3D Sampler to create materials from images, edit environment lights, and build material libraries.
+helpx_creative_field: ""
+helpx_description: Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Substance 3D Sampler
+user-guide-description: ""
+user-guide-title: ""
 ---
+
 
 # Substance 3D Sampler
 
@@ -20,7 +28,7 @@ Combine different technologies and creation methods to create accurate digital m
 </td>
 <td width="58.30%" style="border: 0;" valign="top">
 
-![](5.png)
+![](../assets/5.png)
 
 </td>
 </tr>
@@ -36,38 +44,38 @@ Combine different technologies and creation methods to create accurate digital m
 
 ## Getting Started
 
-* [Activation and licenses](../help/getting-started/activation-and-licenses/activation-and-licenses.md) — Activate and manage your licenses so you can start using Sampler.
-* [System requirements](../help/getting-started/system-requirements/system-requirements.md)
-* [Shortcuts](../help/getting-started/shortcuts/shortcuts.md)
-* [Importing Resources](../help/getting-started/importing-resources/importing-resources.md)
-* [Quick actions](../help/features-and-workflows/quick-actions/quick-actions.md)
-* [HP Z Captis](../help/pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
-* [Report a bug](../help/getting-started/report-a-bug/report-a-bug.md)
-* [Project Management](../help/getting-started/project-management/project-management.md) — Use collections to manage your assets and materials.
-* [Export](../help/getting-started/export/export.md)
+* [Activation and licenses](../getting-started/activation-and-licenses/activation-and-licenses.md) — Activate and manage your licenses so you can start using Sampler.
+* [System requirements](../getting-started/system-requirements/system-requirements.md)
+* [Shortcuts](../getting-started/shortcuts/shortcuts.md)
+* [Importing Resources](../getting-started/importing-resources/importing-resources.md)
+* [Quick actions](../features-and-workflows/quick-actions/quick-actions.md)
+* [HP Z Captis](../pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
+* [Report a bug](../getting-started/report-a-bug/report-a-bug.md)
+* [Project Management](../getting-started/project-management/project-management.md) — Use collections to manage your assets and materials.
+* [Export](../getting-started/export/export.md)
 
 </td>
 <td style="border: 0;" valign="top">
 
 ### Interface
 
-* [The Home Screen](../help/interface/the-home-screen/the-home-screen.md)
-* [2D and 3D Viewport](../help/interface/2d-and-3d-viewport/2d-and-3d-viewport.md)
-* [Sidebars](../help/interface/sidebars/sidebars.md)
-* [Panels](../help/interface/panels/panels.md)
-* [Tools and Widgets](../help/interface/tools-and-widgets/tools-and-widgets.md)
-* [Preferences](../help/interface/preferences/preferences.md)
+* [The Home Screen](../interface/the-home-screen/the-home-screen.md)
+* [2D and 3D Viewport](../interface/2d-and-3d-viewport/2d-and-3d-viewport.md)
+* [Sidebars](../interface/sidebars/sidebars.md)
+* [Panels](../interface/panels/panels.md)
+* [Tools and Widgets](../interface/tools-and-widgets/tools-and-widgets.md)
+* [Preferences](../interface/preferences/preferences.md)
 
 </td>
 <td style="border: 0;" valign="top">
 
 ### Features and Workflows
 
-* [Image to Material (AI Powered)](../help/filters/tools/image-to-material/image-to-material.md)
-* [End-to-end Physical size workflow](../help/features-and-workflows/end-end-physical-size-wor/end-to-end-physical-size-workflow.md)
-* [Export parametric assets](../help/features-and-workflows/export-parametric-assets/export-parametric-assets.md)
-* [Scripting](../help/scripting-and-development/scripting-and-development.md)
-* [HDRI tools](../help/filters/hdri-tools/hdri-tools.md)
+* [Image to Material (AI Powered)](../filters/tools/image-to-material/image-to-material.md)
+* [End-to-end Physical size workflow](../features-and-workflows/end-end-physical-size-wor/end-to-end-physical-size-workflow.md)
+* [Export parametric assets](../features-and-workflows/export-parametric-assets/export-parametric-assets.md)
+* [Scripting](../scripting-and-development/scripting-and-development.md)
+* [HDRI tools](../filters/hdri-tools/hdri-tools.md)
 
 </td>
 </tr>
@@ -79,24 +87,24 @@ Combine different technologies and creation methods to create accurate digital m
 
 ### Frequently Asked Questions
 
-* [Exporting the log file](../help/technical-support/exporting-the-log-file/exporting-the-log-file.md)
-* [Configuration](../help/technical-support/configuration/configuration.md)
-* [Technical Issues](../help/technical-support/technical-issues/technical-issues.md)
+* [Exporting the log file](../technical-support/exporting-the-log-file/exporting-the-log-file.md)
+* [Configuration](../technical-support/configuration/configuration.md)
+* [Technical Issues](../technical-support/technical-issues/technical-issues.md)
 
 </td>
 <td style="border: 0;" valign="top">
 
 ### Release Notes
 
-* [All Changes](../help/release-notes/all-changes/all-changes.md)
-* [Version 5.0](../help/release-notes/version-5-0-3d/version-5-0-substance-3d-sampler.md)
-* [Version 4.4](../help/release-notes/version-4-4-3d/version-4-4-substance-3d-sampler.md)
-* [Version 4.3](../help/release-notes/version-4-3-3d/version-4-3-substance-3d-sampler.md)
-* [Version 4.2](../help/release-notes/version-4-2/version-4-2.md)
-* [Version 4.1](../help/release-notes/version-4-1/version-4-1.md)
-* [Version 4.0](../help/release-notes/version-4-0/version-4-0.md)
-* [Version 3.4](../help/release-notes/version-3-4/version-3-4.md)
-* [Version 3.3](../help/release-notes/version-3-3/version-3-3.md)
+* [All Changes](../release-notes/all-changes/all-changes.md)
+* [Version 5.0](../release-notes/version-5-0-3d/version-5-0-substance-3d-sampler.md)
+* [Version 4.4](../release-notes/version-4-4-3d/version-4-4-substance-3d-sampler.md)
+* [Version 4.3](../release-notes/version-4-3-3d/version-4-3-substance-3d-sampler.md)
+* [Version 4.2](../release-notes/version-4-2/version-4-2.md)
+* [Version 4.1](../release-notes/version-4-1/version-4-1.md)
+* [Version 4.0](../release-notes/version-4-0/version-4-0.md)
+* [Version 3.4](../release-notes/version-3-4/version-3-4.md)
+* [Version 3.3](../release-notes/version-3-3/version-3-3.md)
 
 </td>
 </tr>

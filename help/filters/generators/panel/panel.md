@@ -1,18 +1,15 @@
 ---
-title: Panel
-description: Use the Panel generator in Substance 3D Sampler to create panel patterns and segmented surface textures for materials.
-helpx_description: Sampler > Filters > Generators > Panel
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/panel.html"
-helpx_creative_field:
-  - video
-  - graphic-design
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - materials
-  - effects
-  - creative-effects
+breadcrumb-title: ""
+description: Use the Panel generator in Substance 3D Sampler to create panel patterns and segmented surface textures for materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Panel
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Panel
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-metalpanels-18-n-d.png)
+![](../../../assets/s-metalpanels-18-n-d.png)
 
 **In:** Generators
 
@@ -35,9 +32,9 @@ Convert your material into panels. The Panels filter is particularly well suited
 
 *A continuous metal material converted into panels.*
 
-![](3d-filters-cropped-0015-panel-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0015-panel-in.jpg){width="200px"}
 
-![](3d-filters-cropped-0014-panel-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0014-panel-out.jpg){width="200px"}
 
 </td>
 </tr>

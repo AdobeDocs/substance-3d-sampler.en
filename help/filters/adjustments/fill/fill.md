@@ -1,17 +1,15 @@
 ---
-title: Fill
-description: Use the Fill filter in Substance 3D Sampler to fill texture areas with solid colors or patterns for material creation workflows.
-helpx_description: Sampler > Filters > Adjustments > Fill
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
-helpx_creative_field:
-  - 3d-immersive
-  - motion
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - adjustments
-  - channels
-  - color
+breadcrumb-title: ""
+description: Use the Fill filter in Substance 3D Sampler to fill texture areas with solid colors or patterns for material creation workflows.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Adjustments > Fill
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Fill
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](Fill_Icon_1.png)
+![](../../../assets/Fill_Icon_1.png)
 
 **In:** Adjustments
 
@@ -38,12 +36,12 @@ In the images below, the base color channel has been replaced.
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](fillnobc.png.img.png){width="200px"}
+![](../../../assets/fillnobc.png.img.png){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](fillbc.png){width="200px"}
+![](../../../assets/fillbc.png){width="200px"}
 
 </td>
 </tr>

@@ -1,19 +1,15 @@
 ---
-title: All Changes
-description: Review all changes and updates across Substance 3D Sampler versions to track feature evolution and improvements over time.
-helpx_description: Sampler > Release Notes > All Changes
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/all-changes.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - 3d
-  - materials
-  - modeling
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Review all changes and updates across Substance 3D Sampler versions to track feature evolution and improvements over time.
+helpx_creative_field: ""
+helpx_description: Sampler > Release Notes > All Changes
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: All Changes
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -27,7 +23,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: January 6, 2026)*
 
-### <b>Added:</b>
+### Added:
 
 * &#91;Captis&#93; Display a warning if the FTP protocol is disabled by the firewall
 
@@ -43,7 +39,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: November 20th, 2025)*
 
-#### <b>Added:</b>
+#### Added:
 
 * &#91;Application&#93; Detect graphics device loss, warn the user and exit gracefully
 * &#91;Layers&#93; Improved messaging when flattening layers
@@ -86,7 +82,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: September 18th, 2025)*
 
-#### <b>Added:</b>
+#### Added:
 
 * &#91;2D View&#93; Be able to zoom out more in the 2D view for high resolution textures
 * &#91;Captis&#93; Warn users about issues when copying files
@@ -122,7 +118,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: August 7th, 2025)*
 
-#### <b>Added:</b>
+#### Added:
 
 * &#91;2D View&#93; Brush size now adapts to the current texture resolution
 * &#91;3D View&#93; Toggle Native Display Scale for 3D Rendering in the preferences

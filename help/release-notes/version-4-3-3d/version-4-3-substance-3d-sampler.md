@@ -1,9 +1,17 @@
 ---
-title: "Version 4.3"
-description: "Review release notes for Substance 3D Sampler version 4.3 to learn about new texture generators, embroidery filter, and perspective crop tool."
-helpx_description: "Substance 3D Sampler"
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-3---substance-3d-sampler.html"
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 4.3 to learn about new texture generators, embroidery filter, and perspective crop tool.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 4.3
+user-guide-description: ""
+user-guide-title: ""
 ---
+
 
 # Version 4.3
 
@@ -13,51 +21,51 @@ helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4
 
 ## A new Starter Assets content
 
-![](NewStarterContent.png)
+![](../../assets/NewStarterContent.png)
 
 The materials included with Sampler have been updated to better meet the needs of <b>industrial design</b> workflows, <b>fashion </b>workflows, and technical artists working in media and entertainment will now have more control over the technical aspects of creating textures.
 
 ## Texture Generator
 
-![](sa_whats-new-screen_v4-3-0_generators.png)
+![](../../assets/sa_whats-new-screen_v4-3-0_generators.png)
 
 New texture generators give improved control over material creation using <b>parametric noises, patterns </b>and<b> grunge</b> options.  The generated imagery can be used in masks or channels maps, making it easier than ever for technical and creative teams to collaborate on material design.
 
-![](sampler4.3-texturegenerators-ezgif.com-video.gif)
+![](../../assets/sampler4.3-texturegenerators-ezgif.com-video.gif)
 
 Use the new filtering icon to parse only texture generators.
 
-![](parse-texgen.gif)
+![](../../assets/parse-texgen.gif)
 
 ## Embroidery
 
-![](Embroideryv3.png)
+![](../../assets/Embroideryv3.png)
 
 The updated Embroidery filter has improved stitching precision and supports up to 8 colors. The material's inputs are back in the layer stack which enables the insertion of other metarials in the patch.
 
 ## Perspective Crop
 
-![](PerspectiveCropTool.png)
+![](../../assets/PerspectiveCropTool.png)
 
 The new Perspective crop tool allows you to crop distorted materials and scans with four control points to remove perspective artefacts and obtain a tileable asset.
 
-![](sampler4.3-perspectivecrop-ezgif.com-video-gif.gif)
+![](../../assets/sampler4.3-perspectivecrop-ezgif.com-video-gif.gif)
 
 ## Stylization
 
-![](03-8.png)
+![](../../assets/03-8.png)
 
 The Stylization filter allows you to style any materials to achieve a hand painted look.
 
 ## Blend mode in the Fill filter
 
-![](Fill-Blend-mode.gif)
+![](../../assets/Fill-Blend-mode.gif)
 
 The upgrade of the Fill filter introduces Blend modes, allowing you to multiply the value, the input maps or the texture generators of the Fill with the channel results of the layers below.
 
 ## Image import Layer improvements
 
-![](Import-Layer-improvements.gif)
+![](../../assets/Import-Layer-improvements.gif)
 
 You can add on an Import Image Layer multiple images and generate an Opacity map from the Alpha channel of an image.
 

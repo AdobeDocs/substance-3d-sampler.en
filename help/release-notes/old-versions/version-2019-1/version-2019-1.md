@@ -1,17 +1,15 @@
 ---
-title: Version 2019.1
-description: Review release notes for Substance 3D Sampler version 2019.1 to learn about project management, layer stack improvements, and delighter updates.
-helpx_description: Sampler > Release Notes > Old Versions > Version 2019.1
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/old-versions/version-2019-1.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - intermediate-advanced
-helpx_learn_topic:
-  - 3d
-  - materials
-  - xr
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 2019.1 to learn about project management, layer stack improvements, and delighter updates.
+helpx_creative_field: ""
+helpx_description: Sampler > Release Notes > Old Versions > Version 2019.1
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 2019.1
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -29,61 +27,61 @@ Release date: *4 November 2019*
 
 ### New Welcome Screen
 
-![](sa-notes-welcomescreen.jpg)
+![](../../../assets/sa-notes-welcomescreen.jpg)
 
 Substance Alchemist now has a welcome screen that allows you to quickly jump on your latest project but also to create new ones. The welcome screen also provides a few links to our existing platforms, such as [Substance Academy](https://academy.substance3d.com/).
 
 ### Project Management
 
-![](sa-notes-openproject.png)
+![](../../../assets/sa-notes-openproject.png)
 
 Version 2019.1 introduce the notion of projects, which can gather material collections. Projects can also be exported to be shared to other computers.
 
-To learn more about projects, see: [Project Management](../../../help/getting-started/project-management/project-management.md).
+To learn more about projects, see: [Project Management](../../../getting-started/project-management/project-management.md).
 
 ### New Delighter
 
-![](sa-notes-delighter.jpg)
+![](../../../assets/sa-notes-delighter.jpg)
 
 We improved our delighter, which is used to remove shadows from your photos. It now preserves details and the original colors of the various surfaces which should improve the accuracy of the generated materials.
 
 ### New Layer Stack
 
-![](sa-notes-layerstack.png)
+![](../../../assets/sa-notes-layerstack.png)
 
 The Layer Stack has been rebuild from scratch to expand its possibilities and actions. Notable changes are:
 
 * **Materials and Masks can now be accessed directly via their dedicated icon**  
   When adding a material in the layer stack, it will now have a new mask icon. Clicking on this second icon will display the blending parameters of the material.
 
-  ![](sa-notes-layermask.png)
+  ![](../../../assets/sa-notes-layermask.png)
 * **Blend mode can be directly changed from the toolbar**  
   From now on, when a Material layer is selected, its blending mode can be changed directly from the Layer Stack toolbar, without the need to click on the mask.
 
-  ![](sa-notes-layerstackblendmode.png)
+  ![](../../../assets/sa-notes-layerstackblendmode.png)
 * **Assign bitmap to specific Scan inputs**  
   When imported bitmap to create your materials from scan, you can assign the right usage per bitmap.
 
-  ![](sa-notes-scanusage.png)
+  ![](../../../assets/sa-notes-scanusage.png)
 
 ### Viewport Improvements
 
-![](sa-notes-viewport.jpg)
+![](../../../assets/sa-notes-viewport.jpg)
 
 A few new features have been added to the viewport which improve its usage. These new settings can be accessed in the [Viewer Settings panel](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/viewer-settings-188973164.html).
 
 * **Camera mode**  
   The camera projection mode allows to choose between Perspective and Orthographic.
 
-  ![](sa-notes-cameramode.png)
+  ![](../../../assets/sa-notes-cameramode.png)
 * **Camera field of view**  
   You can now change the viewport's camera Field of View (FOV). Adjusting this value can help the visualizing realistically your materials. The Field of View can only be controlled when in Perspective projection mode.
 
-  ![](sa-notes-viewport-fov.png)
+  ![](../../../assets/sa-notes-viewport-fov.png)
 * **Resolution and bit depth per channel**  
   The 2D view now displays the texture resolution and bit depth of each channel.
 
-  ![](sa-notes-2dviewresolutiondepth.png)
+  ![](../../../assets/sa-notes-2dviewresolutiondepth.png)
 
 ## Release Notes
 

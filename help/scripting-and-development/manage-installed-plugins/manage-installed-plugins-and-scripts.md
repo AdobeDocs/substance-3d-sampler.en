@@ -1,19 +1,15 @@
 ---
-title: Manage installed plugins and scripts
-description: Learn how to manage installed plugins and scripts in Substance 3D Sampler to install, modify, and remove custom extensions.
-helpx_description: Sampler > Scripting and Development > Manage installed plugins and scripts
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/scripting-and-development/manage-installed-plugins-and-scripts.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - automation
-  - preflight
-  - component
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Learn how to manage installed plugins and scripts in Substance 3D Sampler to install, modify, and remove custom extensions.
+helpx_creative_field: ""
+helpx_description: Sampler > Scripting and Development > Manage installed plugins and scripts
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Manage installed plugins and scripts
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +17,7 @@ helpx_tags:
 
 To install, modify, or remove plugins use Edit &gt; Preferences, and then select Plugins and Scripts.
 
-![](preferences-86.png)
+![](../../assets/preferences-86.png)
 
 From the Plugins and Scripts panel you can enable the Log panel which displays output from plugins. This can be useful for troubleshooting and debugging. Once enabled, you can open the Log panel from the right bar in Sampler's main interface. The Log panel can be docked just like other Sampler panels.
 
@@ -37,7 +33,7 @@ Scripts don't allow for this level of flexibility but instead perform a given ta
 
 By default, the only available option is to "Add a plugin". This opens a file explorer where you can select a PY file to load.
 
-![](manageplugins.png)
+![](../../assets/manageplugins.png)
 
 >[!NOTE]
 >
@@ -55,7 +51,7 @@ Installed plugins will initially appear in the right bar of Sampler's main inter
 
 Scripts can be managed similarly to plugins.
 
-![](managescripts.png)
+![](../../assets/managescripts.png)
 
 Once a script is installed a few options become available:
 

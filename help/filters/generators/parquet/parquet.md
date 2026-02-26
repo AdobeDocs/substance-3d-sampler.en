@@ -1,17 +1,15 @@
 ---
-title: Parquet
-description: Use the Parquet generator in Substance 3D Sampler to create realistic parquet wood flooring patterns and textures for materials.
-helpx_description: Sampler > Filters > Generators > Parquet
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/parquet.html"
-helpx_creative_field:
-  - painting-illustration
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - materials
-  - 3d
-  - metal
+breadcrumb-title: ""
+description: Use the Parquet generator in Substance 3D Sampler to create realistic parquet wood flooring patterns and textures for materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Parquet
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Parquet
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-parquet-18-n-d.png)
+![](../../../assets/s-parquet-18-n-d.png)
 
 **In:** Generators
 
@@ -38,12 +36,12 @@ Convert your material into a parquet floor.
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0013-parquet-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0013-parquet-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0012-parquet-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0012-parquet-out.jpg){width="200px"}
 
 </td>
 </tr>

@@ -1,18 +1,15 @@
 ---
-title: Pavement
-description: Use the Pavement generator in Substance 3D Sampler to create realistic pavement and road surface textures for materials.
-helpx_description: Sampler > Filters > Generators > Pavement
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pavement.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-  - painting-illustration
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - reflections
-  - patterns
-  - materials
+breadcrumb-title: ""
+description: Use the Pavement generator in Substance 3D Sampler to create realistic pavement and road surface textures for materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Pavement
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Pavement
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-pavement-18-n-d.png)
+![](../../../assets/s-pavement-18-n-d.png)
 
 **In:** Generators
 

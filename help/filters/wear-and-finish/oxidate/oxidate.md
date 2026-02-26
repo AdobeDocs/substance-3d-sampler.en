@@ -1,18 +1,15 @@
 ---
-title: Oxidate
-description: Use the Oxidate filter in Substance 3D Sampler to add oxidation and tarnish effects to metal materials for aged appearances.
-helpx_description: Sampler > Filters > Wear and Finish > Oxidate
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/oxidate.html"
-helpx_creative_field:
-  - video
-  - graphic-design
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - materials
-  - adjustments
-  - enhancing-color
+breadcrumb-title: ""
+description: Use the Oxidate filter in Substance 3D Sampler to add oxidation and tarnish effects to metal materials for aged appearances.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Oxidate
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Oxidate
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-oxidate-18-n-d.png)
+![](../../../assets/s-oxidate-18-n-d.png)
 
 **In:** Wear and Finish
 
@@ -37,12 +34,12 @@ Add a layer of oxidation over the top of your material.*A wrinkled surface has t
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0019-oxidate-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0019-oxidate-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0018-oxidate-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0018-oxidate-out.jpg){width="200px"}
 
 </td>
 </tr>

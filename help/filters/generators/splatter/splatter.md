@@ -1,18 +1,15 @@
 ---
-title: Splatter
-description: Use the Splatter generator in Substance 3D Sampler to create paint splatter and random pattern effects for material textures.
-helpx_description: Sampler > Filters > Generators > Splatter
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/splatter.html"
-helpx_creative_field:
-  - painting-illustration
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - materials
-  - effects
-  - creative-effects
+breadcrumb-title: ""
+description: Use the Splatter generator in Substance 3D Sampler to create paint splatter and random pattern effects for material textures.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Splatter
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Splatter
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-splatter-18-n-d.png)
+![](../../../assets/s-splatter-18-n-d.png)
 
 **In:** Generators
 

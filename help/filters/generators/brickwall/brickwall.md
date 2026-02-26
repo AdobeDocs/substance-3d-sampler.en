@@ -1,17 +1,15 @@
 ---
-title: Brickwall
-description: Use the Brickwall generator in Substance 3D Sampler to create realistic brick wall patterns and masonry textures for materials.
-helpx_description: Sampler > Filters > Generators > Brickwall
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/brickwall.html"
-helpx_creative_field:
-  - 3d-immersive
-  - photography
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - creative-effects
-  - effects
-  - reflections
+breadcrumb-title: ""
+description: Use the Brickwall generator in Substance 3D Sampler to create realistic brick wall patterns and masonry textures for materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Brickwall
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Brickwall
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-brickwall-18-n-d.png)
+![](../../../assets/s-brickwall-18-n-d.png)
 
 **In:** Generators
 
@@ -36,12 +34,12 @@ In the images below, a clay material is converted into a brick wall with the **B
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0053-brickwall-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0053-brickwall-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0052-brickwall-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0052-brickwall-out.jpg){width="200px"}
 
 </td>
 </tr>

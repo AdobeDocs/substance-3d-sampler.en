@@ -1,19 +1,15 @@
 ---
-title: Corrode
-description: Use the Corrode filter in Substance 3D Sampler to add corrosion and chemical degradation effects to metal materials.
-helpx_description: Sampler > Filters > Wear and Finish > Corrode
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/corrode.html"
-helpx_creative_field:
-  - video
-  - graphic-design
-  - 3d-immersive
-  - painting-illustration
-helpx_experience_level:
-  - intermediate-advanced
-helpx_learn_topic:
-  - reflections
-  - materials
-  - effects
+breadcrumb-title: ""
+description: Use the Corrode filter in Substance 3D Sampler to add corrosion and chemical degradation effects to metal materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Corrode
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Corrode
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -23,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](corrode-filter-icon.png)
+![](../../../assets/corrode-filter-icon.png)
 
 **In:** Wear and Finish
 

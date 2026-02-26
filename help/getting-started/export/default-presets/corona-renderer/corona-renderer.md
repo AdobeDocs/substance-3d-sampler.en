@@ -1,17 +1,15 @@
 ---
-title: Corona Renderer
-description: Learn how to export materials from Substance 3D Sampler using the Corona Renderer preset for architectural visualization workflows.
-helpx_description: Sampler > Getting Started > Export > Default Presets > Corona Renderer
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/corona-renderer.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - reflections
-  - color
-  - materials
+breadcrumb-title: ""
+description: Learn how to export materials from Substance 3D Sampler using the Corona Renderer preset for architectural visualization workflows.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Export > Default Presets > Corona Renderer
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Corona Renderer
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 

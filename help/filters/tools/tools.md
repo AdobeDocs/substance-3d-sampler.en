@@ -1,18 +1,15 @@
 ---
-title: Tools
-description: Learn how to use tool filters in Substance 3D Sampler to fix technical issues and enhance material creation workflows.
-helpx_description: Sampler > Filters > Tools
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-  - photography
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - photogrammetry
-  - filters
-  - 3d
+breadcrumb-title: ""
+description: Learn how to use tool filters in Substance 3D Sampler to fix technical issues and enhance material creation workflows.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Tools
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Tools
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -28,32 +25,32 @@ Tool filters often make use of handles and other controls in the **2D view**, so
 >
 > Some tools are available in the **left sidebar** for faster access:
 > 
-> * [Crop](../../help/filters/tools/crop-tool/crop-tool.md)
-> * [Perspective Transform](../../help/filters/tools/perspective-correction/perspective-correction.md)
-> * [Transform](../../help/filters/tools/transform/transform.md)
-> * [Clone Stamp](../../help/filters/tools/clone-stamp/clone-stamp.md)
+> * [Crop](../../filters/tools/crop-tool/crop-tool.md)
+> * [Perspective Transform](../../filters/tools/perspective-correction/perspective-correction.md)
+> * [Transform](../../filters/tools/transform/transform.md)
+> * [Clone Stamp](../../filters/tools/clone-stamp/clone-stamp.md)
 
 Sampler includes the following tools:
 
-* [Atlas Creator](../../help/filters/tools/atlas-creator/atlas-creator.md)
-* [Atlas Splitter](../../help/filters/tools/atlas-splitter/atlas-splitter.md)
-* [Channels Generation](../../help/filters/tools/channels-generation/channels-generation.md)
-* [Channel Switch](../../help/filters/tools/channel-switch/channel-switch.md)
-* [Clone Stamp](../../help/filters/tools/clone-stamp/clone-stamp.md)
-* [Crop tool](../../help/filters/tools/crop-tool/crop-tool.md)
-* [Delight (AI Powered)](../../help/filters/tools/delight-ai-powered/delight-ai-powered.md)
-* [Height to AO](../../help/filters/tools/height-to-ao/height-to-ao.md)
-* [Height to Normal](../../help/filters/tools/height-to-normal/height-to-normal.md)
-* [Image To Material](../../help/filters/tools/image-to-material/image-to-material.md)
-* [Make it Tile](../../help/filters/tools/make-it-tile/make-it-tile.md)
-* [Match](../../help/filters/tools/match/match.md)
-* [Multiangle To Material](../../help/filters/tools/multiangle-to-material/multiangle-to-material.md)
-* [Normal to Height](../../help/filters/tools/normal-to-height/normal-to-height.md)
+* [Atlas Creator](../../filters/tools/atlas-creator/atlas-creator.md)
+* [Atlas Splitter](../../filters/tools/atlas-splitter/atlas-splitter.md)
+* [Channels Generation](../../filters/tools/channels-generation/channels-generation.md)
+* [Channel Switch](../../filters/tools/channel-switch/channel-switch.md)
+* [Clone Stamp](../../filters/tools/clone-stamp/clone-stamp.md)
+* [Crop tool](../../filters/tools/crop-tool/crop-tool.md)
+* [Delight (AI Powered)](../../filters/tools/delight-ai-powered/delight-ai-powered.md)
+* [Height to AO](../../filters/tools/height-to-ao/height-to-ao.md)
+* [Height to Normal](../../filters/tools/height-to-normal/height-to-normal.md)
+* [Image To Material](../../filters/tools/image-to-material/image-to-material.md)
+* [Make it Tile](../../filters/tools/make-it-tile/make-it-tile.md)
+* [Match](../../filters/tools/match/match.md)
+* [Multiangle To Material](../../filters/tools/multiangle-to-material/multiangle-to-material.md)
+* [Normal to Height](../../filters/tools/normal-to-height/normal-to-height.md)
 * [Paint Warp](https://helpx.adobe.com/substance-3d/unlisted/documentation/sadoc/paint-warp-255426602.html)
-* [PBR Validate](../../help/filters/tools/pbr-validate/pbr-validate.md)
-* [Perspective Correction](../../help/filters/tools/perspective-correction/perspective-correction.md)
-* [Tiling](../../help/filters/tools/tiling/tiling.md)
-* [Transform](../../help/filters/tools/transform/transform.md)
-* [Warp](../../help/filters/tools/warp/warp.md)
-* [Warp Transform](../../help/filters/tools/warp-transform/warp-transform.md)
-* [Upscale](../../help/filters/tools/upscale/upscale.md)
+* [PBR Validate](../../filters/tools/pbr-validate/pbr-validate.md)
+* [Perspective Correction](../../filters/tools/perspective-correction/perspective-correction.md)
+* [Tiling](../../filters/tools/tiling/tiling.md)
+* [Transform](../../filters/tools/transform/transform.md)
+* [Warp](../../filters/tools/warp/warp.md)
+* [Warp Transform](../../filters/tools/warp-transform/warp-transform.md)
+* [Upscale](../../filters/tools/upscale/upscale.md)

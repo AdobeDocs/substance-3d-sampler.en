@@ -1,17 +1,15 @@
 ---
-title: Enscape - Revit
-description: Learn how to export materials from Substance 3D Sampler using the Enscape Revit preset for architectural visualization workflows.
-helpx_description: Sampler > Getting Started > Export > Default Presets > Enscape - Revit
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/enscape-revit.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - 3d
-  - modeling
-  - materials
+breadcrumb-title: ""
+description: Learn how to export materials from Substance 3D Sampler using the Enscape Revit preset for architectural visualization workflows.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Export > Default Presets > Enscape - Revit
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Enscape - Revit
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 

@@ -1,16 +1,15 @@
 ---
-title: Fold Remover
-description: Use the Fold Remover filter in Substance 3D Sampler to remove creases and folds from fabric textures for clean material surfaces.
-helpx_description: Substance 3D Sampler
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fold-remover.html"
-helpx_creative_field:
-  - 3d
-helpx_experience_level:
-  - all-skill-levels
-helpx_learn_topic:
-  - filters
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Use the Fold Remover filter in Substance 3D Sampler to remove creases and folds from fabric textures for clean material surfaces.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Fold Remover
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -20,7 +19,7 @@ helpx_tags:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![image of the filter icon](S_Ironing_18_N_D.svg){width="280px"}
+![image of the filter icon](../../../assets/S_Ironing_18_N_D.svg){width="280px"}
 
 **In:** Adjustments
 

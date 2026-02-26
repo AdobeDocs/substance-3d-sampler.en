@@ -1,17 +1,15 @@
 ---
-title: Crash when using the Image to Material or Delighter
-description: Learn how to fix crashes when using Image to Material or Delighter filters in Substance 3D Sampler due to insufficient VRAM.
-helpx_description: Sampler > Technical Support > Technical Issues > Stability issues > Crash when using the Image to Material or Delighter
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/stability-issues/crash-when-using-the-image-to-material-or-delighter.html"
-helpx_creative_field:
-  - 3d-immersive
-  - photography
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - images
-  - troubleshooting
-  - texture
+breadcrumb-title: ""
+description: Learn how to fix crashes when using Image to Material or Delighter filters in Substance 3D Sampler due to insufficient VRAM.
+helpx_creative_field: ""
+helpx_description: Sampler > Technical Support > Technical Issues > Stability issues > Crash when using the Image to Material or Delighter
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Crash when using the Image to Material or Delighter
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 

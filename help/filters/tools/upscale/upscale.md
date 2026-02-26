@@ -1,9 +1,17 @@
 ---
-title: "Upscale"
-description: "Use the Upscale tool in Substance 3D Sampler to increase texture resolution using AI-powered upscaling technology."
-helpx_description: "Substance 3D Sampler"
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/upscale.html"
+breadcrumb-title: ""
+description: Use the Upscale tool in Substance 3D Sampler to increase texture resolution using AI-powered upscaling technology.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Upscale
+user-guide-description: ""
+user-guide-title: ""
 ---
+
 
 # Upscale
 
@@ -11,7 +19,7 @@ helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/upscale.h
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![Filter Icon](SAPR_SuperResolution_18_N_D.png)
+![Filter Icon](../../../assets/SAPR_SuperResolution_18_N_D.png)
 
 **In:** Tools
 
@@ -31,7 +39,7 @@ The <b>Upscale </b>filter uses AI to upsample the PBR channels (BaseColor, Roug
 </td>
 <td style="border: 0;" valign="top">
 
-![](F5W_vAHaYAQLsz7.jpg)
+![](../../../assets/F5W_vAHaYAQLsz7.jpg)
 
 </td>
 </tr>
@@ -64,10 +72,10 @@ In this exemple we start with a 1024x1024px image but the output result is in 40
 
 ## How to
 
-![](SAPR_Upscale_screen_001.png)
+![](../../../assets/SAPR_Upscale_screen_001.png)
 
-In the image above, a low resolution image is processed by the [Image to Material (AI Powered)](../../../help/filters/tools/image-to-material/image-to-material.md).
+In the image above, a low resolution image is processed by the [Image to Material (AI Powered)](../../../filters/tools/image-to-material/image-to-material.md).
 
-![](SAPR_Upscale_Screen_003.png)
+![](../../../assets/SAPR_Upscale_Screen_003.png)
 
 The <b>Upscale</b> filter is added to up sample the results. It halucinate details in order to reach a higher resolution keeping the quality of the material. You can chose in the properties to upsample by 2 or by 4.

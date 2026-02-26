@@ -1,17 +1,15 @@
 ---
-title: 3D Capture
-description: Learn how to use 3D capture in Substance 3D Sampler to create materials from real-world objects using photogrammetry techniques.
-helpx_description: Sampler > Features and workflows > 3D Capture
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/3d-capture.html"
-helpx_creative_field:
-  - 3d-immersive
-  - photography
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - photogrammetry
-  - camera
-  - 3d
+breadcrumb-title: ""
+description: Learn how to use 3D capture in Substance 3D Sampler to create materials from real-world objects using photogrammetry techniques.
+helpx_creative_field: ""
+helpx_description: Sampler > Features and workflows > 3D Capture
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: 3D Capture
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -46,7 +44,7 @@ Mac
 
 ## Start a new 3D capture
 
-![](main-window-empty-screen.png)
+![](../../assets/main-window-empty-screen.png)
 
 ## Import your dataset
 
@@ -60,7 +58,7 @@ Drag and drop your photos or click to browse your OS explorer.
 > 
 > We recommend to have a dataset that contains at least <b>20 images</b> for the 3D Capture to run smoothly.
 
-![](main-window-import-dataset-empty.png)
+![](../../assets/main-window-import-dataset-empty.png)
 
 For iPhone users, .HEIC format is not yet supported. You can use Lightroom to convert to .jpeg.
 
@@ -74,11 +72,11 @@ For cameras RAW formats, we recommend to use Lightroom to convert your photos in
 > 
 > **Windows**: Your dataset has to be smaller than 6G pixels (6 000 000 000 pixels) in total. It represents 500 photos of 12M pixels
 
-![](main-window-dataset-imported.png)
+![](../../assets/main-window-dataset-imported.png)
 
 Once the photos are imported, you can click on a photo to see it in full.
 
-![](main-window-photo-panel.png)
+![](../../assets/main-window-photo-panel.png)
 
 Photogroup definition:
 
@@ -92,7 +90,7 @@ This allows also to move the object during the capture as the masks will hide ba
 
 To use masks, select a photogroup and open the **Mask** tab on the right.
 
-![](main-window-masking-panel.png)
+![](../../assets/main-window-masking-panel.png)
 
 You can import masks by respecting a naming convention:
 
@@ -101,7 +99,7 @@ You can import masks by respecting a naming convention:
 
 You can automatically generate masks by photos using our AI-powered technology.
 
-![](main-window-masking-result.png)
+![](../../assets/main-window-masking-result.png)
 
 ## Alignment
 
@@ -109,7 +107,7 @@ The alignment is to process all images to extract and match corresponding featur
 
 ## Settings
 
-![](main-window-alignment-settings.png)
+![](../../assets/main-window-alignment-settings.png)
 
 Precision
 
@@ -135,7 +133,7 @@ If the image outline is green, the image was correctly aligned.
 
 If the image outline is orange, the image was not correctly aligned and no feature was extracted from this image.
 
-![](3d-capture-alignment-results.png)
+![](../../assets/3d-capture-alignment-results.png)
 
 You can click on image on the left panel to frame the points cloud on the associated camera.
 
@@ -161,12 +159,12 @@ By pressing Shift while scaling, you will scale the box from the center.
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-capture-bounding-box-original.png)
+![](../../assets/3d-capture-bounding-box-original.png)
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-capture-bounding-box-modified.png)
+![](../../assets/3d-capture-bounding-box-modified.png)
 
 </td>
 </tr>
@@ -187,7 +185,7 @@ The post-processing step chains 4 steps automatically:
 * Reprojection: Reproject the color texture of the photogrammetry mesh onto the decimated mesh
 * Baking: Bake normal, height and AO details from the photogrammetry mesh onto the decimated mesh. This will ensure to transfer all mesh details lost during the decimation into texture maps.
 
-![](3d-capture-original-version-post-processing.png)
+![](../../assets/3d-capture-original-version-post-processing.png)
 
 ## Version
 
@@ -197,19 +195,19 @@ To help you, you can visualize the mesh in different mode.
 
 Solid mode
 
-![](3d-capture-post-processing-solid.png)
+![](../../assets/3d-capture-post-processing-solid.png)
 
 Wireframe mode
 
-![](3d-capture-post-processing-wireframe.png)
+![](../../assets/3d-capture-post-processing-wireframe.png)
 
 UV Grid mode
 
-![](3d-capture-post-processing-uv-grid.png)
+![](../../assets/3d-capture-post-processing-uv-grid.png)
 
 ## Non-destructive workflow
 
-![](main-window-add-to-project.png)
+![](../../assets/main-window-add-to-project.png)
 
 Once a version added to the project, a layer stack is created with several layers.
 
@@ -221,13 +219,13 @@ The third layer is a mesh transform layer to scale, translate and rotate your 3D
 
 At this stage, you can add filters you’re used to apply on materials to edit the textures on the 3D object.
 
-![](main-window-texturing.png)
+![](../../assets/main-window-texturing.png)
 
 ## Export
 
 In the export window, you can define the mesh format and material settings (same settings when you export a material).
 
-![](main-window-export.png)
+![](../../assets/main-window-export.png)
 
 ## Tutorials
 

@@ -1,17 +1,15 @@
 ---
-title: Rust
-description: Use the Rust filter in Substance 3D Sampler to add realistic rust and corrosion effects to metal materials and surfaces.
-helpx_description: Sampler > Filters > Wear and Finish > Rust
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/rust.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - reflections
-  - materials
-  - metal
+breadcrumb-title: ""
+description: Use the Rust filter in Substance 3D Sampler to add realistic rust and corrosion effects to metal materials and surfaces.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Rust
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Rust
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-rust-18-n-d.png)
+![](../../../assets/s-rust-18-n-d.png)
 
 **In:** Wear and Finish
 
@@ -34,7 +32,7 @@ Use the **Rust filter** to add a layer of oxidized metal to your material.
 
 In the images below you can see a metal material before and after adding the **Rust filter**.
 
-![](3d-filters-cropped-0002-rust-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0002-rust-out.jpg){width="200px"}
 
 </td>
 </tr>

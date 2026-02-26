@@ -1,10 +1,15 @@
 ---
-title: Camera Settings  Focus
-description: Learn how to configure camera focus settings in Substance 3D Sampler for optimal 3D capture quality and image sharpness.
-helpx_description: Substance 3D Sampler
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/camera-settings---focus---substance-3d-sampler.html"
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Learn how to configure camera focus settings in Substance 3D Sampler for optimal 3D capture quality and image sharpness.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Camera Settings  Focus
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -20,7 +25,7 @@ helpx_tags:
 
 You prefer to watch this guide as a video tutorial? You can find it [here](https://youtu.be/kFZ71ZWuap0?si=MDuvyO9w96rFpsQ9 "aperture and focus for 3D capture video tutorial").
 
-![](focus-manually-3d-capture.png)
+![](../../assets/focus-manually-3d-capture.png)
 
 ## Focusing a lens
 
@@ -46,7 +51,7 @@ There is one special trick you can do, to achieve perfect sharpness when all els
 
 If you have 2 or more photographs with different focus, load them into different layers.
 
-![](focus-differences-3d-capture.png)
+![](../../assets/focus-differences-3d-capture.png)
 
 Select all layers, and go to <b>Edit</b> &gt; <b>Auto Align layers</b>. Hit ok with the default settings. Photoshop will try to do a pixel perfect alignment of all selected layers
 
@@ -54,4 +59,4 @@ Next, go to <b>Edit</b> &gt; <b>Auto Blend Layers</b>. Again, choose ok with all
 
 If all went well, you now have a perfectly sharp photograph. It’s worth turning at least some of these steps into a recorded action, to save you some time.
 
-Now that you've learned everything there is to know about Aperture and Focus for the 3D capture process, learn more about [how to create an ideal lighting set up](../../help/3d-capture/3d-capture-lighting-3d/3d-capture-lighting-substance-3d-sampler.md).
+Now that you've learned everything there is to know about Aperture and Focus for the 3D capture process, learn more about [how to create an ideal lighting set up](../../3d-capture/3d-capture-lighting-3d/3d-capture-lighting-substance-3d-sampler.md).

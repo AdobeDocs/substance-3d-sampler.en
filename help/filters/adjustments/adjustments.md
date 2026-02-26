@@ -1,18 +1,15 @@
 ---
-title: Adjustments
-description: Learn how to use adjustment filters in Substance 3D Sampler to modify color, brightness, contrast, and other material properties.
-helpx_description: Sampler > Filters > Adjustments
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments.html"
-helpx_creative_field:
-  - video
-  - graphic-design
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - adjustments
-  - raw
-  - landscape-photography
+breadcrumb-title: ""
+description: Learn how to use adjustment filters in Substance 3D Sampler to modify color, brightness, contrast, and other material properties.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Adjustments
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Adjustments
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,13 +19,13 @@ Adjustment filters allow you to adjust the values of your material. Most adjustm
 
 Below is a list of adjustment filters:
 
-* [Blur](../../help/filters/adjustments/blur/blur.md)
-* [Brightness/Contrast](../../help/filters/adjustments/brightness-contrast/brightness-contrast.md)
-* [Colorize](../../help/filters/adjustments/colorize/colorize.md)
-* [Color Replace](../../help/filters/adjustments/color-replace/color-replace.md)
-* [Color Variation](../../help/filters/adjustments/color-variation/color-variation.md)
-* [Equalize](../../help/filters/adjustments/equalize/equalize.md)
-* [Hue/Saturation](../../help/filters/adjustments/hue-saturation/hue-saturation.md)
-* [Invert](../../help/filters/adjustments/invert/invert.md)
-* [Sharpen](../../help/filters/adjustments/sharpen/sharpen.md)
-* [Vibrance](../../help/filters/adjustments/vibrance/vibrance.md)
+* [Blur](../../filters/adjustments/blur/blur.md)
+* [Brightness/Contrast](../../filters/adjustments/brightness-contrast/brightness-contrast.md)
+* [Colorize](../../filters/adjustments/colorize/colorize.md)
+* [Color Replace](../../filters/adjustments/color-replace/color-replace.md)
+* [Color Variation](../../filters/adjustments/color-variation/color-variation.md)
+* [Equalize](../../filters/adjustments/equalize/equalize.md)
+* [Hue/Saturation](../../filters/adjustments/hue-saturation/hue-saturation.md)
+* [Invert](../../filters/adjustments/invert/invert.md)
+* [Sharpen](../../filters/adjustments/sharpen/sharpen.md)
+* [Vibrance](../../filters/adjustments/vibrance/vibrance.md)

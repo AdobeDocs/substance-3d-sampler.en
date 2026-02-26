@@ -1,17 +1,15 @@
 ---
-title: Import Substance Alchemist projects in Substance 3D Sampler
-description: Learn how to import Substance Alchemist projects into Substance 3D Sampler to migrate your existing material projects and workflows.
-helpx_description: Sampler > Technical Support > Technical Issues > Data or project issues > Import Substance Alchemist projects in Substance 3D Sampler
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/technical-issues/data-or-project-issues/import-substance-alchemist-projects-in-substance-3d-sampler.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - cross-product-workflows
-  - import
-  - 3d
+breadcrumb-title: ""
+description: Learn how to import Substance Alchemist projects into Substance 3D Sampler to migrate your existing material projects and workflows.
+helpx_creative_field: ""
+helpx_description: Sampler > Technical Support > Technical Issues > Data or project issues > Import Substance Alchemist projects in Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Import Substance Alchemist projects in Substance 3D Sampler
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 

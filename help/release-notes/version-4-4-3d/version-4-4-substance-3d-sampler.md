@@ -1,9 +1,17 @@
 ---
-title: "Version 4.4"
-description: "Review release notes for Substance 3D Sampler version 4.4 to learn about generative workflows including text-to-texture and image-to-texture features."
-helpx_description: "Substance 3D Sampler"
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-4---substance-3d-sampler.html"
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 4.4 to learn about generative workflows including text-to-texture and image-to-texture features.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 4.4
+user-guide-description: ""
+user-guide-title: ""
 ---
+
 
 # Version 4.4
 
@@ -15,20 +23,20 @@ helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4
 
 ## Text-to-texture
 
-![](textToTexture_whatNewPanel.png)
+![](../../assets/textToTexture_whatNewPanel.png)
 
 Text-to-texture allows you to explore a new way of creating materials with a <b>text prompt</b>. You can generate a tiled texture from a detailed text description, and keep building on the result via Image-to-material or any Sampler filter to make it uniquely yours.
 
 ## Image-to-texture
 
-![image-to-texture](imagetoText_whatNewPanel.png "Image-to-texture")
+![image-to-texture](../../assets/imagetoText_whatNewPanel.png "Image-to-texture")
 
 With Image-to-texture you can create tiled square textures from <b>your own reference image</b>, no matter if it is non square and non tiling. This gets you closer to your desired results without needing to write the perfect prompt.   
 Image-to-texture can also help you save time by creating variations from content you have already created.
 
 ## Text-to-pattern
 
-![text-to-pattern illustration image](patterns_whatNewPanel.png)
+![text-to-pattern illustration image](../../assets/patterns_whatNewPanel.png)
 
 The Text-to-pattern feature will use your<b> text prompt</b> to generate a square tiling pattern. You can then use it as the base color with a Cloth Weave filter to create an original fabric material, use it as in input of a Pattern filter and more!
 

@@ -1,17 +1,15 @@
 ---
-title: Atlas Creator
-description: Use the Atlas Creator tool in Substance 3D Sampler to create texture atlases from multiple images for efficient material organization.
-helpx_description: Sampler > Filters > Tools > Atlas Creator
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-creator.html"
-helpx_creative_field:
-  - 3d-immersive
-  - photography
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - replacing-backgrounds
-  - masking
-  - creative-effects
+breadcrumb-title: ""
+description: Use the Atlas Creator tool in Substance 3D Sampler to create texture atlases from multiple images for efficient material organization.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Tools > Atlas Creator
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Atlas Creator
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-atlasgenerator-18-n-d.png)
+![](../../../assets/s-atlasgenerator-18-n-d.png)
 
 **In:** Tools
 
@@ -34,11 +32,11 @@ The **Atlas Creator** **filter** lets you convert materials and images into an a
 
 The images below show an atlas of jungle leaves before and after being processed by the **Atlas Creator**.
 
-![](3d-2d-filters-cropped-0041-atlas-creator-in.jpg)
+![](../../../assets/3d-2d-filters-cropped-0041-atlas-creator-in.jpg)
 
 In the image above, an atlas image has been imported and converted into a material, but it's still not an atlas material because the opacity map doesn't account for individual elements.
 
-![](3d-2d-filters-cropped-0040-atlas-creator-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0040-atlas-creator-out.jpg)
 
 After running the **Atlas Creator** an opacity map is generated, and the area between atlas elements is filled in the base color channel.
 

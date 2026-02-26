@@ -1,24 +1,21 @@
 ---
-title: Shader Settings panel
-description: Learn how to use the Shader Settings panel in Substance 3D Sampler to configure material shader properties and rendering options.
-helpx_description: Sampler > Interface > Panels > Shader Settings panel
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/shader-settings-panel.html"
-helpx_creative_field:
-  - video
-  - graphic-design
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - shading
-  - xr
-  - virtual-photography
+breadcrumb-title: ""
+description: Learn how to use the Shader Settings panel in Substance 3D Sampler to configure material shader properties and rendering options.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > Panels > Shader Settings panel
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Shader Settings panel
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
 # Shader Settings panel
 
-![](Shader-settings-panel-gen.png.img.png)
+![](../../../assets/Shader-settings-panel-gen.png.img.png)
 
 The <b>Shader Settings panel</b> is where you can configure how the shader renders your assets on the mesh in the 3D viewport.
 

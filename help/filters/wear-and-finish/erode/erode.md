@@ -1,19 +1,15 @@
 ---
-title: Erode
-description: Use the Erode filter in Substance 3D Sampler to add erosion and weathering effects that simulate natural material degradation.
-helpx_description: Sampler > Filters > Wear and Finish > Erode
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/wear-and-finish/erode.html"
-helpx_creative_field:
-  - video
-  - graphic-design
-  - 3d-immersive
-  - painting-illustration
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - photo-restoration
-  - materials
-  - reflections
+breadcrumb-title: ""
+description: Use the Erode filter in Substance 3D Sampler to add erosion and weathering effects that simulate natural material degradation.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Wear and Finish > Erode
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Erode
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -23,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-erode-18-n-d.png)
+![](../../../assets/s-erode-18-n-d.png)
 
 **In:** Wear and Finish
 
@@ -40,12 +36,12 @@ The images below show how the **Erode filter** can be used to add erosion to a s
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0035-erode-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0035-erode-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0034-erode-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0034-erode-out.jpg){width="200px"}
 
 </td>
 </tr>

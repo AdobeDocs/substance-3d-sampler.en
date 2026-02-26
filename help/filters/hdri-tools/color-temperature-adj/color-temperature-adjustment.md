@@ -1,18 +1,15 @@
 ---
-title: Color Temperature Adjustment
-description: Use the Color Temperature Adjustment tool in Substance 3D Sampler to adjust color temperature in HDRI environment images.
-helpx_description: Sampler > Filters > HDRI Tools > Color Temperature Adjustment
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/color-temperature-adjustment.html"
-helpx_creative_field:
-  - video
-  - graphic-design
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - brightness
-  - lighting
-  - enhancing-color
+breadcrumb-title: ""
+description: Use the Color Temperature Adjustment tool in Substance 3D Sampler to adjust color temperature in HDRI environment images.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > HDRI Tools > Color Temperature Adjustment
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Color Temperature Adjustment
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-temperature-18-n-d.png)
+![](../../../assets/s-temperature-18-n-d.png)
 
 **In:** HDRI Tools
 
@@ -39,12 +36,12 @@ The images below show how the **Color Temperature Adjustment filter** can be use
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0049-color-temperature-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0049-color-temperature-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0048-color-temperature-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0048-color-temperature-out.jpg){width="200px"}
 
 </td>
 </tr>

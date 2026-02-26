@@ -1,17 +1,15 @@
 ---
-title: NVIDIA Driver Settings
-description: Learn how to configure NVIDIA driver settings for Substance 3D Sampler to optimize GPU performance and resolve sluggish behavior.
-helpx_description: Sampler > Technical Support > Configuration > NVIDIA Driver Settings
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/technical-support/configuration/nvidia-driver-settings.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - known-issues
-  - system-requirements
-  - troubleshooting
+breadcrumb-title: ""
+description: Learn how to configure NVIDIA driver settings for Substance 3D Sampler to optimize GPU performance and resolve sluggish behavior.
+helpx_creative_field: ""
+helpx_description: Sampler > Technical Support > Configuration > NVIDIA Driver Settings
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: NVIDIA Driver Settings
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -36,7 +34,7 @@ Once the latest drivers are installed, open Sampler to see if performance has im
 
 To check which GPU Sampler is using, do the following:
 
-![](nvidiacontrolpanel.png)
+![](../../../assets/nvidiacontrolpanel.png)
 
 1. Open the NVIDIA Control Panel. To open the NVIDIA Control Panel, do one of the following:
    1. Search for NVIDIA Control Panel using the Start Menu

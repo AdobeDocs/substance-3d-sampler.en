@@ -1,18 +1,15 @@
 ---
-title: Blur
-description: Use the Blur filter in Substance 3D Sampler to apply blur effects and reduce image sharpness in textures and material layers.
-helpx_description: Sampler > Filters > Adjustments > Blur
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/blur.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-  - photography
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - effects
-  - filters
-  - adjustments
+breadcrumb-title: ""
+description: Use the Blur filter in Substance 3D Sampler to apply blur effects and reduce image sharpness in textures and material layers.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Adjustments > Blur
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Blur
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-blur-18-n-d.png)
+![](../../../assets/s-blur-18-n-d.png)
 
 **In:** Adjustments
 
@@ -39,12 +36,12 @@ In the images below the **Blur filter** has been applied to the base color chann
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0055-blur-in.jpg)
+![](../../../assets/3d-filters-cropped-0055-blur-in.jpg)
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0054-blur-out.jpg)
+![](../../../assets/3d-filters-cropped-0054-blur-out.jpg)
 
 </td>
 </tr>

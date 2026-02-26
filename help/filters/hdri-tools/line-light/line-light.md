@@ -1,18 +1,15 @@
 ---
-title: Line Light
-description: Use the Line Light tool in Substance 3D Sampler to add linear light sources to HDRI environments for precise lighting control.
-helpx_description: Sampler > Filters > HDRI Tools > Line Light
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/line-light.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-  - photography
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - lighting
-  - brightness
-  - hdri
+breadcrumb-title: ""
+description: Use the Line Light tool in Substance 3D Sampler to add linear light sources to HDRI environments for precise lighting control.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > HDRI Tools > Line Light
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Line Light
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-linelight-18-n-d.png)
+![](../../../assets/s-linelight-18-n-d.png)
 
 **In:** HDRI Tools
 
@@ -33,11 +30,11 @@ helpx_learn_topic:
 
 Add a **Line Light** to your environment light.
 
-The images below show how you can use a **Line Light** to adjust the lighting of your environment.![](3d-2d-filters-cropped-0017-line-light-in.jpg)
+The images below show how you can use a **Line Light** to adjust the lighting of your environment.![](../../../assets/3d-2d-filters-cropped-0017-line-light-in.jpg)
 
 The image above shows a sphere with no modifications to the environment light.
 
-![](3d-2d-filters-cropped-0016-line-light-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0016-line-light-out.jpg)
 
 After adding a **Line Light** the sphere's appearance has noticeably changed.
 

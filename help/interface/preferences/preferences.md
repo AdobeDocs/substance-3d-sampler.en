@@ -1,17 +1,15 @@
 ---
-title: Preferences
-description: Learn how to configure preferences in Substance 3D Sampler to customize application settings and optimize your workflow.
-helpx_description: Sampler > Interface > Preferences
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/preferences.html"
-helpx_creative_field:
-  - painting-illustration
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - download-and-install
-  - preferences
-  - workspace
+breadcrumb-title: ""
+description: Learn how to configure preferences in Substance 3D Sampler to customize application settings and optimize your workflow.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > Preferences
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Preferences
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -23,7 +21,7 @@ Use the <b>Preferences menu</b> to customize Sampler to meet your needs.
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](Preferences-gen.png.img.png)
+![](../../assets/Preferences-gen.png.img.png)
 
 </td>
 <td style="border: 0;" valign="top">
@@ -32,7 +30,7 @@ Use <b>Edit </b>&gt; <b>Preferences</b> to access the Preferences menu.
 
 The following options are available:
 
-## <b>General</b>
+## General
 
 * <b>Interface</b>  
   * <b>Language</b>  
@@ -71,7 +69,7 @@ The following options are available:
   * <b>GPU accelerated Neural Networks</b>  
     Enable or disable the GPU accelerated Neural Networks to improve the performances of the applications.
 
-### <b>Storage and Cache</b>
+### Storage and Cache
 
 * <b>Cache</b>  
   Use these settings to update cache locations.
@@ -88,7 +86,7 @@ The following options are available:
 * <b>Cache storage embedded in project files</b>  
   Change how Sampler handles cached content when saving files.
 
-### <b>Plugins and Script</b>
+### Plugins and Script
 
 * <b>Interface</b>
   * <b>Enable Log panel</b>  

@@ -1,19 +1,15 @@
 ---
-title: Match
-description: Use the Match tool in Substance 3D Sampler to match colors, tones, and lighting between different textures and material layers.
-helpx_description: Sampler > Filters > Tools > Match
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/match.html"
-helpx_creative_field:
-  - painting-illustration
-  - video
-  - graphic-design
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - color
-  - materials
-  - color-grading
+breadcrumb-title: ""
+description: Use the Match tool in Substance 3D Sampler to match colors, tones, and lighting between different textures and material layers.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Tools > Match
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Match
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -23,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-matchmaterial-18-n-d.png)
+![](../../../assets/s-matchmaterial-18-n-d.png)
 
 **In:** Tools
 
@@ -40,12 +36,12 @@ The images below show the **Match filter** being used to convert a carbon fiber 
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0025-match-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0025-match-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0024-match-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0024-match-out.jpg){width="200px"}
 
 </td>
 </tr>

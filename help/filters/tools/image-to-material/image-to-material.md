@@ -1,23 +1,21 @@
 ---
-title: Image To Material
-description: Use the Image to Material tool in Substance 3D Sampler to convert single images into fully PBR materials using AI-powered processing.
-helpx_description: Sampler > Filters > Tools > Image To Material
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/image-to-material.html"
-helpx_creative_field:
-  - 3d-immersive
-  - photography
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - creative-effects
-  - 3d
-  - materials
+breadcrumb-title: ""
+description: Use the Image to Material tool in Substance 3D Sampler to convert single images into fully PBR materials using AI-powered processing.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Tools > Image To Material
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Image To Material
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
 # Image To Material
 
-![](sat-icon-image-to-material.png)
+![](../../../assets/sat-icon-image-to-material.png)
 
 The **Image to Material** template allows to generate a high-quality PBR material from a single input image.
 
@@ -32,13 +30,13 @@ See below for a detailed explanation of each algorithm.
 
 Here is an example of material channels generated from a single input image:
 
-![](sat-image-to-material.jpg){width="500px"}
+![](../../../assets/sat-image-to-material.jpg){width="500px"}
 
 ## Algorithms
 
 To change the algorithm of the **Image to Material** template, click on the dropdown below the template name:
 
-![](image-to-material-algo-setting.png)
+![](../../../assets/image-to-material-algo-setting.png)
 
 ### AI Powered
 
@@ -48,7 +46,7 @@ The neural network has been trained on a wide range of materials like fabrics, o
 
 >[!NOTE]
 >
-> Image to Material (AI Powered) will take longer to compute on high resolution images, we recommend to use the [Layer Resolution](../../../help/interface/preferences/layer-resolution/layer-resolution.md) system to optimize your workflow while working.
+> Image to Material (AI Powered) will take longer to compute on high resolution images, we recommend to use the [Layer Resolution](../../../interface/preferences/layer-resolution/layer-resolution.md) system to optimize your workflow while working.
 
 ### B2M
 
@@ -62,7 +60,7 @@ This functionnality is also available on Adobe Capture mobile app (Android and i
 
 Easily send the results to Substance 3D Sampler for further editions.
 
-![](capture-qr-code.gif)
+![](../../../assets/capture-qr-code.gif)
 
 >[!NOTE]
 >

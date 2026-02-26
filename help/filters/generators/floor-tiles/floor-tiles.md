@@ -1,17 +1,15 @@
 ---
-title: Floor Tiles
-description: Use the Floor Tiles generator in Substance 3D Sampler to create realistic floor tile patterns and ceramic textures for materials.
-helpx_description: Sampler > Filters > Generators > Floor Tiles
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/floor-tiles.html"
-helpx_creative_field:
-  - graphic-design
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - materials
-  - grid
-  - patterns
+breadcrumb-title: ""
+description: Use the Floor Tiles generator in Substance 3D Sampler to create realistic floor tile patterns and ceramic textures for materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Floor Tiles
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Floor Tiles
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-floortiles-18-n-d.png)
+![](../../../assets/s-floortiles-18-n-d.png)
 
 **In:** Generators
 
@@ -38,12 +36,12 @@ The images below show a concrete material converted into floor tiles with a chec
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0031-floor-tiles-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0031-floor-tiles-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0030-floor-tiles-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0030-floor-tiles-out.jpg){width="200px"}
 
 </td>
 </tr>

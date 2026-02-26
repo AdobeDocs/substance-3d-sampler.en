@@ -1,17 +1,15 @@
 ---
-title: Atlas Splitter
-description: Use the Atlas Splitter tool in Substance 3D Sampler to split texture atlases into individual texture maps for material editing.
-helpx_description: Sampler > Filters > Tools > Atlas Splitter
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/atlas-splitter.html"
-helpx_creative_field:
-  - painting-illustration
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - layers
-  - selections
-  - replacing-backgrounds
+breadcrumb-title: ""
+description: Use the Atlas Splitter tool in Substance 3D Sampler to split texture atlases into individual texture maps for material editing.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Tools > Atlas Splitter
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Atlas Splitter
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-atlassplitter-18-n-d.png)
+![](../../../assets/s-atlassplitter-18-n-d.png)
 
 **In:** Tools
 
@@ -34,11 +32,11 @@ The **Atlas Splitter** is a useful tool to organize and view the elements of an 
 
 The images below show the **Atlas Splitter** in action.
 
-![](3d-2d-filters-cropped-0039-atlas-splittter-in.jpg)
+![](../../../assets/3d-2d-filters-cropped-0039-atlas-splittter-in.jpg)
 
 The above image shows an atlas material added to the layer stack. use the **Atlas Splitter** to select specific elements from the atlas.
 
-![](3d-2d-filters-cropped-0038-atlas-splitter-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0038-atlas-splitter-out.jpg)
 
 With the **Atlas Splitter** added to the layer stack, it's possible to focus on a single leaf, or any other element of the atlas material.
 

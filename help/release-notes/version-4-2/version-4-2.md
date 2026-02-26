@@ -1,9 +1,17 @@
 ---
-title: "Version 4.2"
-description: "Review release notes for Substance 3D Sampler version 4.2 to learn about AI-powered Image to Material, AI Upscale feature, and resolution controls."
-helpx_description: "Substance 3D Sampler"
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-2.html"
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 4.2 to learn about AI-powered Image to Material, AI Upscale feature, and resolution controls.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 4.2
+user-guide-description: ""
+user-guide-title: ""
 ---
+
 
 # Version 4.2
 
@@ -13,7 +21,7 @@ helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4
 
 ## Image to Material – New Version
 
-![](sa_whats-new-screen_v4-2-0_image_to_material.png)
+![](../../assets/sa_whats-new-screen_v4-2-0_image_to_material.png)
 
 Image to Material generates material channels (base color, roughness, normal, displacement and metallic) for you from a single image.
 
@@ -23,11 +31,11 @@ Now, Image to Material has been trained on all material types, generating better
 
 The updated version has a new parameter to select the material type to generate accurately all channels and automatically adjust the range.
 
-![Substance 3D Sampler using the new Image to Material (AI Powered) filter](Materia_ScreenShot.png "Image to Material - New Version")
+![Substance 3D Sampler using the new Image to Material (AI Powered) filter](../../assets/Materia_ScreenShot.png "Image to Material - New Version")
 
 ## AI Upscale
 
-![](F5W_vAHaYAQLsz7.jpg)
+![](../../assets/F5W_vAHaYAQLsz7.jpg)
 
 Thanks to the new Upscale layer, Sampler enhances features of your material or image by multiplying by 2 or by 4 the resolution of your asset (material or image).
 
@@ -37,11 +45,11 @@ The Upscale filter enhances base color, normal, height, roughness, and metallic 
 
 To maximize the results quality, the Upscale filter should be used on data (material and image) at their original resolution without previous resolution change.
 
-![Upscale filter added to Substance 3D Sampler project](Upscale_Highlighted.png "Upscale filter")
+![Upscale filter added to Substance 3D Sampler project](../../assets/Upscale_Highlighted.png "Upscale filter")
 
 ## Layer Resolution
 
-![](sa_whats-new-screen_v4-2-0_layer-resolution.png)
+![](../../assets/sa_whats-new-screen_v4-2-0_layer-resolution.png)
 
 The new system of Layer Resolution lets you have full control over the resolution of each layer. A layer takes the resolution of your document size or the resolutions of the layer below.
 

@@ -1,17 +1,15 @@
 ---
-title: Filters
-description: Learn how to use filters in Substance 3D Sampler to modify, enhance, and create materials with procedural and image-based effects.
-helpx_description: Sampler > Filters
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - filters
-  - effects
-  - creative-effects
+breadcrumb-title: ""
+description: Learn how to use filters in Substance 3D Sampler to modify, enhance, and create materials with procedural and image-based effects.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Filters
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -25,13 +23,13 @@ helpx_learn_topic:
 
 In Adobe Substance 3D Sampler filters are the primary tool used to modify and adjust assets. Sampler includes the following types of filters:
 
-* [Generators ](../help/filters/generators/generators.md)- introduce new elements to your material.
-* [Adjustments ](../help/filters/adjustments/adjustments.md)- adjust the values of your material's channels.
-* [Tools ](../help/filters/tools/tools.md)- find and fix technical issues.
-* [HDRI Tools](../help/filters/hdri-tools/hdri-tools.md) - filters that are specific to environment lights.
-* [Wear and Finish](../help/filters/wear-and-finish/wear-and-finish.md) - change the look and feel of your material.
+* [Generators ](../filters/generators/generators.md)- introduce new elements to your material.
+* [Adjustments ](../filters/adjustments/adjustments.md)- adjust the values of your material's channels.
+* [Tools ](../filters/tools/tools.md)- find and fix technical issues.
+* [HDRI Tools](../filters/hdri-tools/hdri-tools.md) - filters that are specific to environment lights.
+* [Wear and Finish](../filters/wear-and-finish/wear-and-finish.md) - change the look and feel of your material.
 
-It's possible to create your own filters using Adobe Substance 3D Designer -[ go here to find out how](../help/filters/custom-filters/custom-filters.md).
+It's possible to create your own filters using Adobe Substance 3D Designer -[ go here to find out how](../filters/custom-filters/custom-filters.md).
 
 Filters can be based on different technologies:
 

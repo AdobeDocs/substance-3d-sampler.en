@@ -1,19 +1,15 @@
 ---
-title: Shortcuts
-description: Access keyboard shortcuts for Substance 3D Sampler to speed up your workflow and improve material creation efficiency.
-helpx_description: Sampler > Getting Started > Shortcuts
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/shortcuts.html"
-helpx_creative_field:
-  - painting-illustration
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - selections
-  - workspace
-  - shortcuts
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Access keyboard shortcuts for Substance 3D Sampler to speed up your workflow and improve material creation efficiency.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Shortcuts
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Shortcuts
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 

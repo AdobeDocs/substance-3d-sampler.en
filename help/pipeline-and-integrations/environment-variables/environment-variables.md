@@ -1,17 +1,15 @@
 ---
-title: Environment variables
-description: Learn how to use environment variables in Substance 3D Sampler to override default application behavior and configure settings.
-helpx_description: Sampler > Pipeline and integrations > Environment variables
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/pipeline-and-integrations/environment-variables.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - preparing-source-files
-  - export
-  - download-and-install
+breadcrumb-title: ""
+description: Learn how to use environment variables in Substance 3D Sampler to override default application behavior and configure settings.
+helpx_creative_field: ""
+helpx_description: Sampler > Pipeline and integrations > Environment variables
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Environment variables
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 

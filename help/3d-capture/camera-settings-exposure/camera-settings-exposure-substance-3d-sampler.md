@@ -1,10 +1,15 @@
 ---
-title: Camera Settings - Exposure
-description: Learn how to configure camera exposure settings in Substance 3D Sampler for optimal 3D capture image quality and lighting balance.
-helpx_description: Substance 3D Sampler
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/camera-settings---exposure---substance-3d-sampler.html"
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Learn how to configure camera exposure settings in Substance 3D Sampler for optimal 3D capture image quality and lighting balance.
+helpx_creative_field: ""
+helpx_description: Substance 3D Sampler
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Camera Settings - Exposure
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +27,7 @@ You prefer to watch this guide as a video tutorial? You can find it [here](https
 
 Manual mode gives you full control over how the camera takes pictures, and most importantly, it allows us to ensure the sharpest photos this way, which is why it is preferred to the automatic mode.
 
-![](setup-3d-capture-1.jpg)
+![](../../assets/setup-3d-capture-1.jpg)
 
 ## Manual mode
 
@@ -58,4 +63,4 @@ As seen earlier exposure is a mix of 4 factors: aperture, shutter speed and ISO,
 
 There’s one more setting on your camera that you might not want to leave up to chance. The white-balance of an image is what determines if a photo looks “warm” or “cold”. It’s entirely dependent on the lighting: outdoor sunlight easily looks cold, indoor bulbs easily look warm. This value is expressed in kelvin, K, and you want to match it to your lighting. Outdoor lighting is about 7-8000K, indoor about 5000. It’s usually fine to set this on sight.
 
-Now that you know everything about exposure, learn more about [setting your camera's focus for the 3D Capture process](../../help/3d-capture/camera-settings-focus-3d/camera-settings-focus-substance-3d-sampler.md).
+Now that you know everything about exposure, learn more about [setting your camera's focus for the 3D Capture process](../../3d-capture/camera-settings-focus-3d/camera-settings-focus-substance-3d-sampler.md).

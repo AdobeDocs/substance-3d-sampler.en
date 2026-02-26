@@ -1,18 +1,15 @@
 ---
-title: Pattern
-description: Use the Pattern generator in Substance 3D Sampler to create procedural patterns and repeating designs for material textures.
-helpx_description: Sampler > Filters > Generators > Pattern
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/pattern.html"
-helpx_creative_field:
-  - painting-illustration
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - patterns
-  - materials
-  - creative-effects
+breadcrumb-title: ""
+description: Use the Pattern generator in Substance 3D Sampler to create procedural patterns and repeating designs for material textures.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Pattern
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Pattern
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-pattern-18-n-d.png)
+![](../../../assets/s-pattern-18-n-d.png)
 
 **In:** Generators
 
@@ -39,12 +36,12 @@ Add a pattern to your material from one of the available options, or use an imag
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0011-pattern-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0011-pattern-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0010-pattern-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0010-pattern-out.jpg){width="200px"}
 
 </td>
 </tr>

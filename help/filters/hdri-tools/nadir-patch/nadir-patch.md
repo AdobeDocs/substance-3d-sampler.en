@@ -1,17 +1,15 @@
 ---
-title: Nadir Patch
-description: Use the Nadir Patch tool in Substance 3D Sampler to patch the nadir area of HDRI images for seamless environment maps.
-helpx_description: Sampler > Filters > HDRI Tools > Nadir Patch
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/hdri-tools/nadir-patch.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - photo-restoration
-  - retouching
-  - removing-objects
+breadcrumb-title: ""
+description: Use the Nadir Patch tool in Substance 3D Sampler to patch the nadir area of HDRI images for seamless environment maps.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > HDRI Tools > Nadir Patch
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Nadir Patch
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -21,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-nadirpatch-18-n-d.png)
+![](../../../assets/s-nadirpatch-18-n-d.png)
 
 **In:** HDRI Tools
 
@@ -34,7 +32,7 @@ Patch the nadir of your environment light to hide artifacts or seams.
 
 In the images below, you can see how **Nadir Patch** is used to remove the camera stand in this panoramic image.
 
-![](3d-2d-filters-cropped-0011-nadir-patch-in.jpg)![](3d-2d-filters-cropped-0010-nadir-patch-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0011-nadir-patch-in.jpg)![](../../../assets/3d-2d-filters-cropped-0010-nadir-patch-out.jpg)
 
 </td>
 </tr>

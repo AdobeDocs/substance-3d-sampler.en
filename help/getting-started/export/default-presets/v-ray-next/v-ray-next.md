@@ -1,17 +1,15 @@
 ---
-title: V-Ray Next
-description: Learn how to export materials from Substance 3D Sampler using the V-Ray Next preset for compatibility with V-Ray rendering.
-helpx_description: Sampler > Getting Started > Export > Default Presets > V-Ray Next
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export/default-presets/v-ray-next.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - 3d
-  - photogrammetry
-  - vr-and-360
+breadcrumb-title: ""
+description: Learn how to export materials from Substance 3D Sampler using the V-Ray Next preset for compatibility with V-Ray rendering.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Export > Default Presets > V-Ray Next
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: V-Ray Next
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 

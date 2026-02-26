@@ -1,23 +1,21 @@
 ---
-title: 2D and 3D Viewport
-description: Learn how to use the 2D and 3D viewports in Substance 3D Sampler to preview materials and navigate your workspace effectively.
-helpx_description: Sampler > Interface > 2D and 3D Viewport
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/2d-and-3d-viewport.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - views
-  - preview
-  - camera
+breadcrumb-title: ""
+description: Learn how to use the 2D and 3D viewports in Substance 3D Sampler to preview materials and navigate your workspace effectively.
+helpx_creative_field: ""
+helpx_description: Sampler > Interface > 2D and 3D Viewport
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: 2D and 3D Viewport
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
 # 2D and 3D Viewport
 
-![](main-3d-viewport-5.png)
+![](../../assets/main-3d-viewport-5.png)
 
 The **Viewport** displays your current asset. At the top of the **V****iewport** you can see the name of your asset and options to change the **Viewport** appearance. Use these options to:
 
@@ -27,7 +25,7 @@ The **Viewport** displays your current asset. At the top of the **V****iewport**
 * Swap <b>3D and 2D views</b>.
 * Toggle between the standard and full screen viewport.
 
-![](screenshot-2023-01-25-at-16-23-09.png)
+![](../../assets/screenshot-2023-01-25-at-16-23-09.png)
 
 ## 3D View
 
@@ -105,4 +103,4 @@ With the <b>2D view </b>open, some new options appear:
   * Select a channel to view it in the 2D view.
   * See color channels and bit depth for the selected material channel.
 
-  ![](2dbottom.jpg)
+  ![](../../assets/2dbottom.jpg)

@@ -1,19 +1,15 @@
 ---
-title: Embroidery
-description: Use the Embroidery generator in Substance 3D Sampler to create embroidered fabric patterns and stitching textures for materials.
-helpx_description: Sampler > Filters > Generators > Embroidery
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/embroidery.html"
-helpx_creative_field:
-  - video
-  - graphic-design
-  - 3d-immersive
-  - painting-illustration
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - creative-effects
-  - illustration
-  - filters
+breadcrumb-title: ""
+description: Use the Embroidery generator in Substance 3D Sampler to create embroidered fabric patterns and stitching textures for materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Embroidery
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Embroidery
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -23,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-embroidery-18-n-d.png)
+![](../../../assets/s-embroidery-18-n-d.png)
 
 **In:** Generators
 
@@ -36,11 +32,11 @@ The Embroidery filter allows you to quickly convert images into embroidered patc
 
 The images below shows the **Embroidery filter** in action.
 
-![](3d-2d-filters-cropped-0035-embroidery-in.jpg)
+![](../../../assets/3d-2d-filters-cropped-0035-embroidery-in.jpg)
 
 In the image above, the source image has been imported. Note that the image is opaque and has a white background.
 
-![](3d-2d-filters-cropped-0034-embroidery-out.jpg)
+![](../../../assets/3d-2d-filters-cropped-0034-embroidery-out.jpg)
 
 In the image above, the **Embroidery filter** has been added to the layer stack and has converted the source image into an embroidered patch. Note that while the source image was opaque, the output of the **Embroidery filter** has transparency.
 
@@ -51,7 +47,7 @@ In the image above, the **Embroidery filter** has been added to the layer stack 
 ## Tajima embroidery plugin
 
 Interested in trying out the Tajima embroidery plugin?   
-Learn more about it [here](../../../help/pipeline-and-integrations/tajima-exporter-plugin/tajima-exporter-plugin.md).
+Learn more about it [here](../../../pipeline-and-integrations/tajima-exporter-plugin/tajima-exporter-plugin.md).
 
 ## Parameters
 
@@ -111,7 +107,7 @@ The Embroidery filter can be a little confusing at first, but with just a few im
 
 >[!NOTE]
 >
-> If you've used the [Weave ](../../../help/filters/generators/weave/weave.md)filter before, the Embroidery filter works in a similar way.
+> If you've used the [Weave ](../../../filters/generators/weave/weave.md)filter before, the Embroidery filter works in a similar way.
 
 To use the Embroidery filter:
 

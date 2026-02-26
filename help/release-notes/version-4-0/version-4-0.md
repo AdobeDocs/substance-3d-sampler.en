@@ -1,18 +1,15 @@
 ---
-title: Version 4.0
-description: Review release notes for Substance 3D Sampler version 4.0 to learn about 3D object creation from images, automatic masking, and UX improvements.
-helpx_description: Sampler > Release Notes > Version 4.0
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-0.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-  - photography
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - 3d
-  - photogrammetry
-  - export
+breadcrumb-title: ""
+description: Review release notes for Substance 3D Sampler version 4.0 to learn about 3D object creation from images, automatic masking, and UX improvements.
+helpx_creative_field: ""
+helpx_description: Sampler > Release Notes > Version 4.0
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Version 4.0
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ With **Substance 3D Sampler 4.0**, you can use real-world images to create 3D ob
 
 *Release date: 31 January, 2023*
 
-![](main-promo.jpg)
+![](../../assets/main-promo.jpg)
 
 ## 3D Capture
 
@@ -32,7 +29,7 @@ We have integrated photogrammetry capabilities. Photogrammetry is the technical 
 
 All you need to start is a series of photos which capture the visible surfaces of an object - a smart phone or DLSR camera works great.
 
-Discover the step-by-step workflow [here](../../help/features-and-workflows/3d-capture/3d-capture.md).
+Discover the step-by-step workflow [here](../../features-and-workflows/3d-capture/3d-capture.md).
 
 ## Highlights
 
@@ -42,13 +39,13 @@ Remove the background of the object you wish to 3D capture. Create an auto-gener
 
 Using masks has many advantages. It allows to detect features and reconstruct only non-masked areas.
 
-![](release-page-masking.jpg){width="500px"}
+![](../../assets/release-page-masking.jpg){width="500px"}
 
 ### Define your reconstruction area
 
 Toggle Region of interest to activate a bounding box after aligning your images. Set and align the precise area you want to reconstruct.
 
-![](3d-capture-bounding-box-modified.png){width="500px"}
+![](../../assets/3d-capture-bounding-box-modified.png){width="500px"}
 
 ### Connected post-processing
 
@@ -65,19 +62,19 @@ The post-processing step chains 4 steps automatically:
 * Reprojection
 * Baking
 
-![](release-page-post-processing.jpg){width="500px"}
+![](../../assets/release-page-post-processing.jpg){width="500px"}
 
 ### Export to major file formats
 
 Export your reconstructed 3D objects in all standard file formats so you can use them wherever you need.
 
-![](v4-0-0-export.jpg){width="500px"}
+![](../../assets/v4-0-0-export.jpg){width="500px"}
 
 ## Viewport
 
 2D and 3D viewports can be resized, swapped and stacked vertically.
 
-![](screenshot-2023-01-25-at-16-23-09.png){width="500px"}
+![](../../assets/screenshot-2023-01-25-at-16-23-09.png){width="500px"}
 
 ## Scripting
 

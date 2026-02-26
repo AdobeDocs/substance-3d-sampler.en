@@ -1,18 +1,15 @@
 ---
-title: Quilt Stitch
-description: Use the Quilt Stitch generator in Substance 3D Sampler to create quilted fabric patterns and stitching textures for materials.
-helpx_description: Sampler > Filters > Generators > Quilt Stitch
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/generators/quilt-stitch.html"
-helpx_creative_field:
-  - painting-illustration
-  - graphic-design
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - asset-warp
-  - effects
-  - creative-effects
+breadcrumb-title: ""
+description: Use the Quilt Stitch generator in Substance 3D Sampler to create quilted fabric patterns and stitching textures for materials.
+helpx_creative_field: ""
+helpx_description: Sampler > Filters > Generators > Quilt Stitch
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Quilt Stitch
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -22,7 +19,7 @@ helpx_learn_topic:
 <tr style="border: 0;">
 <td width="41.60%" style="border: 0;" valign="top">
 
-![](s-quiltstitch-18-n-d.png)
+![](../../../assets/s-quiltstitch-18-n-d.png)
 
 **In:** Generators
 
@@ -39,12 +36,12 @@ Emulate a stitched quilt pattern in your materials with this filter.
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0005-quilt-stitch-in.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0005-quilt-stitch-in.jpg){width="200px"}
 
 </td>
 <td style="border: 0;" valign="top">
 
-![](3d-filters-cropped-0004-quilt-stitch-out.jpg){width="200px"}
+![](../../../assets/3d-filters-cropped-0004-quilt-stitch-out.jpg){width="200px"}
 
 </td>
 </tr>

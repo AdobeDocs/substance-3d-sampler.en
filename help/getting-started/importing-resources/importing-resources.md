@@ -1,19 +1,15 @@
 ---
-title: Import Resources
-description: Learn how to import resources like images and Substance files into Substance 3D Sampler to enhance your material creation workflows.
-helpx_description: Sampler > Getting Started > Importing Resources
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/importing-resources.html"
-helpx_creative_field:
-  - video
-  - 3d-immersive
-helpx_experience_level:
-  - any
-helpx_learn_topic:
-  - import
-  - cross-product-workflows
-  - files
-helpx_tags:
-  - SG_SUBSTANCE_ALCHEMIST
+breadcrumb-title: ""
+description: Learn how to import resources like images and Substance files into Substance 3D Sampler to enhance your material creation workflows.
+helpx_creative_field: ""
+helpx_description: Sampler > Getting Started > Importing Resources
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: Import Resources
+user-guide-description: ""
+user-guide-title: ""
 ---
 
 
@@ -23,13 +19,13 @@ Sampler can use external resources like images and Substance files to modify you
 
 * Drag and drop a file from your file explorer onto the Sampler window. An import window appears with options to change how the import is handled.
 
-![](importing-resources-Importwindow.png)
+![](../../assets/importing-resources-Importwindow.png)
 
 * From the <b>Left bar</b> use the <b>Get content </b>button, then select either <b>Import in Layer Stack</b>, or <b>Import in Your Assets</b>. Both options will open a file explorer where you can navigate to and select the file or files to import.
   * <b>Import in Layer Stack</b> imports the file for your current project.
   * <b>Import in Your Assets</b> imports the file so it can be accessed from any project.
 
-![](Project_CreateNew.png)
+![](../../assets/Project_CreateNew.png)
 
 * In the <b>Layers</b> panel, if no layers have been created, you can use the available links to import a file to form the base of your material.
 
