@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 4.3
 
 <b>Substance 3D Sampler 4.3</b> introduces new Starter Content, including <b>Texture Generators</b>, a new version of the <b>Embroidery</b> filter, and a <b>Perpective Crop</b> tool.

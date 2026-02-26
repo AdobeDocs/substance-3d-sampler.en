@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Update Checker
 
 The Update window indicates if a new version of Substance Alchemist is available and displays as well the latest [Release Notes](../../../release-notes/release-notes.md).

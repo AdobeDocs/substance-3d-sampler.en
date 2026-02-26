@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Sliders
 
 ![](../../../assets/sliders-basic.gif)

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # HP Z Captis support
 
 ![](../../assets/captis-sparklingblack-snowz4-chevy27-twi.jpg)

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Arnold 5
 
 | Preset | Compatibility | Packing Output Description |

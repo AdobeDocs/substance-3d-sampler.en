@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 3.0
 
 **Substance 3D Sampler 3.0.0** is the new name for Substance Alchemist now that it's connected to Adobe Creative Cloud. It brings a complete UI rework, support for creating Environment Lights, fully reworked and new filters, Send To functionality and ASM shader support.

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Custom Filters
 
 ## Substance Custom Filters

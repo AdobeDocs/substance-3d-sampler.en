@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 4.4
 
 <b>Substance 3D Sampler 4.4</b> introduces three new generative workflows as beta: Text-to-texture, Text-to-pattern and Image-to-texture.

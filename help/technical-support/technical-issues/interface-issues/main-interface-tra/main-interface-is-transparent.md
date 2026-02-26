@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Main interface is transparent
 
 Deactivate the FXAA anti-aliasing setting in the drivers settings of your GPU card and restart the application.

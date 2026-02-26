@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Interface lags when interacting with the layer stack or other elements
 
 We have identified an issue when old Wacom drivers are installed.

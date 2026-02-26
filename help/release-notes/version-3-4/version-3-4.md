@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 3.4
 
 **Substance 3D Sampler 3.4.0** introduces a series of new features designed to boost speed and quality in 3D workflows.

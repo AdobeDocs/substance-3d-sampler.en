@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Interface
 
 Sampler's workspace is made up of the 2D and 3D viewports, the left and right Sidebars, and a collection of panels. Each panel is dedicated to a specific purpose, so different panels are useful during different parts of the creative process.

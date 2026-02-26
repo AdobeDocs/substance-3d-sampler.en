@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Create a Plugin with Python and QML
 
 This guide describes how to create a simple autosave plugin with Python and QML.

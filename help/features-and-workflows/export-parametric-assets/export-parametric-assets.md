@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Export parametric assets
 
 Exposed parameters can be modified in other applications without coming back to Sampler. This cuts down on iteration time so you can focus on finding the best look without needing to move back and forth between applications.

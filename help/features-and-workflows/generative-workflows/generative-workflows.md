@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Generative workflows
 
 Substance 3D Sampler helps you iterate quickly and try out new ideas easily with three generative features currently in beta, Text-to-Texture, Text-to-Pattern and Image-to-Texture.

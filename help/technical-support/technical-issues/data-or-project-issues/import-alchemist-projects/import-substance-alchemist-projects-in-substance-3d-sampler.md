@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Import Substance Alchemist projects in Substance 3D Sampler
 
 Starting with version 3.0.0, the previous Substance Alchemist projects are not automatically available. This pages describes how to retrieve them.

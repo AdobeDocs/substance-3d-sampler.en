@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Features and workflows
 
 Sampler is a great tool for quickly creating detailed materials from existing assets, but workflows like Image to Material and environment light editing make Sampler unique.

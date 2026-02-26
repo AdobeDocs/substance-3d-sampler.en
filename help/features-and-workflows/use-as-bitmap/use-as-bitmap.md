@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Use As Bitmap
 
 ![](../../assets/Capture-decran-2025-02-19-145645.png)

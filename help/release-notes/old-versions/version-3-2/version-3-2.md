@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 3.2
 
 **Substance 3D Sampler 3.2** introduces an end-to-end material digitization workflow that captures and processes the material physical size, new filters as Cloth Weave and Channel Switch and the ability to create custom metadata.

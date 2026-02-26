@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # End to end Physical Size Workflow
 
 Match the real-life physical size of your scanned samples and images in a digital context to create physically accurate visuals across applications.

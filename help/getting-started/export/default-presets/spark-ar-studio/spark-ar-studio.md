@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Spark AR Studio
 
 <https://sparkar.facebook.com/ar-studio/>

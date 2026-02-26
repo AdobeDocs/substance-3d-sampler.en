@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Blender Cycles/Eevee
 
 | Preset | Compatibility | Packing Output Description |

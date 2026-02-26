@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Redshift
 
 | Preset | Compatibility | Packing Output Description |

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Export panel
 
 The <b>Export panel</b> is where you can export your assets as general files or send assets directly to other applications.

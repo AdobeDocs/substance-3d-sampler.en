@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Tools
 
 Tools are the largest set of filters in Sampler, so it can be difficult to understand what sets them apart. The easiest way to understand tool filters is that they are used to fix technical issues with materials.

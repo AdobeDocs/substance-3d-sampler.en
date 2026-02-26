@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Project panel
 
 ![](../../../assets/Project-panel-gen.png)

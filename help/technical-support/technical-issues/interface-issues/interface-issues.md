@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Interface issues
 
 * [Fonts are not displayed correctly](../../../technical-support/technical-issues/interface-issues/fonts-are-not-displayed/fonts-are-not-displayed-correctly.md)

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 5.1
 
 ![](../../assets/welcome_digitization_tool.jpg)

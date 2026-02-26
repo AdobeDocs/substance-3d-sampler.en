@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Shortcuts
 
 This page list all the keyboard shortcut available and their actions.

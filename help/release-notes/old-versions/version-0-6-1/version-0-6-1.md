@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 0.6.1
 
 Release date: **2019/05/07**   

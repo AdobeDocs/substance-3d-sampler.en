@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # All Changes
 
 This page regroups all the changes that happened to Substance 3D Sampler, from new features to bug fixes.

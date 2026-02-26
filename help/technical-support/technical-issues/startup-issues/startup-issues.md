@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Startup issues
 
 * [Application doesn't start on Linux](../../../technical-support/technical-issues/startup-issues/application-doesn-start/application-doesn-t-start-on-linux.md)

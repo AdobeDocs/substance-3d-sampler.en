@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 2019.1
 
 **Substance Alchemist 2019.1 "Sesame"** lets you share your assets with its new project management. The layer stack has been completely rebuild to improve the workflow. Additional controls and information have been added to the viewport. A new version of our delighter improves the quality and accuracy of your materials.

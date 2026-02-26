@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Processing advanced 3D captures
 
 >[!WARNING]

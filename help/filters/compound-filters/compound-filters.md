@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Compound Filters
 
 This feature lets you create a new type of filters that are represented as a single layer in the interface and be composed of multiples filters.

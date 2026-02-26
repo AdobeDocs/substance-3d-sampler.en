@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Layers panel
 
 ![Layers panel animation from no layer to a complete stack that creates a material](../../../assets/Layers-panel-gen.png.img.png)

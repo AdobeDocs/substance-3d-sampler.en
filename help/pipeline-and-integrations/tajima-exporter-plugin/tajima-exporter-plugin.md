@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Tajima Exporter plugin of Embroidery files
 
 With this first proof of concept, you can now transfer their digitally embroidered designs from Adobe Substance 3D directly into <b>Tajima DG17</b> embroidery software—eliminating the need for time-consuming manual digitization.

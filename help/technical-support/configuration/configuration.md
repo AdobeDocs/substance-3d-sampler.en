@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Configuration
 
 Here are some advanced ways of configuring Substance 3D Sampler:

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 4.2
 
 <b>Substance 3D Sampler 4.2</b> introduces a new AI powered version of <b>Image to Material</b> and a new <b>AI Upscale</b> feature. This version includes complete control of the resolution per layer.

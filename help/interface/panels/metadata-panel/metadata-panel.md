@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Metadata panel
 
 ![](../../../assets/Metadata-panel-gen.png){width="500px"}

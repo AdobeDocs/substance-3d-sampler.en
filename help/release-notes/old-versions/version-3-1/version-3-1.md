@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 3.1
 
 Adobe Substance 3D Sampler 3.1 introduces a new color picker, support for SVG files, and improved interoperability with Stager, Photoshop and Illustrator.

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Crash when using the Image to Material or Delighter
 
 The **Image To Material (AI Powered)** and **Delighter** filters require a lot of available VRAM (at least 1GB).

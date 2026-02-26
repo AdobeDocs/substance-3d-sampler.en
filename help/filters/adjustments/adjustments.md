@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Adjustments
 
 Adjustment filters allow you to adjust the values of your material. Most adjustment filters allow you to target specific channels to give you full control over the appearance of your material. When adjusting a specific channel, it's a good idea to use the **2D view** to view the channels that you're modifying instead of relying purely on the **3D view**. The **2D view** can make it easier to spot errors or problems in a channel.

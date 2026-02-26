@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 4.5
 
 <b>Substance 3D Sampler 4.5</b> introduces a Send-to for third party apps.

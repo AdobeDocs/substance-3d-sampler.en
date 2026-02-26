@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Color Picker
 
 The Color Picker appears every time you need to select a color.

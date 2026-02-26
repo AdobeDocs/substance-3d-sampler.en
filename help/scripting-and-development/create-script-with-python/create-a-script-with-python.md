@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Create a Script with Python
 
 This guide describes how to create a simple autosave plugin with Python.

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Managing Presets
 
 Presets allow you to quickly configure your exported file for a given application. You can also create custom Presets to fulfill your needs if you're using a pipeline not covered by the default presets.

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Default Presets
 
 Sampler includes a list of export presets that pack and name your bitmap textures based on the software you want to import to.

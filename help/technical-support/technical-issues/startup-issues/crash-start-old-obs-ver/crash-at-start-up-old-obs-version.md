@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Crash at start up - Old OBS Version
 
 The application may crash at startup due to an old [OBS](https://obsproject.com/fr) version installed.

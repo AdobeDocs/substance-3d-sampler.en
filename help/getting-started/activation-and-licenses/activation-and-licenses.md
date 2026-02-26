@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Activation and licenses
 
 This page has information on how to activate and manage your licenses so you can start using Sampler.

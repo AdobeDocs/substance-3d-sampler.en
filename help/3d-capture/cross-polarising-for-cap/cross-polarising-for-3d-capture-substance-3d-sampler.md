@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Cross-polarising for 3D Capture
 
 >[!WARNING]

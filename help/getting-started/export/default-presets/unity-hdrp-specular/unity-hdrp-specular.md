@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Unity HDRP Specular
 
 | Preset | Compatibility | Packing Output Description |

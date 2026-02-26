@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Filter issues
 
 * [Image to Material and Delighter are missing](../../../technical-support/technical-issues/filter-issues/image-material-and-del/image-to-material-and-delighter-are-missing.md)

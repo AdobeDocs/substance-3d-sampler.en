@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # 3D Capture set-up on Linux
 
 To use <b>3D Capture</b> on Linux you will need to install <b>Wine 8</b> with an admin account.

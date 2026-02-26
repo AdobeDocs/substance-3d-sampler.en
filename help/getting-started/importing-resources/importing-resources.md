@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Import resources
 
 Sampler can use external resources like images and Substance files to modify your project. Use any of the following options to import a file to your project:

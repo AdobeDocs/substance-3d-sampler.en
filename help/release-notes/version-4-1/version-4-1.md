@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 4.1
 
 <b>Substance 3D Sampler 4.1.0 </b>introduces new content with the <b>Paint Warp </b>filter and an improved version of the <b>Embroidery </b>filter. This update includes some 3D Capture improvements.

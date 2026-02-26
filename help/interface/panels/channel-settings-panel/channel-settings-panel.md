@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Channel Settings panel
 
 The **Channel Settings** panel controls the list of channels computed for your current material. You can manage visibility of channels here.

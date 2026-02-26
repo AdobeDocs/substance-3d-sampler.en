@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Normal Format
 
 Normal maps are processed using the <b>DirectX</b> format, keep an<b> OpenGL</b> workflow to import and export OpenGL format by changing the normal format preference.

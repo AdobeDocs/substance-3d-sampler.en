@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Scripting and Development
 
 Adobe Substance 3D Sampler supports custom plugins through the Sampler Python API. Plugins can be helpful for every Sampler user - from automating material creation for large material libraries, to automatically performing setup for new installs, or adding new functionality.

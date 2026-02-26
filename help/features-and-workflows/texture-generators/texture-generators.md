@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Texture Generators
 
 ![](../../assets/sa_whats-new-screen_v4-3-0_generators.png)

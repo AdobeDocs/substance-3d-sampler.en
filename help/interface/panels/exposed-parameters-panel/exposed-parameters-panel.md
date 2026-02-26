@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Exposed Parameters Panel
 
 ![](../../../assets/ezgif-com-gif-maker-7.gif)

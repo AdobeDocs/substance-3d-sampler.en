@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Assets panel
 
 ![](../../../assets/Assets-panel-gen.png.img.png)

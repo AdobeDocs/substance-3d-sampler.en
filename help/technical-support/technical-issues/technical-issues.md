@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Technical Issues
 
 This page regroups common known issues or questions related to Substance 3D Sampler.

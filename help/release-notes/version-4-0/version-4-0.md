@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 4.0
 
 With **Substance 3D Sampler 4.0**, you can use real-world images to create 3D objects with automatic subject masking, texture mapping, and geometry decimation. This version introduces some UX improvements as new possibilities in the Python API.

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Properties panel
 
 ![Properties Panel](../../../assets/Properties-panel-gen.png)

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Layer Resolution
 
 The Layer Resolution system gives you full control over the resolution of each layer in the layer stack. A layer can either take the resolution of your document size or the resolution of the layer below.

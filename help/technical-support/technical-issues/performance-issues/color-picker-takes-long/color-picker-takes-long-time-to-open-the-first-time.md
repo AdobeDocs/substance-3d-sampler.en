@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Color picker takes long time to open the first time
 
 We identified an issue when old Wacom drivers are installed.

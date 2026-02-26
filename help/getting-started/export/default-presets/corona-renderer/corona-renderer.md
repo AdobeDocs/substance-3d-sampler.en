@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Corona Renderer
 
 | Preset | Compatibility | Packing Output Description |

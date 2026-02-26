@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Wear and Finish
 
 Sampler's Wear and Finish filters let you quickly change the look and feel of your material. Use filters like **Rust** and **Dirt** to make a polished metal surface look old and discarded, or use **Water** and **Snow** to see your material in different seasons. The Wear and Finish filters are diverse and many are highly customizable.

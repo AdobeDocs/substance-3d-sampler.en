@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Tools and Widgets
 
 The tools available in the left sidebar are shortcuts for faster access to commonly used filters. You can find out more about them in **[Filters](../../filters/filters.md) &gt; [Tools](../../filters/tools/tools.md)** or follow the links below for each tool in the sidebar:

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Release Notes
 
 Here is what's new in Substance 3D Sampler (previously Substance Alchemist) by version :

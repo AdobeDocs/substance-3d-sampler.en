@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Version 3.3
 
 **Substance 3D Sampler 3.3.0** introduces a series of new tools, content, and features to more easily create and edit materials and environment lights.

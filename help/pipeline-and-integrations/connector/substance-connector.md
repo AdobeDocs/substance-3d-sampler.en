@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Send to any app
 
 From the 4.5 Sampler release you can now send your assets from Sampler directly to any app where the Connector has been implememented.  

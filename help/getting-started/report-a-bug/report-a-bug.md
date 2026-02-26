@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Report a bug
 
 You can report bugs from within Sampler.

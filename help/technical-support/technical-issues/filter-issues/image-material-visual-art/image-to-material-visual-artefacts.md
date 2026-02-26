@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Image to Material visual artefacts
 
 The <b>Image to Material (AI Powered)</b> results can sometimes be altered (wrong colors mostly).

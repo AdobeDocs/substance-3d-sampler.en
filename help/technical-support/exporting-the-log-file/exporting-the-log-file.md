@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Exporting the log file
 
 When you need support regarding Substance 3D Sampler, it is always good to share your log file as it gives context about your computer configuration.

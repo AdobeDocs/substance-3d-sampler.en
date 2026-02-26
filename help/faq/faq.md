@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # FAQ - Frequently Asked Questions
 
 ## Beta Access

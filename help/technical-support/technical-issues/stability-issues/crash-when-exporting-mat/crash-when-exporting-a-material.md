@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Crash when exporting a material
 
 Crashing at export can occur when exporting a material created in Sampler. This crash is usually the result of a lack of VRAM available on the GPU when starting the export process (especially with materials using the delighter filter).

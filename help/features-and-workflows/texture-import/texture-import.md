@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Texture Import
 
 ![](../../assets/Capture-decran-2025-02-19-162128.png.img.png)

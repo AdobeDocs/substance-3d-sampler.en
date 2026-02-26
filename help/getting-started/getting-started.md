@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Getting Started
 
 ![](../assets/Getting-started-homepage.png)

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # 2D and 3D Viewport
 
 ![](../../assets/main-3d-viewport-5.png)

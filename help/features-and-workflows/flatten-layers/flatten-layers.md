@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Flatten layers
 
 Flattening layers is a helpful way to improve performance and simplify the layer stack, but it's important to be aware of the impact that Flattening layers can have on your project.

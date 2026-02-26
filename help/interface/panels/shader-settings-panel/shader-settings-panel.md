@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Shader Settings panel
 
 ![](../../../assets/Shader-settings-panel-gen.png.img.png)

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Manage installed plugins and scripts
 
 To install, modify, or remove plugins use Edit &gt; Preferences, and then select Plugins and Scripts.

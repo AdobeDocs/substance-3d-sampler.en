@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Create and edit custom presets
 
 Custom presets can be created with Substance 3D Designer.

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Preferences
 
 Use the <b>Preferences menu</b> to customize Sampler to meet your needs.

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # NVIDIA Driver Settings
 
 If you are using an NVIDIA GPU but find that performance is sluggish, there are two common causes:

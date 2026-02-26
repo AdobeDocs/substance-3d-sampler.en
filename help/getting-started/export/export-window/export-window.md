@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Export Window
 
 You can export your asset from the <b>Export</b> panel in the <b>Right bar</b>.

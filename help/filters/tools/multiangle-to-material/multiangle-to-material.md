@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Multiangle To Material
 
 ![](../../../assets/sat-multi-angle.png)

@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Betas
 
 This page regroups all the Betas versions of Substance 3D Sampler. To know How to acces the Beta you can go to our [FAQ page](../../faq/faq.md).

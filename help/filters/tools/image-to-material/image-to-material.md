@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Image To Material
 
 ![](../../../assets/sat-icon-image-to-material.png)

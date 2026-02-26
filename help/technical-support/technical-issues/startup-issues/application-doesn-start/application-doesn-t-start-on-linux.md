@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Application doesn't start on Linux
 
 The application may not start on Linux with the following error message in a terminal:

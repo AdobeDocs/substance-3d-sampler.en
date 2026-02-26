@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # The Home Screen
 
 ![](../../assets/Getting-started-homepage.png)

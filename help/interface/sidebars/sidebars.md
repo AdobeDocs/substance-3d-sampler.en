@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Sidebars
 
 Sampler has two sidebars, the **left sidebar** and **right sidebar**.

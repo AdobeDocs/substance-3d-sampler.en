@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Technical Support
 
 Here you can find the most commonly asked questions about Substance 3D Sampler.

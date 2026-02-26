@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Quick actions
 
 ![](../../assets/Quactooltip.png)

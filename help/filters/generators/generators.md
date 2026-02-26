@@ -12,7 +12,6 @@ user-guide-description: ""
 user-guide-title: ""
 ---
 
-
 # Generators
 
 Generators are filters that make an additive change to your material. Generators often result in a substantial change to the appearance of your material, and are regularly used to create the foundations of a material as a result.
