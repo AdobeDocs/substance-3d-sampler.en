@@ -131,4 +131,4 @@ Export your filter as Substance Archive file (.sbsar)
 
 >[!NOTE]
 >
-> You can expose filter parameters to control the filter directly in Sampler. See how-to [here](https://helpx.adobe.com/substance-3d-designer/substance-compositing-graphs/manage-parameters/exposing-a-parameter.html)
+> You can expose filter parameters to control the filter directly in Sampler. See how-to [here](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)

@@ -23,5 +23,5 @@ user-guide-title: ""
 * When closing the window during a capture, the metadata that were filled in are lost.
 * When clicking on any of the “Browse content” or “Shut down” buttons during the transfer of the data from Captis via USB, the transfer stops.
 
-* If you have TDR issues, please refer to [this documentation page](https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash.html) from Sustance Painter which should help fix them.
+* If you have TDR issues, please refer to [this documentation page](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash) from Sustance Painter which should help fix them.
 * If the "Preview" step is all black instead of viewing the live feed inside the device, please make sure you have removed the lens cap from inside the device cone.
