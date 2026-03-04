@@ -1,10 +1,10 @@
 ---
 cloud: Experience Cloud
-solution: Substance 3D Sampler
+solution: Substance 3D Sampler, Substance 3D
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/substance-3d-sampler.en
-index: no
+index: yes
 ---
 
 # Metadata for internal use
