@@ -114,7 +114,7 @@ We recommend:
 
 Below is a list of the minimum GPU driver versions required for the application to run without issue. This list is subject to change as new versions are released.
 
-To download new drivers see: [GPU has outdated drivers](https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers.html).
+To download new drivers see: [GPU has outdated drivers](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers).
 
 | OS | NVIDIA | AMD | Intel |
 | --- | --- | --- | --- |
