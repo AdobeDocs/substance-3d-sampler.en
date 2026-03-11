@@ -2,7 +2,6 @@
 user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
-solution: Substance 3D Sampler
 ---
 
 # Substance 3D Sampler {#using}
