@@ -27,17 +27,17 @@ When you open Sampler, the <b>Home Screen</b> will appear. The <b>Home Screen</b
 1. <b>About Sampler</b>: Find out more about your version of 3D Sampler.
 1. <b>Documentation</b>: View the documentation and expand your abilities.
 
-When you open, start a new project or use a [Quick action](../features-and-workflows/quick-actions/quick-actions.md), the <b>Home Screen</b> will disappear so you can start creating assets. You can open the <b>Home Screen</b> again from the <b>File menu</b>.
+When you open, start a new project or use a [Quick action](../features-and-workflows/quick-actions.md), the <b>Home Screen</b> will disappear so you can start creating assets. You can open the <b>Home Screen</b> again from the <b>File menu</b>.
 
 ## Getting Started
 
 To get started with Substance 3D Sampler, check out the following pages:
 
-* [Activation and licenses](../getting-started/activation-and-licenses/activation-and-licenses.md)
-* [System requirements](../getting-started/system-requirements/system-requirements.md)
-* [Shortcuts](../getting-started/shortcuts/shortcuts.md)
-* [Importing Resources](../getting-started/importing-resources/importing-resources.md)
-* [Quick actions](../features-and-workflows/quick-actions/quick-actions.md)
-* [Report a bug](../getting-started/report-a-bug/report-a-bug.md)
-* [Project Management](../getting-started/project-management/project-management.md)
+* [Activation and licenses](activation-and-licenses.md)
+* [System requirements](system-requirements.md)
+* [Shortcuts](shortcuts.md)
+* [Importing Resources](importing-resources.md)
+* [Quick actions](../features-and-workflows/quick-actions.md)
+* [Report a bug](report-a-bug.md)
+* [Project Management](project-management.md)
 * [Export](../getting-started/export/export.md)

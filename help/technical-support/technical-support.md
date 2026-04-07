@@ -16,6 +16,6 @@ user-guide-title: ""
 
 Here you can find the most commonly asked questions about Substance 3D Sampler.
 
-* [Exporting the log file](../technical-support/exporting-the-log-file/exporting-the-log-file.md)
+* [Exporting the log file](exporting-the-log-file.md)
 * [Configuration](../technical-support/configuration/configuration.md)
 * [Technical Issues](../technical-support/technical-issues/technical-issues.md)

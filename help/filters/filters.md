@@ -28,7 +28,7 @@ In Adobe Substance 3D Sampler filters are the primary tool used to modify and ad
 * [HDRI Tools](../filters/hdri-tools/hdri-tools.md) - filters that are specific to environment lights.
 * [Wear and Finish](../filters/wear-and-finish/wear-and-finish.md) - change the look and feel of your material.
 
-It's possible to create your own filters using Adobe Substance 3D Designer -[ go here to find out how](../filters/custom-filters/custom-filters.md).
+It's possible to create your own filters using Adobe Substance 3D Designer -[ go here to find out how](custom-filters.md).
 
 Filters can be based on different technologies:
 

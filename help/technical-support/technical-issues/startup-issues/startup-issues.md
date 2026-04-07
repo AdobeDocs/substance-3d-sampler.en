@@ -14,5 +14,5 @@ user-guide-title: ""
 
 # Startup issues
 
-* [Application doesn't start on Linux](../../../technical-support/technical-issues/startup-issues/application-doesn-start/application-doesn-t-start-on-linux.md)
-* [Crash at start up - Old Obs Version](../../../technical-support/technical-issues/startup-issues/crash-start-old-obs-ver/crash-at-start-up-old-obs-version.md)
+* [Application doesn't start on Linux](application-doesn-t-start-on-linux.md)
+* [Crash at start up - Old Obs Version](crash-at-start-up-old-obs-version.md)

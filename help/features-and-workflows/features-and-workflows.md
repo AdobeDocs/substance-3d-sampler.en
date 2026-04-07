@@ -22,4 +22,4 @@ Learn how to use the following tools and workflows in this section:
 * 3D Capture
 * End to End Physical size Workflow
 * How to export parametric assets
-* [Texture Generators](../features-and-workflows/texture-generators/texture-generators.md)
+* [Texture Generators](texture-generators.md)
