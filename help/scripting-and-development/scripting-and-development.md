@@ -20,6 +20,6 @@ The full documentation for the API is included when you install Sampler. You can
 
 * Use Help &gt; Python API Documentation... to open the documentation.
 
-* [Manage installed plugins and scripts](../scripting-and-development/manage-installed-plugins/manage-installed-plugins-and-scripts.md)
-* [Create a Plugin with Python and QML](../scripting-and-development/create-plugin-with-python/create-a-plugin-with-python-and-qml.md)
+* [Manage installed plugins and scripts](manage-installed-plugins-and-scripts.md)
+* [Create a Plugin with Python and QML](create-a-plugin-with-python-and-qml.md)
 * [Create a Script with Python](../scripting-and-development/create-script-with-python/create-a-script-with-python.md)

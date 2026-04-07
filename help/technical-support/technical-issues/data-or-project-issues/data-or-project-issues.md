@@ -14,4 +14,4 @@ user-guide-title: ""
 
 # Data or project issues
 
-* [Import Substance Alchemist projects in Substance 3D Sampler](../../../technical-support/technical-issues/data-or-project-issues/import-alchemist-projects/import-substance-alchemist-projects-in-substance-3d-sampler.md)
+* [Import Substance Alchemist projects in Substance 3D Sampler](import-substance-alchemist-projects-in-substance-3d-sampler.md)

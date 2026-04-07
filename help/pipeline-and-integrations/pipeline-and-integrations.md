@@ -14,4 +14,4 @@ user-guide-title: ""
 
 # Pipeline and integrations
 
-* [Environment variables](../pipeline-and-integrations/environment-variables/environment-variables.md)
+* [Environment variables](environment-variables.md)

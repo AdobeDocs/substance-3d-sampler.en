@@ -18,13 +18,13 @@ Adjustment filters allow you to adjust the values of your material. Most adjustm
 
 Below is a list of adjustment filters:
 
-* [Blur](../../filters/adjustments/blur/blur.md)
-* [Brightness/Contrast](../../filters/adjustments/brightness-contrast/brightness-contrast.md)
-* [Colorize](../../filters/adjustments/colorize/colorize.md)
-* [Color Replace](../../filters/adjustments/color-replace/color-replace.md)
-* [Color Variation](../../filters/adjustments/color-variation/color-variation.md)
-* [Equalize](../../filters/adjustments/equalize/equalize.md)
-* [Hue/Saturation](../../filters/adjustments/hue-saturation/hue-saturation.md)
-* [Invert](../../filters/adjustments/invert/invert.md)
-* [Sharpen](../../filters/adjustments/sharpen/sharpen.md)
-* [Vibrance](../../filters/adjustments/vibrance/vibrance.md)
+* [Blur](blur.md)
+* [Brightness/Contrast](brightness-contrast.md)
+* [Colorize](colorize.md)
+* [Color Replace](color-replace.md)
+* [Color Variation](color-variation.md)
+* [Equalize](equalize.md)
+* [Hue/Saturation](hue-saturation.md)
+* [Invert](invert.md)
+* [Sharpen](sharpen.md)
+* [Vibrance](vibrance.md)

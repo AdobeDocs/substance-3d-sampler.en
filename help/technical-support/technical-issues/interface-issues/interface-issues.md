@@ -14,5 +14,5 @@ user-guide-title: ""
 
 # Interface issues
 
-* [Fonts are not displayed correctly](../../../technical-support/technical-issues/interface-issues/fonts-are-not-displayed/fonts-are-not-displayed-correctly.md)
-* [Main interface is transparent](../../../technical-support/technical-issues/interface-issues/main-interface-tra/main-interface-is-transparent.md)
+* [Fonts are not displayed correctly](fonts-are-not-displayed-correctly.md)
+* [Main interface is transparent](main-interface-is-transparent.md)
