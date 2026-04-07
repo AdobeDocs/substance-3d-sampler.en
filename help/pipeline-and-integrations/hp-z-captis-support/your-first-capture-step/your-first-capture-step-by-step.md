@@ -14,11 +14,11 @@ user-guide-title: ""
 
 # Launch Sampler and turn on the HP Z Captis
 
-Once Sampler is launched, click on the “<b>+</b>” button on the left bar.
+Once Sampler is launched, click on the "<b>+</b>" button on the left bar.
 
 In the Connected Devices list, you should find <b>HP Z Captis</b>. If you do not see any devices listed, please refer to the FAQ.
 
-![click on the "plus" icon and on HP Z Captis in Sampler to launch the device](../../../assets/5(1).png)
+![click on the "plus" icon and on HP Z Captis in Sampler to launch the device](../../../assets/5_1.png)
 
 After clicking on HP Z Captis, a dedicated window opens with 3 options:
 
@@ -143,7 +143,7 @@ The processing part is split in two parts:
 
 While it is capturing and processing, you can add metadata (same metadata that you will find in Sampler metadata panel).
 
-![](../../../assets/5(2).png)
+![](../../../assets/5_2.png)
 
 During the processing, you will see the result is built tile by tile.
 
@@ -153,13 +153,13 @@ During the processing, you will see the result is built tile by tile.
 
 At this step you can review the results of the scan. All the created channels are displayed (in Explorer mode, no opacity is created since the explorer ring does not have a backlight).
 
-The “Browse scans” button opens a file explorer in the folder that holds the images (channels only). If you requested photometry at the beginning of the scan, they will be stored in a separate folder.
+The "Browse scans" button opens a file explorer in the folder that holds the images (channels only). If you requested photometry at the beginning of the scan, they will be stored in a separate folder.
 
 ## Material edition
 
 After exiting HP Z Captis window, the channels (base color, normal, height, roughness and opacity if relevant) will be added as a layer in the Layers panel.
 
-![](../../../assets/5(3).png)
+![](../../../assets/5_3.png)
 
 Note: Verify that output format is correctly set to <b>16bit float</b>
 
@@ -171,4 +171,4 @@ Once you are done, you can:
 
 * Export your material: File &gt; Export … (Ctrl + E)
 
-![](../../../assets/5(4).png)
+![](../../../assets/5_4.png)
