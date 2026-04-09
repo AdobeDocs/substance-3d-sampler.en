@@ -22,7 +22,7 @@ To create a new project, select <b>Create new</b> in the <b>Home </b>screen or 
 
 ![](../assets/Project-management-Buttons.png)
 
-Alternatively, you can use the <b>Empty project</b> button to jump right into an empty project. If you create an empty project you can still manually import assets and content as needed.
+Alternatively, you can use the <b>Quick start</b> button to jump right into an empty project. You can still manually import assets and content as needed.
 
 After clicking the "Create New" button, the project will be automatically opened and named "*Untitled Project\**" until you save your project. You can add assets to your project with the highlighted <b>New asset button </b>in the <b>Project panel</b>.
 

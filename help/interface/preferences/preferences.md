@@ -29,6 +29,10 @@ Use <b>Edit </b>&gt; <b>Preferences</b> to access the Preferences menu.
 
 The following options are available:
 
+</td>
+</tr>
+</table>
+
 ## General
 
 * <b>Interface</b>  
@@ -94,7 +98,3 @@ The following options are available:
   * <b>Add a Plugin</b>
 * <b>Manage scripts</b>
   * <b>Add a script</b>
-
-</td>
-</tr>
-</table>

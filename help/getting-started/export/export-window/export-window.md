@@ -76,6 +76,9 @@ When exporting Materials, the Material settings panel of the Export window has t
 
 ![](../../../assets/SAPR_ResolutionTextures.png)
 
+* **Material model** (All formats while on default preset): Select a shader standard for your exported textures.
+  * Changing the Material model will impact the file names of exported files. For example, OpenPBR uses "Metalness" as opposed to ASM which uses "Metallic".
+
 ### Additional information
 
 Available disk space on your selected destination drive is visible at the bottom of the <b>Export window</b>.
@@ -93,45 +96,3 @@ On the right side of the <b>Material settings panel</b>, a list of channels that
 Each preset has a different set of channels to export, and the name of exported files is based on the names visible in the <b>Channels to export</b> area. You can use the checkbox next to any channel to enable or disable export for that channel.
 
 ![](../../../assets/SAPR_Channels_ExportPreset.gif)
-
-## Environment light settings
-
-When exporting Environment lights, the Environment light settings panel of the Export window has the following options:
-
-* <b>Format</b>: Select the image format of the exported light.
-  * Further export options depend on which file format is selected.
-  * The following formats are supported:
-    * SBSAR
-    * SBS (for use in Substance Designer)
-    * EXR
-
-### SBS or SBSAR options
-
-* <b>Compression </b>(available for SBSAR): Select how the exported file is compressed
-  * <b>Auto</b>:<b> </b>Allow Sampler to determine compression settings.
-  * <b>Best</b>: This option results in smaller files, but can also mean longer loading and saving times while the file is encoded or decoded.
-  * <b>None</b>: Without using compression, files will be larger, but will load and save faster.
-* <b>Resolution</b>: Select the size in pixels of the exported asset. Higher resolutions mean more detail, but larger file sizes.
-  * By default <b>Width </b>and <b>Height </b>are linked, so changing one will change the other. Click the lock to the right of the <b>Width</b> and <b>Height</b> parameters to lock or unlock the relationship between these values.
-
-#### EXR options
-
-* <b>Compression </b>(available for SBSAR): Select how the exported file is compressed
-  * <b>Auto</b>:<b> </b>Allow Sampler to determine compression settings.
-  * <b>Best</b>: This option results in smaller files, but can also mean longer loading and saving times while the file is encoded or decoded.
-  * <b>None</b>: Without using compression, files will be larger, but will load and save faster.
-* <b>Resolution</b>: Select whether each layer's resolution is exported independently, or override the resolution so that all layers are exported at a uniform size.
-
-## Mesh Settings
-
-When you export a mesh you can choose if you export the mesh and/or it's material.
-
-![](../../../assets/screenshot-2023-01-24-at-16-50-37.png)
-
-### Formats
-
-Sampler can export a wide range of formats. Currently supported formats are:
-
-| Mesh Format |
-| --- |
-| <ul data-preserve-html="true"><li data-preserve-html="true">USD</li><li data-preserve-html="true">USDZ</li><li data-preserve-html="true">USDA</li><li data-preserve-html="true">GLB</li><li data-preserve-html="true">GLTF</li><li data-preserve-html="true">FBX</li><li data-preserve-html="true">OBJ</li><li data-preserve-html="true">STL</li></ul> |
