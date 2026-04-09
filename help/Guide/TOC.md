@@ -48,7 +48,6 @@ user-guide-description: Substance 3D Sampler
     + [Layers panel](/help/interface/panels/layers-panel.md)
     + [Properties panel](/help/interface/panels/properties-panel.md)
     + [Quick Actions panel](/help/interface/panels/quick-actions-panel.md)
-    + [Shader Settings panel](/help/interface/panels/shader-settings-panel.md)
     + [Channel Settings panel](/help/interface/panels/channel-settings-panel.md)
     + [Metadata panel](/help/interface/panels/metadata-panel.md)
     + [Export panel](/help/interface/panels/share-panel.md)
