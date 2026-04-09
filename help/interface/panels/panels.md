@@ -37,7 +37,6 @@ The remaining panels are closed by default, and hold options and controls that g
 
 The following panels are stored at the bottom of the <b>left sidebar</b> by default:
 
-* <b>Generative (BETA) panel</b>: Use text prompts to create textures or patterns with AI.
 * <b>Shader Settings panel</b>: Allows you to modify shader parameters that can help improve performance or appearance of some materials.
 * <b>Channel Settings panel</b>: Manage channels for your material.
 
