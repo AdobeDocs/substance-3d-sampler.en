@@ -74,11 +74,13 @@ The Fill filter parameters change dynamically depending on the type of channel s
 Used when the Fill filter is applied to colour channels.
 
 ###### Example channels:
+
 * Base Color
 * Coat Color
 * Subsurface Color...
 
 ###### Available parameters
+
 * Colour
   Selects the RGB colour used to fill the channel.
 * Custom Value
@@ -93,15 +95,18 @@ Used when the Fill filter is applied to colour channels.
 This mode is typically used to initialise or override colour information.
 
 ##### Greyscale map parameters
+
 Used when the Fill filter is applied to scalar greyscale channels.
 
 ###### Example channels:
+
 * Specular Roughness
 * Base Metalness
 * Opacity
 * Height...
 
 ###### Available parameters
+
 * Value
   Sets a single greyscale value for the channel.
 * Random Seed
@@ -121,6 +126,7 @@ This mode is useful for defining uniform physical properties, such as a constant
 Used when the Fill filter is applied to **Normal** channels.
 
 ###### Example channels:
+
 * Normal
 * Coat Normal
 
@@ -136,9 +142,11 @@ Used when the Fill filter is applied to **Normal** channels.
 This mode is primarily used to reset or neutralise normal information, or to establish a clean baseline before adding normal detail.
 
 ##### Uniform value parameters
+
 Used for channels that rely on a single uniform physical value rather than a texture map.
 
 ###### Example channels
+
 * Specular IOR...
 
 ###### Available parameters
