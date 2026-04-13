@@ -14,9 +14,9 @@ user-guide-title: ""
 
 # Launch Sampler and turn on the HP Z Captis
 
-Once Sampler is launched, click on the "<b>+</b>" button on the left bar.
+Once Sampler is launched and that the HP Z Captis device has been plugged in to your computer, click on the Captis/cone icon on the left bar.
 
-In the Connected Devices list, you should find <b>HP Z Captis</b>. If you do not see any devices listed, please refer to the FAQ.
+If you do not see the HP Z Captis appearing in the UI, please refer to the FAQ.
 
 ![click on the "plus" icon and on HP Z Captis in Sampler to launch the device](../../assets/5_1.png)
 
@@ -40,23 +40,28 @@ If you select continue, the device will proceed with its current task offline an
 
 Sampler will initialise the Preview of HP Z Captis device. It is recommended to <b>not interact </b>with the view while it is initialising.
 
-![]()
+In this new update, there are two modes: Auto and Manual.
 
-<b>Preview interactions:</b>
+### General settings
 
-1. Define the <b>region of interest</b>. It will define the <b>capture area </b>of the sample. The larger the region of interest the higher the quality, but a smaller region of interest will take less time to process.
-1. You can <b>zoom in</b> and <b>zoom out</b>.
-1. You can <b>pan</b>.
+#### Auto mode
 
-![](../../assets/captis-51-preview.png)
+![Captis auto mode](sampler_captis-default-interface.png)
 
-There are several types of settings that can be done during the preview phase.
+You now have the possibility to launch the capture in one click: Sampler will:
 
-Some have to be defined for each capture:
+* define a default name, 
+* define automatically the region of interest (ROI)/crop zone using the backlight, 
+* make the focus on the full ROI, and 
+* change the intensity setting to one adapted to your material.
 
-<b>Preview settings:</b>
+If you have made captures previously, the material category, outputs and capture resolution selected will be the same ones as your previous capture. 
 
-<b>General settings</b>
+#### Manual mode
+
+![Captis workflow in Substance 3D Sampler Manual mode](sampler_captis-manual-mode.png)
+
+You can also choose to define some of the settings by hand:
 
 *Project name*
 
@@ -67,41 +72,50 @@ You can define a project name of your capture and define which type of outputs y
 * By default only the material PBR channels (Base color, normal, height and opacity) will be saved.  
   You have the possibility to choose the output type between LDR (low dynamic range) and HDR (high dynamic range).
 
-* You can choose to also save the photometry photos (64) used to generate the PBR channels
-
-![possible outputs of the captis workflow: material or material and photometry](../../assets/captis-51-resolution.png)
 
 *Capture resolution*
 
 * 239 px/in - 94 px/cm (Preview: lower quality, quicker scan)
+* px/in - 142 px/cm (Default: high quality, easily maneageable in the majority of workflows - equivalent to 4k for 30x30cm capture)
+* 718px/in - 284 px/cm (Full resolution - equivalent to 8k for 30x30cm capture)
 
-* 718px/in - 283 px/cm (Full resolution)
+![Capture resolutions in Captis and Sampler workflow](sampler_captis-capture-resolution-6.0-1.png)
+Note: Only PBR channels will be loaded in Sampler.  
+The default folder captures are saved in can be modified in the preferences.
 
-Note: Only PBR channels will be loaded in Sampler. Photometry photos will be only available on Document/Adobe/Adobe Substance 3D Sampler Beta/&#91;project name&#93;   
-The default folder can be modified in the preferences.
 
-![Capture resolution possibilities (full or preview)](../../assets/captis-51-resolution-2.png)
-
-<b>Marerial category</b>
+<b>Material category</b>
 
 Set this to the type of material you are scanning for map genereation fine-tuned to your particular material.  
 The default category selected is "Fabric". It will help optimize the result of your roughness channel.
 
 If what you are scanning contains several types of materials, please select the category of the largest one.
 
+<b>Crop</b>
+
+The crop can be done automatically or manually.
+
+![potentiel crops of the region of inerest, between physical size and pizel size](../../assets/captis-51-crop.png)
+
+The auto crop will be using the backlight to define the outline of the material, and place the Region of interest (ROI) around it. It is not adapted when digitizing several material samples at once, or when the material is very transparant.
+In that case, the ROI can be defined by dragging the corners of the crop widget in the preview, or by setting a defined resolution or physical size.
+
 <b>Camera settings </b>
 
-* Focus: It will adjust the camera focus.  
-  Clicking on Auto will ask you to select where to focus on the preview. It is advised to focus 1/3 out of the center of the material sample.
-
 * Intensity: Adjust the camera exposure.  
-  Clicking on Auto will ask you to select the area of the material the intensity calculation must be made on.
+  Clicking on Auto will use the center of the ROI to define the best intensity for the material.
+
+* Focus: It will adjust the camera focus.  
+  Clicking on Auto will define the ideal focus using the full ROI.
+  This new focus algorithm, where the focus is not on a single point anymore, allows for a more uniform focus on the digitized material, leading to higher quality scans which are easier to make tileable.
 
 You can set both by hand if you prefer.
 
 <b>Other settings</b>
 
 Other types of settings<b> only have to be modified on occasion</b>: the color and alignment calibration.
+
+![Calibrating the HP Z Captis in Substance 3D Sampler](sampler_captis-calibration.png)
 
 * Color calibration
 
@@ -111,7 +125,7 @@ The technical areas with the color swatches are automatically detected and are u
 
 This is only available in Studio mode. Please make sure to do the focus before this color calibration.
 
-This calibration has to be done <b>every month or couple of month</b>. It is not necessary to do it fo every scan or each time the device is used.
+This calibration has to be done <b>every few months</b>. It is not necessary to do it fo every scan or each time the device is used.
 
 * Alignment calibration
 
@@ -123,45 +137,41 @@ To do the alignment please <b>place something with sharp and clear information, 
 
 Once you are all set: <b>start the scan</b>.
 
-![potentiel crops of the region of inerest, between physical size and pizel size](../../assets/captis-51-crop.png)
 
-<b>Crop</b>
-
-If you don't need to capture the maximum capture zone, you can either define on the preview the size of your selection by dragging the sides or corners, or by defining the crop done in this area.
-
-You can choose between a size in pixels or in physical size of material, and get back to a square resolution.
-
-## Capture and processing steps
+## Capture, processing and copy steps
 
 Once the scan starts, the preview will display photos taken during the process.
 
-The processing part is split in two parts:
+The processing part is split in three parts:
 
 * <b>Capture</b>: Taking all required photos
 
 * <b>Processing</b>: Processing the photos to generate PBR channels (Base color, normal, height, opacity)
 
+* <b>Copying</b>: Copying the results from the HP Z Captis device to your computer
+
 While it is capturing and processing, you can add metadata (same metadata that you will find in Sampler metadata panel).
 
-![](../../assets/5_2.png)
+![Capturing step](sampler_captis-capturing.png)
 
 During the processing, you will see the result is built tile by tile.
 
 ## Summary step
 
-![](../../assets/captis-51-summary.png)
+![Summary step in digitization process with Sampler and Captis](sampler_captis-summary.png)
 
 At this step you can review the results of the scan. All the created channels are displayed (in Explorer mode, no opacity is created since the explorer ring does not have a backlight).
 
-The "Browse scans" button opens a file explorer in the folder that holds the images (channels only). If you requested photometry at the beginning of the scan, they will be stored in a separate folder.
+You can choose to send you material to Sampler, to add it to your project and start processing it.
+You can also start directly a new capture without adding it to the project.
+In both cases you will find your scanned maps in the equivalent folder on your computer: C:\Users\username\Documents\Adobe\Adobe Substance 3D Sampler\Captis\Material
 
 ## Material edition
 
 After exiting HP Z Captis window, the channels (base color, normal, height, roughness and opacity if relevant) will be added as a layer in the Layers panel.
 
-![](../../assets/5_3.png)
+![alt text](sampler_captis-imported-material.png)
 
-Note: Verify that output format is correctly set to <b>16bit float</b>
 
 Use Sampler filters (Equalize, Perspective Crop, Tiling, …) to process and clean your material.
 
@@ -171,4 +181,3 @@ Once you are done, you can:
 
 * Export your material: File &gt; Export … (Ctrl + E)
 
-![](../../assets/5_4.png)
