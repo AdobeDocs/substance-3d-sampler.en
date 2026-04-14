@@ -56,7 +56,7 @@ In the images below, the base color channel has been replaced.
 <b>Applied to…</b>
 
 The Applied to… dropdown determines which channel the Fill filter affects.
-Only channels that are currently enabled in the material's channel settings appear in this list. If the channel you want to fill is not available:
+**Only channels that are currently enabled in the material's channel settings appear in this list.** If the channel you want to fill is not available:
 
 * Open the channel settings panel (at the very bottom of the left navigation bar)
 * Click "Edit list"
@@ -67,7 +67,7 @@ Once enabled, the channel becomes available in the Applied to… dropdown.
 
 <b>Basic parameters</b>
 
-The Fill filter parameters change dynamically depending on the type of channel selected in Applied to…. There are four parameter sets, each corresponding to a specific type of map.
+The Fill filter parameters **change dynamically depending on the type of channel** selected in Applied to…. There are four parameter sets, each corresponding to a specific type of map.
 
 ##### Colour map parameters
 
