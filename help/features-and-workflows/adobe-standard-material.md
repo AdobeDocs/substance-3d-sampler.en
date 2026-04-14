@@ -14,6 +14,11 @@ user-guide-title: ""
 
 # Adobe Standard Material
 
+>[!NOTE]
+>
+> Substance 3D Sampler now defaults to the [OpenPBR](openpbr.md) material model rather than Adobe Standard Material.
+
+
 ## Standard material properties
 
 ## Base surface properties

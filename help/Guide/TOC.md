@@ -180,14 +180,6 @@ user-guide-description: Substance 3D Sampler
     + [FAQ for HP Z support in Sampler](/help/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.md)
     + [Known issues and limitations](/help/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.md)
   + [Tajima Exporter plugin](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
-+ 3D Capture{#3d-capture}
-  + [3D Capture equipment](/help/3d-capture/equipment.md)
-  + [Camera settings - Exposure](/help/3d-capture/camera-settings-exposure-substance-3d-sampler.md)
-  + [Camera settings - Focus](/help/3d-capture/camera-settings-focus-substance-3d-sampler.md)
-  + [3D Capture lighting](/help/3d-capture/3d-capture-lighting-substance-3d-sampler.md)
-  + [Cross-polarizing for 3D Capture](/help/3d-capture/cross-polarising-for-3d-capture-substance-3d-sampler.md)
-  + [Processing advanced 3D Captures](/help/3d-capture/processing-advanced-3d-captures.md)
-  + [Editing 3D Captured meshes](/help/3d-capture/editing-3d-captured-meshes.md)
 + Technical Support{#technical-support}
   + [Technical Support overview](/help/technical-support/technical-support.md)
   + [Exporting the log file](/help/technical-support/exporting-the-log-file.md)

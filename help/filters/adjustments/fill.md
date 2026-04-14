@@ -69,17 +69,17 @@ Once enabled, the channel becomes available in the Applied to… dropdown.
 
 The Fill filter parameters **change dynamically depending on the type of channel** selected in Applied to…. There are four parameter sets, each corresponding to a specific type of map.
 
-##### Colour map parameters
+### Colour map parameters
 
 Used when the Fill filter is applied to colour channels.
 
-###### Example channels:
+#### Example channels:
 
 * Base Color
 * Coat Color
 * Subsurface Color...
 
-###### Available parameters
+#### Available parameters
 
 * Colour
   Selects the RGB colour used to fill the channel.
@@ -94,18 +94,18 @@ Used when the Fill filter is applied to colour channels.
 
 This mode is typically used to initialise or override colour information.
 
-##### Greyscale map parameters
+### Greyscale map parameters
 
 Used when the Fill filter is applied to scalar greyscale channels.
 
-###### Example channels:
+#### Example channels:
 
 * Specular Roughness
 * Base Metalness
 * Opacity
 * Height...
 
-###### Available parameters
+#### Available parameters
 
 * Value
   Sets a single greyscale value for the channel.
@@ -121,16 +121,16 @@ Used when the Fill filter is applied to scalar greyscale channels.
 
 This mode is useful for defining uniform physical properties, such as a constant roughness or opacity value.
 
-##### Normal map parameters
+#### Normal map parameters
 
 Used when the Fill filter is applied to **Normal** channels.
 
-###### Example channels:
+##### Example channels:
 
 * Normal
 * Coat Normal
 
-###### Available parameters
+##### Available parameters
 
 * Random Seed
   Changes the randomisation used when procedural variations are enabled.
@@ -141,15 +141,15 @@ Used when the Fill filter is applied to **Normal** channels.
 
 This mode is primarily used to reset or neutralise normal information, or to establish a clean baseline before adding normal detail.
 
-##### Uniform value parameters
+### Uniform value parameters
 
 Used for channels that rely on a single uniform physical value rather than a texture map.
 
-###### Example channels
+#### Example channels
 
 * Specular IOR...
 
-###### Available parameters
+#### Available parameters
 
 * Random Seed
   Changes the randomisation used when procedural variations are enabled.

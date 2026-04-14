@@ -23,7 +23,7 @@ user-guide-title: ""
 </td>
 <td width="58.30%" style="border: 0;" valign="top">
 
-Use the <b>Physical Size Panel </b>to configure the real-life physical size of your scanned samples and images<b>.</b>
+Use the **Physical Size Panel** to configure the real-life physical size of your scanned samples and images.
 
 </td>
 </tr>
@@ -38,16 +38,16 @@ The following tools and parameters let you define the physical size of your mate
 >
 > To set the Physical size of your material, you need to have an image(s) import layer.
 
-In order to compute the physical size of your sample/image enable <b>Set physical size</b>.
+In order to compute the physical size of your sample/image enable **Set physical size**.
 
 ### Input image size
 
 This section allows you to manually set the size of your sample and provides tools to calculate the physical size automatically.
 
-<b>Reference layer:</b> Reference the image from which the physical size is calculated.  
-<b>Width (X): </b>Set the physical width of the reference layer  
-<b>Height(y): </b>Set the physical height of the reference layer  
-<b>Tools:</b>
+**Reference layer:** Reference the image from which the physical size is calculated.  
+**Width (X):** Set the physical width of the reference layer  
+**Height(y):** Set the physical height of the reference layer  
+**Tools:**
 
 ![](../../assets/screenshot-2022-01-17-at-13-59-37.png)
 
