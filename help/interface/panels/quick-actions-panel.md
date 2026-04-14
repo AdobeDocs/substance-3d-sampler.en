@@ -33,4 +33,4 @@ When you hover over a quick action, you can use the options button that appears 
 * **Create a new asset** using the selected quick action.
 * **Create a new project** using the selected quick action.
 
-![](../../assets/MISSINGIMAGE)
+![The Quick actions panel showing the options for a given action.](../../assets/6.0_QuickActions_SelectionOptions.png)

@@ -8,7 +8,7 @@ user-guide-title: ""
 
 # OpenPBR in Substance 3D Sampler
 
-![alt text](OpenPBR_1820x1024.jpg)
+![alt text](../assets/OpenPBR_1820x1024.jpg)
 
 OpenPBR is an open, physically based surface shading model designed to provide a consistent and predictable way to describe materials across different 3D tools, renderers, and pipelines. It defines a single, comprehensive material model capable of representing a wide range of real-world surfaces, while remaining flexible enough to support more stylized or artist-driven looks using physically meaningful parameters. 
 
