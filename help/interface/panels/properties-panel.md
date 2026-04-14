@@ -39,8 +39,8 @@ In this image of the **Layers panel**, each icon in the layer stack has a differ
 
 The **Applied to** section of the **Properties panel** lets you control which channels the current layer affects. Like with other properties, the channel settings are different based on whether the layer or the blend is selected. 
 
-![](../../assets/MISSINGIMAGE)
+![The Applied to... section of the properties channel lets you control which channels the current filter affects.](../../assets/6.0_AppliedTo.png)
 
 By default, all channels are toggled on for the majority of materials and filters. Some filters, such as Brightness or Vibrance, only impact a single channel. When filters only affect a single channel, you can see the affected channel next to the layer name.
 
-![](../../assets/MISSINGIMAGE)
+![A screenshot of the layer panel with the channel callouts underlined.](../../assets/6.0_LayerChannelSpecifier.png)

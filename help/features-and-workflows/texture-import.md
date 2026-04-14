@@ -20,21 +20,76 @@ The **Texture Import** template loads multiple images and automatically connects
 
 Channel matching is based on the specific naming conventions detailed below. In case of duplicates or textures without a match, images will be marked as such in the interface.
 
-## Naming Conventions
+## OpenPBR
+
+Sampler will match files with the following OpenPBR identifiers with the equivalent channel in the material.
+
+>[!NOTE]
+>
+> Height channel identifiers are the same as those used for ASM.
+
+
+| OpenPBR Identifier | SBSAR Usage |
+| --- | --- |
+| base_weight | baseWeight |
+| base_color | baseColor |
+| base_metalness | metalness/metallic |
+| base_diffuse_roughness | baseDiffuseRoughness |
+| specular_weight | specularWeight |
+| specular_color | specularColor |
+| specular_roughness | specularRoughness/roughness |
+| specular_roughness_anisotropy | specularRoughnessAnisotropy/anisotropyLevel |
+| specular_ior | specularIOR/IOR |
+| transmission_weight | transmissionWeight |
+| transmission_color | transmissionColor/absorptionColor |
+| transmission_depth | transmissionDepth/absorptionDistance |
+| transmission_scatter | transmissionScatter |
+| transmission_scatter_anisotropy | transmissionScatterAnisotropy |
+| transmission_dispersion_scale | transmissionDispersionScale |
+| transmission_dispersion_abbe_number | transmissionDispersionAbbeNumber |
+| subsurface_weight | subsurfaceWeight/translucency |
+| subsurface_color | subsurfaceColor/scatteringColor |
+| subsurface_radius | subsurfaceRadius/scatteringDistance |
+| subsurface_radius_scale | subsurfaceRadiusScale/scatteringDistanceScale |
+| subsurface_scatter_anisotropy | subsurfaceScatterAnisotropy |
+| coat_weight | coatWeight/coatOpacity |
+| coat_color | coatColor |
+| coat_roughness | coatRoughness |
+| coat_roughness_anisotropy | coatRoughnessAnisotropy |
+| coat_ior | coatIOR |
+| coat_darkening | coatDarkening |
+| fuzz_weight | fuzzWeight/sheenOpacity |
+| fuzz_color | fuzzColor/sheenColor |
+| fuzz_roughness | fuzzRoughness/sheenRoughness |
+| emission_weight | emissionWeight |
+| emission_luminance | emissionLuminance |
+| emission_color | emissionColor/emisive |
+| thin_film_weight | thinFilmWeight |
+| thin_film_thickness | thinFilmThickness |
+| thin_film_ior | thinFilmIOR |
+| opacity | opacity |
+| thin_walled | thinWalled |
+| normal | normal |
+| tangent | tangent |
+| coat_normal | coatNormal |
+| coat_tangent | coatTangent |
+
+## Adobe Standard Material
 
 Below is a list of the supported file naming conventions for each channel:
 
-| *Channel* | *Naming* |
+| **Channel** | **Adobe Standard Material** |
 | --- | --- |
-| **Ambient Occlusion** | <ul data-preserve-html="true"><li data-preserve-html="true">ambientocclusion</li><li data-preserve-html="true">ao</li><li data-preserve-html="true">occlusion</li><li data-preserve-html="true">ambient&#95;occlusion</li></ul> |
-| **Base Color** | <ul data-preserve-html="true"><li data-preserve-html="true">basecolor</li><li data-preserve-html="true">color</li><li data-preserve-html="true">albedo</li><li data-preserve-html="true">base&#95;color</li><li data-preserve-html="true">base</li><li data-preserve-html="true">col</li><li data-preserve-html="true">colour</li><li data-preserve-html="true">base&#95;colour</li><li data-preserve-html="true">basecolour</li></ul> |
-| **Diffuse** | <ul data-preserve-html="true"><li data-preserve-html="true">diffuse</li><li data-preserve-html="true">diff</li></ul> |
-| **Emissive** | <ul data-preserve-html="true"><li data-preserve-html="true">emissive</li></ul> |
-| **Glossiness** | <ul data-preserve-html="true"><li data-preserve-html="true">glossiness</li><li data-preserve-html="true">gloss</li></ul> |
-| **Height** | <ul data-preserve-html="true"><li data-preserve-html="true">height</li><li data-preserve-html="true">heightmap</li><li data-preserve-html="true">displacement</li><li data-preserve-html="true">disp</li></ul> |
-| **Metallic** | <ul data-preserve-html="true"><li data-preserve-html="true">metallic</li><li data-preserve-html="true">mtl</li><li data-preserve-html="true">metalness</li></ul> |
-| **Normal** | <ul data-preserve-html="true"><li data-preserve-html="true">normal</li><li data-preserve-html="true">nrm</li></ul> |
-| **Opacity** | <ul data-preserve-html="true"><li data-preserve-html="true">opacity</li><li data-preserve-html="true">alpha</li></ul> |
-| **Roughness** | <ul data-preserve-html="true"><li data-preserve-html="true">roughness</li><li data-preserve-html="true">rough</li></ul> |
-| **Specular** | <ul data-preserve-html="true"><li data-preserve-html="true">specular</li><li data-preserve-html="true">spec</li></ul> |
-| **Specular Level** | <ul data-preserve-html="true"><li data-preserve-html="true">specularlevel</li><li data-preserve-html="true">specular&#95;level</li></ul> |
+| **Ambient Occlusion** | <ul><li>ambientocclusion</li><li>ao</li><li>occlusion</li><li>ambient&#95;occlusion</li></ul> |
+| **Base Color** | <ul><li>basecolor</li><li>color</li><li>albedo</li><li>base&#95;color</li><li>base</li><li>col</li><li>colour</li><li>base&#95;colour</li><li>basecolour</li></ul> |
+| **Diffuse** | <ul><li>diffuse</li><li>diff</li></ul> |
+| **Emissive** | <ul><li>emissive</li></ul> |
+| **Glossiness** | <ul><li>glossiness</li><li>gloss</li></ul> |
+| **Height** | <ul><li>height</li><li>heightmap</li><li>displacement</li><li>disp</li></ul> |
+| **Metallic** | <ul><li>metallic</li><li>mtl</li><li>metalness</li></ul> |
+| **Normal** | <ul><li>normal</li><li>nrm</li></ul> |
+| **Opacity** | <ul><li>opacity</li><li>alpha</li></ul> |
+| **Roughness** | <ul><li>roughness</li><li>rough</li></ul> |
+| **Specular** | <ul><li>specular</li><li>spec</li></ul> |
+| **Specular Level** | <ul><li>specularlevel</li><li>specular&#95;level</li></ul> |
+

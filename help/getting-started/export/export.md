@@ -20,8 +20,7 @@ You can export your assets by selecting **Export as** in the **File menu**, or w
 >
 > In the **Export window**, changing the Material model option will change the exported filenames to match the selected material model.
 
-
-![](../../assets/Export-ExportWindow.png)
+![Export window with material settings selected](../../assets/6.0_ExportWindowMaterialSettings.png)
 
 Sampler supports major file formats for your assets:
 

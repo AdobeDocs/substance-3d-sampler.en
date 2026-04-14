@@ -14,9 +14,21 @@ user-guide-title: ""
 
 # Channel Settings panel
 
+<table>
+<tr style="border: 0;">
+<td style="border: 0; width: 30%" valign="top">
+
+
 The **Channel Settings** panel controls the list of channels computed for your current material. You can manage channel visibility, add or remove channels from your material, or change the material model being used.
 
-![](../../assets/MISSINGIMAGE){width="200px"}
+</td>
+<td style="border: 0;" valign="top">
+
+![The channel settings panel.](../../assets/6.0_ChannelSettingsPanel.png)
+
+</td>
+</tr>
+</table>
 
 ## Material model
 
@@ -31,11 +43,23 @@ When you change the material model, your layer stack will need to be recalculate
 
 ## Material channels
 
+<table>
+<tr style="border: 0;">
+<td style="border: 0; width: 30%" valign="top">
+
+
 This section displays the list of channels that are computed by default based on the workflow.
 
 You can use the **Edit list button** to open **Channel selection** and change which channels are computed for your material. 
 
-![](../../assets/channel-settings-default-channels.jpg){width="200px"}
+</td>
+<td style="border: 0;" valign="top">
+
+![The Channel settings panel with the Material channels section highlighted](../../assets/6.0_ChannelSettingsPanel_MaterialChannels.png){width="200px"}
+
+</td>
+</tr>
+</table>
 
 >[!NOTE]
 >
@@ -45,7 +69,7 @@ You can use the **Edit list button** to open **Channel selection** and change wh
 
 The Channel selection window lets you add or remove channels from your material.
 
-![](../../assets/MISSINGIMAGE)
+![A screenshot of the Channel selection window with Adobe Standard Material selected as the Material model.](../../assets/6.0_ChannelSelectionWindow.png)
 
 To add a channel to your material, select an available channel and use the **> button**.
 To remove a channel from your material, select the channel from the **Selected channels list** and use the **< button**.
@@ -65,7 +89,9 @@ You can also use presets to quickly select a list of channels for your material.
 
 Toggle additional channels that are not included with the selected workflow by default.
 
-![](../../assets/channel-settings-custom-channels.jpg){width="200px"}
+<table>
+<tr style="border: 0;">
+<td style="border: 0; width: 30%" valign="top">
 
 Each custom channel has two options that you can use to control it:
 
@@ -73,4 +99,16 @@ Each custom channel has two options that you can use to control it:
 2. Use the **Auto button** to toggle whether the channel is automatically computed. 
     * When turned on, the channel will be computed if a layer above it in the stack requests it.
     * When turned off, the channel is always computed.
+
+</td>
+<td style="border: 0;" valign="top">
+
+![The Channel settings panel with the Custom channels section highlighted.](../../assets/6.0_ChannelSettingsPanel_CustomChannels.png){width="200px"}
+
+
+</td>
+</tr>
+</table>
+
+
     

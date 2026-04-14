@@ -18,8 +18,7 @@ You can export your asset from the <b>Export</b> panel in the <b>Right bar</b>.
 
 Export options depend on the type of asset being exported.
 
-![An image of the export window](../../../assets/Export-ExportWindow.png)
-
+![An image of the export window](../../../assets/6.0_ExportWindowMaterialSettings.png)
 
 The Export window for a material export.
 

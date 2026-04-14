@@ -14,7 +14,7 @@ user-guide-title: ""
 
 # Getting Started
 
-![](../assets/Getting-started-homepage.png)
+![](../assets/6.0_HomeScreen.png)
 
 When you open Sampler, the <b>Home Screen</b> will appear. The <b>Home Screen</b> has a number of options to help you get started with a new or existing Sampler project.
 

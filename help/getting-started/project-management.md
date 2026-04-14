@@ -20,7 +20,7 @@ In Substance 3D Sampler you can use collections to manage all your assets and ma
 
 To create a new project, select <b>Create new</b> in the <b>Home </b>screen or <b>File &gt; New Project</b>. Creating a new project will launch the Quick Start dialogue, where you can select a quick action or import an image or Substance file to start your project.
 
-![](../assets/Project-management-Buttons.png)
+![](../assets/6.0_HomeScreenFocus.png)
 
 Alternatively, you can use the <b>Quick start</b> button to jump right into an empty project. You can still manually import assets and content as needed.
 
