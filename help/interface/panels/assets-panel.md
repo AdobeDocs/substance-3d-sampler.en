@@ -33,7 +33,7 @@ To add your own assets to the assets panel, click the **+** at the lower right o
 
 When drag and droping materials from the asset panel to your layer stack, you might be offered to activate extra channels. It is offered when the material outputs a channel which is not currently activated in your asset. You might want to activate it if you want to benefit from the full complexity of the material, like some anisotropy effects or coating.
 
-![channel activation popup when a material is added to the layer stack](sampler_assets-panel_additional-channels-activation.png)
+![channel activation popup when a material is added to the layer stack](../../../help/assets/sampler_assets-panel_additional-channels-activation_1.png)
 
 >[!NOTE]
 >

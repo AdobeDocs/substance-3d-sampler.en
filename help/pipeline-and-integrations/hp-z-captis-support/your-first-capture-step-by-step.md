@@ -46,7 +46,7 @@ In this new update, there are two modes: Auto and Manual.
 
 #### Auto mode
 
-![Captis auto mode](sampler_captis-default-interface.png)
+![Captis auto mode](../../../help/assets/sampler_captis-default-interface_1.png)
 
 You now have the possibility to launch the capture in one click: Sampler will:
 
@@ -59,7 +59,7 @@ If you have made captures previously, the material category, outputs and capture
 
 #### Manual mode
 
-![Captis workflow in Substance 3D Sampler Manual mode](sampler_captis-manual-mode.png)
+![Captis workflow in Substance 3D Sampler Manual mode](../../../help/assets/sampler_captis-manual-mode_1.png)
 
 You can also choose to define some of the settings by hand:
 
@@ -79,7 +79,7 @@ You can define a project name of your capture and define which type of outputs y
 * px/in - 142 px/cm (Default: high quality, easily maneageable in the majority of workflows - equivalent to 4k for 30x30cm capture)
 * 718px/in - 284 px/cm (Full resolution - equivalent to 8k for 30x30cm capture)
 
-![Capture resolutions in Captis and Sampler workflow](sampler_captis-capture-resolution-6.0-1.png)
+![Capture resolutions in Captis and Sampler workflow](../../../help/assets/sampler_captis-capture-resolution-6.0-1.png)
 Note: Only PBR channels will be loaded in Sampler.  
 The default folder captures are saved in can be modified in the preferences.
 
@@ -115,7 +115,7 @@ You can set both by hand if you prefer.
 
 Other types of settings<b> only have to be modified on occasion</b>: the color and alignment calibration.
 
-![Calibrating the HP Z Captis in Substance 3D Sampler](sampler_captis-calibration.png)
+![Calibrating the HP Z Captis in Substance 3D Sampler](../../../help/assets/sampler_captis-calibration_1.png)
 
 * Color calibration
 
@@ -152,13 +152,13 @@ The processing part is split in three parts:
 
 While it is capturing and processing, you can add metadata (same metadata that you will find in Sampler metadata panel).
 
-![Capturing step](sampler_captis-capturing.png)
+![Capturing step](../../../help/assets/sampler_captis-capturing_1.png)
 
 During the processing, you will see the result is built tile by tile.
 
 ## Summary step
 
-![Summary step in digitization process with Sampler and Captis](sampler_captis-summary.png)
+![Summary step in digitization process with Sampler and Captis](../../../help/assets/sampler_captis-summary_1.png)
 
 At this step you can review the results of the scan. All the created channels are displayed (in Explorer mode, no opacity is created since the explorer ring does not have a backlight).
 
@@ -170,7 +170,7 @@ In both cases you will find your scanned maps in the equivalent folder on your c
 
 After exiting HP Z Captis window, the channels (base color, normal, height, roughness and opacity if relevant) will be added as a layer in the Layers panel.
 
-![alt text](sampler_captis-imported-material.png)
+![alt text](../../../help/assets/sampler_captis-imported-material_1.png)
 
 
 Use Sampler filters (Equalize, Perspective Crop, Tiling, …) to process and clean your material.
