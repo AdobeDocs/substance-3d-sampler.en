@@ -20,7 +20,7 @@ The main new features include:
 
 Sampler 6.0 adopts OpenPBR, the industry's unified material model. Build materials that are natively understood across the wider 3D ecosystem: one standard, endless compatibility.Design once, eliminate guesswork, and accelerate your workflow with a model built for seamless interoperability across tools.
 
-More info *[here](../filters/tools/auto-tiling.md)*.
+More info *[here](../features-and-workflows/openpbr.md)*
 
 ![OpenPBR Material standard in Substance 3D Sampler](OpenPBR_1820x1024.jpg)
 
@@ -28,7 +28,7 @@ More info *[here](../filters/tools/auto-tiling.md)*.
 
 Create richer and more complex materials instantly. New templates like fuzz, translucency, and clear coat let you add advanced physical effects without the complexity. Just pick a template, and go!
 
-More info *[here](../features-and-workflows/flatten-layers.md)*.
+More info *[here](../interface/tools-and-widgets/material-creation-presets.md)*
 
 ![alt text](Sampler_Complex_Materials.jpg)
 
@@ -36,15 +36,13 @@ More info *[here](../features-and-workflows/flatten-layers.md)*.
 
 Sampler 6.0 refines the entire experience around what matters most: creating high‑quality digital twin materials. Every update and new feature is designed to remove friction, save you time, and let you focus on the parts of your workflow that truly add value.
 
-More info *[here](../features-and-workflows/flatten-layers.md)*
-
 ![alt text](Sampler_built_for_material_creation.jpg)
 
 ## A new layer stack made for control
 
 Take charge of your materials. With the redesigned property panel, you can target filters per channel, giving you precise edits without extra steps.
 
-More info *[here](../features-and-workflows/flatten-layers.md)*
+More info *[here](../interface/panels/properties-panel.md)*
 
 ![alt text](Sampler_Infographic_1920x1080.png)
 
@@ -52,7 +50,7 @@ More info *[here](../features-and-workflows/flatten-layers.md)*
 
 Sampler now lets you launch an HP Z Captis capture in a single click, with the region of interest detected automatically, rotatable on demand, and smart automation for focus and light intensity, so you get sharp and consistent maps with less setup.
 
-More info *[here](../features-and-workflows/flatten-layers.md)*
+More info *[here](../pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.md)*
 
 ![alt text](Captis_capture_optimization.JPG)
 
