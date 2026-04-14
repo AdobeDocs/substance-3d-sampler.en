@@ -168,7 +168,7 @@ user-guide-description: Substance 3D Sampler
   + [Texture Generators](/help/features-and-workflows/texture-generators.md)
   + [Use As Bitmap](/help/features-and-workflows/use-as-bitmap.md)
   + [Adobe Standard Material](/help/features-and-workflows/adobe-standard-material.md)
-  + [OpenPBR](help/features-and-workflows/openpbr.md)
+  + [OpenPBR](/help/features-and-workflows/openpbr.md)
 + Pipeline and integrations{#pipeline-and-integrations}
   + [Pipeline and integrations overview](/help/pipeline-and-integrations/pipeline-and-integrations.md)
   + [Environment variables](/help/pipeline-and-integrations/environment-variables.md)
