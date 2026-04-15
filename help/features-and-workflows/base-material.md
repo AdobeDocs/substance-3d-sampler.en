@@ -1,4 +1,5 @@
 ---
+hold: true
 breadcrumb-title: ""
 description: Learn how to use the Base Material in Sampler, a great starting point for efficient material editing.
 title: Use As Bitmap

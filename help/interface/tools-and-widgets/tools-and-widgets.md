@@ -1,4 +1,5 @@
 ---
+hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/tools-and-widgets.html"
 breadcrumb-title: ""
 description: Learn about tools and widgets in Substance 3D Sampler interface to access commonly used filters and interface elements quickly.

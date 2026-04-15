@@ -1,4 +1,5 @@
 ---
+hold: true
 breadcrumb-title: ""
 description: Learn how to use material templates in Substance 3D Sampler to quickly create complex, realistic materials by applying advanced physical effects through simple, ready‑to‑use starting points.
 user-guide-description: ""

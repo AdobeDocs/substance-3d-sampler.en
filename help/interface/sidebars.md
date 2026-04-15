@@ -1,4 +1,5 @@
 ---
+hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/sidebars.html"
 breadcrumb-title: ""
 description: Learn about the left and right sidebars in Substance 3D Sampler interface to navigate tools, panels, and application features.

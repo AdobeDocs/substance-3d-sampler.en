@@ -1,4 +1,5 @@
 ---
+hold: true
 breadcrumb-title: ""
 description: Learn how to use OpenPBR in Substance 3D Sampler to create materials compatible with the rest of the 3D ecosystem.
 title: OpenPBR in Substance 3D Sampler
