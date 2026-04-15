@@ -1,5 +1,4 @@
 ---
-hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/project-management.html"
 breadcrumb-title: ""
 description: Learn how to manage projects in Substance 3D Sampler using collections to organize assets and materials for efficient workflows.

@@ -1,5 +1,4 @@
 ---
-hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/layers-panel.html"
 breadcrumb-title: ""
 description: Learn how to use the Layers panel in Substance 3D Sampler to manage filter layers and build complex material stacks.

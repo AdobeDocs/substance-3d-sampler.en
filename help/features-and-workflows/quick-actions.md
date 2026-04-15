@@ -1,5 +1,4 @@
 ---
-hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/quick-actions.html"
 breadcrumb-title: ""
 description: Learn how to use quick actions in Substance 3D Sampler to perform common material editing tasks efficiently with shortcut tools.

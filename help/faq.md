@@ -1,5 +1,4 @@
 ---
-hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/faq.html"
 breadcrumb-title: ""
 description: Access frequently asked questions about Substance 3D Sampler to find answers about features, installation, and usage.

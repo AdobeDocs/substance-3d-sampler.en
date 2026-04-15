@@ -1,5 +1,4 @@
 ---
-hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/adjustments/fill.html"
 breadcrumb-title: ""
 description: Use the Fill filter in Substance 3D Sampler to fill texture areas with solid colors or patterns for material creation workflows.

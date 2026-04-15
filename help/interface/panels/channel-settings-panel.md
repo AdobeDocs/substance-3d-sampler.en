@@ -1,5 +1,4 @@
 ---
-hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/channel-settings-panel.html"
 breadcrumb-title: ""
 description: Learn how to use the Channel Settings panel in Substance 3D Sampler to manage material channels and control channel visibility.
