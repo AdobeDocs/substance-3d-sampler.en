@@ -10,7 +10,7 @@ user-guide-title: ""
 
 Jalapeño
 
-![alt text](../../help/assets/Sampler_splash_large_1.jpg)
+![alt text](../../help/assets/Sampler_splash_large.jpg)
 
 This update introduces industry-standard OpenPBR support, Material presets for faster creation of advanced materials, and a redesigned Properties panel for more flexible authoring.
 
@@ -22,7 +22,7 @@ Sampler 6.0 adopts OpenPBR, the industry's unified material model. Build materia
 
 More info *[here](../features-and-workflows/openpbr.md)*
 
-![OpenPBR Material standard in Substance 3D Sampler](../../help/assets/OpenPBR_1820x1024_1.jpg)
+![OpenPBR Material standard in Substance 3D Sampler](../../help/assets/OpenPBR_1820x1024.jpg)
 
 ## Complex materials in a click
 
@@ -30,13 +30,13 @@ Create richer and more complex materials instantly. New templates like fuzz, tra
 
 More info *[here](../interface/tools-and-widgets/material-creation-presets.md)*
 
-![alt text](../../help/assets/Sampler_Complex_Materials_1.jpg)
+![alt text](../../help/assets/Sampler_Complex_Materials.jpg)
 
 ## Built for material creation
 
 Sampler 6.0 refines the entire experience around what matters most: creating high‑quality digital twin materials. Every update and new feature is designed to remove friction, save you time, and let you focus on the parts of your workflow that truly add value.
 
-![alt text](../../help/assets/Sampler_built_for_material_creation_1.jpg)
+![alt text](../../help/assets/Sampler_built_for_material_creation.jpg)
 
 ## A new layer stack made for control
 
@@ -44,7 +44,7 @@ Take charge of your materials. With the redesigned property panel, you can targe
 
 More info *[here](../interface/panels/properties-panel.md)*
 
-![alt text](../../help/assets/Sampler_Infographic_1920x1080_1.png)
+![alt text](../../help/assets/Sampler_Infographic_1920x1080.png)
 
 ## Capture materials faster than ever
 
@@ -52,7 +52,7 @@ Sampler now lets you launch an HP Z Captis capture in a single click, with the r
 
 More info *[here](../pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.md)*
 
-![alt text](../../help/assets/Captis_capture_optimization_1.JPG)
+![alt text](../../help/assets/Captis_capture_optimization.JPG)
 
 ## V6.0 Release Notes
 
