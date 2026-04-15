@@ -1,4 +1,5 @@
 ---
+hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/share-panel.html"
 breadcrumb-title: ""
 description: Learn how to use the Export panel in Substance 3D Sampler to export materials as files or send them directly to other applications.
@@ -29,15 +30,23 @@ Materials are always sent as SBSAR, environments as EXR.
 
 ## Export
 
-Click **Export as...** to export the asset you're currently working on. In the window that appears there are some options to adjust your export:
+Click **Export as...** to export the asset you're currently working on. Select whether to modify General settings or Material settings from the left menu. 
+
+### General settings
+
+With General settings selected, you can change the name of the material, and the save location. You can also toggle whether to create a subfolder for the material. This can be useful when exporting in an image format which creates multiple files.
+
+### Material settings
+
+With Material settings selected, you can change various parameters to control how the material will be exported:
 
 | Setting | Description |
 | --- | --- |
-| Name | Change the name of your asset. |
-| Destination path | Change the save location. |
-| Format | Choose whether to export as an SBS, SBSAR, or as a collection of images. |
-| Preset | Select a preset to automatically organize your export for a specific application. [More information about presets is available here](../../getting-started/export/default-presets/default-presets.md). |
-| Resolution | Change the resolution of your export. |
+| Format | Choose whether to export as an SBS, SBSAR, or as a collection of images in a specific image format |
+| Preset | Select a preset to automatically organize your export for a specific application. [More information about presets is available here](../../getting-started/export/default-presets/default-presets.md). Presets are only available when an image format is selected. |
+| Compression | Choose whether compression prioritises speed or efficiency <br> <ul> <li> **Auto**: Allow Sampler to choose. <li> **Best**: Maximize compression efficiency for smaller files. <li> **None**: No compression means faster opening and closing of the exported files but larger file sizes. </ul> |
+| Resolution | Change the resolution of your export. This option appears differently based on which Format is selected <br> <ul> <li> **SBSAR/SBS**: Select a default width and height for the material. These can be updated later. <li> **Image format**: Select between **Layers output** which exports each map at the size defined by the layer stack, or **Override all** which allows you to specify a width and height for export. |
+| Material model | Select whether to export as an Adobe Standard Material or as an OpenPBR material. Which option you select should depend on which other applications you are using in your pipeline. Different channels will become available based on the Material model. |
 | Channels | Toggle which channels should be exported as part of your asset. |
 
 >[!NOTE]

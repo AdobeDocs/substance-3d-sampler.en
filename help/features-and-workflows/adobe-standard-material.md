@@ -1,4 +1,5 @@
 ---
+hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/features-and-workflows/adobe-standard-material.html"
 breadcrumb-title: ""
 description: Learn how to use Adobe Standard Material in Substance 3D Sampler to create materials compatible with Adobe's material standard.
@@ -13,6 +14,11 @@ user-guide-title: ""
 ---
 
 # Adobe Standard Material
+
+>[!NOTE]
+>
+> Substance 3D Sampler now defaults to the [OpenPBR](openpbr.md) material model rather than Adobe Standard Material.
+
 
 ## Standard material properties
 

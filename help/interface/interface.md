@@ -1,4 +1,5 @@
 ---
+hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface.html"
 breadcrumb-title: ""
 description: Learn about the Substance 3D Sampler interface including viewports, sidebars, and panels to navigate and use the application effectively.
@@ -22,18 +23,7 @@ Sampler's workspace is made up of the 2D and 3D viewports, the left and right Si
 
 ## Workspace overview
 
-The workspace is where you will spend most of your time in Sampler. By default the workspace consists of six areas:
-
-A. The <b>Application menu bar</b> shows the current project name. It also holds the File, Edit, Window, Help, and License menus.  
-B. The <b>Left sidebar</b> holds shortcuts to Quick actions and certain tools, as well as the <b>Generative</b>, <b>Shader settings</b>, and <b>Channel settings</b> panels.   
-C. The <b>Project</b> and <b>Assets panels.  
-</b>D. The <b>2D </b>and <b>3D Viewports</b> displays the asset you're currently working on.  
-E. The <b>Layers</b> and <b>Properties panels.  
-</b>F. The <b>Right sidebar</b> gives access to the <b>Exposed parameters</b>, <b>Physical size</b>, <b>Metadata</b>, and <b>Export panels.</b>
-
-The <b>Application menus</b> are covered in more detail below. <b>Panels</b>, the <b>Viewport</b> and the <b>sidebars</b> each have their own articles.
-
-</td>
+The workspace is where you will spend most of your time in Sampler. By default the workspace consists of six areas:</td>
 <td style="border: 0;" valign="top">
 
 ![A diagram showing the Sampler interface](../assets/Interface-overview-diagram.png){zoomable="yes"}
@@ -41,6 +31,27 @@ The <b>Application menus</b> are covered in more detail below. <b>Panels</b>, th
 </td>
 </tr>
 </table>
+
+A. The <b>Application menu bar</b> shows the current project name. It also holds the File, Edit, Window, Help, and License menus.  
+B. From the **Left sidebar** you can:
+
+* Add and import content.
+* Browse 3D assets on Creative Cloud Desktop.
+* Access Quick actions.
+* Quickly access common tools.
+* Open the **Channel settings panel**.
+
+C. The <b>Project</b> and <b>Assets panels.</b>
+D. The <b>2D </b>and <b>3D Viewports</b> display the asset you're currently working on.  
+E. The <b>Layers</b> and <b>Properties panels.</b>
+F. From the **Right sidebar** you can access the following panels:
+
+* Exposed parameters
+* Physical size
+* Metadata
+* Export
+
+The <b>Application menus</b> are covered in more detail below. **[Panels](panels/panels.md)**, the **[Viewport](2d-and-3d-viewport.md)** and the **[Sidebars](sidebars.md)** each have their own articles.
 
 ## Customize the workspace
 
@@ -62,21 +73,18 @@ To open a panel again, click the relevant icon for the panel in either the left 
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-The Left Sidebar holds the following panels when they're closed:
+The Left Sidebar provides access to the following panels when they're closed:
 
-* Quick Actions
-* Assets
-* Generative
-* Project
-* Shader Settings
-* Channel Settings
+* Project panel
+* Assets panel
+* Quick actions panel
 
 </td>
 <td style="border: 0;" valign="top">
 
 The Right sidebar holds the following panels when they're closed:
 
-* Layers
+* Layers panel
 * Properties
 * Exposed parameters
 * Physical Size
@@ -89,17 +97,17 @@ The Right sidebar holds the following panels when they're closed:
 
 ## Application Menus
 
-The **Application** **menu** **bar** shows the current project name. It also holds the File, Edit, Window, Help, and License menus.
+The **Application menu bar** shows the current project name. It also holds the **File**, **Edit**, **Window**, **Help**, and **License** menus.
 
 Use the <b>File</b> menu to create a new project, open an existing project, or save or export your current project.
 
-Use the <b>Edit</b> menu to undo and redo actions or access your preferences. Learn more about Sampler's Preferences [here](../interface/preferences/preferences.md).
+Use the <b>Edit</b> menu to undo and redo actions or open [Preferences](../interface/preferences/preferences.md).
 
 Use the <b>Window</b> menu to reset your workspace to the default layout.
 
 Use the <b>Help </b>menu to learn more about Sampler or find out how to fix issues.
 
-|  |  |
+| Help menu item | Description |
 | --- | --- |
 | Tutorials | Opens Sampler's tutorials page. Tutorials cover everything from the basics of using Sampler to advanced techniques that can accelerate your work. |
 | Documentation | See the documentation. The documentation provides information on all aspects of using Sampler. |

@@ -1,4 +1,5 @@
 ---
+hold: true
 user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
@@ -44,11 +45,11 @@ user-guide-description: Substance 3D Sampler
   + Panels{#panels}
     + [Panels overview](/help/interface/panels/panels.md)
     + [Project panel](/help/interface/panels/project-panel.md)
+    + [Material presets](../interface/panels/material-presets.md)
     + [Assets panel](/help/interface/panels/assets-panel.md)
     + [Layers panel](/help/interface/panels/layers-panel.md)
     + [Properties panel](/help/interface/panels/properties-panel.md)
     + [Quick Actions panel](/help/interface/panels/quick-actions-panel.md)
-    + [Shader Settings panel](/help/interface/panels/shader-settings-panel.md)
     + [Channel Settings panel](/help/interface/panels/channel-settings-panel.md)
     + [Metadata panel](/help/interface/panels/metadata-panel.md)
     + [Export panel](/help/interface/panels/share-panel.md)
@@ -156,6 +157,30 @@ user-guide-description: Substance 3D Sampler
     + [Stylization](/help/filters/wear-and-finish/stylization.md)
     + [Water](/help/filters/wear-and-finish/water.md)
     + [Varnish](/help/filters/wear-and-finish/varnish.md)
++ Features and workflows{#features-and-workflows}
+  + [Features and workflows overview](/help/features-and-workflows/features-and-workflows.md)
+  + [Quick actions](/help/features-and-workflows/quick-actions.md)
+  + [3D Capture](/help/features-and-workflows/3d-capture.md)
+  + [Export parametric assets](/help/features-and-workflows/export-parametric-assets.md)
+  + [End to end Physical Size Workflow](/help/features-and-workflows/end-to-end-physical-size-workflow.md)
+  + [Flatten layers](/help/features-and-workflows/flatten-layers.md)
+  <!-- + [Generative Workflow](/help/features-and-workflows/generative-workflows.md) -->
+  + [Texture Import](/help/features-and-workflows/texture-import.md)
+  + [Texture Generators](/help/features-and-workflows/texture-generators.md)
+  + [Use As Bitmap](/help/features-and-workflows/use-as-bitmap.md)
+  + [Adobe Standard Material](/help/features-and-workflows/adobe-standard-material.md)
+  + [OpenPBR](/help/features-and-workflows/openpbr.md)
++ Pipeline and integrations{#pipeline-and-integrations}
+  + [Pipeline and integrations overview](/help/pipeline-and-integrations/pipeline-and-integrations.md)
+  + [Environment variables](/help/pipeline-and-integrations/environment-variables.md)
+  + [Substance Send-to](/help/pipeline-and-integrations/substance-connector.md)
+  + HP Z Captis support{#hp-z-captis-support}
+    + [HP Z Captis support overview](/help/pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
+    + [Your first capture, step by step](/help/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.md)
+    + [System requirements to use the HP Z Captis device](/help/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.md)
+    + [FAQ for HP Z support in Sampler](/help/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.md)
+    + [Known issues and limitations](/help/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.md)
+  + [Tajima Exporter plugin](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + Technical Support{#technical-support}
   + [Technical Support overview](/help/technical-support/technical-support.md)
   + [Exporting the log file](/help/technical-support/exporting-the-log-file.md)
@@ -190,48 +215,11 @@ user-guide-description: Substance 3D Sampler
     + [Startup issues overview](/help/technical-support/technical-issues/startup-issues/startup-issues.md)
     + [Application doesn't start on Linux](/help/technical-support/technical-issues/startup-issues/application-doesn-t-start-on-linux.md)
     + [Crash at start up - Old OBS version](/help/technical-support/technical-issues/startup-issues/crash-at-start-up-old-obs-version.md)
-+ Features and workflows{#features-and-workflows}
-  + [Features and workflows overview](/help/features-and-workflows/features-and-workflows.md)
-  + [Quick actions](/help/features-and-workflows/quick-actions.md)
-  + [3D Capture](/help/features-and-workflows/3d-capture.md)
-  + [Export parametric assets](/help/features-and-workflows/export-parametric-assets.md)
-  + [End to end Physical Size Workflow](/help/features-and-workflows/end-to-end-physical-size-workflow.md)
-  + [Flatten layers](/help/features-and-workflows/flatten-layers.md)
-  + [Generative Workflow](/help/features-and-workflows/generative-workflows.md)
-  + [Texture Import](/help/features-and-workflows/texture-import.md)
-  + [Texture Generators](/help/features-and-workflows/texture-generators.md)
-  + [Use As Bitmap](/help/features-and-workflows/use-as-bitmap.md)
-  + [Adobe Standard Material](/help/features-and-workflows/adobe-standard-material.md)
-+ Pipeline and integrations{#pipeline-and-integrations}
-  + [Pipeline and integrations overview](/help/pipeline-and-integrations/pipeline-and-integrations.md)
-  + [Environment variables](/help/pipeline-and-integrations/environment-variables.md)
-  + [Substance Send-to](/help/pipeline-and-integrations/substance-connector.md)
-  + HP Z Captis support{#hp-z-captis-support}
-    + [HP Z Captis support overview](/help/pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
-    + [Your first capture, step by step](/help/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.md)
-    + [System requirements to use the HP Z Captis device](/help/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.md)
-    + [FAQ for HP Z support in Sampler](/help/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.md)
-    + [Known issues and limitations](/help/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.md)
-  + [Tajima Exporter plugin](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
-+ Scripting and Development{#scripting-and-development}
-  + [Scripting and Development overview](/help/scripting-and-development/scripting-and-development.md)
-  + [Manage installed plugins and scripts](/help/scripting-and-development/manage-installed-plugins-and-scripts.md)
-  + [Create a Plugin with Python and QML](/help/scripting-and-development/create-a-plugin-with-python-and-qml.md)
-  + Create a Script with Python{#create-a-script-with-python}
-    + [Create a Script with Python overview](/help/scripting-and-development/create-script-with-python/create-a-script-with-python.md)
-    + [Example Scripts](/help/scripting-and-development/create-script-with-python/example-scripts.md)
-+ 3D Capture{#3d-capture}
-  + [3D Capture equipment](/help/3d-capture/equipment.md)
-  + [Camera settings - Exposure](/help/3d-capture/camera-settings-exposure-substance-3d-sampler.md)
-  + [Camera settings - Focus](/help/3d-capture/camera-settings-focus-substance-3d-sampler.md)
-  + [3D Capture lighting](/help/3d-capture/3d-capture-lighting-substance-3d-sampler.md)
-  + [Cross-polarizing for 3D Capture](/help/3d-capture/cross-polarising-for-3d-capture-substance-3d-sampler.md)
-  + [Processing advanced 3D Captures](/help/3d-capture/processing-advanced-3d-captures.md)
-  + [Editing 3D Captured meshes](/help/3d-capture/editing-3d-captured-meshes.md)
 + Release Notes{#release-notes}
   + [Release Notes overview](/help/release-notes/release-notes.md)
   + [All Changes](/help/release-notes/all-changes.md)
   + [Beta](/help/release-notes/beta-version.md)
+  + [Version 6.0](/help/release-notes/version-6-0.md)
   + [Version 5.1](/help/release-notes/version-5-1-substance-3d-sampler.md)
   + [Version 5.0](/help/release-notes/version-5-0-substance-3d-sampler.md)
   + [Version 4.5](/help/release-notes/version-4-5-substance-3d-sampler.md)
@@ -260,5 +248,12 @@ user-guide-description: Substance 3D Sampler
     + [0.5.2](/help/release-notes/old-versions/0-5-2.md)
     + [0.5.1](/help/release-notes/old-versions/0-5-1.md)
     + [0.5.0](/help/release-notes/old-versions/0-5-0.md)
++ Scripting and Development{#scripting-and-development}
+  + [Scripting and Development overview](/help/scripting-and-development/scripting-and-development.md)
+  + [Manage installed plugins and scripts](/help/scripting-and-development/manage-installed-plugins-and-scripts.md)
+  + [Create a Plugin with Python and QML](/help/scripting-and-development/create-a-plugin-with-python-and-qml.md)
+  + Create a Script with Python{#create-a-script-with-python}
+    + [Create a Script with Python overview](/help/scripting-and-development/create-script-with-python/create-a-script-with-python.md)
+    + [Example Scripts](/help/scripting-and-development/create-script-with-python/example-scripts.md)
 + FAQ{#faq}
   + [FAQ Overview](/help/faq.md)

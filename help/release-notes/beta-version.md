@@ -1,4 +1,5 @@
 ---
+hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/beta-version.html"
 breadcrumb-title: ""
 description: Access beta versions of Substance 3D Sampler to try new features and provide feedback before official release.
@@ -14,7 +15,12 @@ user-guide-title: ""
 
 # Betas
 
-This page regroups all the Betas versions of Substance 3D Sampler. To know How to acces the Beta you can go to our [FAQ page](../faq.md).
+This page holds changelogs for Beta versions of Sampler. Find out How to acces the Beta in the [FAQ](../faq.md).
+
+>[!NOTE]
+>
+>Beta versions of Sampler are not always available. To find out when future Betas are released, follow Substance 3D social channels. 
+
 
 ## 4.4.0 Beta - Text to Texture
 

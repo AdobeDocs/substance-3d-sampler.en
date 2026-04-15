@@ -1,4 +1,5 @@
 ---
+hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started.html"
 breadcrumb-title: ""
 description: Get started with Substance 3D Sampler to learn the basics of material creation, project management, and workflow optimization.
@@ -14,12 +15,12 @@ user-guide-title: ""
 
 # Getting Started
 
-![](../assets/Getting-started-homepage.png)
+![](../assets/6.0_HomeScreen.png)
 
 When you open Sampler, the <b>Home Screen</b> will appear. The <b>Home Screen</b> has a number of options to help you get started with a new or existing Sampler project.
 
 1. <b>New project</b>: Create a new project by importing a file and choosing from a collection of Quick actions.
-1. <b>Empty project</b>: Create a new empty project.
+1. <b>Quick start</b>: Create a new empty project.
 1. <b>Open</b>: Open a project with your system's file browser.
 1. <b>Home</b>: Access recommended tutorials, create a new project, or view a list of recent projects.
 1. <b>Learn</b>: Access Sampler's video tutorials and learning content.

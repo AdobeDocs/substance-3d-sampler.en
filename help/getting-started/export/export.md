@@ -1,4 +1,5 @@
 ---
+hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html"
 breadcrumb-title: ""
 description: Learn how to export materials from Substance 3D Sampler in various formats and presets for use in other applications and engines.
@@ -14,21 +15,28 @@ user-guide-title: ""
 
 # Export
 
-![](../../assets/Export-ExportWindow.png)
+You can export your assets by selecting **Export as** in the **File menu**, or with shortcut **Ctrl + E**. This will open the [Export window](../../getting-started/export/export-window/export-window.md) where you can customize your export.
 
->[!IMPORTANT]
+>[!NOTE]
 >
-> Future change
-> 
-> Support for environment lights and meshes will be removed with the release of Sampler V5.2
+> In the **Export window**, changing the Material model option will change the exported filenames to match the selected material model.
+
+![Export window with material settings selected](../../assets/6.0_ExportWindowMaterialSettings.png)
 
 Sampler supports major file formats for your assets:
 
-* Materials as <b>Substance files</b> (.SBS and .SBSAR), or <b>bitmap textures </b>(.PNG, .JPG, .TIFF, ...)
-* Environment lights as <b>Substance files</b> (.SBS and .SBSAR), or <b>textures</b> (.EXR)
-* Meshes (USD/USDA/USDZ, glTF/GLB, obj, fbx, stl)
+* Materials can be exported as **SBS** or **SBSAR**files.
+* Alternatively materials can be exported per-channel bitmap textures in the following file formats:
+    * **EXR**
+    * **JPEG**
+    * **PNG**
+    * **TARGA**
+    * **TIFF**
+    * **USDA**
+    * **USD**
+    * **USDZ**
 
-See the following pages for more information:
+Learn more about how to export and manage export presets:
 
 * [Export Window](../../getting-started/export/export-window/export-window.md)
 * [Default presets](../../getting-started/export/default-presets/default-presets.md)
