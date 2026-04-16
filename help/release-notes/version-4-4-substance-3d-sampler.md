@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-4---substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-4substance-3d-sampler.html"
 breadcrumb-title: ""
 description: Review release notes for Substance 3D Sampler version 4.4 to learn about generative workflows including text-to-texture and image-to-texture features.
 helpx_creative_field: ""

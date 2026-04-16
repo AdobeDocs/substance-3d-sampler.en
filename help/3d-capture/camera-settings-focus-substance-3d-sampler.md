@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/camera-settings---focus---substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/camera-settingsfocussubstance-3d-sampler.html"
 breadcrumb-title: ""
 description: Learn how to configure camera focus settings in Substance 3D Sampler for optimal 3D capture quality and image sharpness.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/cross-polarising-for-3d-capture---substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/cross-polarising-for-3d-capturesubstance-3d-sampler.html"
 breadcrumb-title: ""
 description: Learn how to use cross-polarization techniques in Substance 3D Sampler to reduce reflections and improve 3D capture quality.
 helpx_creative_field: ""

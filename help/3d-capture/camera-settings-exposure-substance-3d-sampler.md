@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/camera-settings---exposure---substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/camera-settingsexposuresubstance-3d-sampler.html"
 breadcrumb-title: ""
 description: Learn how to configure camera exposure settings in Substance 3D Sampler for optimal 3D capture image quality and lighting balance.
 helpx_creative_field: ""
