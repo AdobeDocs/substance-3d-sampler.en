@@ -11,6 +11,8 @@ title: "Material creation presets"
 Material creation templates provide predefined starting points for building materials with advanced physical behaviour. Each template configures the material model, enabled channels, and default parameters required for a specific type of surface, allowing you to create complex materials quickly while keeping full control over the result.
 Templates are available when creating a new material and can be used with both OpenPBR and ASM material models.
 
+![The Create new material window](../../assets/6.0_materialPresets.png)
+
 ## Creating a material from a template
 
 To create a material using a template:
