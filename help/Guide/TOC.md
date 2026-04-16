@@ -58,6 +58,7 @@ user-guide-description: Substance 3D Sampler
     + [Tools and Widgets overview](/help/interface/tools-and-widgets/tools-and-widgets.md)
     + [Sliders](/help/interface/tools-and-widgets/sliders.md)
     + [Color Picker](/help/interface/tools-and-widgets/color-picker.md)
+    + [Material Creation Presets](../interface/tools-and-widgets/material-creation-presets.md)
   + Preferences{#preferences}
     + [Preferences overview](/help/interface/preferences/preferences.md)
     + [Normal Format](/help/interface/preferences/normal-format.md)
