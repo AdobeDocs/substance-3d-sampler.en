@@ -87,3 +87,4 @@ When enabled, the material is initialised with the values used to generate the t
 ### Edit list
 
 Click **Edit list** to customise the channel set before creating the material. You can enable or disable channels as needed, or save the configuration as a new custom template.
+

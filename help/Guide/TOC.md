@@ -2,7 +2,7 @@
 user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
-hide: no
+hide: false
 ---
 
 # Substance 3D Sampler {#using}
@@ -165,7 +165,6 @@ hide: no
   + [Export parametric assets](/help/features-and-workflows/export-parametric-assets.md)
   + [End to end Physical Size Workflow](/help/features-and-workflows/end-to-end-physical-size-workflow.md)
   + [Flatten layers](/help/features-and-workflows/flatten-layers.md)
-  <!-- + [Generative Workflow](/help/features-and-workflows/generative-workflows.md) -->
   + [Texture Import](/help/features-and-workflows/texture-import.md)
   + [Texture Generators](/help/features-and-workflows/texture-generators.md)
   + [Use As Bitmap](/help/features-and-workflows/use-as-bitmap.md)
@@ -258,3 +257,5 @@ hide: no
     + [Example Scripts](/help/scripting-and-development/create-script-with-python/example-scripts.md)
 + FAQ{#faq}
   + [FAQ Overview](/help/faq.md)
+
+  <!-- + [Generative Workflow](/help/features-and-workflows/generative-workflows.md) -->
