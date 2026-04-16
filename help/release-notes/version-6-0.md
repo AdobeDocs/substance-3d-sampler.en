@@ -18,9 +18,7 @@ The main new features include:
 
 ## OpenPBR at the heart of the Substance ecosystem
 
-Sampler 6.0 adopts OpenPBR, the industry's unified material model. Build materials that are natively understood across the wider 3D ecosystem: one standard, endless compatibility.Design once, eliminate guesswork, and accelerate your workflow with a model built for seamless interoperability across tools.
-
-More info *[here](../features-and-workflows/openpbr.md)*
+Sampler 6.0 adopts [OpenPBR](../features-and-workflows/openpbr.md), the industry's unified material model. Build materials that are natively understood across the wider 3D ecosystem: one standard, endless compatibility.Design once, eliminate guesswork, and accelerate your workflow with a model built for seamless interoperability across tools.
 
 ![OpenPBR Material standard in Substance 3D Sampler](../../help/assets/OpenPBR_1820x1024.jpg)
 
