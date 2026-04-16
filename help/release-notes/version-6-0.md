@@ -1,5 +1,4 @@
 ---
-hold: true
 breadcrumb-title: ""
 description: Review release notes for Substance 3D Sampler version 6.0 to learn about new features, improvements, and workflow enhancements.
 title: Version 6.0

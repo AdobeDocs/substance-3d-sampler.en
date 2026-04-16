@@ -1,5 +1,4 @@
 ---
-hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface/panels/properties-panel.html"
 breadcrumb-title: ""
 description: Learn how to use the Properties panel in Substance 3D Sampler to view and edit filter parameters and material properties.

@@ -1,5 +1,4 @@
 ---
-hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/getting-started/export.html"
 breadcrumb-title: ""
 description: Learn how to export materials from Substance 3D Sampler in various formats and presets for use in other applications and engines.

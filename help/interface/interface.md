@@ -1,5 +1,4 @@
 ---
-hold: true
 helpx_url: "https://helpx.adobe.com/substance-3d-sampler/interface.html"
 breadcrumb-title: ""
 description: Learn about the Substance 3D Sampler interface including viewports, sidebars, and panels to navigate and use the application effectively.
