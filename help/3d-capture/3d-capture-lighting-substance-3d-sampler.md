@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/3d-capture-lighting---substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/3d-capture/3d-capture-lightingsubstance-3d-sampler.html"
 breadcrumb-title: ""
 description: Learn how to configure lighting for 3D capture in Substance 3D Sampler to achieve optimal illumination and material quality.
 helpx_creative_field: ""

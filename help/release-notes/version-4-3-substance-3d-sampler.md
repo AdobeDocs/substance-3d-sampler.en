@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-3---substance-3d-sampler.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-sampler/release-notes/version-4-3substance-3d-sampler.html"
 breadcrumb-title: ""
 description: Review release notes for Substance 3D Sampler version 4.3 to learn about new texture generators, embroidery filter, and perspective crop tool.
 helpx_creative_field: ""
