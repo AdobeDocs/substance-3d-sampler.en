@@ -45,7 +45,6 @@ hide: no
   + Panels{#panels}
     + [Panels overview](/help/interface/panels/panels.md)
     + [Project panel](/help/interface/panels/project-panel.md)
-    + [Material presets](../interface/panels/material-presets.md)
     + [Assets panel](/help/interface/panels/assets-panel.md)
     + [Layers panel](/help/interface/panels/layers-panel.md)
     + [Properties panel](/help/interface/panels/properties-panel.md)
