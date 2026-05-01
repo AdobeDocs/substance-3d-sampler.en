@@ -10,7 +10,6 @@ type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/substance-3d-sampler.en
 index: true
-hide: no 
 ---
 
 # Metadata for internal use
