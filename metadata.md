@@ -6,6 +6,7 @@ product_v2:
     internal-label: "Substance 3D Sampler"
   - id: b5c1b9d0-8765-43f4-b8ea-1aa286ab7892
     internal-label: "Substance 3D"
+usetq: true
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/substance-3d-sampler.en
