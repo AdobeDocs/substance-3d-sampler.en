@@ -5,8 +5,8 @@ description: Learn how to use less commonly used OpenPBR channels to create inte
 
 # Create advanced materials
 
-With [OpenPBR](../openpbr.md), you can create interesting effects by using channels like [fluff](fluff.md), [subsurface](subsurface.md), and [coating](coating.md). These channels are generally only used in specific contexts, and can work a little differently from commonly used channels like roughness or basecolor. 
+With [OpenPBR](../openpbr.md), you can create interesting effects by using channels like [fuzz](fuzz.md), [subsurface](subsurface.md), and [coating](coating.md). These channels are generally only used in specific contexts, and can work a little differently from commonly used channels like roughness or basecolor. 
 
-- [Fluff](fluff.md)
+- [Fuzz](fuzz.md)
 - [Subsurface](subsurface.md)
 - [Coating](coating.md)
