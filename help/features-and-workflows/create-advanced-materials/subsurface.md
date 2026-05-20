@@ -1,6 +1,7 @@
 ---
 description: Learn how to use the coating channel in Substance 3D Sampler to create realistic fabric materials.
 title: The Coating channel
+hold: true
 ---
 
 # Work with the subsurface channel

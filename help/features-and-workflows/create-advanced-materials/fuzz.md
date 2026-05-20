@@ -1,6 +1,7 @@
 ---
 title: The Fuzz channel
 description: Learn how to use the fuzz channel in Substance 3D Sampler to create realistic fabric materials.
+hold: true
 ---
 
 # Work with the fuzz channel

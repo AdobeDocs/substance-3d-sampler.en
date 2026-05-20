@@ -1,6 +1,7 @@
 ---
 title: Create advanced materials
 description: Learn how to use less commonly used OpenPBR channels to create interesting effects with your materials.
+hold: true
 ---
 
 # Create advanced materials
