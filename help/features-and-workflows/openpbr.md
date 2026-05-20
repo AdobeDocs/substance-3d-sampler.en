@@ -1,9 +1,10 @@
 ---
-breadcrumb-title: ""
+breadcrumb-title: ''
 description: Learn how to use OpenPBR in Substance 3D Sampler to create materials compatible with the rest of the 3D ecosystem.
 title: OpenPBR in Substance 3D Sampler
-user-guide-description: ""
-user-guide-title: ""
+user-guide-description: ''
+user-guide-title: ''
+hold: true
 ---
 
 # OpenPBR in Substance 3D Sampler
@@ -15,3 +16,7 @@ OpenPBR is an open, physically based surface shading model designed to provide a
 In Substance 3D Sampler, it is possible to switch a material from the ASM material model to OpenPBR by going into the Channel settings.
 
 It is also possible to export an ASM material to the OPenPBR material model or vice versa.
+
+>[!TIP]
+>
+> Refer to the [advanced materials documentation](create-advanced-materials/advanced-materials.md) for help getting started with channels like [fuzz](create-advanced-materials/fuzz.md), [subsurface](create-advanced-materials/subsurface.md), and [coating](create-advanced-materials/coating.md).

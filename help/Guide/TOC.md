@@ -3,6 +3,7 @@ user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
 hide: false
+hold: true
 ---
 
 # Substance 3D Sampler {#using}
@@ -169,6 +170,11 @@ hide: false
   + [Use As Bitmap](/help/features-and-workflows/use-as-bitmap.md)
   + [Adobe Standard Material](/help/features-and-workflows/adobe-standard-material.md)
   + [OpenPBR](/help/features-and-workflows/openpbr.md)
+  + Advanced materials{#advanced-materials}
+    + [Create advanced materials](../features-and-workflows/create-advanced-materials/advanced-materials.md)
+    + [Fuzz](../features-and-workflows/create-advanced-materials/fuzz.md)
+    + [Coating](../features-and-workflows/create-advanced-materials/coating.md)
+    + [Subsurface](../features-and-workflows/create-advanced-materials/subsurface.md)
 + Pipeline and integrations{#pipeline-and-integrations}
   + [Pipeline and integrations overview](/help/pipeline-and-integrations/pipeline-and-integrations.md)
   + [Environment variables](/help/pipeline-and-integrations/environment-variables.md)
