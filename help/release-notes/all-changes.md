@@ -2,11 +2,7 @@
 helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/release-notes/all-changes.html'
 breadcrumb-title: ''
 description: Review all changes and updates across Substance 3D Sampler versions to track feature evolution and improvements over time.
-helpx_creative_field: ''
 helpx_description: Sampler > Release Notes > All Changes
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: All Changes
 user-guide-description: ''
 user-guide-title: ''
