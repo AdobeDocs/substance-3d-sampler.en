@@ -4,7 +4,6 @@ description: 'Learn how to use material templates in Substance 3D Sampler to qui
 user-guide-description: ''
 user-guide-title: ''
 title: Material creation presets
-hold: true
 ---
 
 # Material creation presets
