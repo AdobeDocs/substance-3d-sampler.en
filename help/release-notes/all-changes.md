@@ -367,7 +367,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 * &lbrack;2D View&rbrack; Exposure slider has no effect when spherical projection is off
 * &lbrack;2D View&rbrack; Painting outside of the texture creates a discontinued stroke
-* &lbrack;2D View&rbrack; The exposure button has no tooltip
+* &lbrack;2D View&rbrack; The exposure button has no tooltip.
 * &lbrack;2D View&rbrack; Zooming on the side of a non square image does not follow the mouse
 * &lbrack;3D Capture&rbrack; 3D Capture does not work on Windows 11 24H2
 * &lbrack;3D Capture&rbrack; Crash if we quit Sampler during the mesh reconstruction step
