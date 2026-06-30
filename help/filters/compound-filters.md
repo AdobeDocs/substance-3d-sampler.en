@@ -1,15 +1,15 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/compound-filters.html"
-breadcrumb-title: ""
+helpx_url: 'https://helpx.adobe.com/substance-3d-sampler/filters/compound-filters.html'
+breadcrumb-title: ''
 description: Learn how to create and use compound filters in Substance 3D Sampler to combine multiple filters into single reusable layers.
-helpx_creative_field: ""
+helpx_creative_field: ''
 helpx_description: Sampler > Filters > Compound Filters
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
+helpx_experience_level: ''
+helpx_learn_topic: ''
+helpx_tags: ''
 title: Compound Filters
-user-guide-description: ""
-user-guide-title: ""
+user-guide-description: ''
+user-guide-title: ''
 ---
 
 # Compound Filters
@@ -40,87 +40,47 @@ A compound filter is a **.ssafilter** file that is a .7zip compressed folder of:
 
 ### Example
 
-```
-
+``` JSON
 { "SamplerFilter":  
-
  { 
-
  "Name": "My filter", 
-
  "Category": "My filter category", 
-
  "Id": "my_unique_id", 
-
  "Version": 2, 
-
  "Node": [ 
-
         { 
-
             "Id": "foo", 
-
             "InternalFilter": "Foo" 
-
         }, 
-
         { 
-
             "Id": "bar", 
-
             "File": "bar.sbsar" 
-
         } 
-
     ], 
-
     "Link": [ 
-
         { 
-
             "From": { "Node": "FilterInput", "Usage": "baseColor" }, 
-
             "To": { "Node": "foo", "Usage": "baseColor"} 
-
         }, 
-
         { 
-
             "From": { "Node": "FilterInput", "Usage": "normal" }, 
-
             "To": { "Node": "foo", "Usage": "normal"} 
-
         }, 
-
         { 
-
             "From": { "Node": "foo", "Usage": "baseColor" }, 
-
             "To": { "Node": "bar", "Usage": "baseColor"} 
-
         }, 
-
         { 
-
             "From": { "Node": "bar", "Usage": "baseColor" }, 
-
             "To": { "Node": "FilterOutput", "Usage": "baseColor"} 
-
         }, 
-
         { 
-
             "From": { "Node": "foo", "Usage": "normal" }, 
-
             "To": { "Node": "FilterOutput", "Usage": "normal"} 
-
         } 
-
     ] 
-
 }}
 ```
-
 
 ## Step-by-step creation
 
@@ -144,31 +104,21 @@ Using a version number allows you to keep track of your different iterations. Wh
 
 A node can refer to an internal filter of Substance 3D Sampler. Define a unique identifier **Id** to be used to define links between nodes and the label of the internal filter **InternalFilter**
 
+``` JSON
+{ 
+  "Id": "step1_identifier", 
+  "InternalFilter": "Dirt" 
+}
 ```
-
-        { 
-
-            "Id": "step1_identifier", 
-
-            "InternalFilter": "Dirt" 
-
-        }
-```
-
 
 A node can refer to a SBSAR file that's not in Substance 3D Sampler. Define a unique identifier **Id** to be used to define links between nodes and the filename **File** of the SBSAR file. The SBSAR file has to be in a **resources** folder next to the .alchfilter file.
 
+``` JSON
+{ 
+  "Id": "step1_identifier", 
+  "File": "foo.sbsar" 
+}
 ```
-
-        { 
-
-            "Id": "step1_identifier", 
-
-            "File": "foo.sbsar" 
-
-        }
-```
-
 
 >[!NOTE]
 >
@@ -192,41 +142,22 @@ Each element has 3 attributes:
   * Use **\*** to let Substance 3D Sampler do the matching between identical usages of all usages of the From node and the To node (It's not possible to combine **\*** with another link, while single links and list links are possible between same nodes)
 * Group: In case of a node has several times the same usage, you can use the Group attribute to select a specific usage. ie: For Blend filters, to get the baseColor of the bottom material use *Material1* and to get the baseColor of the top material use *Material2*
 
-```
-
+``` JSON
 Link between two nodes  
-
- { 
-
-            "From": { "Node": "node1","Usage": "baseColor", "Group": ""}, 
-
-            "To": { "Node": "node2", "Usage": "baseColor"} 
-
-     } 
-
+{ 
+  "From": { "Node": "node1","Usage": "baseColor", "Group": ""}, 
+  "To": { "Node": "node2", "Usage": "baseColor"} 
+} 
  
-
 Link between outputs of layers below of the compound filter and the compound filter: 
-
- 
-
-  { 
-
-            "From": { "Node": "FilterInput", "Usage": "*" }, 
-
-            "To": { "Node": "node1", "Usage": "*"} 
-
-     } 
-
- 
+{ 
+  "From": { "Node": "FilterInput", "Usage": "*" }, 
+  "To": { "Node": "node1", "Usage": "*"} 
+} 
 
 Link to declare outputs of the compound filter: 
-
-  { 
-
-            "From": { "Node": "node1", "Usage": "*" }, 
-
-            "To": { "Node": "FilterOutput", "Usage": "*"} 
-
-     }
+{ 
+  "From": { "Node": "node1", "Usage": "*" }, 
+  "To": { "Node": "FilterOutput", "Usage": "*"} 
+}
 ```

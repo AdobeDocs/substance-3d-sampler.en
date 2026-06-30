@@ -18,12 +18,12 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: June 25th, 2026)*
 
-#### Added:
+**Added:**
 
 * &lbrack;Assets&rbrack; Check sbsar version and warn users is the engine is too old to read it
 * &lbrack;Captis&rbrack; Add back option to save captis photometry in preferences
 
-#### Fixed:
+**Fixed:**
 
 * &lbrack;2D View&rbrack; Do not 'display with physical ratio' if physical size is disabled
 * &lbrack;Analytics&rbrack; Missing analytics events
@@ -48,7 +48,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: May 21st, 2026)*
 
-#### **Added:**
+**Added:**
 
 * &lbrack;Application&rbrack; Warn user when opening a project with 3D objects or environment lights
 * &lbrack;Captis&rbrack; Make the UI adapt to small screens
@@ -63,7 +63,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;UI&rbrack; Display material optimization popup when dropping a material from explorer
 * &lbrack;UI&rbrack; Enable flipping of device bar buttons tooltip
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;Application&rbrack; Fix color space issues
 * &lbrack;Application&rbrack; Fix settings updater
@@ -120,7 +120,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;UI&rbrack; Reset to default layout keeps projection viewer settings
 * &lbrack;UI&rbrack; Restore 'Edit in Photoshop' and 'Edit in Illustrator' menu items
 
-#### Removed:
+**Removed:**
 
 * &lbrack;UI&rbrack; Remove 'Applied to' section for image import layers
 * &lbrack;UI&rbrack; Remove auto-open quick action tooltip at first launch
@@ -131,11 +131,11 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: January 6, 2026)*
 
-#### Added:
+**Added:**
 
 * &lbrack;Captis&rbrack; Display a warning if the FTP protocol is disabled by the firewall
 
-#### Fixed:
+**Fixed:**
 
 * &lbrack;Captis&rbrack; Aborting during a capture can lead to errors
 * &lbrack;Captis&rbrack; Downloading the results at the end of a capture uses to much RAM
@@ -147,7 +147,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: November 20th, 2025)*
 
-#### Added:
+**Added:**
 
 * &lbrack;Application&rbrack; Detect graphics device loss, warn the user and exit gracefully
 * &lbrack;Layers&rbrack; Improved messaging when flattening layers
@@ -156,7 +156,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;Project&rbrack; Recover last saved state of session before crash
 * &lbrack;UI&rbrack; Application icon update
 
-#### Fixed:
+**Fixed:**
 
 * &lbrack;Application&rbrack; Inserting a material in the layer stack might lead to a crash on macOS
 * &lbrack;Application&rbrack; Possible crash on heavy load on macOS
@@ -182,7 +182,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;UI&rbrack; Quick Actions button labels are misaligned
 * &lbrack;UI&rbrack; Sliders show too wany trailing 0s
 
-#### Removed:
+**Removed:**
 
 * &lbrack;Generative AI&rbrack; Generative AI features removal. *This feature has been removed from the application and the service will stop working in previous versions of Sampler on March 5th.*
 
@@ -190,13 +190,13 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: September 18th, 2025)*
 
-#### Added:
+**Added:**
 
 * &lbrack;2D View&rbrack; Be able to zoom out more in the 2D view for high resolution textures
 * &lbrack;Captis&rbrack; Warn users about issues when copying files
 * &lbrack;Layers&rbrack; When duplicating a layer, use an incremental number in the new layer name
 
-#### Fixed:
+**Fixed:**
 
 * &lbrack;2D View&rbrack; When painting strokes after resetting all the properties of Clone Stamp, previously created strokes reappear
 * &lbrack;Application&rbrack; "Save current project?" popup uses wrong project name
@@ -226,7 +226,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: August 7th, 2025)*
 
-#### Added:
+**Added:**
 
 * &lbrack;2D View&rbrack; Brush size now adapts to the current texture resolution
 * &lbrack;3D View&rbrack; Toggle Native Display Scale for 3D Rendering in the preferences
@@ -257,7 +257,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;UI&rbrack; Rework icons and buttons in the Layers panel to accommodate for the new features
 * &lbrack;UI&rbrack; Warn about environment light authoring deprecation
 
-#### Fixed:
+**Fixed:**
 
 * &lbrack;2D View&rbrack; Selecting 'display with physical ratio' might not work when using Substance filters
 * &lbrack;3D Capture&rbrack; Svg files are listed in the file picker but not supported
@@ -293,7 +293,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;UI&rbrack; Some buttons are not clickable when a panel is undocked
 * &lbrack;UI&rbrack; Texture tilling V Parameter partially hidden in Viewer Settings and 3D View
 
-#### Removed:
+**Removed:**
 
 * &lbrack;3D Capture&rbrack; Remove 3D Capture support
 * &lbrack;Application&rbrack; Remove macOS x86 support
@@ -302,7 +302,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: Jun 3rd, 2025)*
 
-#### **Added:**
+**Added:**
 
 * &lbrack;Captis&rbrack; Allow to give a material same name as an already existing one
 * &lbrack;Captis&rbrack; Move error messages to popups instead of toasts
@@ -310,7 +310,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;Preferences&rbrack; Add reset in viewer settings and shaders settings
 * &lbrack;UI&rbrack; Do not present the 'Show location' menu item on project assets
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;3D Capture&rbrack; Mesh post process filter doesn't output expected maps
 * &lbrack;3D View&rbrack; 3D view does not work because of shader cache corruption
@@ -336,7 +336,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: April 22th, 2025)*
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;Application&rbrack; Back button on the Homepage is broken
 * &lbrack;Application&rbrack; Sampler sometimes won't launch if corrupted data from previous versions is present on disk
@@ -355,7 +355,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: March 20th, 2025)*
 
-#### **Added**:
+**Added**
 
 * &lbrack;Application&rbrack; Updated graphics driver compatibility list
 * &lbrack;Captis&rbrack; Show a popup when usage of HP Z Captis is blocked by operating system policies
@@ -363,7 +363,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;UI&rbrack; Crash report window UI styling
 * &lbrack;UI&rbrack; When copying to clipboard, show a toast to say it is done
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;2D View&rbrack; Exposure slider has no effect when spherical projection is off
 * &lbrack;2D View&rbrack; Painting outside of the texture creates a discontinued stroke
@@ -400,7 +400,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: February 20th, 2025)*
 
-#### **Added**:
+**Added**
 
 * &lbrack;Onboarding&rbrack; New Homepage with quick access to learning content, sample project, quick actions and recent projects.
 * &lbrack;Onboarding&rbrack; Get started quickly with the new Quick Actions, accessible from the homepage and from dedicated panel
@@ -428,7 +428,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;Scripting&rbrack; New open_3d_catpure() function
 * &lbrack;Scripting&rbrack; When inserting a layer, control if it is inserted above or below the target position
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;3D Capture&rbrack; Crash if Object Capture cannot be started on macOS
 * &lbrack;Application&rbrack; Crash at exit
@@ -446,7 +446,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;Scripting&rbrack; Allow reusing a layer after adding another layer
 * &lbrack;Scripting&rbrack; Changing the layer stack structure several times in one script may fail
 
-#### **Removed:**
+**Removed:**
 
 * &lbrack;Application&rbrack; Remove support for .dng and .nef image files
 
@@ -456,7 +456,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 07 November 2024)*
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;Content&rbrack; Crop, Embroidery and Height blend filters
 
@@ -464,7 +464,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 30 July 2024)*
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;Layers&rbrack; Painting greyscale masks does not work, impacting tools like Clone Stamp, Paint Warp, Content Aware Fill
 
@@ -472,13 +472,13 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 18 July 2024)*
 
-#### **Added**:
+**Added**
 
 * &lbrack;Interoperability&rbrack; Send materials to UE5, Blender, Maya, 3DsMax Unity
 * &lbrack;Content&rbrack; New texture generator category - Gradients
 * &lbrack;Content&rbrack; HDRI Tools - new Environment rotation filter
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;Exposed Parameters&rbrack; Exposing .sbsar input values do not work
 * &lbrack;Layers&rbrack; Base color turns red with greyscale images
@@ -492,7 +492,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 6 June 2024)*
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;Content&rbrack; Dirt filter is missing
 * &lbrack;Generative AI&rbrack; Network error sometimes occur when using Image to Texture
@@ -501,7 +501,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 23 May 2024)*
 
-#### **Added**:
+**Added:**
 
 * &lbrack;Application&rbrack; 3D Capture cache is now stored in a separate sub-folder
 * &lbrack;Generative AI&rbrack; Image to Texture (Beta)
@@ -510,7 +510,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;Scripting&rbrack; Assets now have a 'resource' property
 * &lbrack;Scripting&rbrack; Layers now have a 'output_usages' property
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;Application&rbrack; Crash when opening corrupted project file
 * &lbrack;Application&rbrack; Crash when project contains corrupted assets
@@ -529,12 +529,12 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 26 March 2024)*
 
-#### **Added:**
+**Added:**
 
 * &lbrack;3D Capture&rbrack; New advanced auto-UV parameters during Post Process
 * &lbrack;Filters&rbrack; Perforate filter: ability to invert and change the size of the custom pattern
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;3D Capture&rbrack; Base color can be incorrect on macOS
 * &lbrack;3D Capture&rbrack; Crash when processing a new version
@@ -557,7 +557,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 22 February 2024)*
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;Application&rbrack; Saving a project on a network share on Windows corrupts the project file
 
@@ -565,7 +565,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 15 February 2024)*
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;3D Capture&rbrack; Crash when image files become inaccessible while batch generating masks
 * &lbrack;Export&rbrack; Exporting a material with Crop or relative to input policy layer gives invalid results
@@ -579,7 +579,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 25 January 2024)*
 
-#### **Added**:
+**Added**
 
 * &lbrack;Assets&rbrack; New asset type: Texture Generators
 * &lbrack;Assets&rbrack; New materials included in the Starter Assets
@@ -616,7 +616,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;UI&rbrack; Asset thumbnail size can be changed in the Assets panel
 * &lbrack;UI&rbrack; Updated viewport display icons
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;2D View&rbrack; Zoom with mouse wheel is blocked at 244%
 * &lbrack;Application&rbrack; Crash at start when initializing the graphics API
@@ -638,14 +638,14 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 5 December 2023)*
 
-#### **Added:**
+**Added:**
 
 * &lbrack;3D Capture&rbrack; 3D Capture is now 5% to 10% faster on Windows
 * &lbrack;3D Capture&rbrack; Improve mesh cleanup before decimation
 * &lbrack;Engine&rbrack; Update Substance Engine to version 9.0.3
 * &lbrack;Layers&rbrack; Content-Aware Fill: upstream update, various use case fixes and Linux support
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;3D Capture&rbrack; Clicking "Back" after alignment then "Next" does not update the point cloud
 * &lbrack;3D Capture&rbrack; Mesh displayed with holes after being added to project
@@ -675,7 +675,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 21 September 2023)*
 
-#### **Added :**
+**Added :**
 
 * &lbrack;Content&rbrack; Image to Material - Improve microdetails generation in normal maps
 * &lbrack;Content&rbrack; Image to Material - New delighting intensity parameter
@@ -689,7 +689,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;Scripting&rbrack; 3D Capture API: DatasetInfo has more data when Capture3dState is set to aligned
 * &lbrack;Scripting&rbrack; New select_asset argument to create_asset(). New functions: wait_for_computation() and clear_render_cache()
 
-#### **Fixed :**
+**Fixed :**
 
 * &lbrack;Layers&rbrack; Crash when Crop region is very small
 * &lbrack;Layers&rbrack; Crash when adding or tweaking the Crop filter
@@ -714,7 +714,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: 05 September 2023)*
 
-#### **Added:**
+**Added:**
 
 * &lbrack;Content&rbrack; Vastly improved Image to Material (AI) and Delighter filters
 * &lbrack;Content&rbrack; New Upscale filter
@@ -747,7 +747,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;Onboarding&rbrack; Update Welcome and What's New screens content
 * &lbrack;Engine&rbrack; Update Substance Engine to version 9.0.1
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;3D Capture&rbrack; Improve Precision options naming in Alignment settings parameters
 * &lbrack;Application&rbrack; Importing images with non-multiple of 16 dimensions can lead to a crash
@@ -772,7 +772,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: June 20, 2023)*
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;Layers&rbrack; Memory leak when tweaking Substance materials and filters causing crashes
 
@@ -780,12 +780,12 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: June 06, 2023)*
 
-#### **Added**:
+**Added**
 
 * &lbrack;Engine&rbrack; Update Substance Engine to version 9.0
 * &lbrack;Interoperability&rbrack; Send 3D Objects to Stager and Painter
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;3D Capture&rbrack; Applications crashes when 3D Capture renderer fails
 * &lbrack;3D Capture&rbrack; Crash when an image cannot be loaded
@@ -823,7 +823,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: March 28, 2023)*
 
-#### **Added:**
+**Added:**
 
 * &lbrack;Content&rbrack; New Embroidery filter
 * &lbrack;Content&rbrack; New Paint Warp filter
@@ -836,7 +836,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;Onboarding&rbrack; Learn - 2 new tutorials (Embroidery and Paint Warp)
 * &lbrack;Onboarding&rbrack; Updated What's New content
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;3D Capture&rbrack; Keep camera position when changing version
 * &lbrack;3D Capture&rbrack; Merge all groups of an object into one
@@ -869,7 +869,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: March 09, 2023)*
 
-#### **Added:**
+**Added:**
 
 * &lbrack;3D Capture&rbrack; Disk usage shows the amount used
 * &lbrack;3D Capture&rbrack; Importing photos is asynchronous and faster
@@ -880,7 +880,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;Content&rbrack; Color temperature filter is now working on materials
 * &lbrack;Content&rbrack; Normal to Height filters has a new option to preserve tiling
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;3D Capture&rbrack; Corrected image size in dataset alignment step
 * &lbrack;3D Capture&rbrack; Remove duplicate vertices after UV unwrapping
@@ -917,7 +917,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;UI&rbrack; Send to icons are misaligned
 * &lbrack;UI&rbrack; The layer icon changes when clicking on the Blend icon
 
-#### **Known Issues:**
+**Known Issues:**
 
 * &lbrack;Color Picker&rbrack; Picking a color on a second monitor with a different resolution may not work
 * &lbrack;Content&rbrack; Shape light widget is not working in spherical projection mode
@@ -927,13 +927,13 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: February 07, 2023)*
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;3D Capture&rbrack; When using masks, the texture projection may be broken
 * &lbrack;3D Capture&rbrack; Artefacts may appear on your object
 * &lbrack;3D Capture&rbrack; The exported mesh may be really small
 
-#### **Known Issues:**
+**Known Issues:**
 
 * &lbrack;3D Capture&rbrack; FBX and OBJ exports downscale the result
 * &lbrack;3D Capture&rbrack; 3D Capture is available on MacOS even if your hardware is not compatible. Check the documentation.
@@ -947,7 +947,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 *(Released: January 31, 2023)*
 
-#### **Added:**
+**Added:**
 
 * &lbrack;3D Capture&rbrack; Create 3D objects from images
 * &lbrack;3D Capture&rbrack; Dedicated 3D Capture wizard
@@ -975,7 +975,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;Scripting&rbrack; Added identifier, default value, min and max values, labels, and enum values to parameters
 * &lbrack;Scripting&rbrack; Added import_textures function to enter a customized usage while importing images
 
-#### **Fixed:**
+**Fixed:**
 
 * &lbrack;Application&rbrack; Crash when opening a recent project and saving in confirmation dialog
 * &lbrack;Application&rbrack; File dialog prevents opening .ssa files
@@ -1000,7 +1000,7 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 * &lbrack;UI&rbrack; Tooltip position is wrong for "Tools" in Set the physical size menu
 * &lbrack;UI&rbrack; When changing language, File menu is misaligned
 
-#### **Known Issues:**
+**Known Issues:**
 
 * &lbrack;3D Capture&rbrack; When using masks, the texture projection may be broken
 * &lbrack;3D Capture&rbrack; Small artefacts may appear on your object if your scale in the Mesh transform is too small
