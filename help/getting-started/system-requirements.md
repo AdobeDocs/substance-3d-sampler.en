@@ -18,8 +18,11 @@ Below is a list of hardware and systems supported by the application:
 
 >[!WARNING]
 >
-> Please note that some versions of Nvidia drivers (572.42 and 572.47 for GeForce and 572.16 for RTX pro) make Sampler crash at launch.
-> Make sure to use a previous or more recent driver if you have any of those GPUs.
+> The following Nvidia drivers are known to cause instability when running Sampler:
+>
+> * 610.47
+>
+> We recommend avoiding use of these versions - ideally, use a more recent version, or, if no more recent version is available, use the previous version.
 
 ## Windows
 
@@ -94,6 +97,7 @@ To download new drivers see: [GPU has outdated drivers](https://experienceleague
 | **Linux** | 525.116.04 or later *or* 535.54.03 or later | Radeon 23.20 Pro 23.Q3 | Unsupported |
 
 >[!NOTE]
+>
 > On **Mac OS** the GPU driver is provided by the operating system itself. Update to the latest version of your OS to access the newest driver.
 
 ## Languages
