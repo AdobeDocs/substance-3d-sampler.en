@@ -14,6 +14,14 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 ## Version 6
 
+### **6.0.3**
+
+*(Released: August 24th, 2026)*
+
+**Fixed:**
+
+[Rendering] Revert temporary workaround for faulty NVIDIA drivers
+
 ### **6.0.2**
 
 *(Released: June 25th, 2026)*
