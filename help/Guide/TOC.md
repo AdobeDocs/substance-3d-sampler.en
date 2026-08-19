@@ -182,6 +182,7 @@ hold: true
   + HP Z Captis support{#hp-z-captis-support}
     + [HP Z Captis support overview](/help/pipeline-and-integrations/hp-z-captis-support/hp-z-captis-support.md)
     + [Your first capture, step by step](/help/pipeline-and-integrations/hp-z-captis-support/your-first-capture-step-by-step.md)
+    + [Best practices when scanning](/help/pipeline-and-integrations/hp-z-captis-support/scanning-best-practices.md)
     + [System requirements to use the HP Z Captis device](/help/pipeline-and-integrations/hp-z-captis-support/system-requirements-to-use-hp-z-captis.md)
     + [FAQ for HP Z support in Sampler](/help/pipeline-and-integrations/hp-z-captis-support/faq-hp-z-captis-support-in-sampler.md)
     + [Known issues and limitations](/help/pipeline-and-integrations/hp-z-captis-support/known-issues-and-limitations-hp-z-captis-support.md)
