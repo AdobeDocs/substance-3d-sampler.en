@@ -1,9 +1,9 @@
 ---
-breadcrumb-title: ""
-description: Review release notes for Substance 3D Sampler version 6.0 to learn about new features, improvements, and workflow enhancements.
+breadcrumb-title: ''
+description: 'Review release notes for Substance 3D Sampler version 6.0 to learn about new features, improvements, and workflow enhancements.'
 title: Version 6.0
-user-guide-description: ""
-user-guide-title: ""
+user-guide-description: ''
+user-guide-title: ''
 ---
 
 # Version 6.0
@@ -54,9 +54,49 @@ More info *[here](../pipeline-and-integrations/hp-z-captis-support/your-first-ca
 
 ## V6.0 Release Notes
 
+### **6.0.3**
+
+*(Released: August 24th, 2026)*
+
+**Fixed:**
+
+[Rendering] Revert temporary workaround for faulty NVIDIA drivers
+
+### **6.0.2**
+
+*(Released: June 25th, 2026)*
+
+**Added:**
+
+* &lbrack;Assets&rbrack; Check sbsar version and warn users is the engine is too old to read it
+* &lbrack;Captis&rbrack; Add back option to save captis photometry in preferences
+
+**Fixed:**
+
+* &lbrack;2D View&rbrack; Do not 'display with physical ratio' if physical size is disabled
+* &lbrack;Analytics&rbrack; Missing analytics events
+* &lbrack;Analytics&rbrack; Prevent crashpad to report a crash on vk devicelost
+* &lbrack;Application&rbrack; Do not destroy vkdevices at exit to avoid a crash in nvidia driver
+* &lbrack;Application&rbrack; Fix linked collection watcher exit + channel manager
+* &lbrack;Application&rbrack; Prevent a crash at exit
+* &lbrack;Content&rbrack; "metal finish" filter does not impact metalness
+* &lbrack;Content&rbrack; Add physical size to dynamic filters where it is missing
+* &lbrack;Filters&rbrack; Remove content aware fill from hidden assets list
+* &lbrack;Layers&rbrack; Clicking 'reset all settings' does not reset the 'applies to' dropdown
+* &lbrack;Layers&rbrack; Fix tweak min & max for position widget
+* &lbrack;Layers&rbrack; Properly update filter
+* &lbrack;Physical Size&rbrack; Ensure physical scale is working everywhere + make physicalsize ok with dynamic filters
+* &lbrack;Project&rbrack; Ensure asset resolution is the default one (2k x 2k) when creating a new asset
+* &lbrack;Project&rbrack; Re-opening current project used to open previous version
+* &lbrack;Project&rbrack; Sampler does not offer to restore a backup of corrupted projects anymore
+* &lbrack;Rendering&rbrack; Render material thumbnail at a maximum of 2k resolution
+* &lbrack;UI&rbrack; Defensive code to avoid crash if user is faster than UI
+
+### **6.0.1**
+
 *(Released: April 16th, 2026)*
 
-## Added:
+**Added:**
 
 * [3D View] Provide default meshes in USD format
 * [Application] Detect usages in a material that are not available in current material model
@@ -104,7 +144,7 @@ More info *[here](../pipeline-and-integrations/hp-z-captis-support/your-first-ca
 * [UI] Search implementation in channel list edition
 * [UI] Show a notification when saving a snapshot to file
 
-## Fixed:
+**Fixed:**
 
 * [2D View] Order 2D view according to result usage index in specification
 * [Application] Fix a crash at start
@@ -188,7 +228,7 @@ More info *[here](../pipeline-and-integrations/hp-z-captis-support/your-first-ca
 * [UI] Update channel settings when tweaking usage of an image
 * [UI] Update wording in Material model conversion popup
 
-## Removed:
+## Removed
 
 * [UI] Remove 3D capture menu item
 * [UI] Remove Generative AI panel
