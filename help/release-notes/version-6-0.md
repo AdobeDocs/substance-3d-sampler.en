@@ -54,6 +54,17 @@ More info *[here](../pipeline-and-integrations/hp-z-captis-support/your-first-ca
 
 ## V6.0 Release Notes
 
+### **6.0.4**
+
+*(Released: September 24th, 2026)*
+
+**Changed**
+[Engine] Update Substance Engine to 9.6.1
+
+**Fixed**
+[Layers] Crash when adding image to emboss mask
+[Security] General fixes
+
 ### **6.0.3**
 
 *(Released: August 24th, 2026)*

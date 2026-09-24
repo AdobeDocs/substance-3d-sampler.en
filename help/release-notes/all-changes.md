@@ -14,6 +14,17 @@ This page regroups all the changes that happened to Substance 3D Sampler, from n
 
 ## Version 6
 
+### **6.0.4**
+
+*(Released: September 24th, 2026)*
+
+**Changed**
+[Engine] Update Substance Engine to 9.6.1
+
+**Fixed**
+[Layers] Crash when adding image to emboss mask
+[Security] General fixes
+
 ### **6.0.3**
 
 *(Released: August 24th, 2026)*
