@@ -39,11 +39,15 @@ Below is a list of hardware and systems supported by the application:
 
 |  | Minimum | Recommended | Optimal |
 | --- | --- | --- | --- |
-| **OS** | macOS 13 Ventura | macOS 14 Sonoma | macOS 26 Tahoe |
+| **OS** | macOS 15 Sequoia | macOS 27 Golden Gate | macOS 27 Golden Gate |
 | **CPU** | Apple M1 | Apple M2 Pro | Apple M4 Pro |
 | **GPU** | Apple M1 | Apple M2 Pro | Apple M4 Pro |
 | **RAM** | 24 GB | 32 GB | 64 GB |
 | **Storage** | SSD with 30 GB of available space | SSD with 50 GB of available space | SSD with 70 GB of available space |
+
+>[!WARNING]
+>
+> For pipelines built with the [VFX Reference Platform](https://vfxplatform.com/) in mind, Substance 3D Sampler can still be installed on macOS 14 Sonoma. However, Sampler is no longer tested on OS versions below the minimum system requirements, so stability is not guaranteed. Updating to a newer OS version is recommended.
 
 ### Linux
 
