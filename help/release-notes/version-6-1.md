@@ -6,9 +6,9 @@ hold: true
 
 # Version 6.1
 
-Kouign amann
+**Kouign amann** (Breton layered pastry)
 
-![alt text](Sampler_splash_large.jpg)
+![alt text](../../help/assets/Sampler_splash_large.jpg)
 
 This release introduces Performance mode, giving anyone the ability to turn off settings that can slow down their workflow, and automatic stability improvements that protect users on lighter hardware.
 
