@@ -1,6 +1,7 @@
 ---
 title: Low specification mode
 description: Learn about low specification mode, which Sampler enables when hardware doesn't meet minimum system requirements.
+hold: true
 ---
 
 # Low specification mode

@@ -148,6 +148,7 @@ hold: true
     + [Dust](/help/filters/wear-and-finish/dust.md)
     + [Erode](/help/filters/wear-and-finish/erode.md)
     + [Metal Finish](/help/filters/wear-and-finish/metal-finish.md)
+    + {hide-from-toc}[Wood Finish](/help/filters/wear-and-finish/wood-finish.md)
     + [Moss](/help/filters/wear-and-finish/moss.md)
     + [Oxidate](/help/filters/wear-and-finish/oxidate.md)
     + [Paint](/help/filters/wear-and-finish/paint.md)
@@ -189,6 +190,7 @@ hold: true
 + Technical Support{#technical-support}
   + [Technical Support overview](/help/technical-support/technical-support.md)
   + {hide-from-toc}[Performance mode](/help/technical-support/performance-mode.md)
+  + {hide-from-toc}[Low specification mode](/help/technical-support/low-spec-mode.md)
   + {hide-from-toc}[Report a bug](/help/getting-started/report-a-bug.md)
   + [Exporting the log file](/help/technical-support/exporting-the-log-file.md)
   + Configuration{#configuration}
