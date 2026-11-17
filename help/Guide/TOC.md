@@ -188,8 +188,8 @@ hold: true
   + [Tajima Exporter plugin](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + Technical Support{#technical-support}
   + [Technical Support overview](/help/technical-support/technical-support.md)
-  + [Performance mode](/help/technical-support/performance-mode.md)
-  + [Report a bug](/help/getting-started/report-a-bug.md)
+  + {hide-from-toc}[Performance mode](/help/technical-support/performance-mode.md)
+  + {hide-from-toc}[Report a bug](/help/getting-started/report-a-bug.md)
   + [Exporting the log file](/help/technical-support/exporting-the-log-file.md)
   + Configuration{#configuration}
     + [Configuration overview](/help/technical-support/configuration/configuration.md)
