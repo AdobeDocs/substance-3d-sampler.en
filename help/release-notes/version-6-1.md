@@ -1,7 +1,7 @@
 ---
 description: Review release notes for Substance 3D Sampler version 6.1 to learn about new features, improvements, and workflow enhancements.
 title: Version 6.1
-hold:true
+hold: true
 ---
 
 # Version 6.1
