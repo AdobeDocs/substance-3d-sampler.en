@@ -16,18 +16,18 @@ user-guide-title: ""
 
 ![](../assets/6.0_HomeScreen.png)
 
-When you open Sampler, the <b>Home Screen</b> will appear. The <b>Home Screen</b> has a number of options to help you get started with a new or existing Sampler project.
+When you open Sampler, the **Home Screen** will appear. The **Home Screen** has a number of options to help you get started with a new or existing Sampler project.
 
-1. <b>New project</b>: Create a new project by importing a file and choosing from a collection of Quick actions.
-1. <b>Quick start</b>: Create a new empty project.
-1. <b>Open</b>: Open a project with your system's file browser.
-1. <b>Home</b>: Access recommended tutorials, create a new project, or view a list of recent projects.
-1. <b>Learn</b>: Access Sampler's video tutorials and learning content.
-1. <b>Files</b>: View a list of recently opened projects.
-1. <b>About Sampler</b>: Find out more about your version of 3D Sampler.
-1. <b>Documentation</b>: View the documentation and expand your abilities.
+1. **New project**: Create a new project by importing a file and choosing from a collection of Quick actions.
+1. **Quick start**: Create a new empty project.
+1. **Open**: Open a project with your system's file browser.
+1. **Home**: Access recommended tutorials, create a new project, or view a list of recent projects.
+1. **Learn**: Access Sampler's video tutorials and learning content.
+1. **Files**: View a list of recently opened projects.
+1. **About Sampler**: Find out more about your version of 3D Sampler.
+1. **Documentation**: View the documentation and expand your abilities.
 
-When you open, start a new project or use a [Quick action](../features-and-workflows/quick-actions.md), the <b>Home Screen</b> will disappear so you can start creating assets. You can open the <b>Home Screen</b> again from the <b>File menu</b>.
+When you open, start a new project or use a [Quick action](../features-and-workflows/quick-actions.md), the **Home Screen** will disappear so you can start creating assets. You can open the **Home Screen** again from the **File menu**.
 
 ## Getting Started
 
@@ -35,6 +35,7 @@ To get started with Substance 3D Sampler, check out the following pages:
 
 * [Activation and licenses](activation-and-licenses.md)
 * [System requirements](system-requirements.md)
+* [Performance mode](../technical-support/performance-mode.md)
 * [Shortcuts](shortcuts.md)
 * [Importing Resources](importing-resources.md)
 * [Quick actions](../features-and-workflows/quick-actions.md)

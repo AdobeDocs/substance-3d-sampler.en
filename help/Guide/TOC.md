@@ -119,7 +119,7 @@ hold: true
     + [Multiangle To Material](/help/filters/tools/multiangle-to-material.md)
     + [Normal to Height](/help/filters/tools/normal-to-height.md)
     + [PBR Validate](/help/filters/tools/pbr-validate.md)
-    + [Perspective Correction](/help/filters/tools/perspective-correction.md)
+    + [Perspective Transform](/help/filters/tools/perspective-correction.md)
     + [Tiling](/help/filters/tools/tiling.md)
     + [Transform](/help/filters/tools/transform.md)
     + [Warp](/help/filters/tools/warp.md)

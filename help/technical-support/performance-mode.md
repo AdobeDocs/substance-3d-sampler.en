@@ -10,7 +10,7 @@ Performance mode brings together every setting that can slow down your workflow:
 
 >[!NOTE]
 >
-> Performance mode is automatically turned on with maximum limitations if your hardware does not meet Sampler’s [minimum requirements](../getting-started/system-requirements.md). This makes it possible to continue using Sampler on less powerful hardware.
+> If your hardware does not meet Sampler’s [minimum requirements](../getting-started/system-requirements.md), Sampler will automatically launch in [Low specification mode](low-spec-mode.md), which behaves like Performance mode without the option to change settings.
 
 ## Toggle Performance mode
 
