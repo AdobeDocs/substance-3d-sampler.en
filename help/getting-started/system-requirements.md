@@ -10,6 +10,7 @@ helpx_tags: ''
 title: System requirements
 user-guide-description: ''
 user-guide-title: ''
+hold: true
 ---
 
 # Supported systems
