@@ -15,7 +15,6 @@ hold: true
   + [System requirements](/help/getting-started/system-requirements.md)
   + [Shortcuts](/help/getting-started/shortcuts.md)
   + [Importing Resources](/help/getting-started/importing-resources.md)
-  + [Report a bug](/help/getting-started/report-a-bug.md)
   + [Project Management](/help/getting-started/project-management.md)
   + Export{#export}
     + [Export overview](/help/getting-started/export/export.md)
@@ -189,6 +188,8 @@ hold: true
   + [Tajima Exporter plugin](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + Technical Support{#technical-support}
   + [Technical Support overview](/help/technical-support/technical-support.md)
+  + [Performance mode](/help/technical-support/performance-mode.md)
+  + [Report a bug](/help/getting-started/report-a-bug.md)
   + [Exporting the log file](/help/technical-support/exporting-the-log-file.md)
   + Configuration{#configuration}
     + [Configuration overview](/help/technical-support/configuration/configuration.md)
@@ -225,6 +226,7 @@ hold: true
   + [Release Notes overview](/help/release-notes/release-notes.md)
   + [All Changes](/help/release-notes/all-changes.md)
   + [Beta](/help/release-notes/beta-version.md)
+  + {hide-from-toc}[Version 6.1](/help/release-notes/version-6-1.md)
   + [Version 6.0](/help/release-notes/version-6-0.md)
   + [Version 5.1](/help/release-notes/version-5-1-substance-3d-sampler.md)
   + [Version 5.0](/help/release-notes/version-5-0-substance-3d-sampler.md)
