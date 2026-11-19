@@ -2,8 +2,6 @@
 user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
-hide: false
-hold: true
 ---
 
 # Substance 3D Sampler {#using}
@@ -109,6 +107,7 @@ hold: true
     + [Channels Generation](/help/filters/tools/channels-generation.md)
     + [Channel Switch](/help/filters/tools/channel-switch.md)
     + [Clone Stamp](/help/filters/tools/clone-stamp.md)
+    + {hide-from-toc}[Content-Aware Fill](/help/filters/tools/content-aware-fill.md)
     + [Crop tool](/help/filters/tools/crop-tool.md)
     + [Delight - AI Powered](/help/filters/tools/delight-ai-powered.md)
     + [Height to AO](/help/filters/tools/height-to-ao.md)
@@ -122,6 +121,7 @@ hold: true
     + [Perspective Transform](/help/filters/tools/perspective-correction.md)
     + [Tiling](/help/filters/tools/tiling.md)
     + [Transform](/help/filters/tools/transform.md)
+    + {hide-from-toc}[Paint warp](/help/filters/tools/paint-warp.md)
     + [Warp](/help/filters/tools/warp.md)
     + [Warp Transform](/help/filters/tools/warp-transform.md)
     + [Upscale](/help/filters/tools/upscale.md)
