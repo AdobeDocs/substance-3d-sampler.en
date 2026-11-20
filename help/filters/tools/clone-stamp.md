@@ -1,15 +1,6 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-sampler/filters/tools/clone-stamp.html"
-breadcrumb-title: ""
 description: Use the Clone Stamp tool in Substance 3D Sampler to clone and paint texture areas for seamless material editing and repair.
-helpx_creative_field: ""
-helpx_description: Sampler > Filters > Tools > Clone Stamp
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Clone Stamp
-user-guide-description: ""
-user-guide-title: ""
 ---
 
 # Clone Stamp
@@ -27,71 +18,113 @@ user-guide-title: ""
 
 ## Description
 
-The **Clone Stamp tool** helps you to manually duplicate or patch parts of your material. This is useful for fixing seams, or removing errors from your material.. The **Clone Stamp filter** is one of the tools available in the left sidebar.
+The **Clone Stamp** tool lets you manually duplicate or patch parts of your material. It is primarily used to fix seams and remove errors from scanned materials, such as debris, shadows, or artifacts. You can paint multiple stamp strokes from different source areas within a single Clone Stamp layer, and manage each stamp individually in the **Layers panel**.
 
 The images below show the **Clone Stamp** being used to remove debris from a snow material.
 
 ![](../../assets/3d-2d-filters-cropped-0049-clone-stamp-in.jpg)
 
-In the image above, the snow material includes a number of twigs and other debris scattered around.
+The snow material includes a number of twigs and other debris scattered around.
 
 ![](../../assets/3d-2d-filters-cropped-0048-clone-stamp-out.jpg)
 
-The **Clone Stamp** tool is used to remove some twigs and replace them with clean snow.
+After using the **Clone Stamp** tool, the twigs are replaced with clean snow.
 
 </td>
 </tr>
 </table>
 
-## Clone Stamp tutorial
-
 ## Parameters
 
-<b>Basic parameters</b>
+**Basic parameters**
 
-* <b>Expand mask</b>: 0-1  
+* **Expand mask**: 0–1
+
   Adjust how far around the painted area the filter will attempt to match the underlying material.
-* <b>Fade blending</b>: 0-1  
-  Soften the edge of the cloned area to help blend with the underlying material.
-* <b>Blur mask</b>: 0-1  
-  Adjust the amount of detail of the edge of the clone stamp. Increasing this value will make the edges of the cloned area more blob-like.
-* <b>Keep ratio</b>: toggle  
-  When toggled off, allows you to adjust the proportions of the stamped area.
-  * <b>Horizontal</b>: 0-2
-  * <b>Vertical</b>: 0-2
-* <b>Rotation</b>: -180 to 180  
-  Rotate the stamped area.
-* <b>Flip Horizontal</b>: toggle  
+
+* **Fade blending**: 0–1
+
+  Soften the edge of the cloned area to blend more naturally with the surrounding material.
+
+* **Blur mask**: 0–1
+
+  Adjust the amount of edge detail on the clone stamp. Higher values produce smoother, more blob-like edges.
+
+* **Keep ratio**: toggle
+
+  When disabled, allows you to adjust the horizontal and vertical proportions of the stamped area independently.
+
+  * **Horizontal**: 0–2
+  * **Vertical**: 0–2
+* **Rotation**: -180 to 180
+
+  Rotate the stamped area to match the surrounding material's direction or grain.
+
+* **Flip Horizontal**: toggle
+
   Mirror the stamped area along a horizontal axis.
-* <b>Flip Vertical</b>: toggle  
+
+* **Flip Vertical**: toggle
+
   Mirror the stamped area along a vertical axis.
 
-<b>Fade blending</b>
+**Fade blending**
 
-Use the Fade blending controls to individually adjust the Fade blending for each channel in your material.
+Use the per-channel Fade blending controls to independently adjust blending strength for each material channel.
 
-<b>Advanced</b>
+**Advanced**
 
-* <b>Normal intensity</b>: 0-2  
-  Adjust the strength of normals in the stamped area.
-* <b>Source position</b>:   
-  0-1: Adjust the horizontal source position.  
-  0-1: Adjust the vertical source position.
-* <b>Target position</b>:  
-  0-1: Adjust the horizontal target position.  
-  0-1: Adjust the vertical target position.
-* <b>Tiling mode</b>: dropdown  
-  Enable or disable tiling.
+* **Normal intensity**: 0–2
 
-## Usage Guide
+  Adjust the strength of the normal map in the stamped area to control how the cloned surface responds to lighting.
 
-Click the **Clone Stamp tool** to create a new Clone Stamp filter layer at the top of your layer stack. You can also add a Clone Stamp filter by using the **Add a layer button** in the **Layers panel**.
+* **Source position**:
+  * Horizontal: 0–1 — Adjust the horizontal position of the clone source.
+  * Vertical: 0–1 — Adjust the vertical position of the clone source.
+* **Target position**:
+  * Horizontal: 0–1 — Adjust the horizontal position of the paint target.
+  * Vertical: 0–1 — Adjust the vertical position of the paint target.
+* **Tiling mode**: dropdown
 
-Creating a Clone Stamp filter layer automatically opens the **2D view** in the **Viewport**. A **Toolbar** appears at the top of the **2D view** when the Clone Stamp layer is selected.
+  Enable or disable tiling when cloning near material borders.
 
-![](../../assets/alchemist-2020-2-clone.gif){width="300px"}
+## How to use Clone Stamp
 
-To start using the Clone Stamp tool, click and drag over the problematic area in the **2D view**. The material will begin to automatically update based on the source. Areas where you use the **Clone Stamp tool** are highlighted.
+1. Click **Clone Stamp** in the left sidebar or add it from the **Add a layer** button in the **Layers panel**. A new Clone Stamp layer appears at the top of the layer stack and the **2D view** opens automatically.
+
+1. **Set a source point**: Hold `Ctrl` (`Cmd` on macOS) and click a clean area of the material in the **2D view**. This defines the region that will be copied.
+
+   > 📸 SCREENSHOT [ID: clone-stamp-001]
+   > Show: 2D viewport with a source point crosshair visible on a clean area of a snow material
+   > State: Clone Stamp layer selected; Ctrl held down; source indicator visible
+   > Annotation: Label the source crosshair
+
+1. **Paint over the problem area**: Click and drag over the area you want to fix. The material from the source point replaces the painted area in real time.
+
+   ![](../../assets/alchemist-2020-2-clone.gif){width="300px"}
+
+1. Adjust **Fade blending** and **Expand mask** in the **Properties panel** to fine-tune how the cloned area blends with its surroundings.
+
+>[!NOTE]
+>
+> Avoid placing the source point close to the area you are cloning. If the source overlaps the problem area, the artefact can be cloned along with the clean content.
+
+## Working with multiple sources
+
+You can add multiple source points within a single Clone Stamp layer, each with its own position, rotation, and blending settings. This allows you to fix several different areas — or draw from several different clean regions — without stacking multiple layers.
+
+To add a new source, hold `Ctrl` (`Cmd` on macOS) and click a new area in the **2D view**. A new stamp entry appears beneath the Clone Stamp layer in the **Layers panel**.
+
+> 📸 SCREENSHOT [ID: clone-stamp-002]
+> Show: The Layers panel with a Clone Stamp layer expanded, showing three individual stamp entries nested beneath it
+> State: Clone Stamp layer expanded; three stamps visible with different source positions
+> Annotation: Arrow pointing to the nested stamp entries in the Layers panel
+
+Select any individual stamp entry in the **Layers panel** to adjust its parameters independently in the **Properties panel** — including its source position, rotation, and blending settings.
+
+>[!TIP]
+>
+> Use the **brush preview** in the **2D view** to see the stamp result before committing a stroke. This helps you verify that the source region matches the surrounding area before painting.
 
 ## Toolbar
 
@@ -104,16 +137,15 @@ To start using the Clone Stamp tool, click and drag over the problematic area in
 </td>
 <td width="83.33%" style="border: 0;" valign="top">
 
-While the Clone stamp layer is selected, a toolbar appears in the 2D view with additional controls.
+While a Clone Stamp layer is selected, a toolbar appears in the **2D view**.
 
-* Select either the <b>Brush tool </b>to add to the mask, or the <b>Erase tool </b>to remove from the mask.
+* Select **Brush tool** to add to the mask.
+* Select **Erase tool** to remove from the mask.
 * Set the size of the currently selected tool.
 * Access additional controls:
-  * <b>Brush tiling</b>:   
-    Toggle X and Y brush tiling.
-  * <b>Overlay:</b>  
-    Toggle whether the overlay is shown while hovering over the 2D view.
-* View 2D View controls.
+  * **Brush tiling**: Toggle X and Y brush tiling.
+  * **Overlay**: Toggle the overlay visibility while hovering over the 2D view.
+* View **2D view controls**.
 
 </td>
 </tr>
@@ -121,20 +153,18 @@ While the Clone stamp layer is selected, a toolbar appears in the 2D view with a
 
 >[!NOTE]
 >
-> Just like other Viewport toolbars, you can drag the handle at the top of the toolbar to reposition the toolbar inside the viewport, double-click the handle to switch between vertical and horizontal mode, or use the double chevron to hide or expand the toolbar.
-
-## Source Selection
-
-Use Ctrl + Click in the 2D View to add a new source. Adding a new source will create an additional stamp under the Clone Stamp layer in the <b>Layers panel</b>. You can control each stamp individually.
-
->[!NOTE]
->
-> It's usually a good idea to try avoid having the source point close to the area you're cloning over. If the source point is close to the problematic area, it's possible to clone the problematic area.
+> Like other viewport toolbars, you can drag the handle at the top of the toolbar to reposition it, double-click the handle to switch between vertical and horizontal layout, or use the double chevron to hide or expand it.
 
 ## Shortcuts
 
-| Action | Windows + Linux | MacOs |
+| Action | Windows + Linux | macOS |
 | --- | --- | --- |
-| Increase Brush Size | &#93; or Ctrl + Mouse Wheel | &#93; or Cmd + Mouse Wheel |
-| Decrease Brush Size | &#91; or Ctrl + Mouse Wheel | &#91; or Cmd + Mouse Wheel |
-| Set the source | Ctrl + Left click | Cmd + Left click |
+| Increase brush size | `]` or `Ctrl` + Mouse Wheel | `]` or `Cmd` + Mouse Wheel |
+| Decrease brush size | `[` or `Ctrl` + Mouse Wheel | `[` or `Cmd` + Mouse Wheel |
+| Set the source | `Ctrl` + Left click | `Cmd` + Left click |
+
+## Related
+
+* [Warp](./warp.md)
+* [Make it Tile](./make-it-tile.md)
+* [Image to Material](./image-to-material.md)

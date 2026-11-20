@@ -2,8 +2,6 @@
 user-guide-title: Substance 3D Sampler
 breadcrumb-title: Substance 3D Sampler
 user-guide-description: Substance 3D Sampler
-hide: false
-hold: true
 ---
 
 # Substance 3D Sampler {#using}
@@ -15,7 +13,6 @@ hold: true
   + [System requirements](/help/getting-started/system-requirements.md)
   + [Shortcuts](/help/getting-started/shortcuts.md)
   + [Importing Resources](/help/getting-started/importing-resources.md)
-  + [Report a bug](/help/getting-started/report-a-bug.md)
   + [Project Management](/help/getting-started/project-management.md)
   + Export{#export}
     + [Export overview](/help/getting-started/export/export.md)
@@ -110,6 +107,7 @@ hold: true
     + [Channels Generation](/help/filters/tools/channels-generation.md)
     + [Channel Switch](/help/filters/tools/channel-switch.md)
     + [Clone Stamp](/help/filters/tools/clone-stamp.md)
+    + {hide-from-toc}[Content-Aware Fill](/help/filters/tools/content-aware-fill.md)
     + [Crop tool](/help/filters/tools/crop-tool.md)
     + [Delight - AI Powered](/help/filters/tools/delight-ai-powered.md)
     + [Height to AO](/help/filters/tools/height-to-ao.md)
@@ -120,9 +118,10 @@ hold: true
     + [Multiangle To Material](/help/filters/tools/multiangle-to-material.md)
     + [Normal to Height](/help/filters/tools/normal-to-height.md)
     + [PBR Validate](/help/filters/tools/pbr-validate.md)
-    + [Perspective Correction](/help/filters/tools/perspective-correction.md)
+    + [Perspective Transform](/help/filters/tools/perspective-correction.md)
     + [Tiling](/help/filters/tools/tiling.md)
     + [Transform](/help/filters/tools/transform.md)
+    + {hide-from-toc}[Paint warp](/help/filters/tools/paint-warp.md)
     + [Warp](/help/filters/tools/warp.md)
     + [Warp Transform](/help/filters/tools/warp-transform.md)
     + [Upscale](/help/filters/tools/upscale.md)
@@ -149,6 +148,7 @@ hold: true
     + [Dust](/help/filters/wear-and-finish/dust.md)
     + [Erode](/help/filters/wear-and-finish/erode.md)
     + [Metal Finish](/help/filters/wear-and-finish/metal-finish.md)
+    + {hide-from-toc}[Wood Finish](/help/filters/wear-and-finish/wood-finish.md)
     + [Moss](/help/filters/wear-and-finish/moss.md)
     + [Oxidate](/help/filters/wear-and-finish/oxidate.md)
     + [Paint](/help/filters/wear-and-finish/paint.md)
@@ -189,6 +189,9 @@ hold: true
   + [Tajima Exporter plugin](/help/pipeline-and-integrations/tajima-exporter-plugin.md)
 + Technical Support{#technical-support}
   + [Technical Support overview](/help/technical-support/technical-support.md)
+  + {hide-from-toc}[Performance mode](/help/technical-support/performance-mode.md)
+  + {hide-from-toc}[Low specification mode](/help/technical-support/low-spec-mode.md)
+  + {hide-from-toc}[Report a bug](/help/getting-started/report-a-bug.md)
   + [Exporting the log file](/help/technical-support/exporting-the-log-file.md)
   + Configuration{#configuration}
     + [Configuration overview](/help/technical-support/configuration/configuration.md)
@@ -225,6 +228,7 @@ hold: true
   + [Release Notes overview](/help/release-notes/release-notes.md)
   + [All Changes](/help/release-notes/all-changes.md)
   + [Beta](/help/release-notes/beta-version.md)
+  + {hide-from-toc}[Version 6.1](/help/release-notes/version-6-1.md)
   + [Version 6.0](/help/release-notes/version-6-0.md)
   + [Version 5.1](/help/release-notes/version-5-1-substance-3d-sampler.md)
   + [Version 5.0](/help/release-notes/version-5-0-substance-3d-sampler.md)

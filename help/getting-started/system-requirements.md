@@ -10,6 +10,7 @@ helpx_tags: ''
 title: System requirements
 user-guide-description: ''
 user-guide-title: ''
+hold: true
 ---
 
 # Supported systems
@@ -23,6 +24,14 @@ Below is a list of hardware and systems supported by the application:
 > * 610.47
 >
 > We recommend avoiding use of these versions - ideally, use a more recent version, or, if no more recent version is available, use the previous version.
+
+>[!NOTE]
+>
+> If your hardware falls below the minimum system requirements, Sampler will automatically open in [Low specification mode](../technical-support/low-spec-mode.md), which limits some features.
+
+>[!TIP]
+>
+> If you want to improve Sampler’s performance, use [Performance mode](../technical-support/performance-mode.md) to turn off resource-intensive features.
 
 ## Windows
 
