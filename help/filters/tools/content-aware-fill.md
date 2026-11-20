@@ -7,7 +7,7 @@ description: Learn how to use the Content-Aware Fill filter in Substance 3D Samp
 
 <table>
   <tr>
-    <td><br><strong>In:</strong> Tools</td>
+    <td><img src="../../assets/Filters/S_ContentAwareFill_18_N_D.png" alt=""/><br><strong>In:</strong> Tools</td>
     <td>Description<br>Content-Aware fill makes it possible to seamlessly remove elements like dirt, text, or other unwanted objects from your materials.<br>In the forest floor example below, the stick stands out in the repeating pattern. With Content-Aware Fill, we’re able to remove the twig, making the repetition a little less noticeable. <br><br><img src="../../assets/content-aware-fill-before.png" alt=""/><br><em>Before removal</em><br><br><img src="../../assets/content-aware-fill-after.png" alt=""/><br><em>After removal</em></td>
   </tr>
 </table>

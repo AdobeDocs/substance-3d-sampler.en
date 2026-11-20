@@ -8,7 +8,7 @@ hold: true
 
 <table>
   <tr style="border: 0;">
-    <td style="border: 0;" valign="top"><img src="../../assets/metal-finish-filter-icon.png.img.png" alt=""/><br><strong>In:</strong> Wear and Finish</td>
+    <td style="border: 0;" valign="top"><img src="../../assets/Filters/S_Wood_18_N_D.png" alt=""/><br><strong>In:</strong> Wear and Finish</td>
     <td style="border: 0;" valign="top">Description<br>Add normal and roughness details to your material to add finishes generally associated with wood such as varnish, ceruse, or wood grain.<br><em>A plain fill color</em><strong><em> </em></strong><em>is given the appearance of wood by adding wood grain with the </em><strong><em>Wood Finish filter</em></strong><em>.</em><br><img src="../../assets/wood-finish-before.png" alt=""/><img src="../../assets/wood-finish-after.png" alt=""/></td>
   </tr>
 </table>
